@@ -8,37 +8,6 @@
 <channel id="HOYTV.hk"><display-name>[iCable] 77 HOY</display-name><icon src="https://i.imgur.com/NfVZPTT.png"/><url>https://hoy.tv</url></channel>
 
 #program
-<programme start="20250630000000 +0000" stop="20250630010000 +0000" channel="76"><title lang="zh">CGTN 時段[直播]</title></programme>
-<programme start="20250630010000 +0000" stop="20250630013000 +0000" channel="76"><title lang="zh">小矮人第2季</title></programme>
-<programme start="20250630013000 +0000" stop="20250630020000 +0000" channel="76"><title lang="zh">霍莉·霍比 第3季</title></programme>
-<programme start="20250630020000 +0000" stop="20250630023000 +0000" channel="76"><title lang="zh">Polly Pocket - 新系列 1</title></programme>
-<programme start="20250630023000 +0000" stop="20250630030000 +0000" channel="76"><title lang="zh">小恐龍可可奈 第2季</title></programme>
-<programme start="20250630030000 +0000" stop="20250630040000 +0000" channel="76"><title lang="zh">暖暖黃昏下[PG]</title><sub-title lang="zh">第19集</sub-title></programme>
-<programme start="20250630040000 +0000" stop="20250630050000 +0000" channel="76"><title lang="zh">凌雲志[PG]</title><sub-title lang="zh">第8集</sub-title></programme>
-<programme start="20250630050000 +0000" stop="20250630060000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20250630060000 +0000" stop="20250630070000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20250630070000 +0000" stop="20250630080000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20250630080000 +0000" stop="20250630083000 +0000" channel="76"><title lang="zh">小矮人第2季</title></programme>
-<programme start="20250630083000 +0000" stop="20250630090000 +0000" channel="76"><title lang="zh">霍莉·霍比 第3季</title></programme>
-<programme start="20250630090000 +0000" stop="20250630093000 +0000" channel="76"><title lang="zh">Polly Pocket - 新系列 1</title></programme>
-<programme start="20250630093000 +0000" stop="20250630100000 +0000" channel="76"><title lang="zh">小恐龍可可奈 第2季</title></programme>
-<programme start="20250630100000 +0000" stop="20250630110000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20250630110000 +0000" stop="20250630120000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20250630120000 +0000" stop="20250630121500 +0000" channel="76"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20250630121500 +0000" stop="20250630130000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20250630130000 +0000" stop="20250630140000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20250630140000 +0000" stop="20250630150000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20250630150000 +0000" stop="20250630151500 +0000" channel="76"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630151500 +0000" stop="20250630153000 +0000" channel="76"><title lang="zh">Green Touch</title></programme>
-<programme start="20250630153000 +0000" stop="20250630163000 +0000" channel="76"><title lang="zh">暖暖黃昏下[PG]</title><sub-title lang="zh">第19集</sub-title></programme>
-<programme start="20250630163000 +0000" stop="20250630173000 +0000" channel="76"><title lang="zh">凌雲志[PG]</title><sub-title lang="zh">第8集</sub-title></programme>
-<programme start="20250630173000 +0000" stop="20250630180000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20250630180000 +0000" stop="20250630190000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20250630190000 +0000" stop="20250630200000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20250630200000 +0000" stop="20250630210000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20250630210000 +0000" stop="20250630220000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20250630220000 +0000" stop="20250630230000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
-<programme start="20250630230000 +0000" stop="20250701000000 +0000" channel="76"><title lang="zh">CGTN 時段[直播]</title></programme>
 <programme start="20250701000000 +0000" stop="20250701010000 +0000" channel="76"><title lang="zh">CGTN 時段[直播]</title></programme>
 <programme start="20250701010000 +0000" stop="20250701013000 +0000" channel="76"><title lang="zh">小矮人第2季</title></programme>
 <programme start="20250701013000 +0000" stop="20250701020000 +0000" channel="76"><title lang="zh">霍莉·霍比 第3季</title></programme>
@@ -70,54 +39,34 @@
 <programme start="20250701210000 +0000" stop="20250701220000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
 <programme start="20250701220000 +0000" stop="20250701230000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
 <programme start="20250701230000 +0000" stop="20250702000000 +0000" channel="76"><title lang="zh">CGTN 時段[直播]</title></programme>
-<programme start="20250630000000 +0000" stop="20250630003000 +0000" channel="78"><title lang="zh">Cable 早晨[直播]</title></programme>
-<programme start="20250630003000 +0000" stop="20250630010000 +0000" channel="78"><title lang="zh">Cable 早晨</title></programme>
-<programme start="20250630010000 +0000" stop="20250630020000 +0000" channel="78"><title lang="zh">股市直播室[直播]</title></programme>
-<programme start="20250630020000 +0000" stop="20250630023000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20250630023000 +0000" stop="20250630030000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630030000 +0000" stop="20250630033000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630033000 +0000" stop="20250630040000 +0000" channel="78"><title lang="zh">家國天下</title></programme>
-<programme start="20250630040000 +0000" stop="20250630043000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20250630043000 +0000" stop="20250630050000 +0000" channel="78"><title lang="zh">午間新聞[直播]</title></programme>
-<programme start="20250630050000 +0000" stop="20250630053000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20250630053000 +0000" stop="20250630060000 +0000" channel="78"><title lang="zh">智‧創未來</title></programme>
-<programme start="20250630060000 +0000" stop="20250630063000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630063000 +0000" stop="20250630070000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630070000 +0000" stop="20250630073000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630073000 +0000" stop="20250630080000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630080000 +0000" stop="20250630083000 +0000" channel="78"><title lang="zh">股市直播室[直播]</title></programme>
-<programme start="20250630083000 +0000" stop="20250630090000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20250630090000 +0000" stop="20250630093000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630093000 +0000" stop="20250630100000 +0000" channel="78"><title lang="zh">股市直播室</title></programme>
-<programme start="20250630100000 +0000" stop="20250630103000 +0000" channel="78"><title lang="zh">手語新聞報道[直播]</title></programme>
-<programme start="20250630103000 +0000" stop="20250630104500 +0000" channel="78"><title lang="zh">六點半新聞報道[直播]</title></programme>
-<programme start="20250630104500 +0000" stop="20250630110000 +0000" channel="78"><title lang="zh">焦點財經[直播]</title><desc lang="zh">股市、樓市 環球財金焦點 央行動態、企業消息 全方位跟進</desc></programme>
-<programme start="20250630110000 +0000" stop="20250630115000 +0000" channel="78"><title lang="zh">7點直播室[直播]</title></programme>
-<programme start="20250630115000 +0000" stop="20250630120000 +0000" channel="78"><title lang="zh">28Hse特約 : 每日樓市</title></programme>
-<programme start="20250630120000 +0000" stop="20250630123000 +0000" channel="78"><title lang="zh">國際最前線[直播]</title></programme>
-<programme start="20250630123000 +0000" stop="20250630130000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
-<programme start="20250630130000 +0000" stop="20250630134500 +0000" channel="78"><title lang="zh">晚間直播室[直播]</title></programme>
-<programme start="20250630134500 +0000" stop="20250630140000 +0000" channel="78"><title lang="zh">焦點財經及28Hse特約:每日樓市</title></programme>
-<programme start="20250630140000 +0000" stop="20250630143000 +0000" channel="78"><title lang="zh">28Hse特約：家家有求</title><desc lang="zh">為求住得安心，每個家庭都會出盡法寶。有線新聞樓盤系列節目再添一員，《家家有求》剖析家居需要，為家庭觀眾介紹解決方法。樓盤主持與新聞主播每周暢談家居新知，由裝修設計物料，到日常家居保養、維修、新科技，以至日常家居種種疑難。</desc></programme>
-<programme start="20250630143000 +0000" stop="20250630150000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
-<programme start="20250630150000 +0000" stop="20250630153000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20250630153000 +0000" stop="20250630160000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20250630160000 +0000" stop="20250630163000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630163000 +0000" stop="20250630170000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630170000 +0000" stop="20250630173000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630173000 +0000" stop="20250630180000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630180000 +0000" stop="20250630183000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630183000 +0000" stop="20250630190000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630190000 +0000" stop="20250630193000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630193000 +0000" stop="20250630200000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630200000 +0000" stop="20250630203000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630203000 +0000" stop="20250630210000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630210000 +0000" stop="20250630213000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630213000 +0000" stop="20250630220000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630220000 +0000" stop="20250630223000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630223000 +0000" stop="20250630230000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
-<programme start="20250630230000 +0000" stop="20250630233000 +0000" channel="78"><title lang="zh">Cable 早晨[直播]</title></programme>
-<programme start="20250630233000 +0000" stop="20250701000000 +0000" channel="78"><title lang="zh">Cable 早晨</title></programme>
+<programme start="20250702000000 +0000" stop="20250702010000 +0000" channel="76"><title lang="zh">CGTN 時段[直播]</title></programme>
+<programme start="20250702010000 +0000" stop="20250702013000 +0000" channel="76"><title lang="zh">小矮人第2季</title></programme>
+<programme start="20250702013000 +0000" stop="20250702020000 +0000" channel="76"><title lang="zh">霍莉·霍比 第3季</title></programme>
+<programme start="20250702020000 +0000" stop="20250702023000 +0000" channel="76"><title lang="zh">Polly Pocket - 新系列 1</title></programme>
+<programme start="20250702023000 +0000" stop="20250702030000 +0000" channel="76"><title lang="zh">小恐龍可可奈 第2季</title></programme>
+<programme start="20250702030000 +0000" stop="20250702040000 +0000" channel="76"><title lang="zh">暖暖黃昏下[PG]</title><sub-title lang="zh">第21集</sub-title></programme>
+<programme start="20250702040000 +0000" stop="20250702050000 +0000" channel="76"><title lang="zh">凌雲志[PG]</title><sub-title lang="zh">第10集</sub-title></programme>
+<programme start="20250702050000 +0000" stop="20250702060000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20250702060000 +0000" stop="20250702070000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20250702070000 +0000" stop="20250702080000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20250702080000 +0000" stop="20250702083000 +0000" channel="76"><title lang="zh">小矮人第2季</title></programme>
+<programme start="20250702083000 +0000" stop="20250702090000 +0000" channel="76"><title lang="zh">霍莉·霍比 第3季</title></programme>
+<programme start="20250702090000 +0000" stop="20250702093000 +0000" channel="76"><title lang="zh">Polly Pocket - 新系列 1</title></programme>
+<programme start="20250702093000 +0000" stop="20250702100000 +0000" channel="76"><title lang="zh">小恐龍可可奈 第2季</title></programme>
+<programme start="20250702100000 +0000" stop="20250702110000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20250702110000 +0000" stop="20250702120000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20250702120000 +0000" stop="20250702121500 +0000" channel="76"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20250702121500 +0000" stop="20250702130000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20250702130000 +0000" stop="20250702140000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20250702140000 +0000" stop="20250702150000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20250702150000 +0000" stop="20250702151500 +0000" channel="76"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702151500 +0000" stop="20250702155000 +0000" channel="76"><title lang="zh">追夢</title></programme>
+<programme start="20250702155000 +0000" stop="20250702180000 +0000" channel="76"><title lang="zh">UEFA 歐洲國家盃女子足球賽 2025-冰島 對 芬蘭[直播]</title></programme>
+<programme start="20250702180000 +0000" stop="20250702184500 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20250702184500 +0000" stop="20250702210000 +0000" channel="76"><title lang="zh">UEFA 歐洲國家盃女子足球賽 2025-瑞士 對 挪威[直播]</title></programme>
+<programme start="20250702210000 +0000" stop="20250702220000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20250702220000 +0000" stop="20250702230000 +0000" channel="76"><title lang="zh">Bloomberg 時段[直播]</title></programme>
+<programme start="20250702230000 +0000" stop="20250703000000 +0000" channel="76"><title lang="zh">CGTN 時段[直播]</title></programme>
 <programme start="20250701000000 +0000" stop="20250701003000 +0000" channel="78"><title lang="zh">Cable 早晨[直播]</title></programme>
 <programme start="20250701003000 +0000" stop="20250701010000 +0000" channel="78"><title lang="zh">Cable 早晨</title></programme>
 <programme start="20250701010000 +0000" stop="20250701013000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
@@ -166,41 +115,54 @@
 <programme start="20250701223000 +0000" stop="20250701230000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
 <programme start="20250701230000 +0000" stop="20250701233000 +0000" channel="78"><title lang="zh">Cable 早晨[直播]</title></programme>
 <programme start="20250701233000 +0000" stop="20250702000000 +0000" channel="78"><title lang="zh">Cable 早晨</title></programme>
-<programme start="20250630000000 +0000" stop="20250630010000 +0000" channel="HOYTV.hk"><title lang="zh">真心假結婚[PG]</title><sub-title lang="zh">第57集</sub-title></programme>
-<programme start="20250630010000 +0000" stop="20250630013000 +0000" channel="HOYTV.hk"><title lang="zh">一味傍身 世界通行</title><desc lang="zh">最具代表性的香港味道是什麼？蜜汁叉燒、紅燒乳鴿、乾炒牛河、菠蘿包、咖喱魚蛋、生滾靚粥？ 款款地道港式美味，絕對是只此一家，就算走勻全世界，都不及香港正宗。自細被美味包圍的香港人，嘴刁程度絕對達至宇宙級! 當大家去到世界各地，環球美食，都不一定能夠得到</desc></programme>
-<programme start="20250630013000 +0000" stop="20250630020000 +0000" channel="HOYTV.hk"><title lang="zh">你得我得大家得</title><desc lang="zh">今集你得我得大家得，倩揚繼續跟大家分享健康飲食心，教大家煮豐富又健康的早餐！還請來星級嘉賓向海嵐同大家見面傾偈，原來ANNE都有一套過人瘦身方法！除了食得健康，食得醒，瘦身點少得運動，由今集開始我們請來瑜伽導師教大家修線條的動作。</desc></programme>
-<programme start="20250630020000 +0000" stop="20250630023000 +0000" channel="HOYTV.hk"><title lang="zh">一日打工仔</title></programme>
-<programme start="20250630023000 +0000" stop="20250630033000 +0000" channel="HOYTV.hk"><title lang="zh">九重紫[PG]</title><sub-title lang="zh">第20集</sub-title></programme>
-<programme start="20250630033000 +0000" stop="20250630043000 +0000" channel="HOYTV.hk"><title lang="zh">人生加油站[PG]</title><sub-title lang="zh">第25集</sub-title></programme>
-<programme start="20250630043000 +0000" stop="20250630050000 +0000" channel="HOYTV.hk"><title lang="zh">午間新聞[直播]</title></programme>
-<programme start="20250630050000 +0000" stop="20250630053000 +0000" channel="HOYTV.hk"><title lang="zh">深圳地圖 2</title><desc lang="zh">第十四集有凱晴去到蛇口海上世界，品嚐一餐超值斧頭牌盛宴，新店更用上美國名牌進口牛，保證質素，最重要是價錢絕對吸引。原來蛇口這邊有咖啡一條街，唔少韓式或工業風設計小店進駐，令蛇口別有風味。而樂翊榆去到寶安區，參觀國內最新車展，認識內地科技神級發展，又去</desc></programme>
-<programme start="20250630053000 +0000" stop="20250630060000 +0000" channel="HOYTV.hk"><title lang="zh">求生記</title><desc lang="zh">主題：預言夢《求生記》最後一集請來解夢大師夢妮妲、STEM Sir 鄧文瀚，從神秘與科學兩大角度，解構有關地震的預言夢。嘉賓阮舞倫分享自己對2025年的預言有甚麼看法，至於求生防災導師張清風親自教你打造居家求生背包，應對突發狀況。由夢境出發，走到現實</desc></programme>
-<programme start="20250630060000 +0000" stop="20250630063000 +0000" channel="HOYTV.hk"><title lang="zh">日本命力呈獻 : 健康關注組</title><desc lang="zh">食慾不振，持續腹痛、肚瀉、體重下降，可能是常見的腸胃炎，但亦有可能是患上一種罕見病「克隆氏症」，患者會無時無刻都有肚痛與肚瀉的感覺┌甚至一天要上十多次廁所，外出的時候，更要規劃上廁所的路線，今集就由腸胃肝臟科專科醫生為大家講解，更邀請克隆氏症患者分享</desc></programme>
-<programme start="20250630063000 +0000" stop="20250630070000 +0000" channel="HOYTV.hk"><title lang="zh">詹姆士出走料理</title></programme>
-<programme start="20250630070000 +0000" stop="20250630073000 +0000" channel="HOYTV.hk"><title lang="zh">學人去非洲</title><desc lang="zh">NGORONGORO超豪華酒店 換上馬賽族服飾袁學謙到坦桑尼亞NGORONGORO超豪華酒店，介紹非洲旅遊注意地方，到正式進入恩戈羅保護區欣賞動物大遷徙，非洲大象、山貓、水牛、斑馬、角馬、犀牛等近在眼前，再享受一餐野外午餐。雖然受大雨影響改變行程，不</desc></programme>
-<programme start="20250630073000 +0000" stop="20250630080000 +0000" channel="HOYTV.hk"><title lang="zh">大宋宮詞[PG]</title><sub-title lang="zh">第42集</sub-title></programme>
-<programme start="20250630080000 +0000" stop="20250630083000 +0000" channel="HOYTV.hk"><title lang="zh">單車俠</title></programme>
-<programme start="20250630083000 +0000" stop="20250630090000 +0000" channel="HOYTV.hk"><title lang="zh">新乞嗤大魔王</title></programme>
-<programme start="20250630090000 +0000" stop="20250630093000 +0000" channel="HOYTV.hk"><title lang="zh">寶可夢 旅途</title></programme>
-<programme start="20250630093000 +0000" stop="20250630100000 +0000" channel="HOYTV.hk"><title lang="zh">友夫日記</title></programme>
-<programme start="20250630100000 +0000" stop="20250630103000 +0000" channel="HOYTV.hk"><title lang="zh">夠鐘食晏 2</title><desc lang="zh">旺角區應該是不少人工餘、課餘時間會去打滾的地方。這裏當然有很多種類的食肆，不論是粥粉麵飯、外國菜，還是小食，都應有盡有。這集我們就嚐嚐大大小小不同地方的菜式。</desc></programme>
-<programme start="20250630103000 +0000" stop="20250630110000 +0000" channel="HOYTV.hk"><title lang="zh">世食之味</title></programme>
-<programme start="20250630110000 +0000" stop="20250630115000 +0000" channel="HOYTV.hk"><title lang="zh">7點直播室[直播]</title></programme>
-<programme start="20250630115000 +0000" stop="20250630120000 +0000" channel="HOYTV.hk"><title lang="zh">28Hse特約 : 每日樓市</title></programme>
-<programme start="20250630120000 +0000" stop="20250630123000 +0000" channel="HOYTV.hk"><title lang="zh">一線搜查</title></programme>
-<programme start="20250630123000 +0000" stop="20250630130000 +0000" channel="HOYTV.hk"><title lang="zh">好好生活</title></programme>
-<programme start="20250630130000 +0000" stop="20250630133000 +0000" channel="HOYTV.hk"><title lang="zh">日本命力呈獻 : 健康關注組</title><desc lang="zh">濕疹，令人困擾。不但痕癢，如果生到手與臉，更令患者難堪。有人以為濕疹多數在春天發作，可是因為香港潮濕，不少人夏天發作得更厲害。按中醫的學說，因為體質的因素，春夏秋冬四季都可能濕疹發作。很多人用盡辦法都趕不走濕疹，今集節目請齊中西醫，為你提供解決方案。</desc></programme>
-<programme start="20250630133000 +0000" stop="20250630140000 +0000" channel="HOYTV.hk"><title lang="zh">詹姆士出走料理</title></programme>
-<programme start="20250630140000 +0000" stop="20250630150000 +0000" channel="HOYTV.hk"><title lang="zh">九重紫[PG]</title><sub-title lang="zh">第21集</sub-title></programme>
-<programme start="20250630150000 +0000" stop="20250630153000 +0000" channel="HOYTV.hk"><title lang="zh">有線新聞[直播]</title></programme>
-<programme start="20250630153000 +0000" stop="20250630154500 +0000" channel="HOYTV.hk"><title lang="zh">娛樂頭條 E-news Headline[PG]</title></programme>
-<programme start="20250630154500 +0000" stop="20250630161500 +0000" channel="HOYTV.hk"><title lang="zh">一味傍身 世界通行</title><desc lang="zh">最具代表性的香港味道是什麼？蜜汁叉燒、紅燒乳鴿、乾炒牛河、菠蘿包、咖喱魚蛋、生滾靚粥？ 款款地道港式美味，絕對是只此一家，就算走勻全世界，都不及香港正宗。自細被美味包圍的香港人，嘴刁程度絕對達至宇宙級! 當大家去到世界各地，環球美食，都不一定能夠得到</desc></programme>
-<programme start="20250630161500 +0000" stop="20250630164500 +0000" channel="HOYTV.hk"><title lang="zh">夠鐘食晏 2</title><desc lang="zh">旺角區應該是不少人工餘、課餘時間會去打滾的地方。這裏當然有很多種類的食肆，不論是粥粉麵飯、外國菜，還是小食，都應有盡有。這集我們就嚐嚐大大小小不同地方的菜式。</desc></programme>
-<programme start="20250630164500 +0000" stop="20250630170000 +0000" channel="HOYTV.hk"><title lang="zh">娛樂頭條 E-news Headline[PG]</title></programme>
-<programme start="20250630170000 +0000" stop="20250630190000 +0000" channel="HOYTV.hk"><title lang="zh">HOY 動音樂</title></programme>
-<programme start="20250630190000 +0000" stop="20250630220000 +0000" channel="HOYTV.hk"><title lang="zh">魚樂無限</title></programme>
-<programme start="20250630220000 +0000" stop="20250630230000 +0000" channel="HOYTV.hk"><title lang="zh">人生加油站[PG]</title><sub-title lang="zh">第25集</sub-title></programme>
-<programme start="20250630230000 +0000" stop="20250701000000 +0000" channel="HOYTV.hk"><title lang="zh">雲襄傳[PG]</title><sub-title lang="zh">第13集</sub-title></programme>
+<programme start="20250702000000 +0000" stop="20250702003000 +0000" channel="78"><title lang="zh">Cable 早晨[直播]</title></programme>
+<programme start="20250702003000 +0000" stop="20250702010000 +0000" channel="78"><title lang="zh">Cable 早晨</title></programme>
+<programme start="20250702010000 +0000" stop="20250702020000 +0000" channel="78"><title lang="zh">股市直播室[直播]</title></programme>
+<programme start="20250702020000 +0000" stop="20250702023000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20250702023000 +0000" stop="20250702030000 +0000" channel="78"><title lang="zh">議員同你傾[直播]</title></programme>
+<programme start="20250702030000 +0000" stop="20250702033000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702033000 +0000" stop="20250702040000 +0000" channel="78"><title lang="zh">智‧創未來</title></programme>
+<programme start="20250702040000 +0000" stop="20250702043000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20250702043000 +0000" stop="20250702050000 +0000" channel="78"><title lang="zh">午間新聞[直播]</title></programme>
+<programme start="20250702050000 +0000" stop="20250702053000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20250702053000 +0000" stop="20250702060000 +0000" channel="78"><title lang="zh">28Hse特約：家家有求</title><desc lang="zh">為求住得安心，每個家庭都會出盡法寶。有線新聞樓盤系列節目再添一員，《家家有求》剖析家居需要，為家庭觀眾介紹解決方法。樓盤主持與新聞主播每周暢談家居新知，由裝修設計物料，到日常家居保養、維修、新科技，以至日常家居種種疑難。</desc></programme>
+<programme start="20250702060000 +0000" stop="20250702063000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702063000 +0000" stop="20250702070000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702070000 +0000" stop="20250702073000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702073000 +0000" stop="20250702080000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702080000 +0000" stop="20250702083000 +0000" channel="78"><title lang="zh">股市直播室[直播]</title></programme>
+<programme start="20250702083000 +0000" stop="20250702090000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20250702090000 +0000" stop="20250702093000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702093000 +0000" stop="20250702100000 +0000" channel="78"><title lang="zh">股市直播室</title></programme>
+<programme start="20250702100000 +0000" stop="20250702103000 +0000" channel="78"><title lang="zh">手語新聞報道[直播]</title></programme>
+<programme start="20250702103000 +0000" stop="20250702104500 +0000" channel="78"><title lang="zh">六點半新聞報道[直播]</title></programme>
+<programme start="20250702104500 +0000" stop="20250702110000 +0000" channel="78"><title lang="zh">焦點財經[直播]</title><desc lang="zh">股市、樓市 環球財金焦點 央行動態、企業消息 全方位跟進</desc></programme>
+<programme start="20250702110000 +0000" stop="20250702115000 +0000" channel="78"><title lang="zh">7點直播室[直播]</title></programme>
+<programme start="20250702115000 +0000" stop="20250702120000 +0000" channel="78"><title lang="zh">28Hse特約 : 每日樓市</title></programme>
+<programme start="20250702120000 +0000" stop="20250702123000 +0000" channel="78"><title lang="zh">國際最前線[直播]</title></programme>
+<programme start="20250702123000 +0000" stop="20250702130000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
+<programme start="20250702130000 +0000" stop="20250702134500 +0000" channel="78"><title lang="zh">晚間直播室[直播]</title></programme>
+<programme start="20250702134500 +0000" stop="20250702140000 +0000" channel="78"><title lang="zh">焦點財經及28Hse特約:每日樓市</title></programme>
+<programme start="20250702140000 +0000" stop="20250702143000 +0000" channel="78"><title lang="zh">家國天下</title></programme>
+<programme start="20250702143000 +0000" stop="20250702150000 +0000" channel="78"><title lang="zh">一線搜查</title></programme>
+<programme start="20250702150000 +0000" stop="20250702153000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20250702153000 +0000" stop="20250702160000 +0000" channel="78"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20250702160000 +0000" stop="20250702163000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702163000 +0000" stop="20250702170000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702170000 +0000" stop="20250702173000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702173000 +0000" stop="20250702180000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702180000 +0000" stop="20250702183000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702183000 +0000" stop="20250702190000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702190000 +0000" stop="20250702193000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702193000 +0000" stop="20250702200000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702200000 +0000" stop="20250702203000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702203000 +0000" stop="20250702210000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702210000 +0000" stop="20250702213000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702213000 +0000" stop="20250702220000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702220000 +0000" stop="20250702223000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702223000 +0000" stop="20250702230000 +0000" channel="78"><title lang="zh">有線新聞</title></programme>
+<programme start="20250702230000 +0000" stop="20250702233000 +0000" channel="78"><title lang="zh">Cable 早晨[直播]</title></programme>
+<programme start="20250702233000 +0000" stop="20250703000000 +0000" channel="78"><title lang="zh">Cable 早晨</title></programme>
 <programme start="20250701000000 +0000" stop="20250701010000 +0000" channel="HOYTV.hk"><title lang="zh">真心假結婚[PG]</title><sub-title lang="zh">第58集</sub-title></programme>
 <programme start="20250701010000 +0000" stop="20250701013000 +0000" channel="HOYTV.hk"><title lang="zh">一味傍身 世界通行</title><desc lang="zh">今集「一味傍身 世界通行」由Chef4的高級食材供應商總廚李偉強(強哥)、中菜行政總廚陳超平(Stanley)帶領大家搜尋最美味茶記名物：豬膶米及西多士。 鮮、香、爽、嫩，一片豬膶可以紅足65年，成為一間名店鎮店之寶。看似簡單的焯豬膶，切的厚薄度、</desc></programme>
 <programme start="20250701013000 +0000" stop="20250701020000 +0000" channel="HOYTV.hk"><title lang="zh">你得我得大家得</title><desc lang="zh">今集倩揚會突擊我們的瘦身素人代表Dede家居，看看她有無跟足方法努力keep fit。不想誤信坊間瘦身方法，想食得正確，一定要問問專家，我們有專業營養師解答大家難題！星級健康煮場，請到恩愛非常的鄧健泓及太太石詠莉，講講大家健美之道。</desc></programme>
@@ -235,5 +197,41 @@
 <programme start="20250701190000 +0000" stop="20250701220000 +0000" channel="HOYTV.hk"><title lang="zh">魚樂無限</title></programme>
 <programme start="20250701220000 +0000" stop="20250701230000 +0000" channel="HOYTV.hk"><title lang="zh">大黃蜂</title></programme>
 <programme start="20250701230000 +0000" stop="20250702000000 +0000" channel="HOYTV.hk"><title lang="zh">雲襄傳[PG]</title><sub-title lang="zh">第14集</sub-title></programme>
+<programme start="20250702000000 +0000" stop="20250702010000 +0000" channel="HOYTV.hk"><title lang="zh">真心假結婚[PG]</title><sub-title lang="zh">第59集</sub-title></programme>
+<programme start="20250702010000 +0000" stop="20250702013000 +0000" channel="HOYTV.hk"><title lang="zh">一味傍身 世界通行</title><desc lang="zh">要數最受歡迎街頭小食，非咖喱魚蛋莫屬，曾經有調查指香港人每日食足375萬粒 ! 一粒粒金金黃黃魚蛋，再蘸上惹味十足的香濃咖喱汁，令人忍不住一串接一串大快朵頤，更令不少人賺到一桶又一桶金！圓碌碌、脹卜卜的雞蛋仔陪伴每位香港人成長， 每粒香脆蛋殼包裹濕潤</desc></programme>
+<programme start="20250702013000 +0000" stop="20250702020000 +0000" channel="HOYTV.hk"><title lang="zh">你得我得大家得</title><desc lang="zh">你得我得大家得，今集倩揚就以惹味雞煲招呼星級嘉賓喬寶寶，減肥都可以食雞煲？你沒有聽錯，原來只要吃得有技巧，吃火鍋都無有！營養師繼續教大家如何食得聰明，瘦得健康。加上勤練瑜伽就只會fit不會fat！素人Dede繼續請教倩揚瘦身之道...</desc></programme>
+<programme start="20250702020000 +0000" stop="20250702023000 +0000" channel="HOYTV.hk"><title lang="zh">世食之味</title></programme>
+<programme start="20250702023000 +0000" stop="20250702033000 +0000" channel="HOYTV.hk"><title lang="zh">九重紫[PG]</title><sub-title lang="zh">第22集</sub-title></programme>
+<programme start="20250702033000 +0000" stop="20250702043000 +0000" channel="HOYTV.hk"><title lang="zh">人生加油站[PG]</title><sub-title lang="zh">第26集</sub-title></programme>
+<programme start="20250702043000 +0000" stop="20250702050000 +0000" channel="HOYTV.hk"><title lang="zh">午間新聞[直播]</title></programme>
+<programme start="20250702050000 +0000" stop="20250702053000 +0000" channel="HOYTV.hk"><title lang="zh">一線搜查</title></programme>
+<programme start="20250702053000 +0000" stop="20250702060000 +0000" channel="HOYTV.hk"><title lang="zh">好好生活</title></programme>
+<programme start="20250702060000 +0000" stop="20250702063000 +0000" channel="HOYTV.hk"><title lang="zh">日本命力呈獻 : 健康關注組</title><desc lang="zh">心律不正，心臟向你提出死亡警號！心律不正其實包括了不同類型的不正常心跳。是否每種不正常心跳，代表不同類型的心臟病呢？有些個案，醫生會建議病人植入心臟除顫器，這種救命儀器，是怎樣令病人回復正常生活？</desc></programme>
+<programme start="20250702063000 +0000" stop="20250702070000 +0000" channel="HOYTV.hk"><title lang="zh">詹姆士出走料理</title></programme>
+<programme start="20250702070000 +0000" stop="20250702073000 +0000" channel="HOYTV.hk"><title lang="zh">留港開餐100強</title><desc lang="zh">新開在啟德的高級中菜館，大廚以求變精神配合新手法和不同元素，在傳統中菜的基礎上創造新滋味，成為當區人氣店；這間位於銅鑼灣的餐廳帶大家重新認識印度菜，風味多變的精緻菜式，華麗的室內設計，讓你像印度皇室般享用美食；融合了獅城風味的歐陸菜，新加坡籍主廚用本</desc></programme>
+<programme start="20250702073000 +0000" stop="20250702080000 +0000" channel="HOYTV.hk"><title lang="zh">大宋宮詞[PG]</title><sub-title lang="zh">第44集</sub-title></programme>
+<programme start="20250702080000 +0000" stop="20250702083000 +0000" channel="HOYTV.hk"><title lang="zh">單車俠</title></programme>
+<programme start="20250702083000 +0000" stop="20250702090000 +0000" channel="HOYTV.hk"><title lang="zh">新乞嗤大魔王</title></programme>
+<programme start="20250702090000 +0000" stop="20250702093000 +0000" channel="HOYTV.hk"><title lang="zh">寶可夢 旅途</title></programme>
+<programme start="20250702093000 +0000" stop="20250702100000 +0000" channel="HOYTV.hk"><title lang="zh">友夫日記</title></programme>
+<programme start="20250702100000 +0000" stop="20250702103000 +0000" channel="HOYTV.hk"><title lang="zh">夠鐘食晏 2</title><desc lang="zh">在尖沙咀一條只有260米長的亞士厘道，就已經有超過幾十間餐廳，今集主持就為大家去其中四間試食。當中包括由本地咖啡品牌發展出來的餐廳、主打各式炒蟹的中菜館、人氣韓式食店，和洋溢濃厚度假風情的泰式食肆，實在令人眼花撩亂！</desc></programme>
+<programme start="20250702103000 +0000" stop="20250702110000 +0000" channel="HOYTV.hk"><title lang="zh">世食之味</title></programme>
+<programme start="20250702110000 +0000" stop="20250702115000 +0000" channel="HOYTV.hk"><title lang="zh">7點直播室[直播]</title></programme>
+<programme start="20250702115000 +0000" stop="20250702120000 +0000" channel="HOYTV.hk"><title lang="zh">28Hse特約 : 每日樓市</title></programme>
+<programme start="20250702120000 +0000" stop="20250702123000 +0000" channel="HOYTV.hk"><title lang="zh">一線搜查</title></programme>
+<programme start="20250702123000 +0000" stop="20250702130000 +0000" channel="HOYTV.hk"><title lang="zh">好好生活</title></programme>
+<programme start="20250702130000 +0000" stop="20250702133000 +0000" channel="HOYTV.hk"><title lang="zh">日本命力呈獻 : 健康關注組</title><desc lang="zh">傷風感冒會喉嚨痛，很多時候更會出現聲沙情況，所以聲沙呢個情況，而經常成日用把聲嘅人，好似我地啦，老師、歌星，都好易聲沙聲音沙啞，聽起來覺得粗糙、不清晰，都是因為聲帶發聲的時候，出現了異常變化，可能是聲帶發炎、結節、息肉，最嚴重可能因為有肺癌！</desc></programme>
+<programme start="20250702133000 +0000" stop="20250702140000 +0000" channel="HOYTV.hk"><title lang="zh">詹姆士出走料理</title></programme>
+<programme start="20250702140000 +0000" stop="20250702150000 +0000" channel="HOYTV.hk"><title lang="zh">九重紫[PG]</title><sub-title lang="zh">第23集</sub-title></programme>
+<programme start="20250702150000 +0000" stop="20250702153000 +0000" channel="HOYTV.hk"><title lang="zh">有線新聞[直播]</title></programme>
+<programme start="20250702153000 +0000" stop="20250702154500 +0000" channel="HOYTV.hk"><title lang="zh">娛樂頭條 E-news Headline[PG]</title></programme>
+<programme start="20250702154500 +0000" stop="20250702161500 +0000" channel="HOYTV.hk"><title lang="zh">一味傍身 世界通行</title><desc lang="zh">要數最受歡迎街頭小食，非咖喱魚蛋莫屬，曾經有調查指香港人每日食足375萬粒 ! 一粒粒金金黃黃魚蛋，再蘸上惹味十足的香濃咖喱汁，令人忍不住一串接一串大快朵頤，更令不少人賺到一桶又一桶金！圓碌碌、脹卜卜的雞蛋仔陪伴每位香港人成長， 每粒香脆蛋殼包裹濕潤</desc></programme>
+<programme start="20250702161500 +0000" stop="20250702164500 +0000" channel="HOYTV.hk"><title lang="zh">夠鐘食晏 2</title><desc lang="zh">在尖沙咀一條只有260米長的亞士厘道，就已經有超過幾十間餐廳，今集主持就為大家去其中四間試食。當中包括由本地咖啡品牌發展出來的餐廳、主打各式炒蟹的中菜館、人氣韓式食店，和洋溢濃厚度假風情的泰式食肆，實在令人眼花撩亂！</desc></programme>
+<programme start="20250702164500 +0000" stop="20250702170000 +0000" channel="HOYTV.hk"><title lang="zh">娛樂頭條 E-news Headline[PG]</title></programme>
+<programme start="20250702170000 +0000" stop="20250702190000 +0000" channel="HOYTV.hk"><title lang="zh">HOY 動音樂</title></programme>
+<programme start="20250702190000 +0000" stop="20250702220000 +0000" channel="HOYTV.hk"><title lang="zh">魚樂無限</title></programme>
+<programme start="20250702220000 +0000" stop="20250702230000 +0000" channel="HOYTV.hk"><title lang="zh">人生加油站[PG]</title><sub-title lang="zh">第26集</sub-title></programme>
+<programme start="20250702230000 +0000" stop="20250703000000 +0000" channel="HOYTV.hk"><title lang="zh">雲襄傳[PG]</title><sub-title lang="zh">第15集</sub-title></programme>
 </tv>
+
 
