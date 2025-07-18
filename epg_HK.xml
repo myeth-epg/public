@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv date="20250511080002 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_HK.xml">
  
-<channel id="368333"><display-name>[myTV SUPER] 504 Animax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="368335"><display-name>[myTV SUPER] 87 亞洲劇台</display-name><icon src="https://i.imgur.com/wqtN7mH.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="368376"><display-name>[myTV SUPER] 01 SUPER FREE</display-name><icon src="https://i.imgur.com/E1vd9UY.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="368365"><display-name>[myTV SUPER] 502 AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="394087"><display-name>[myTV SUPER] 28 AI智慧賽馬</display-name><url>https://mytvsuper.com</url></channel>
-<channel id="368370"><display-name>Arirang TV</display-name><url>https://mytvsuper.com</url></channel>
-<channel id="368375"><display-name>中央電視台綜合頻道 (港澳版)</display-name><url>https://mytvsuper.com</url></channel>
-<channel id="368371"><display-name>[myTV SUPER] 203 天映經典頻道</display-name><icon src="https://i.imgur.com/1VhXilw.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="368377"><display-name>亞洲新聞台</display-name><url>https://mytvsuper.com</url></channel>
-<channel id="368373"><display-name>DW</display-name><url>https://mytvsuper.com</url></channel>
-<channel id="368347"><display-name>CGTN (中國環球電視網)記錄頻道</display-name><url>https://mytvsuper.com</url></channel>
-<channel id="368346"><display-name>CGTN (中國環球電視網)英語頻道</display-name><url>https://mytvsuper.com</url></channel>
+<channel id="Animax.hk"><display-name>[myTV SUPER] 504 Animax</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="AsianDrama.hk"><display-name>[myTV SUPER] 87 亞洲劇台</display-name><icon src="https://i.imgur.com/wqtN7mH.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="AsianVariety.hk"><display-name>SUPER FREE</display-name><icon src="https://i.imgur.com/E1vd9UY.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="AXN.hk"><display-name>[myTV SUPER] 502 AXN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="C28"><display-name>[myTV SUPER] 28 AI智慧賽馬</display-name><url>https://mytvsuper.com</url></channel>
+<channel id="CARI"><display-name>Arirang TV</display-name><url>https://mytvsuper.com</url></channel>
+<channel id="CC1"><display-name>中央電視台綜合頻道 (港澳版)</display-name><url>https://mytvsuper.com</url></channel>
+<channel id="CCM.hk"><display-name>[myTV SUPER] 203 天映經典頻道</display-name><icon src="https://i.imgur.com/1VhXilw.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="CCNA"><display-name>亞洲新聞台</display-name><url>https://mytvsuper.com</url></channel>
+<channel id="CDW1"><display-name>DW</display-name><url>https://mytvsuper.com</url></channel>
+<channel id="CGD"><display-name>CGTN (中國環球電視網)記錄頻道</display-name><url>https://mytvsuper.com</url></channel>
+<channel id="CGE"><display-name>CGTN (中國環球電視網)英語頻道</display-name><url>https://mytvsuper.com</url></channel>
 <channel id="ChinaMovieChannel.cn"><display-name>China Movie Channel</display-name><icon src="https://i.imgur.com/9fKBR99.png"/><url>https://mytvsuper.com</url></channel>
 <channel id="ChineseDrama.hk"><display-name>[myTV SUPER] 89 華語劇台</display-name><icon src="https://i.imgur.com/OD1dGmg.png"/><url>https://mytvsuper.com</url></channel>
 <channel id="ChineseOperaChannel.hk"><display-name>[myTV SUPER] 98 戲曲台</display-name><icon src="https://i.imgur.com/S9rAq4T.png"/><url>https://mytvsuper.com</url></channel>
@@ -26,28 +26,28 @@
 <channel id="FBX"><display-name>FashionBox</display-name><url>https://mytvsuper.com</url></channel>
 <channel id="France24English.fr"><display-name>France 24</display-name><icon src="https://i.imgur.com/B76eSg2.png"/><url>https://mytvsuper.com</url></channel>
 <channel id="GlobalTrekker.sg"><display-name>Global Trekker</display-name><icon src="https://i.imgur.com/5nlmJIw.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="368358"><display-name>[myTV SUPER] 80 黃金翡翠台</display-name><icon src="https://i.imgur.com/lPYxsUr.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="GoldenJade.hk"><display-name>[myTV SUPER] 80 黃金翡翠台</display-name><icon src="https://i.imgur.com/lPYxsUr.png"/><url>https://mytvsuper.com</url></channel>
 <channel id="HandsUpChannel.hk"><display-name>SUPER Kids Channel</display-name><icon src="https://i.imgur.com/5JXsWbh.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="368361"><display-name>[myTV SUPER] 82 TVB Plus</display-name><icon src="https://i.imgur.com/lvxtaoM.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="368361"><display-name>[myTV SUPER] 82 TVB Plus (1080p-H265)</display-name><icon src="https://i.imgur.com/lvxtaoM.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="368361"><display-name>[myTV SUPER] 82 TVB Plus (720p)</display-name><icon src="https://i.imgur.com/lvxtaoM.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="368361"><display-name>[myTV SUPER] 82 TVB Plus (字幕)</display-name><icon src="https://i.imgur.com/lvxtaoM.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="271945"><display-name>[myTV SUPER] 81 翡翠台</display-name><icon src="https://i.imgur.com/nhsx7sa.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="271945"><display-name>[myTV SUPER] 81 翡翠台 (1080p-H265)</display-name><icon src="https://i.imgur.com/nhsx7sa.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="271945"><display-name>[myTV SUPER] 81 翡翠台 (1080p-H265)</display-name><icon src="https://i.imgur.com/nhsx7sa.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="271945"><display-name>[myTV SUPER] 81 翡翠台 (720p)</display-name><icon src="https://i.imgur.com/nhsx7sa.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="271945"><display-name>[myTV SUPER] 81 翡翠台 4K</display-name><icon src="https://i.imgur.com/nhsx7sa.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="271945"><display-name>[myTV SUPER] 81 翡翠台(字幕a)</display-name><icon src="https://i.imgur.com/nhsx7sa.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="271945"><display-name>[myTV SUPER] 81 翡翠台(字幕b)</display-name><icon src="https://i.imgur.com/nhsx7sa.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="J2.hk"><display-name>[myTV SUPER] 82 TVB Plus</display-name><icon src="https://i.imgur.com/lvxtaoM.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="J2.hk"><display-name>[myTV SUPER] 82 TVB Plus (1080p-H265)</display-name><icon src="https://i.imgur.com/lvxtaoM.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="J2.hk"><display-name>[myTV SUPER] 82 TVB Plus (720p)</display-name><icon src="https://i.imgur.com/lvxtaoM.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="J2.hk"><display-name>[myTV SUPER] 82 TVB Plus (字幕)</display-name><icon src="https://i.imgur.com/lvxtaoM.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="Jade.hk"><display-name>[myTV SUPER] 81 翡翠台</display-name><icon src="https://i.imgur.com/nhsx7sa.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="Jade.hk"><display-name>[myTV SUPER] 81 翡翠台 (1080p-H265)</display-name><icon src="https://i.imgur.com/nhsx7sa.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="Jade.hk"><display-name>[myTV SUPER] 81 翡翠台 (1080p-H265)</display-name><icon src="https://i.imgur.com/nhsx7sa.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="Jade.hk"><display-name>[myTV SUPER] 81 翡翠台 (720p)</display-name><icon src="https://i.imgur.com/nhsx7sa.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="Jade.hk"><display-name>[myTV SUPER] 81 翡翠台 4K</display-name><icon src="https://i.imgur.com/nhsx7sa.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="Jade.hk"><display-name>[myTV SUPER] 81 翡翠台(字幕a)</display-name><icon src="https://i.imgur.com/nhsx7sa.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="Jade.hk"><display-name>[myTV SUPER] 81 翡翠台(字幕b)</display-name><icon src="https://i.imgur.com/nhsx7sa.png"/><url>https://mytvsuper.com</url></channel>
 <channel id="KIX.hk"><display-name>KIX</display-name><icon src="https://i.imgur.com/zWcUAdb.png"/><url>https://mytvsuper.com</url></channel>
 <channel id="LoveNature4K.ca"><display-name>Love Nature 4K</display-name><icon src="https://i.imgur.com/JEDlYlh.png"/><url>https://mytvsuper.com</url></channel>
 <channel id="LoveNature.ca"><display-name>[myTV SUPER] 402 Love Nature HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="368348"><display-name>[myTV SUPER] 201 美亞電影台</display-name><icon src="https://i.imgur.com/laGiFM1.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="368334"><display-name>[myTV SUPER] 18 myTV SUPER 18台</display-name><icon src="https://i.imgur.com/pD2a0rM.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="MeiAhMovieChannel.hk"><display-name>[myTV SUPER] 201 美亞電影台</display-name><icon src="https://i.imgur.com/laGiFM1.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="myTVSUPER18.hk"><display-name>[myTV SUPER] 18 myTV SUPER 18台</display-name><icon src="https://i.imgur.com/pD2a0rM.png"/><url>https://mytvsuper.com</url></channel>
 <channel id="myTVSUPERLiveSoccer2.hk"><display-name>[myTV SUPER] 901 直播足球2台 [SPT]</display-name><icon src="https://i.imgur.com/ZlMfO3R.png"/><url>https://mytvsuper.com</url></channel>
 <channel id="myTVSUPERLiveSoccer3.hk"><display-name>[myTV SUPER] 902 直播足球3台 [SPT]</display-name><icon src="https://i.imgur.com/IBYQt6K.png"/><url>https://mytvsuper.com</url></channel>
 <channel id="myTVSUPERLiveSoccer4.hk"><display-name>[myTV SUPER] 903 直播足球4台 [SPT]</display-name><icon src="https://i.imgur.com/IBYQt6K.png"/><url>https://mytvsuper.com</url></channel>
-<channel id="myTVSUPERLiveSoccer5.hk"><display-name>[myTV SUPER] 904 直播足球5台 [SPT]</display-name><icon src="https://i.imgur.com/IBYQt6K.png"/><url>https://mytvsuper.com</url></channel>
+<channel id="myTVSUPERLiveSoccer5.hk"><display-name>m[myTV SUPER] 904 直播足球5台 [SPT]</display-name><icon src="https://i.imgur.com/IBYQt6K.png"/><url>https://mytvsuper.com</url></channel>
 <channel id="NickelodeonAsia.sg"><display-name>Nickelodeon</display-name><icon src="https://i.imgur.com/E84jnP8.png"/><url>https://mytvsuper.com</url></channel>
 <channel id="Pearl.hk"><display-name>[myTV SUPER] 84 明珠台</display-name><icon src="https://i.imgur.com/UPdcMkW.png"/><url>https://mytvsuper.com</url></channel>
 <channel id="PhoenixChineseChannel.hk"><display-name>[myTV SUPER] 610 鳳凰衛視中文台</display-name><icon src="https://i.imgur.com/aUM0Oqy.png"/><url>https://mytvsuper.com</url></channel>
