@@ -1,9 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv date="20250719080002 +0000" source-info-name="FREE EPG" source-info-url="https://github.com/myeth-epg/public/edit/main/epg_HK.xml">
 
+<channel id="AsianVariety.hk"><display-name>[myTV SUPER] 01 SUPER FREE</display-name></channel>
+<channel id=""><display-name>[myTV SUPER] 02 SUPER 獎門人</display-name></channel>
+<channel id=""><display-name>[myTV SUPER] 03 SUPER EYT</display-name></channel>
+<channel id=""><display-name>[myTV SUPER] 04 SUPER 識食</display-name></channel>
+<channel id=""><display-name>[myTV SUPER] 05 SUPER 識嘆</display-name></channel>
+<channel id=""><display-name>[myTV SUPER] 06 SUPER Music</display-name></channel>
+<channel id=""><display-name>[myTV SUPER] 07 SUPER 金曲</display-name></channel>
+<channel id=""><display-name>[myTV SUPER] 08 SUPER 煲劇</display-name></channel>
+<channel id=""><display-name>[myTV SUPER] 09 SUPER 劇場</display-name></channel>
+<channel id=""><display-name>[myTV SUPER] 10 SUPER 話當年</display-name></channel>
+<channel id=""><display-name>[myTV SUPER] 11 SUPER Sports</display-name></channel>
+<channel id="myTVSUPER18.hk"><display-name>[myTV SUPER] 18 myTV SUPER 18台</display-name></channel>
 <channel id="AnimaxAsia.sg@HongKong"><display-name>[myTV SUPER] 504 Animax</display-name></channel>
 <channel id="AsianDrama.hk"><display-name>[myTV SUPER] 87 亞洲劇台</display-name></channel>
-<channel id="AsianVariety.hk"><display-name>[myTV SUPER] 01 SUPER FREE</display-name></channel>
 <channel id="AXNAsia.sg@HongKong"><display-name>[myTV SUPER] 502 AXN</display-name></channel>
 <channel id="CARI"><display-name>Arirang TV</display-name></channel>
 <channel id="CCM.hk"><display-name>[myTV SUPER] 203 天映經典頻道</display-name></channel>
@@ -36,7 +47,6 @@
 <channel id="LoveNature.ca@4K"><display-name>Love Nature 4K</display-name></channel>
 <channel id="MainlandNewsChannel.hk"><display-name>神州新聞台</display-name></channel>
 <channel id="MeiAhMovieChannel.hk"><display-name>[myTV SUPER] 201 美亞電影台</display-name></channel>
-<channel id="myTVSUPER18.hk"><display-name>[myTV SUPER] 18 myTV SUPER 18台</display-name></channel>
 <channel id="myTVSUPERLiveSoccer1.hk"><display-name>myTV SUPER直播足球1台</display-name></channel>
 <channel id="myTVSUPERLiveSoccer2.hk"><display-name>[myTV SUPER] 901 直播足球2台</display-name></channel>
 <channel id="myTVSUPERLiveSoccer3.hk"><display-name>[myTV SUPER] 902 直播足球3台</display-name></channel>
