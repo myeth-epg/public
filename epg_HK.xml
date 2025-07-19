@@ -44,11 +44,13 @@
 <channel id="myTVSUPERLiveSoccer5.hk"><display-name>[myTV SUPER] 904 直播足球5台</display-name></channel>
 <channel id="myTVSUPERLiveSoccer6.hk"><display-name>[myTV SUPER] 905 直播足球6台</display-name></channel>
 <channel id="myTVSUPERLiveSoccer7.hk"><display-name>[myTV SUPER] 906 直播足球7台</display-name></channel>
-<channel id="NickelodeonAsia.sg"><display-name>[myTV SUPER] 104 Nickelodeon</display-name></channel>[myTV SUPER] 84 明珠台</display-name></channel>
+<channel id="NickelodeonAsia.sg"><display-name>[myTV SUPER] 104 Nickelodeon</display-name></channel>
+<channel id="Pearl.hk"><display-name>[myTV SUPER] 84 明珠台</display-name></channel>
 <channel id="Pearl.hk"><display-name>[myTV SUPER] 84 明珠台 (字幕)</display-name></channel>
 <channel id="Pearl.hk"><display-name>[myTV SUPER] 84 明珠台(subtitles)</display-name></channel>
 <channel id="PhoenixChineseChannel.hk"><display-name>[myTV SUPER] 610 鳳凰衛視中文台</display-name></channel>
-<channel id="PhoenixHongKongChannel.hk"><display-name>[myTV SUPER] 612 鳳凰衛視香港台鳳凰衛視香港台</display-name></channel>[myTV SUPER] 611 鳳凰衛視資訊台</display-name></channel>
+<channel id="PhoenixHongKongChannel.hk"><display-name>[myTV SUPER] 612 鳳凰衛視香港台鳳凰衛視香港台</display-name></channel>
+<channel id="PhoenixInfoNewsChannel.hk"><display-name>{myTV SUPER] 611 鳳凰衛視資訊台</display-name></channel>
 <channel id="ROCKEntertainment.sg"><display-name>[myTV SUPER] 501 ROCK綜藝娛樂</display-name></channel>
 <channel id="ROCKExtreme.sg"><display-name>[myTV SUPER] 205 ROCK Action</display-name></channel>
 <channel id="Thrill.hk"><display-name>[myTV SUPER] 202 Thrill</display-name></channel>
