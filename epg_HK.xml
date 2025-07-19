@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20250719080002 +0000" source-info-name="FREE EPG" source-info-url="https://github.com/myeth-epg/public/edit/main/epg_HK.xml">
+<tv date="20250719090002 +0000" source-info-name="FREE EPG" source-info-url="https://github.com/myeth-epg/public/edit/main/epg_HK.xml">
 
 <channel id="AsianVariety.hk"><display-name>[myTV SUPER] 01 SUPER FREE</display-name></channel>
 <channel id=""><display-name>[myTV SUPER] 02 SUPER 獎門人</display-name></channel>
@@ -78,7 +78,6 @@
 <channel id="TVBSAsia.tw"><display-name>[myTV SUPER] 601 無線衛星亞洲台</display-name></channel>
 <channel id="TVBSNews.tw"><display-name>[myTV SUPER] 702 無線衛星新聞台</display-name></channel>
 <channel id="tvNAsia.hk"><display-name>[myTV SUPER] 505 tvN</display-name></channel>
-
 
 <channel id="76"><display-name>HOY 國際財經台</display-name><url>https://hoy.tv</url></channel>
 <channel id="78"><display-name>[iCable] 78 HOY 資訊台</display-name><url>https://hoy.tv</url></channel>
