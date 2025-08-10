@@ -2,127 +2,72 @@
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
-  <title>TV Program Guide</title>
+  <title>TV Guide Grid</title>
   <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f9f9f9;
-      margin: 0;
-      padding: 20px;
-    }
-    h1 {
-      text-align: center;
-      color: #333;
-    }
-    #searchBox {
-      display: block;
-      margin: 20px auto;
-      padding: 10px;
-      width: 80%;
-      max-width: 400px;
-      font-size: 16px;
-      border: 1px solid #ccc;
-      border-radius: 6px;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 20px;
-      background-color: #fff;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    }
-    th, td {
-      padding: 12px;
-      border-bottom: 1px solid #eee;
-      text-align: left;
-    }
-    th {
-      background-color: #0078D7;
-      color: white;
-      position: sticky;
-      top: 0;
-      z-index: 1;
-    }
-    tr:hover {
-      background-color: #f1f1f1;
-    }
-    @media (max-width: 600px) {
-      table, thead, tbody, th, td, tr {
-        display: block;
-      }
-      th {
-        position: static;
-      }
-      td {
-        padding: 10px;
-        border: none;
-        border-bottom: 1px solid #eee;
-      }
-    }
+    body { font-family: Arial, sans-serif; padding: 20px; background: #f9f9f9; }
+    h1 { text-align: center; }
+    .grid { display: grid; grid-template-columns: 150px repeat(3, 1fr); gap: 1px; background: #ccc; }
+    .cell { background: #fff; padding: 10px; border: 1px solid #ddd; }
+    .header { background: #0078D7; color: white; font-weight: bold; text-align: center; }
+    .channel { background: #eee; font-weight: bold; }
   </style>
 </head>
 <body>
-  <h1>📺 TV Program Guide</h1>
-  <input type="text" id="searchBox" placeholder="🔍 Search by title...">
-  <table id="epgTable">
-    <thead>
-      <tr>
-        <th>Channel</th>
-        <th>Start</th>
-        <th>Stop</th>
-        <th>Title</th>
-      </tr>
-    </thead>
-    <tbody></tbody>
-  </table>
+  <h1>📺 TV Guide Grid</h1>
+  <div class="grid" id="epgGrid"></div>
 
   <script>
     const epgUrl = 'https://myeth-epg.github.io/public/epg.pw.all.xml';
 
-    function formatTime(raw) {
-      const match = raw.match(/^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})/);
+    function formatHour(raw) {
+      const match = raw.match(/^(\d{4})(\d{2})(\d{2})(\d{2})/);
       if (!match) return raw;
-      const [_, y, mo, d, h, mi] = match;
-      return `${y}-${mo}-${d} ${h}:${mi}`;
+      const [_, y, mo, d, h] = match;
+      return `${y}-${mo}-${d} ${h}:00`;
+    }
+
+    function getHour(raw) {
+      const match = raw.match(/^(\d{4})(\d{2})(\d{2})(\d{2})/);
+      return match ? parseInt(match[4]) : null;
+    }
+
+    function getCurrentHour() {
+      const now = new Date();
+      return now.getHours();
     }
 
     fetch(epgUrl)
       .then(response => response.text())
       .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
       .then(data => {
-        const programs = data.querySelectorAll("programme");
-        const tableBody = document.querySelector("#epgTable tbody");
+        const programs = Array.from(data.querySelectorAll("programme"));
+        const grid = document.getElementById("epgGrid");
 
-        programs.forEach(program => {
-          const row = document.createElement("tr");
+        const currentHour = getCurrentHour();
+        const hours = [currentHour, currentHour + 1, currentHour + 2];
 
-          const channel = program.getAttribute("channel");
-          const start = formatTime(program.getAttribute("start"));
-          const stop = formatTime(program.getAttribute("stop"));
-          const title = program.querySelector("title")?.textContent || "N/A";
-
-          row.innerHTML = `
-            <td>${channel}</td>
-            <td>${start}</td>
-            <td>${stop}</td>
-            <td>${title}</td>
-          `;
-          tableBody.appendChild(row);
+        // Header row
+        grid.innerHTML += `<div class="cell header">Channel</div>`;
+        hours.forEach(h => {
+          grid.innerHTML += `<div class="cell header">${h}:00</div>`;
         });
 
-        // Add search functionality
-        document.getElementById("searchBox").addEventListener("input", function () {
-          const filter = this.value.toLowerCase();
-          const rows = tableBody.querySelectorAll("tr");
-          rows.forEach(row => {
-            const title = row.cells[3].textContent.toLowerCase();
-            row.style.display = title.includes(filter) ? "" : "none";
+        // Group by channel
+        const channelMap = {};
+        programs.forEach(p => {
+          const channel = p.getAttribute("channel");
+          if (!channelMap[channel]) channelMap[channel] = [];
+          channelMap[channel].push(p);
+        });
+
+        Object.entries(channelMap).forEach(([channel, items]) => {
+          grid.innerHTML += `<div class="cell channel">${channel}</div>`;
+          hours.forEach(h => {
+            const match = items.find(p => getHour(p.getAttribute("start")) === h);
+            const title = match?.querySelector("title")?.textContent || "";
+            grid.innerHTML += `<div class="cell">${title}</div>`;
           });
         });
-      })
-      .catch(error => {
-        console.error("Failed to load EPG:", error);
-        document.body.innerHTML += "<p style='color:red;'>Failed to load EPG data.</p>";
       });
   </script>
 </body>
