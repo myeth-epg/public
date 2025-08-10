@@ -1,17 +1,69 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh">
 <head>
   <meta charset="UTF-8">
-  <title>EPG Viewer</title>
+  <title>TV Program Guide</title>
   <style>
-    body { font-family: Arial, sans-serif; padding: 20px; }
-    table { border-collapse: collapse; width: 100%; }
-    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
-    th { background-color: #f4f4f4; }
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    #searchBox {
+      display: block;
+      margin: 20px auto;
+      padding: 10px;
+      width: 80%;
+      max-width: 400px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      background-color: #fff;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    th, td {
+      padding: 12px;
+      border-bottom: 1px solid #eee;
+      text-align: left;
+    }
+    th {
+      background-color: #0078D7;
+      color: white;
+      position: sticky;
+      top: 0;
+      z-index: 1;
+    }
+    tr:hover {
+      background-color: #f1f1f1;
+    }
+    @media (max-width: 600px) {
+      table, thead, tbody, th, td, tr {
+        display: block;
+      }
+      th {
+        position: static;
+      }
+      td {
+        padding: 10px;
+        border: none;
+        border-bottom: 1px solid #eee;
+      }
+    }
   </style>
 </head>
 <body>
-  <h1>TV Program Guide</h1>
+  <h1>📺 TV Program Guide</h1>
+  <input type="text" id="searchBox" placeholder="🔍 Search by title...">
   <table id="epgTable">
     <thead>
       <tr>
@@ -27,6 +79,13 @@
   <script>
     const epgUrl = 'https://myeth-epg.github.io/public/epg.pw.all.xml';
 
+    function formatTime(raw) {
+      const match = raw.match(/^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})/);
+      if (!match) return raw;
+      const [_, y, mo, d, h, mi] = match;
+      return `${y}-${mo}-${d} ${h}:${mi}`;
+    }
+
     fetch(epgUrl)
       .then(response => response.text())
       .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
@@ -38,8 +97,8 @@
           const row = document.createElement("tr");
 
           const channel = program.getAttribute("channel");
-          const start = program.getAttribute("start");
-          const stop = program.getAttribute("stop");
+          const start = formatTime(program.getAttribute("start"));
+          const stop = formatTime(program.getAttribute("stop"));
           const title = program.querySelector("title")?.textContent || "N/A";
 
           row.innerHTML = `
@@ -49,6 +108,16 @@
             <td>${title}</td>
           `;
           tableBody.appendChild(row);
+        });
+
+        // Add search functionality
+        document.getElementById("searchBox").addEventListener("input", function () {
+          const filter = this.value.toLowerCase();
+          const rows = tableBody.querySelectorAll("tr");
+          rows.forEach(row => {
+            const title = row.cells[3].textContent.toLowerCase();
+            row.style.display = title.includes(filter) ? "" : "none";
+          });
         });
       })
       .catch(error => {
