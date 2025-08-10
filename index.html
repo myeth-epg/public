@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>EPG Viewer</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background-color: #f4f4f4; }
+  </style>
+</head>
+<body>
+  <h1>TV Program Guide</h1>
+  <table id="epgTable">
+    <thead>
+      <tr>
+        <th>Channel</th>
+        <th>Start</th>
+        <th>Stop</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    const epgUrl = 'https://myeth-epg.github.io/public/epg.pw.all.xml';
+
+    fetch(epgUrl)
+      .then(response => response.text())
+      .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+      .then(data => {
+        const programs = data.querySelectorAll("programme");
+        const tableBody = document.querySelector("#epgTable tbody");
+
+        programs.forEach(program => {
+          const row = document.createElement("tr");
+
+          const channel = program.getAttribute("channel");
+          const start = program.getAttribute("start");
+          const stop = program.getAttribute("stop");
+          const title = program.querySelector("title")?.textContent || "N/A";
+
+          row.innerHTML = `
+            <td>${channel}</td>
+            <td>${start}</td>
+            <td>${stop}</td>
+            <td>${title}</td>
+          `;
+          tableBody.appendChild(row);
+        });
+      })
+      .catch(error => {
+        console.error("Failed to load EPG:", error);
+        document.body.innerHTML += "<p style='color:red;'>Failed to load EPG data.</p>";
+      });
+  </script>
+</body>
+</html>
