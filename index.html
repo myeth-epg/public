@@ -7,7 +7,7 @@
     body { font-family: Arial, sans-serif; padding: 20px; background: #f9f9f9; }
     h1 { text-align: center; }
     .grid { display: grid; grid-template-columns: 150px repeat(3, 1fr); gap: 1px; background: #ccc; }
-    .cell { background: #fff; padding: 10px; border: 1px solid #ddd; }
+    .cell { background: #fff; padding: 10px; border: 1px solid #ddd; min-height: 60px; }
     .header { background: #0078D7; color: white; font-weight: bold; text-align: center; }
     .channel { background: #eee; font-weight: bold; }
   </style>
@@ -19,21 +19,18 @@
   <script>
     const epgUrl = 'https://myeth-epg.github.io/public/epg.pw.all.xml';
 
-    function formatHour(raw) {
-      const match = raw.match(/^(\d{4})(\d{2})(\d{2})(\d{2})/);
-      if (!match) return raw;
-      const [_, y, mo, d, h] = match;
-      return `${y}-${mo}-${d} ${h}:00`;
+    function parseTime(raw) {
+      // Example: 20250810100000 +0800
+      const match = raw.match(/^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})/);
+      if (!match) return null;
+      const [_, y, mo, d, h, mi, s] = match;
+      return new Date(`${y}-${mo}-${d}T${h}:${mi}:${s}`);
     }
 
-    function getHour(raw) {
-      const match = raw.match(/^(\d{4})(\d{2})(\d{2})(\d{2})/);
-      return match ? parseInt(match[4]) : null;
-    }
-
-    function getCurrentHour() {
+    function getHourSlots() {
       const now = new Date();
-      return now.getHours();
+      const base = new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours(), 0, 0);
+      return [base, new Date(base.getTime() + 3600000), new Date(base.getTime() + 7200000)];
     }
 
     fetch(epgUrl)
@@ -42,33 +39,42 @@
       .then(data => {
         const programs = Array.from(data.querySelectorAll("programme"));
         const grid = document.getElementById("epgGrid");
-
-        const currentHour = getCurrentHour();
-        const hours = [currentHour, currentHour + 1, currentHour + 2];
+        const hours = getHourSlots();
 
         // Header row
         grid.innerHTML += `<div class="cell header">Channel</div>`;
         hours.forEach(h => {
-          grid.innerHTML += `<div class="cell header">${h}:00</div>`;
+          grid.innerHTML += `<div class="cell header">${h.getHours()}:00</div>`;
         });
 
-        // Group by channel
+        // Group programs by channel
         const channelMap = {};
         programs.forEach(p => {
           const channel = p.getAttribute("channel");
           if (!channelMap[channel]) channelMap[channel] = [];
-          channelMap[channel].push(p);
-        });
-
-        Object.entries(channelMap).forEach(([channel, items]) => {
-          grid.innerHTML += `<div class="cell channel">${channel}</div>`;
-          hours.forEach(h => {
-            const match = items.find(p => getHour(p.getAttribute("start")) === h);
-            const title = match?.querySelector("title")?.textContent || "";
-            grid.innerHTML += `<div class="cell">${title}</div>`;
+          channelMap[channel].push({
+            start: parseTime(p.getAttribute("start")),
+            stop: parseTime(p.getAttribute("stop")),
+            title: p.querySelector("title")?.textContent || "N/A"
           });
         });
+
+        // Build rows
+        Object.entries(channelMap).forEach(([channel, items]) => {
+          grid.innerHTML += `<div class="cell channel">${channel}</div>`;
+          hours.forEach(hour => {
+            const match = items.find(p =>
+              p.start <= hour && p.stop > hour
+            );
+            grid.innerHTML += `<div class="cell">${match ? match.title : ""}</div>`;
+          });
+        });
+      })
+      .catch(error => {
+        console.error("Failed to load EPG:", error);
+        document.body.innerHTML += "<p style='color:red;'>Failed to load EPG data.</p>";
       });
   </script>
 </body>
 </html>
+
