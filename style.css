@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#epg-container {
+  display: flex;
+  flex-direction: column;
+  overflow-x: auto;
+}
+
+#timeline {
+  display: flex;
+  position: sticky;
+  top: 0;
+  background: #eee;
+  border-bottom: 1px solid #ccc;
+}
+
+.time-slot {
+  min-width: 120px;
+  padding: 10px;
+  border-right: 1px solid #ccc;
+  text-align: center;
+}
+
+.channel-row {
+  display: flex;
+  border-bottom: 1px solid #ddd;
+  align-items: center;
+}
+
+.channel-info {
+  width: 150px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.channel-info img {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.program {
+  position: relative;
+  background: #cce5ff;
+  border: 1px solid #99c;
+  padding: 5px;
+  margin: 2px;
+  font-size: 12px;
+  overflow: hidden;
+}
