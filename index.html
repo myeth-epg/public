@@ -1,79 +1,17 @@
 <!DOCTYPE html>
-<html lang="zh">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>TV Guide Grid</title>
-  <style>
-    body { font-family: Arial, sans-serif; padding: 20px; background: #f9f9f9; }
-    h1 { text-align: center; }
-    .grid { display: grid; grid-template-columns: 150px repeat(3, 1fr); gap: 1px; background: #ccc; }
-    .cell { background: #fff; padding: 10px; border: 1px solid #ddd; min-height: 60px; }
-    .header { background: #0078D7; color: white; font-weight: bold; text-align: center; }
-    .channel { background: #eee; font-weight: bold; }
-  </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EPG Viewer</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>📺 TV Guide Grid</h1>
-  <div class="grid" id="epgGrid"></div>
-
-  <script>
-    const epgUrl = 'https://myeth-epg.github.io/public/epg.pw.all.xml';
-
-    function parseTime(raw) {
-      // Example: 20250810100000 +0800
-      const match = raw.match(/^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})/);
-      if (!match) return null;
-      const [_, y, mo, d, h, mi, s] = match;
-      return new Date(`${y}-${mo}-${d}T${h}:${mi}:${s}`);
-    }
-
-    function getHourSlots() {
-      const now = new Date();
-      const base = new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours(), 0, 0);
-      return [base, new Date(base.getTime() + 3600000), new Date(base.getTime() + 7200000)];
-    }
-
-    fetch(epgUrl)
-      .then(response => response.text())
-      .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-      .then(data => {
-        const programs = Array.from(data.querySelectorAll("programme"));
-        const grid = document.getElementById("epgGrid");
-        const hours = getHourSlots();
-
-        // Header row
-        grid.innerHTML += `<div class="cell header">Channel</div>`;
-        hours.forEach(h => {
-          grid.innerHTML += `<div class="cell header">${h.getHours()}:00</div>`;
-        });
-
-        // Group programs by channel
-        const channelMap = {};
-        programs.forEach(p => {
-          const channel = p.getAttribute("channel");
-          if (!channelMap[channel]) channelMap[channel] = [];
-          channelMap[channel].push({
-            start: parseTime(p.getAttribute("start")),
-            stop: parseTime(p.getAttribute("stop")),
-            title: p.querySelector("title")?.textContent || "N/A"
-          });
-        });
-
-        // Build rows
-        Object.entries(channelMap).forEach(([channel, items]) => {
-          grid.innerHTML += `<div class="cell channel">${channel}</div>`;
-          hours.forEach(hour => {
-            const match = items.find(p =>
-              p.start <= hour && p.stop > hour
-            );
-            grid.innerHTML += `<div class="cell">${match ? match.title : ""}</div>`;
-          });
-        });
-      })
-      .catch(error => {
-        console.error("Failed to load EPG:", error);
-        document.body.innerHTML += "<p style='color:red;'>Failed to load EPG data.</p>";
-      });
-  </script>
+  <h1>EPG Viewer</h1>
+  <div id="epg-container">
+    <div id="timeline"></div>
+    <div id="channels"></div>
+  </div>
+  <script src="script.js"></script>
 </body>
 </html>
