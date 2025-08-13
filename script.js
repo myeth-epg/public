@@ -2,6 +2,16 @@ const XML_URL = "https://myeth-epg.github.io/public/epg.pw.all.xml";
 const timelineEl = document.getElementById("timeline");
 const channelsEl = document.getElementById("channels");
 
+// Helper to parse EPG time format
+function parseEPGTime(str) {
+  const cleaned = str.slice(0, 14); // YYYYMMDDHHMMSS
+  const formatted = cleaned.replace(
+    /(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})/,
+    "$1-$2-$3T$4:$5:$6"
+  );
+  return new Date(formatted);
+}
+
 async function loadEPG() {
   const res = await fetch(XML_URL);
   const text = await res.text();
@@ -51,31 +61,32 @@ async function loadEPG() {
     const info = document.createElement("div");
     info.className = "channel-info";
     const img = document.createElement("img");
-    img.src = channelMap[cid]?.icon || "";
+img.src = channelMap[cid]?.icon || "";
     const span = document.createElement("span");
-span.textContent = channelMap[cid]?.name || cid;
+    span.textContent = channelMap[cid]?.name || cid;
     info.appendChild(img);
     info.appendChild(span);
     row.appendChild(info);
 // Render programs
 progs.forEach(p => {
-  const start = new Date(p.getAttribute("start").slice(0, 14).replace(/(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})/, "$1-$2-$3T$4:$5"));
-  const stop = new Date(p.getAttribute("stop").slice(0, 14).replace(/(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})/, "$1-$2-$3T$4:$5"));
+  const title = p.querySelector("title")?.textContent || "Untitled";
+  const start = parseEPGTime(p.getAttribute("start"));
+  const stop = parseEPGTime(p.getAttribute("stop"));
   const duration = (stop - start) / 3600000; // in hours
   const offset = (start - startTime) / 3600000;
 
-  if (offset >= 0 && offset < 48) {
+  if (duration > 0 && offset < 48) {
     const progEl = document.createElement("div");
     progEl.className = "program";
-    progEl.style.minWidth = `${duration * 120}px`;
-    progEl.style.marginLeft = `${offset * 120}px`;
-    progEl.textContent = p.querySelector("title")?.textContent || "Untitled";
+    progEl.style.left = `${offset * 120 + 150}px`; // 150px for channel-info width
+    progEl.style.width = `${duration * 120}px`;
+    progEl.textContent = title;
     row.appendChild(progEl);
   }
 });
 
 channelsEl.appendChild(row);
+
   });
 }
 
-loadEPG();
