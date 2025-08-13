@@ -4,6 +4,13 @@ body {
   padding: 0;
 }
 
+h1 {
+  text-align: center;
+  padding: 10px;
+  background: #333;
+  color: white;
+}
+
 #epg-container {
   display: flex;
   flex-direction: column;
@@ -16,6 +23,7 @@ body {
   top: 0;
   background: #eee;
   border-bottom: 1px solid #ccc;
+  z-index: 10;
 }
 
 .time-slot {
@@ -23,11 +31,14 @@ body {
   padding: 10px;
   border-right: 1px solid #ccc;
   text-align: center;
+  font-size: 12px;
 }
 
 .channel-row {
+  position: relative;
   display: flex;
   border-bottom: 1px solid #ddd;
+  min-height: 60px;
   align-items: center;
 }
 
@@ -36,20 +47,25 @@ body {
   padding: 10px;
   display: flex;
   align-items: center;
+  background: #f9f9f9;
+  border-right: 1px solid #ccc;
 }
 
 .channel-info img {
   width: 40px;
   height: 40px;
   margin-right: 10px;
+  object-fit: contain;
 }
 
 .program {
-  position: relative;
+  position: absolute;
+  top: 10px;
   background: #cce5ff;
   border: 1px solid #99c;
   padding: 5px;
-  margin: 2px;
   font-size: 12px;
   overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
