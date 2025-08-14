@@ -4,14 +4,18 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>EPG Viewer</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="xml-epg.css" />
 </head>
 <body>
-  <h1>EPG Viewer</h1>
-  <div id="epg-container">
-    <div id="timeline"></div>
-    <div id="channels"></div>
+  <div id="playlist">
+    <input id="search-input" placeholder="Search channels" />
+    <button id="epg-button" onclick="openEPG()">Open EPG</button>
+    <ul id="video-list"></ul>
   </div>
-  <script src="script.js"></script>
+
+  <div id="overlay" style="display:none;"></div>
+  <div id="epg-container" style="display:none;"></div>
+
+  <script src="xml-epg.js"></script>
 </body>
 </html>
