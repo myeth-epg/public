@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const videoList = document.getElementById('video-list');
   xmlepg.channels.forEach(channel => {
     const li = document.createElement('li');
-    li.innerHTML = <img src="${channel.tvgLogo}" alt="${channel.channelName} logo"> ${channel.channelName};
+    li.innerHTML = <img src="${channel.tvgLogo}" alt="${channel.channelName} logo"> ${channel.channelName}`;
     li.onclick = () => {
       xmlepg.displayPrograms('overlay', channel.tvgId);
       document.getElementById('overlay').style.display = 'flex';
