@@ -27,7 +27,7 @@ class XMLEPG {
     const programNodes = xml.querySelectorAll("programme");
     this.programs = Array.from(programNodes).map(prog => {
       const title = prog.querySelector("title")?.textContent || "Untitled";
-const desc = prog.querySelector("desc")?.textContent || "";
+      const desc = prog.querySelector("desc")?.textContent || "";
       const icon = prog.querySelector("icon")?.getAttribute("src") || "";
       const start = this.parseDate(prog.getAttribute("start"));
       const stop = this.parseDate(prog.getAttribute("stop"));
@@ -42,12 +42,11 @@ const desc = prog.querySelector("desc")?.textContent || "";
         tvgId: channelId
       };
     });
-// Assign programs to channels
-this.channels.forEach(channel => {
-  channel.programList = this.programs.filter(p => p.tvgId === channel.tvgId);
-});
 
-
+    // Assign programs to channels
+    this.channels.forEach(channel => {
+      channel.programList = this.programs.filter(p => p.tvgId === channel.tvgId);
+    });
   }
 
   parseDate(dateString) {
@@ -57,14 +56,23 @@ this.channels.forEach(channel => {
     const hour = dateString.substring(8, 10);
     const minute = dateString.substring(10, 12);
     const second = dateString.substring(12, 14);
-    return new Date(${year}-${month}-${day}T${hour}:${minute}:${second});
+    return new Date(`${year}-${month}-${day}T${hour}:${minute}:${second}`);
   }
 
   async displayAllPrograms(containerId, instanceName) {
     const container = document.getElementById(containerId);
     container.innerHTML = this.channels.map(channel => {
       return channel.programList.map(prog => {
-        return           <div class="program">             <img src="${prog.icon}" alt="${prog.title} thumbnail">             <div class="program-details">               <h2>${prog.title}</h2>               <p>${prog.desc}</p>               <div>${prog.formattedStartTime}</div>             </div>           </div>        ;
+        return `
+          <div class="program">
+            <img src="${prog.icon}" alt="${prog.title} thumbnail">
+            <div class="program-details">
+              <h2>${prog.title}</h2>
+              <p>${prog.desc}</p>
+              <div>${prog.formattedStartTime}</div>
+            </div>
+          </div>
+        `;
       }).join("");
     }).join("");
   }
@@ -73,23 +81,22 @@ this.channels.forEach(channel => {
     const container = document.getElementById(containerId);
     const channel = this.channels.find(c => c.tvgId === tvgId);
     if (!channel || !channel.programList.length) {
-      container.innerHTML = <h2>No EPG data available</h2>;
+      container.innerHTML = `<h2>No EPG data available</h2>`;
       return;
     }
-container.innerHTML = channel.programList.map(prog => {
-  return `
-    <div class="program">
-      <img src="${prog.icon}" alt="${prog.title} thumbnail">
-      <div class="program-details">
-        <h2>${prog.title}</h2>
-        <p>${prog.desc}</p>
-        <div>${prog.formattedStartTime}</div>
-      </div>
-    </div>
-  `;
-}).join("");
 
-
+    container.innerHTML = channel.programList.map(prog => {
+      return `
+        <div class="program">
+          <img src="${prog.icon}" alt="${prog.title} thumbnail">
+          <div class="program-details">
+            <h2>${prog.title}</h2>
+            <p>${prog.desc}</p>
+            <div>${prog.formattedStartTime}</div>
+          </div>
+        </div>
+      `;
+    }).join("");
   }
 
   timelineNeedleRender() {
@@ -101,7 +108,7 @@ container.innerHTML = channel.programList.map(prog => {
 const xmlepg = new XMLEPG();
 
 document.addEventListener('DOMContentLoaded', async () => {
-  const defaultEPG = "https://myeth-epg.github.io/public/epg.pw.all.xml";
+const defaultEPG = "https://myeth-epg.github.io/public/epg.pw.all.xml";
   await xmlepg.load([defaultEPG]);
   await xmlepg.displayAllPrograms('epg-container', 'xmlepg');
   document.getElementById('epg-button').style.display = 'block';
@@ -110,7 +117,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const videoList = document.getElementById('video-list');
   xmlepg.channels.forEach(channel => {
     const li = document.createElement('li');
-    li.innerHTML = <img src="${channel.tvgLogo}" alt="${channel.channelName} logo"> ${channel.channelName}`;
+    li.innerHTML = <img src="${channel.tvgLogo}" alt="${channel.channelName} logo"> ${channel.channelName}';
     li.onclick = () => {
       xmlepg.displayPrograms('overlay', channel.tvgId);
       document.getElementById('overlay').style.display = 'flex';
