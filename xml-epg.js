@@ -67,12 +67,12 @@ class XMLEPG {
   renderEPGGrid(containerId) {
     const container = document.getElementById(containerId);
     container.innerHTML = "";
-    container.style.position = "relative"; // Needed for needle
+    container.style.position = "relative";
 
     const grid = document.createElement("div");
     grid.className = "epg-grid";
 
-    // Header row: time slots
+    // Header row
     const header = document.createElement("div");
     header.className = "epg-header";
     header.innerHTML = `<div class="channel-cell">Channel</div>`;
@@ -99,44 +99,61 @@ class XMLEPG {
         const cell = document.createElement("div");
         cell.className = "time-cell";
         row.appendChild(cell);
-channel.programList.forEach(prog => {
-    const offset = Math.floor((prog.startDate - this.timelineStart) / 3600000);
-    const duration = Math.ceil((prog.stopDate - prog.startDate) / 3600000);
-    const programDiv = document.createElement("div");
-    programDiv.className = "program-block";
-    programDiv.style.gridColumn = `${offset + 2} / span ${duration}`;
-    programDiv.title = `${prog.title}\n${prog.desc}`; // Tooltip
+      }
 
-    // Click-to-expand
-    programDiv.onclick = () => {
-      alert(`📺 ${prog.title}\n\n🕒 ${prog.formattedStartTime}\n\n📝 ${prog.desc}`);
-    };
+      channel.programList.forEach(prog => {
+        const offset = Math.floor((prog.startDate - this.timelineStart) / 3600000);
+        const duration = Math.ceil((prog.stopDate - prog.startDate) / 3600000);
+        const programDiv = document.createElement("div");
+        programDiv.className = "program-block";
+        programDiv.style.gridColumn = `${offset + 2} / span ${duration}`;
+        programDiv.title = `${prog.title}\n${prog.desc}`;
+        programDiv.onclick = () => {
+          alert(`📺 ${prog.title}\n\n🕒 ${prog.formattedStartTime}\n\n📝 ${prog.desc}`);
+        };
+        programDiv.innerHTML = `<strong>${prog.title}</strong>`;
+        row.appendChild(programDiv);
+      });
 
-    programDiv.innerHTML = `<strong>${prog.title}</strong>`;
-    row.appendChild(programDiv);
-  });
+      grid.appendChild(row);
+    });
 
-  grid.appendChild(row);
-}`);
-
-container.appendChild(grid);
-this.timelineNeedleRender(); // Add needle after grid
-
-
+    container.appendChild(grid);
+    this.timelineNeedleRender();
   }
 
- timelineNeedleRender() {
-  const container = document.getElementById("epg-container");
-  const needle = document.createElement("div");
-  needle.className = "timeline-needle";
+  timelineNeedleRender() {
+    const container = document.getElementById("epg-container");
+    if (!container) return;
 
-  const now = new Date();
-  const offsetHours = (now - this.timelineStart) / 3600000;
-needle.style.left = `${200 + offsetHours * 100}px`; // 200px for channel column
+    const oldNeedle = container.querySelector(".timeline-needle");
+    if (oldNeedle) container.removeChild(oldNeedle);
 
-  container.appendChild(needle);
-}
+    const needle = document.createElement("div");
+    needle.className = "timeline-needle";
 
+    const now = new Date();
+    const offsetHours = (now - this.timelineStart) / 3600000;
+
+    const channelCell = container.querySelector(".channel-cell");
+    const channelWidth = channelCell ? channelCell.offsetWidth : 200;
+
+    needle.style.left = `${channelWidth + offsetHours * 100}px`;
+
+    container.appendChild(needle);
+  }
+
+  displayPrograms(overlayId, channelId) {
+    const overlay = document.getElementById(overlayId);
+    const channel = this.channels.find(c => c.tvgId === channelId);
+    if (!channel || !overlay) return;
+
+    const html = channel.programList.map(p =>
+      `<div><strong>${p.title}</strong><br>${p.formattedStartTime}<br>${p.desc}</div><hr>`
+    ).join("");
+
+    overlay.innerHTML = `<div style="background:#222;padding:20px;max-height:80vh;overflow:auto;">${html}</div>`;
+  }
 }
 
 // Initialize and load default EPG
@@ -148,21 +165,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   xmlepg.renderEPGGrid('epg-container');
   document.getElementById('epg-button').style.display = 'block';
 
-  // Render channel list
   const videoList = document.getElementById('video-list');
   xmlepg.channels.forEach(channel => {
     const li = document.createElement('li');
-    li.innerHTML = <img src="${channel.tvgLogo}" alt="${channel.channelName} logo"> ${channel.channelName}`;
-    li.onclick = () => {
-      xmlepg.displayPrograms('overlay', channel.tvgId);
-      document.getElementById('overlay').style.display = 'flex';
-    };
-    videoList.appendChild(li);
-  });
-});
-
-// Open full EPG view
-function openEPG() {
-  document.getElementById('epg-container').style.display = 'block';
-  xmlepg.timelineNeedleRender();
-}
+    li
