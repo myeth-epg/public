@@ -117,7 +117,7 @@ channel.programList.forEach(prog => {
   });
 
   grid.appendChild(row);
-})`;
+}`);
 
 container.appendChild(grid);
 this.timelineNeedleRender(); // Add needle after grid
