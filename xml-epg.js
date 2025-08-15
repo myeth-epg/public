@@ -125,18 +125,18 @@ this.timelineNeedleRender(); // Add needle after grid
 
   }
 
-  timelineNeedleRender() {
-    const container = document.getElementById("epg-container");
-    const needle = document.createElement("div");
-    needle.className = "timeline-needle";
-const now = new Date();
-const offsetHours = (now - this.timelineStart) / 3600000;
-needle.style.left = `${200 + offsetHours * 100}px`; // 200px for channel column
+ timelineNeedleRender() {
+  const container = document.getElementById("epg-container");
+  const needle = document.createElement("div");
+  needle.className = "timeline-needle";
 
-container.appendChild(needle);
+  const now = new Date();
+  const offsetHours = (now - this.timelineStart) / 3600000;
+  needle.style.left = `${200 + offsetHours * 100}px`; // 200px for channel column
 
+  container.appendChild(needle);
+}
 
-  }
 }
 
 // Initialize and load default EPG
