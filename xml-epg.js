@@ -2,6 +2,7 @@ class XMLEPG {
   constructor() {
     this.channels = [];
     this.programs = [];
+    this.timelineStart = null;
   }
 
   async load(urls) {
@@ -43,60 +44,77 @@ class XMLEPG {
       };
     });
 
-    // Assign programs to channels
+    this.timelineStart = new Date(Math.min(...this.programs.map(p => p.startDate)));
+
     this.channels.forEach(channel => {
-      channel.programList = this.programs.filter(p => p.tvgId === channel.tvgId);
+      channel.programList = this.programs
+        .filter(p => p.tvgId === channel.tvgId)
+        .sort((a, b) => a.startDate - b.startDate);
     });
   }
 
   parseDate(dateString) {
-    const year = dateString.substring(0, 4);
-    const month = dateString.substring(4, 6);
-    const day = dateString.substring(6, 8);
-    const hour = dateString.substring(8, 10);
-    const minute = dateString.substring(10, 12);
-    const second = dateString.substring(12, 14);
+    const clean = dateString.split(" ")[0];
+    const year = clean.substring(0, 4);
+    const month = clean.substring(4, 6);
+    const day = clean.substring(6, 8);
+    const hour = clean.substring(8, 10);
+    const minute = clean.substring(10, 12);
+    const second = clean.substring(12, 14);
     return new Date(`${year}-${month}-${day}T${hour}:${minute}:${second}`);
   }
 
-  async displayAllPrograms(containerId, instanceName) {
+  renderEPGGrid(containerId) {
     const container = document.getElementById(containerId);
-    container.innerHTML = this.channels.map(channel => {
-      return channel.programList.map(prog => {
-        return `
-          <div class="program">
-            <img src="${prog.icon}" alt="${prog.title} thumbnail">
-            <div class="program-details">
-              <h2>${prog.title}</h2>
-              <p>${prog.desc}</p>
-              <div>${prog.formattedStartTime}</div>
-            </div>
-          </div>
-        `;
-      }).join("");
-    }).join("");
-  }
+    container.innerHTML = "";
 
-  async displayPrograms(containerId, tvgId) {
-    const container = document.getElementById(containerId);
-    const channel = this.channels.find(c => c.tvgId === tvgId);
-    if (!channel || !channel.programList.length) {
-      container.innerHTML = `<h2>No EPG data available</h2>`;
-      return;
+    const grid = document.createElement("div");
+    grid.className = "epg-grid";
+
+    // Header row: time slots
+    const header = document.createElement("div");
+    header.className = "epg-header";
+    header.innerHTML = `<div class="channel-cell">Channel</div>`;
+    for (let i = 0; i < 48; i++) {
+      const slotTime = new Date(this.timelineStart.getTime() + i * 3600000);
+      const slot = document.createElement("div");
+      slot.className = "time-cell";
+      slot.textContent = `${slotTime.getHours()}:00`;
+      header.appendChild(slot);
     }
+    grid.appendChild(header);
 
-    container.innerHTML = channel.programList.map(prog => {
-      return `
-        <div class="program">
-          <img src="${prog.icon}" alt="${prog.title} thumbnail">
-          <div class="program-details">
-            <h2>${prog.title}</h2>
-            <p>${prog.desc}</p>
-            <div>${prog.formattedStartTime}</div>
-          </div>
-        </div>
-      `;
-    }).join("");
+    // Channel rows
+    this.channels.forEach(channel => {
+      const row = document.createElement("div");
+      row.className = "epg-row";
+
+      const channelCell = document.createElement("div");
+      channelCell.className = "channel-cell";
+      channelCell.innerHTML = `<img src="${channel.tvgLogo}" alt="${channel.channelName}" /> ${channel.channelName}`;
+      row.appendChild(channelCell);
+
+      for (let i = 0; i < 48; i++) {
+        const cell = document.createElement("div");
+cell.className = "time-cell";
+        row.appendChild(cell);
+      }
+  channel.programList.forEach(prog => {
+    const offset = Math.floor((prog.startDate - this.timelineStart) / 3600000);
+    const duration = Math.ceil((prog.stopDate - prog.startDate) / 3600000);
+    const programDiv = document.createElement("div");
+    programDiv.className = "program-block";
+    programDiv.style.gridColumn = `${offset + 2} / span ${duration}`;
+    programDiv.innerHTML = `<strong>${prog.title}</strong>`;
+    row.appendChild(programDiv);
+  });
+
+  grid.appendChild(row);
+});
+
+container.appendChild(grid);
+
+
   }
 
   timelineNeedleRender() {
@@ -108,26 +126,9 @@ class XMLEPG {
 const xmlepg = new XMLEPG();
 
 document.addEventListener('DOMContentLoaded', async () => {
-const defaultEPG = "https://myeth-epg.github.io/public/epg.pw.all.xml";
+  const defaultEPG = "https://myeth-epg.github.io/public/epg.pw.all.xml";
   await xmlepg.load([defaultEPG]);
-  await xmlepg.displayAllPrograms('epg-container', 'xmlepg');
+  xmlepg.renderEPGGrid('epg-container');
   document.getElementById('epg-button').style.display = 'block';
-
-  // Render channel list
-  const videoList = document.getElementById('video-list');
-  xmlepg.channels.forEach(channel => {
-    const li = document.createElement('li');
-    li.innerHTML = `<img src="${channel.tvgLogo}" alt="${channel.channelName} logo"> ${channel.channelName}`;
-    li.onclick = () => {
-      xmlepg.displayPrograms('overlay', channel.tvgId);
-      document.getElementById('overlay').style.display = 'flex';
-    };
-    videoList.appendChild(li);
-  });
 });
 
-// Open full EPG view
-function openEPG() {
-  document.getElementById('epg-container').style.display = 'block';
-  xmlepg.timelineNeedleRender();
-}
