@@ -132,7 +132,7 @@ this.timelineNeedleRender(); // Add needle after grid
 
   const now = new Date();
   const offsetHours = (now - this.timelineStart) / 3600000;
-  needle.style.left = `${200 + offsetHours * 100}px`; // 200px for channel column
+needle.style.left = `${200 + offsetHours * 100}px`; // 200px for channel column
 
   container.appendChild(needle);
 }
