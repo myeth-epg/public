@@ -75,8 +75,10 @@ body {
   background-color: #1e1e1e;
   color: #fff;
   padding: 10px;
+  position: relative; /* Needed for needle */
 }
 
+/* Existing program card layout */
 .program {
   background-color: #282c34;
   color: #fff;
@@ -107,4 +109,74 @@ body {
   border-radius: 5px;
   cursor: pointer;
   font-size: 0.9em;
+}
+
+/* 🆕 EPG Grid Styles */
+.epg-grid {
+  display: grid;
+  grid-template-rows: auto;
+  overflow-x: auto;
+  background-color: #1e1e1e;
+  color: #fff;
+}
+
+.epg-header,
+.epg-row {
+  display: grid;
+  grid-template-columns: 200px repeat(48, 100px); /* 48 hours */
+  align-items: center;
+}
+
+.channel-cell {
+  padding: 5px;
+  background-color: #333;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-right: 1px solid #444;
+}
+
+.channel-cell img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.time-cell {
+  padding: 5px;
+  border: 1px solid #444;
+  text-align: center;
+  background-color: #2c2c2c;
+  font-size: 0.85em;
+  white-space: nowrap;
+}
+
+.program-block {
+  position: relative;
+  background-color: #61dafb;
+  color: #000;
+  padding: 5px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  z-index: 1;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.program-block:hover {
+  background-color: #4fc3f7;
+}
+
+/* 🟥 Red Needle */
+.timeline-needle {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background-color: red;
+  z-index: 10;
 }
