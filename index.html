@@ -1,24 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>EPG Viewer</title>
-  <link rel="stylesheet" href="xml-epg.css" />
-</head>
-<body>
-  <div id="playlist">
-    <input id="search-input" placeholder="Search channels" />
-    <button id="epg-button" onclick="openEPG()">Open EPG</button>
-    <ul id="video-list"></ul>
-  </div>
-
-  <!-- EPG Grid Container -->
-  <div id="epg-container" style="display:none;"></div>
-
-  <!-- Optional Overlay for Single Channel View -->
-  <div id="overlay" style="display:none;"></div>
-
-  <script src="xml-epg.js"></script>
-</body>
-</html>
+<!doctypehtml><html lang=en><meta charset=UTF-8><meta content="width=device-width,initial-scale=1"name=viewport><link href=data:image/x-icon;, rel=icon><title>github.com/dbghelp</title><link href=https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.11.2/controls.min.css rel=stylesheet><link href=https://dbghelp.github.io/xml-epg.css rel=stylesheet><style>body{margin:0;font-family:Arial,sans-serif;display:flex;height:100vh;background-color:#282c34}#playlist{width:350px;background-color:#282c34;color:#fff;overflow-y:auto;border-right:1px solid #444;padding:20px;box-shadow:2px 0 5px rgb(0 0 0 / .2);display:flex;flex-direction:column}#search-input,#url-input{width:100%;padding:10px;margin-bottom:10px;border:1px solid #444;border-radius:5px;background-color:#3c4043;color:#fff;font-size:1em;box-sizing:border-box}#epg-button{display:none;width:100%;padding:10px;margin-bottom:10px;background-color:#61dafb;color:#000;border:none;border-radius:5px;font-size:1em;cursor:pointer;box-shadow:0 4px 8px rgb(0 0 0 / .3)}#fetch-button{width:100%;padding:10px;margin-bottom:10px;background-color:#61dafb;color:#000;border:none;border-radius:5px;font-size:1em;cursor:pointer;box-shadow:0 4px 8px rgb(0 0 0 / .3)}#fetch-button:hover{background-color:#4fa3c4}#epg-button:hover{background-color:#4fa3c4}#video-container{flex:1;display:flex;flex-direction:column;z-index:2}#video{flex:1;width:100%;height:100%;background-color:#000}#video-list{list-style:none;padding:0;margin:0}#video-list li{padding:10px;margin:5px 0;border-radius:5px;cursor:pointer;transition:background-color .3s ease,transform .2s ease;display:flex;align-items:center}#video-list li:hover{background-color:#61dafb;transform:scale(1.05)}#video-list img{width:50px;height:50px;margin-right:10px;border-radius:5px;object-fit:cover;object-fit:contain}.video-title{font-size:1em}.active{background-color:#4fa3c4}#overlay{display:none;flex-direction:column;align-items:center;overflow-y:auto;z-index:2;flex:1}#epg-container{display:none;z-index:1000;position:fixed;width:100%;height:100%;overflow-y:scroll;overflow-x:scroll;background-color:#282c34}#search-input{display:none}</style><div id=playlist><input id=url-input placeholder="Enter XML EPG link"> <button id=fetch-button>Load EPG</button> <button id=epg-button onclick=openEPG()>EPG</button> <input id=search-input placeholder=Search...><ul id=video-list></ul></div><div id=overlay style=display:flex></div><div id=epg-container></div><script src=https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.7.11/shaka-player.compiled.js></script><script src=https://dbghelp.github.io/M3U8Interpreter.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/pako/2.0.4/pako.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js></script><script src=https://dbghelp.github.io/xml-epg.js></script><script>var xmlepg=new XMLEPG();var overlay=document.getElementById('overlay');var videoContainer=document.getElementById('video-container');var epgContainer=document.getElementById('epg-container');document.addEventListener('DOMContentLoaded',()=>{const videoElement=document.getElementById('video');const videoList=document.getElementById('video-list');const searchInput=document.getElementById('search-input');const urlInput=document.getElementById('url-input');const fetchButton=document.getElementById('fetch-button');var player=new shaka.Player(videoElement);var channels;var lastActiveChannel;shaka.polyfill.installAll();var extracted=extractAppendedURL();if(extracted){document.getElementById('url-input').remove();document.getElementById('fetch-button').remove();setPlaylist(extracted)}
+fetchButton.addEventListener('click',async()=>{const url=urlInput.value;setPlaylist(url)});async function setPlaylist(url){if(url){try{const response=await fetch(url);if(response.ok){const text=await response.text();const urls=[url];await xmlepg.load(urls);await xmlepg.displayAllPrograms('epg-container','xmlepg');if(urls!=null&&urls.length!=0){document.getElementById('epg-button').style.display='block'}
+channels=xmlepg.channels;updatePlaylist(channels);document.getElementById('search-input').style.display='block'}else{console.error('Failed to fetch M3U8 playlist.')}}catch(error){console.error('Error fetching M3U8 playlist:',error)}}}
+function extractAppendedURL(){const params=new URLSearchParams(window.location.search);return params.get('file')}
+function updatePlaylist(channels){videoList.innerHTML='';channels.forEach(channel=>{const listItem=document.createElement('li');listItem.innerHTML=`
+										<img src="${channel.tvgLogo}" alt="${channel.channelName} logo">${channel.channelName}
+										</span>`;listItem.onclick=()=>{xmlepg.displayPrograms('overlay',channel.tvgId);const parent=listItem.parentElement;const children=parent.getElementsByTagName('li');for(let i=0;i<children.length;i++){children[i].classList.remove('active')}
+listItem.classList.add('active');lastActiveChannel=listItem.innerHTML}
+videoList.appendChild(listItem)})}
+function filterPlaylist(searchTerm){const filteredChannels=channels.filter(channel=>channel.channelName.toLowerCase().includes(searchTerm.toLowerCase()));updatePlaylist(filteredChannels)}
+searchInput.addEventListener('input',(event)=>{const searchTerm=event.target.value;filterPlaylist(searchTerm)})});function openEPG(){epgContainer.style.display='block';xmlepg.timelineNeedleRender()}</script>
