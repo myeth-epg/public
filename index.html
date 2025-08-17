@@ -57,7 +57,9 @@
           const text = await response.text();
 const urls = [defaultEPG];
           await xmlepg.load(urls);
-          await xmlepg.displayAllPrograms('epg-container', 'xmlepg');
+         await xmlepg.displayAllPrograms('epg-container', 'xmlepg');
+document.getElementById('epg-container').style.display = 'block';
+xmlepg.timelineNeedleRender();
           channels = xmlepg.channels;
           updatePlaylist(channels);
           document.getElementById('search-input').style.display = 'block';
