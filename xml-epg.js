@@ -28,6 +28,25 @@ class XMLEPG {
     await this.getChannels();
     await this.getPrograms();
     await this.sortAndCombine();
+    
+  // 🗓️ Render timeline header with date + weekday
+  const timelineHeader = document.getElementById('timeline-header');
+  timelineHeader.innerHTML = ''; // Clear previous content
+
+  const uniqueDates = [...new Set(this.programs.map(p => p.dateLabel))];
+
+  uniqueDates.forEach(label => {
+    const div = document.createElement('div');
+    div.textContent = label;
+    div.style.marginRight = '20px';
+    div.style.color = '#fff'; // Optional styling
+    div.style.fontWeight = 'bold';
+    timelineHeader.appendChild(div);
+  });
+
+
+
+    
   }
 
   // 📄 Load EPG from raw XML text
