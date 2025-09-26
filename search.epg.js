@@ -4,7 +4,9 @@ function formatStartTime(raw) {
   const zonePart = raw.slice(15);        // "+0800"
 
   const formattedTime = `${timePart.slice(0,2)}:${timePart.slice(2,4)}:${timePart.slice(4,6)}`;
-  return `${datePart}  ${formattedTime}  ${zonePart}`;
+
+ return `${datePart}  ${formattedTime}  ${zonePart}`;
+
 }
 
 async function searchEPG() {
@@ -26,6 +28,7 @@ async function searchEPG() {
     for (let ch of channels) {
       const id = ch.getAttribute('id');
       const name = ch.getElementsByTagName('display-name')[0]?.textContent || id;
+
       channelMap[id] = name;
     }
 
@@ -47,15 +50,18 @@ async function searchEPG() {
 
       const match = normalizedInput === '' || titleNorm.includes(normalizedInput) || descNorm.includes(normalizedInput);
 
+
       if (match) {
         const formattedStart = formatStartTime(start);
-        results.push(`${displayName}\n${formattedStart}\n${titleRaw}\n${descRaw}\n`);
+       results.push(`${displayName}\n${formattedStart}\n${titleRaw}\n${descRaw}\n`);
+
       }
     }
 
     resultsDiv.innerHTML = results.length
-      ? `<pre>${results.join('\n')}</pre>`
-      : '<p>No results found.</p>';
+  ? `<pre>${results.join('\n')}</pre>`
+  : '<p>No results found.</p>';
+
   } catch (error) {
     resultsDiv.innerHTML = '<p>Error loading EPG data.</p>';
     console.error(error);
