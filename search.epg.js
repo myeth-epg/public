@@ -7,14 +7,8 @@ function formatStartTime(raw) {
   return `${datePart}  ${formattedTime}  ${zonePart}`;
 }
 
-function highlightKeyword(text, keyword) {
-  const escapedKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  const regex = new RegExp(escapedKeyword, 'gi');
-  return text.replace(regex, match => `<span style="background-color: pink;">${match}</span>`);
-}
-
 async function searchEPG() {
-  const text = document.getElementById('searchText').value.trim();
+  const text = document.getElementById('searchText').value.toLowerCase().trim();
   const resultsDiv = document.getElementById('results');
   resultsDiv.innerHTML = 'Searching...';
 
@@ -27,6 +21,7 @@ async function searchEPG() {
     const programmes = xmlDoc.getElementsByTagName('programme');
     const channels = xmlDoc.getElementsByTagName('channel');
 
+    // Build a map of channel ID to display-name
     const channelMap = {};
     for (let ch of channels) {
       const id = ch.getAttribute('id');
@@ -34,8 +29,9 @@ async function searchEPG() {
       channelMap[id] = name;
     }
 
-    const converter = OpenCC.Converter({ from: 'tw', to: 'cn' });
-    const normalizedInput = converter(text.toLowerCase());
+    // Initialize OpenCC converter
+    const converter = OpenCC.Converter({ from: 'tw', to: 'cn' }); // Traditional → Simplified
+    const normalizedInput = converter(text);
 
     let results = [];
 
@@ -53,19 +49,15 @@ async function searchEPG() {
 
       if (match) {
         const formattedStart = formatStartTime(start);
-        const highlightedTitle = highlightKeyword(titleRaw, text);
-        const highlightedDesc = highlightKeyword(descRaw, text);
-
-        results.push(`${displayName}<br>${formattedStart}<br>${highlightedTitle}<br>${highlightedDesc}<br><br>`);
+        results.push(`${displayName}\n${formattedStart}\n${titleRaw}\n${descRaw}\n`);
       }
     }
 
     resultsDiv.innerHTML = results.length
-      ? results.join('')
+      ? `<pre>${results.join('\n')}</pre>`
       : '<p>No results found.</p>';
-
   } catch (error) {
     resultsDiv.innerHTML = '<p>Error loading EPG data.</p>';
-    console.error('Fetch or parse error:', error);
+    console.error(error);
   }
 }
