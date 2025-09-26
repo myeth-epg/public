@@ -56,7 +56,7 @@ async function searchEPG() {
        results.push(`${displayName}\n${formattedStart}\n${titleRaw}\n${descRaw}\n`);
 
       }
-    }
+    
 
     resultsDiv.innerHTML = results.length
   ? `<pre>${results.join('\n')}</pre>`
