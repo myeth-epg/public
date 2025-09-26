@@ -13,7 +13,7 @@ async function searchEPG() {
   resultsDiv.innerHTML = 'Searching...';
 
   try {
-    const response = await fetch('const response = await fetch('https://raw.githubusercontent.com/xmltv-se/xmltv-se.github.io/master/xmltv/se.xml');
+    const response = await fetch('const response = await fetch(' https://myeth-epg.github.io/public/epg.pw.all-2.xml');
 ');
 
     const xmlText = await response.text();
