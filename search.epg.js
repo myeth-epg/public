@@ -7,11 +7,6 @@ function formatStartTime(raw) {
   return `${datePart}  ${formattedTime}  ${zonePart}`;
 }
 
-
-
-
-
-
 async function searchEPG() {
   const text = document.getElementById('searchText').value.toLowerCase().trim();
   const resultsDiv = document.getElementById('results');
@@ -34,23 +29,27 @@ async function searchEPG() {
       channelMap[id] = name;
     }
 
+    // Initialize OpenCC converter
+    const converter = OpenCC.Converter({ from: 'tw', to: 'cn' }); // Traditional → Simplified
+    const normalizedInput = converter(text);
+
     let results = [];
 
     for (let prog of programmes) {
       const titleRaw = prog.getElementsByTagName('title')[0]?.textContent || '';
       const descRaw = prog.getElementsByTagName('desc')[0]?.textContent || '';
-      const title = titleRaw.toLowerCase();
-      const desc = descRaw.toLowerCase();
       const start = prog.getAttribute('start') || '';
       const channelId = prog.getAttribute('channel') || '';
       const displayName = channelMap[channelId] || channelId;
 
-      const match = text === '' || title.includes(text) || desc.includes(text);
+      const titleNorm = converter(titleRaw.toLowerCase());
+      const descNorm = converter(descRaw.toLowerCase());
+
+      const match = normalizedInput === '' || titleNorm.includes(normalizedInput) || descNorm.includes(normalizedInput);
 
       if (match) {
         const formattedStart = formatStartTime(start);
-results.push(`${displayName}\n${formattedStart}\n${titleRaw}\n${descRaw}\n`);
-
+        results.push(`${displayName}\n${formattedStart}\n${titleRaw}\n${descRaw}\n`);
       }
     }
 
