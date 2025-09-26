@@ -56,20 +56,18 @@ async function searchEPG() {
       if (match) {
         const formattedStart = formatStartTime(start);
         const highlightedTitle = highlightKeyword(titleRaw, text);
-const highlightedDesc = highlightKeyword(descRaw, text);
+        const highlightedDesc = highlightKeyword(descRaw, text);
 
-results.push(`${displayName}<br>${formattedStart}<br>${highlightedTitle}<br>${highlightedDesc}<br><br>`);
-
+        results.push(`${displayName}<br>${formattedStart}<br>${highlightedTitle}<br>${highlightedDesc}<br><br>`);
       }
     }
 
-resultsDiv.innerHTML = results.length
-  ? results.join('')
-  : '<p>No results found.</p>';
+    resultsDiv.innerHTML = results.length
+      ? results.join('')
+      : '<p>No results found.</p>';
 
   } catch (error) {
     resultsDiv.innerHTML = '<p>Error loading EPG data.</p>';
     console.error(error);
   }
 }
-
