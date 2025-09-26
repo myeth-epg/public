@@ -2,15 +2,22 @@
 <html>
 <head>
   <title>EPG Search</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    input[type="text"] { width: 300px; padding: 8px; }
+    button { padding: 8px 12px; margin-left: 10px; }
+    #results { margin-top: 20px; white-space: pre-wrap; }
+    .highlight { background-color: pink; }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/opencc-js@1.0.5/dist/umd/opencc.min.js"></script>
 </head>
 <body>
   <h1>Search EPG</h1>
-  <input type="text" id="searchText" placeholder="Search text...">
-  <input type="date" id="searchDate">
-  <input type="time" id="searchTime">
+  <input type="text" id="searchText" placeholder="Enter keyword...">
   <button onclick="searchEPG()">Search</button>
   <div id="results"></div>
 
   <script src="search.epg.js"></script>
 </body>
 </html>
+
