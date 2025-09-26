@@ -3,9 +3,12 @@ function formatStartTime(raw) {
   const timePart = raw.slice(8, 14);     // "190000"
   const zonePart = raw.slice(15);        // "+0800"
 
-  const formattedTime = `${timePart.slice(0,2)}:${timePart.slice(2,4)}:${timePart.slice(4,6)}`;
-  return `${datePart}  ${formattedTime}  ${zonePart}`;
+  const formattedTime = ${timePart.slice(0,2)}:${timePart.slice(2,4)}:${timePart.slice(4,6)};
+
+ return ${datePart}  ${formattedTime}  ${zonePart};
+
 }
+
 
 async function searchEPG() {
   const text = document.getElementById('searchText').value.toLowerCase().trim();
