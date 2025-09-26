@@ -21,7 +21,6 @@ async function searchEPG() {
     const programmes = xmlDoc.getElementsByTagName('programme');
     const channels = xmlDoc.getElementsByTagName('channel');
 
-    // Build a map of channel ID to display-name
     const channelMap = {};
     for (let ch of channels) {
       const id = ch.getAttribute('id');
@@ -29,8 +28,7 @@ async function searchEPG() {
       channelMap[id] = name;
     }
 
-    // Initialize OpenCC converter
-    const converter = OpenCC.Converter({ from: 'tw', to: 'cn' }); // Traditional → Simplified
+    const converter = OpenCC.Converter({ from: 'tw', to: 'cn' });
     const normalizedInput = converter(text);
 
     let results = [];
@@ -49,13 +47,14 @@ async function searchEPG() {
 
       if (match) {
         const formattedStart = formatStartTime(start);
-        results.push(`${displayName}\n${formattedStart}\n${titleRaw}\n${descRaw}\n`);
+results.push(${displayName}\n${formattedStart}\n${titleRaw}\n${descRaw}\n);
       }
     }
+resultsDiv.innerHTML = results.length
+  ? `<pre>${results.join('\n')}</pre>`
+  : '<p>No results found.</p>';
 
-    resultsDiv.innerHTML = results.length
-      ? `<pre>${results.join('\n')}</pre>`
-      : '<p>No results found.</p>';
+
   } catch (error) {
     resultsDiv.innerHTML = '<p>Error loading EPG data.</p>';
     console.error(error);
