@@ -1,3 +1,16 @@
+function formatStartTime(raw) {
+  // Example: "20250926190000 +0800"
+  const datePart = raw.slice(0, 8); // "20250926"
+  const timePart = raw.slice(8, 14); // "190000"
+  const zonePart = raw.slice(15); // "+0800"
+
+  const formatted = `${datePart}  ${timePart.slice(0,2)}:${timePart.slice(2,4)}:${timePart.slice(4,6)}  ${zonePart}`;
+  return formatted;
+}
+
+
+
+
 async function searchEPG() {
   const text = document.getElementById('searchText').value.toLowerCase().trim();
   const resultsDiv = document.getElementById('results');
@@ -34,7 +47,9 @@ async function searchEPG() {
       const match = text === '' || title.includes(text) || desc.includes(text);
 
       if (match) {
-        results.push(`${displayName}\n${start}\n${titleRaw}\n${descRaw}\n`);
+        const formattedStart = formatStartTime(start);
+results.push(`${displayName}\n${formattedStart}\n${titleRaw}\n${descRaw}\n`);
+
       }
     }
 
