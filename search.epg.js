@@ -1,9 +1,3 @@
-function highlightKeyword(text, keyword) {
-  const escapedKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // Escape special characters
-  const regex = new RegExp(escapedKeyword, 'gi');
-  return text.replace(regex, match => `<span style="background-color: pink;">${match}</span>`);
-}
-
 function formatStartTime(raw) {
   const datePart = raw.slice(0, 8);      // "20250926"
   const timePart = raw.slice(8, 14);     // "190000"
@@ -55,17 +49,13 @@ async function searchEPG() {
 
       if (match) {
         const formattedStart = formatStartTime(start);
-        const highlightedTitle = highlightKeyword(titleRaw, text);
-        const highlightedDesc = highlightKeyword(descRaw, text);
-
-        results.push(`${displayName}<br>${formattedStart}<br>${highlightedTitle}<br>${highlightedDesc}<br><br>`);
+        results.push(`${displayName}\n${formattedStart}\n${titleRaw}\n${descRaw}\n`);
       }
     }
 
     resultsDiv.innerHTML = results.length
-      ? results.join('')
+      ? `<pre>${results.join('\n')}</pre>`
       : '<p>No results found.</p>';
-
   } catch (error) {
     resultsDiv.innerHTML = '<p>Error loading EPG data.</p>';
     console.error(error);
