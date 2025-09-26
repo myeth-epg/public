@@ -13,9 +13,7 @@ async function searchEPG() {
   resultsDiv.innerHTML = 'Searching...';
 
   try {
-    const response = await fetch('const response = await fetch(' https://myeth-epg.github.io/public/epg.pw.all-2.xml');
-');
-
+    const response = await fetch('https://myeth-epg.github.io/public/epg.pw.all-2.xml');
     const xmlText = await response.text();
     const parser = new DOMParser();
     const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
@@ -23,6 +21,7 @@ async function searchEPG() {
     const programmes = xmlDoc.getElementsByTagName('programme');
     const channels = xmlDoc.getElementsByTagName('channel');
 
+    // Build a map of channel ID to display-name
     const channelMap = {};
     for (let ch of channels) {
       const id = ch.getAttribute('id');
@@ -30,7 +29,8 @@ async function searchEPG() {
       channelMap[id] = name;
     }
 
-    const converter = OpenCC.Converter({ from: 'tw', to: 'cn' });
+    // Initialize OpenCC converter
+    const converter = OpenCC.Converter({ from: 'tw', to: 'cn' }); // Traditional → Simplified
     const normalizedInput = converter(text);
 
     let results = [];
@@ -56,7 +56,6 @@ async function searchEPG() {
     resultsDiv.innerHTML = results.length
       ? `<pre>${results.join('\n')}</pre>`
       : '<p>No results found.</p>';
-
   } catch (error) {
     resultsDiv.innerHTML = '<p>Error loading EPG data.</p>';
     console.error(error);
