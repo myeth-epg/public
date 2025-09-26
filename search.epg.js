@@ -1,11 +1,11 @@
 function formatStartTime(raw) {
-  // Example input: "20250926190000 +0800"
   const datePart = raw.slice(0, 8);      // "20250926"
   const timePart = raw.slice(8, 14);     // "190000"
   const zonePart = raw.slice(15);        // "+0800"
 
-  return `${datePart}  ${timePart} ${zonePart}`;
+  return `${datePart}  ${timePart} ${zonePart}`; // Two spaces between date and time
 }
+
 
 
 
