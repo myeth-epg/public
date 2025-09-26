@@ -3,7 +3,7 @@ function formatStartTime(raw) {
   const timePart = raw.slice(8, 14);     // "190000"
   const zonePart = raw.slice(15);        // "+0800"
 
-  return `${datePart}  ${timePart} ${zonePart}`; // Two spaces between date and time
+  return `${datePart} ${timePart} ${zonePart}`; // Two spaces between date and time
 }
 
 
