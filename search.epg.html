@@ -2,12 +2,17 @@
 <html>
 <head>
   <title>EPG Search</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    input[type="text"] { width: 300px; padding: 8px; }
+    button { padding: 8px 12px; margin-left: 10px; }
+    #results { margin-top: 20px; }
+    .result { margin-bottom: 15px; border-bottom: 1px solid #ccc; padding-bottom: 10px; }
+  </style>
 </head>
 <body>
   <h1>Search EPG</h1>
   <input type="text" id="searchText" placeholder="Search text...">
-  <input type="date" id="searchDate">
-  <input type="time" id="searchTime">
   <button onclick="searchEPG()">Search</button>
   <div id="results"></div>
 
