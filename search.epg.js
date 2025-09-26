@@ -4,7 +4,7 @@ async function searchEPG() {
   resultsDiv.innerHTML = 'Searching...';
 
   try {
-    const response = await fetch('epg.pw.all-2.xml');
+    const response = await fetch('https://myeth-epg.github.io/public/epg.pw.all-2.xm');
     const xmlText = await response.text();
     const parser = new DOMParser();
     const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
