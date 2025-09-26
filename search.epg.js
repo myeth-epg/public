@@ -23,8 +23,10 @@ async function searchEPG() {
     let results = [];
 
     for (let prog of programmes) {
-      const title = prog.getElementsByTagName('title')[0]?.textContent.toLowerCase() || '';
-      const desc = prog.getElementsByTagName('desc')[0]?.textContent.toLowerCase() || '';
+      const titleRaw = prog.getElementsByTagName('title')[0]?.textContent || '';
+      const descRaw = prog.getElementsByTagName('desc')[0]?.textContent || '';
+      const title = titleRaw.toLowerCase();
+      const desc = descRaw.toLowerCase();
       const start = prog.getAttribute('start') || '';
       const channelId = prog.getAttribute('channel') || '';
       const displayName = channelMap[channelId] || channelId;
@@ -32,15 +34,16 @@ async function searchEPG() {
       const match = text === '' || title.includes(text) || desc.includes(text);
 
       if (match) {
-        results.push(`${displayName}\n${start}\n${title}\n${desc}\n`);
+        results.push(`${displayName}\n${start}\n${titleRaw}\n${descRaw}\n`);
       }
     }
 
     resultsDiv.innerHTML = results.length
-      ? `<p>Found ${results.length} result(s):</p><pre>${results.join('\n')}</pre>`
+      ? `<pre>${results.join('\n')}</pre>`
       : '<p>No results found.</p>';
   } catch (error) {
     resultsDiv.innerHTML = '<p>Error loading EPG data.</p>';
     console.error(error);
   }
 }
+
