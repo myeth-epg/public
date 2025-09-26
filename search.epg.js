@@ -66,4 +66,4 @@ async function searchEPG() {
     resultsDiv.innerHTML = '<p>Error loading EPG data.</p>';
     console.error(error);
   }
-}
+
