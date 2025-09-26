@@ -1,48 +1,31 @@
 async function searchEPG() {
-  const text = document.getElementById('searchText').value.toLowerCase().trim();
+  const text = document.getElementById('searchText').value.toLowerCase();
+  const date = document.getElementById('searchDate').value;
+  const time = document.getElementById('searchTime').value;
   const resultsDiv = document.getElementById('results');
-  resultsDiv.innerHTML = 'Searching...';
 
-  try {
-    const response = await fetch('https://myeth-epg.github.io/public/epg.pw.all-2.xml');
-    const xmlText = await response.text();
-    const parser = new DOMParser();
-    const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+  const response = await fetch('epg.pw.all-2.xml');
+  const xmlText = await response.text();
+  const parser = new DOMParser();
+  const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
 
-    const programmes = xmlDoc.getElementsByTagName('programme');
-    const channels = xmlDoc.getElementsByTagName('channel');
+  const programmes = xmlDoc.getElementsByTagName('programme');
+  let results = [];
 
-    // Build a map of channel ID to display-name
-    const channelMap = {};
-    for (let ch of channels) {
-      const id = ch.getAttribute('id');
-      const name = ch.getElementsByTagName('display-name')[0]?.textContent || id;
-      channelMap[id] = name;
+  for (let prog of programmes) {
+    const title = prog.getElementsByTagName('title')[0]?.textContent.toLowerCase() || '';
+    const desc = prog.getElementsByTagName('desc')[0]?.textContent.toLowerCase() || '';
+    const start = prog.getAttribute('start');
+    const channel = prog.getAttribute('channel');
+
+    const matchText = text === '' || title.includes(text) || desc.includes(text);
+    const matchDate = date === '' || start.startsWith(date.replace(/-/g, ''));
+    const matchTime = time === '' || start.includes(time.replace(/:/g, ''));
+
+    if (matchText && matchDate && matchTime) {
+      results.push(`<p><strong>${title}</strong> on ${channel} at ${start}<br>${desc}</p>`);
     }
-
-    let results = [];
-
-    for (let prog of programmes) {
-      const titleRaw = prog.getElementsByTagName('title')[0]?.textContent || '';
-      const descRaw = prog.getElementsByTagName('desc')[0]?.textContent || '';
-      const title = titleRaw.toLowerCase();
-      const desc = descRaw.toLowerCase();
-      const start = prog.getAttribute('start') || '';
-      const channelId = prog.getAttribute('channel') || '';
-      const displayName = channelMap[channelId] || channelId;
-
-      const match = text === '' || title.includes(text) || desc.includes(text);
-
-      if (match) {
-        results.push(`${displayName}\n${start}\n${titleRaw}\n${descRaw}\n`);
-      }
-    }
-
-    resultsDiv.innerHTML = results.length
-      ? `<pre>${results.join('\n')}</pre>`
-      : '<p>No results found.</p>';
-  } catch (error) {
-    resultsDiv.innerHTML = '<p>Error loading EPG data.</p>';
-    console.error(error);
   }
+
+  resultsDiv.innerHTML = results.length ? results.join('') : '<p>No results found.</p>';
 }
