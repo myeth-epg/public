@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Search ETH EPG</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    input[type="text"] { width: 300px; padding: 8px; }
+    button { padding: 8px 12px; margin-left: 10px; }
+    #results { margin-top: 20px; white-space: pre-wrap; }
+    span.highlight { background-color: pink; }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/opencc-js@1.0.5/dist/umd/opencc.min.js"></script>
+</head>
+<body>
+  <h1>Search ETH EPG</h1>
+  <input type="text" id="searchText" placeholder="Search text...">
+  <button onclick="searchEPG()">Search</button>
+  <div id="results"></div>
+
+  <script src="search.epg.js"></script>
+</body>
+</html>
