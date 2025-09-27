@@ -43,8 +43,11 @@ async function searchEPG() {
         titleLower.includes(textT2S) ||
         descLower.includes(textT2S);
 
-      const matchDate = date === '' || start.startsWith(date.replace(/-/g, ''));
-      const matchTime = time === '' || start.includes(time.replace(/:/g, ''));
+     //  const matchDate = date === '' || start.startsWith(date.replace(/-/g, ''));
+    //   const matchTime = time === '' || start.includes(time.replace(/:/g, ''));
+      const matchDate = true;
+      const matchTime = true;
+
 
       if (matchText && matchDate && matchTime) {
         const displayName = getDisplayName(xmlDoc, channelId);
