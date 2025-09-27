@@ -2,7 +2,7 @@ async function searchEPG() {
   const text = document.getElementById('searchText').value.toLowerCase();
   const date = document.getElementById('searchDate').value;
   const time = document.getElementById('searchTime').value;
-  const category = document.getElementById('searchCategory').value;
+  const category = document.getElementById('searchCategory')?.value || '';
   const resultsDiv = document.getElementById('results');
 
   resultsDiv.innerHTML = '<p>Searching...</p>';
@@ -25,10 +25,11 @@ async function searchEPG() {
 
       const titleLower = titleRaw.toLowerCase();
       const descLower = descRaw.toLowerCase();
-      const categoryMatch = category === '' || categoryTag === category;
+
       const matchText = text === '' || titleLower.includes(text) || descLower.includes(text);
       const matchDate = date === '' || start.startsWith(date.replace(/-/g, ''));
       const matchTime = time === '' || start.includes(time.replace(/:/g, ''));
+      const categoryMatch = category === '' || categoryTag === category;
 
       if (matchText && matchDate && matchTime && categoryMatch) {
         const displayName = getDisplayName(xmlDoc, channelId);
@@ -54,19 +55,18 @@ ${descRaw}
   }
 }
 
-// 🧠 Helper: Get display name from channel ID
 function getDisplayName(xmlDoc, channelId) {
   const channel = xmlDoc.querySelector(`channel[id="${channelId}"]`);
   return channel?.querySelector('display-name')?.textContent || channelId;
 }
 
-// 🕒 Helper: Format start time like "20250926  19:00:00  +0800"
 function formatStartTime(raw) {
   if (!raw) return '';
-  const datePart = raw.slice(0, 8); // "20250926"
-  const timePart = raw.slice(8, 14); // "190000"
-  const zonePart = raw.slice(15); // "+0800" (optional)
+  const match = raw.match(/^(\d{4})(\d{2})(\d{2})T?(\d{2})(\d{2})(\d{2})/);
+  if (!match) return raw;
 
-  const formattedTime = `${timePart.slice(0, 2)}:${timePart.slice(2, 4)}:${timePart.slice(4, 6)}`;
-  return `${datePart}  ${formattedTime}  ${zonePart || ''}`.trim();
+  const [_, y, m, d, h, min, s] = match;
+  const zone = raw.slice(15); // "+0800" or empty
+  return `${y}${m}${d}  ${h}:${min}:${s}  ${zone}`.trim();
 }
+
