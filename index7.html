@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width,initial-scale=1" name="viewport">
-  <link href="data:image/x-icon;" rel="icon">
   <title>github.com/myeth-epg</title>
+  <link rel="icon" href="data:image/x-icon;">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.11.2/controls.min.css" rel="stylesheet">
   <link href="xml-epg.css" rel="stylesheet">
   <style>
@@ -32,80 +32,13 @@
     <input id="search-input" placeholder="Search...">
     <ul id="video-list"></ul>
   </div>
-  <div id="overlay" style="display:flex"></div>
 
+  <div id="overlay" style="display:flex"></div>
   <div id="epg-container"></div>
 
+  <!-- External Libraries -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.7.11/shaka-player.compiled.js"></script>
   <script src="https://dbghelp.github.io/M3U8Interpreter.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.0.4/pako.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
   <script src="xml-epg7.js"></script>
-
-  <script>
-    var xmlepg = new XMLEPG();
-    var overlay = document.getElementById('overlay');
-    var epgContainer = document.getElementById('epg-container');
-    const videoList = document.getElementById('video-list');
-    const searchInput = document.getElementById('search-input');
-    let channels;
-    let lastActiveChannel;
-
-   document.addEventListener('DOMContentLoaded', async () => {
-  const gzippedEPG = "https://myeth-epg.github.io/public/epg.pw.all-7.xml.gz";
-  try {
-    await loadGzippedXML(gzippedEPG);
-    await xmlepg.displayAllPrograms('epg-container', 'xmlepg');
-    document.getElementById('epg-container').style.display = 'block';
-    xmlepg.timelineNeedleRender();
-    channels = xmlepg.channels;
-    updatePlaylist(channels);
-    document.getElementById('search-input').style.display = 'block';
-  } catch (error) {
-    console.error('Error loading gzipped EPG:', error);
-  }
-});
-
-  function updatePlaylist(channels) {
-    videoList.innerHTML = '';
-    channels.forEach(channel => {
-      const listItem = document.createElement('li');
-      listItem.innerHTML = `
-        <img src="${channel.tvgLogo}" alt="${channel.channelName} logo">
-        <span>${channel.channelName}</span>
-      `;
-      listItem.onclick = () => {
-        xmlepg.displayPrograms('overlay', channel.tvgId);
-        const parent = listItem.parentElement;
-        const children = parent.getElementsByTagName('li');
-        for (let i = 0; i < children.length; i++) {
-          children[i].classList.remove('active');
-        }
-        listItem.classList.add('active');
-        lastActiveChannel = listItem.innerHTML;
-      };
-      videoList.appendChild(listItem);
-    });
-  }
-
-  function filterPlaylist(searchTerm) {
-    const filteredChannels = channels.filter(channel =>
-      channel.channelName.toLowerCase().includes(searchTerm.toLowerCase())
-    );
-    updatePlaylist(filteredChannels);
-  }
-
-  searchInput.addEventListener('input', (event) => {
-    const searchTerm = event.target.value;
-    filterPlaylist(searchTerm);
-  });
-});
-
-function openEPG() {
-  epgContainer.style.display = 'block';
-  xmlepg.timelineNeedleRender();
-}
- </script>
-</body>
-</html>
-
