@@ -169,7 +169,7 @@ this.xmlDoc = xmlDoc;
     const options = { weekday: 'short' };
     const weekday = date.toLocaleDateString('en-US', options);
     const formattedDate = date.toISOString().split('T')[0];
-    return ${formattedDate} ${weekday}`;
+    return `${formattedDate} ${weekday}`;
   }
 
   // 🔄 Placeholder for sorting and combining logic
