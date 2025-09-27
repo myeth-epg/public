@@ -1,5 +1,4 @@
-  <script>
-    const xmlepg = new XMLEPG();
+const xmlepg = new XMLEPG();
     let channels = [];
     const videoList = document.getElementById('video-list');
     const searchInput = document.getElementById('search-input');
@@ -70,4 +69,4 @@ searchInput.addEventListener('input', (event) => {
 function openEPG() {
   epgContainer.style.display = 'block';
   xmlepg.timelineNeedleRender();
-} 
+}
