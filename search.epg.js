@@ -17,29 +17,30 @@ async function searchEPG() {
     const results = [];
 
     for (let prog of programmes) {
-      const title = prog.getElementsByTagName('title')[0]?.textContent || '';
-      const desc = prog.getElementsByTagName('desc')[0]?.textContent || '';
-      const categoryTag = prog.getElementsByTagName('category')[0]?.textContent || '';
-      const startRaw = prog.getAttribute('start');
-      const channel = prog.getAttribute('channel');
+      const titleRaw = prog.querySelector('title')?.textContent || '';
+      const descRaw = prog.querySelector('desc')?.textContent || '';
+      const categoryTag = prog.querySelector('category')?.textContent || '';
+      const start = prog.getAttribute('start');
+      const channelId = prog.getAttribute('channel');
 
-      const titleLower = title.toLowerCase();
-      const descLower = desc.toLowerCase();
+      const titleLower = titleRaw.toLowerCase();
+      const descLower = descRaw.toLowerCase();
       const categoryMatch = category === '' || categoryTag === category;
-
       const matchText = text === '' || titleLower.includes(text) || descLower.includes(text);
-      const matchDate = date === '' || startRaw.startsWith(date.replace(/-/g, ''));
-      const matchTime = time === '' || startRaw.includes(time.replace(/:/g, ''));
+      const matchDate = date === '' || start.startsWith(date.replace(/-/g, ''));
+      const matchTime = time === '' || start.includes(time.replace(/:/g, ''));
 
       if (matchText && matchDate && matchTime && categoryMatch) {
-        const startFormatted = formatEPGDate(startRaw);
+        const displayName = getDisplayName(xmlDoc, channelId);
+        const formattedStart = formatStartTime(start);
+
         results.push(`
-          <div style="margin-bottom: 1em; padding: 10px; border-bottom: 1px solid #ccc;">
-            <strong>${title}</strong><br>
-            <em>${channel}</em> — ${startFormatted}<br>
-            <small>${desc}</small><br>
-            <span style="color: #888;">Category: ${categoryTag || 'N/A'}</span>
-          </div>
+<pre style="margin-bottom: 1em; font-family: inherit;">
+${displayName}
+${formattedStart}
+${titleRaw}
+${descRaw}
+</pre>
         `);
       }
     }
@@ -53,20 +54,19 @@ async function searchEPG() {
   }
 }
 
-// 🧠 Helper: Format EPG start time to readable format
-function formatEPGDate(epgStart) {
-  const match = epgStart.match(/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})/);
-  if (!match) return epgStart;
-
-  const [_, year, month, day, hour, minute] = match;
-  const date = new Date(`${year}-${month}-${day}T${hour}:${minute}`);
-  return date.toLocaleString('en-GB', {
-    weekday: 'short',
-    year: 'numeric',
-    month: 'short',
-    day: 'numeric',
-    hour: '2-digit',
-    minute: '2-digit',
-  });
+// 🧠 Helper: Get display name from channel ID
+function getDisplayName(xmlDoc, channelId) {
+  const channel = xmlDoc.querySelector(`channel[id="${channelId}"]`);
+  return channel?.querySelector('display-name')?.textContent || channelId;
 }
 
+// 🕒 Helper: Format start time like "20250926  19:00:00  +0800"
+function formatStartTime(raw) {
+  if (!raw) return '';
+  const datePart = raw.slice(0, 8); // "20250926"
+  const timePart = raw.slice(8, 14); // "190000"
+  const zonePart = raw.slice(15); // "+0800" (optional)
+
+  const formattedTime = `${timePart.slice(0, 2)}:${timePart.slice(2, 4)}:${timePart.slice(4, 6)}`;
+  return `${datePart}  ${formattedTime}  ${zonePart || ''}`.trim();
+}
