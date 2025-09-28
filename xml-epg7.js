@@ -18,7 +18,7 @@
 
     // 🌐 Load EPG from the default URL
     async loadDefault() {
-      const defaultUrl = 'https://raw.githubusercontent.com/myeth-epg/public/main/epg.pw.all-7.xml.gz';
+      const defaultUrl = 'https://myeth-epg.github.io/public/epg.pw.all-7.xml.gz';
       await this.load([defaultUrl]);
     }
 
