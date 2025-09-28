@@ -50,6 +50,8 @@ function populateCategoryDropdown() {
 
 // 4. Modified search function
 function searchEPG() {
+  console.clear(); // Clear console for new search
+  console.log('--- New Search ---');
   const resultsDiv = document.getElementById('results');
   resultsDiv.innerHTML = '<p>Searching...</p>';
 
@@ -59,14 +61,18 @@ function searchEPG() {
       return;
     }
 
-    const text = document.getElementById('searchText').value.toLowerCase();
+    const text = document.getElementById('searchText').value;
     const date = document.getElementById('searchDate').value;
     const time = document.getElementById('searchTime').value;
     const selectedDisplayName = document.getElementById('categorySelect').value; // Get selected display name
 
+    console.log(`Original Keyword: "${text}"`);
+
     // Create both simplified and traditional versions of the search text
-    const textSimplified = t2s(text);
-    const textTraditional = s2t(text);
+    const textSimplified = t2s(text.toLowerCase());
+    const textTraditional = s2t(text.toLowerCase());
+    console.log(`Searching for Simplified: "${textSimplified}" OR Traditional: "${textTraditional}"`);
+
 
     const programmes = xmlDoc.getElementsByTagName('programme');
     const results = [];
