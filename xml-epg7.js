@@ -1,4 +1,3 @@
-  `javascript
   class XMLEPG {
     constructor() {
       this.xmlDoc = null;
