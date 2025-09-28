@@ -39,7 +39,8 @@
         try {
           const response = await fetch(url);
           if (!response.ok) {
-            console.warn(`Skipping URL due to network issue: ${url}`);
+            console.warn(`Skipping empty XML content from URL: ${url}`);
+
             continue;
           }
 
