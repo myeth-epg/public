@@ -70,7 +70,7 @@
             const serializer = new XMLSerializer();
             const xmlString = serializer.serializeToString(xmlDoc);
             console.error('Parsed XML with errors:', xmlString);
-            console.warn(Skipping malformed XML from URL: ${url});
+            console.warn(`Skipping malformed XML from URL: ${url}`);
             continue;
           }
 
