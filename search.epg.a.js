@@ -1,8 +1,13 @@
 let xmlDoc = null; // Global variable to hold the parsed XML document
+let s2t, t2s; // Converters for Chinese scripts
 
 // 1. Fetch and parse XML on page load
 document.addEventListener('DOMContentLoaded', async () => {
   try {
+    // Initialize converters
+    s2t = OpenCC.Converter({ from: 'cn', to: 'tw' });
+    t2s = OpenCC.Converter({ from: 'tw', to: 'cn' });
+
     const response = await fetch('https://myeth-epg.github.io/public/epg.pw.all-2.xml');
     const xmlText = await response.text();
     const parser = new DOMParser();
@@ -45,63 +50,81 @@ function populateCategoryDropdown() {
 
 // 4. Modified search function
 function searchEPG() {
-  if (!xmlDoc) {
-    document.getElementById('results').innerHTML = '<p>EPG data is not loaded yet. Please wait.</p>';
-    return;
-  }
-
-  const text = document.getElementById('searchText').value.toLowerCase();
-  const date = document.getElementById('searchDate').value;
-  const time = document.getElementById('searchTime').value;
-  const selectedDisplayName = document.getElementById('categorySelect').value; // Get selected display name
   const resultsDiv = document.getElementById('results');
-
   resultsDiv.innerHTML = '<p>Searching...</p>';
 
-  const programmes = xmlDoc.getElementsByTagName('programme');
-  const results = [];
+  try {
+    if (!xmlDoc) {
+      resultsDiv.innerHTML = '<p>EPG data is not loaded yet. Please wait.</p>';
+      return;
+    }
 
-  // Find the channel ID for the selected display name
-  let targetChannelId = null;
-  if (selectedDisplayName) {
-    const allChannels = xmlDoc.getElementsByTagName('channel');
-    for (let channel of allChannels) {
-      if (channel.querySelector('display-name')?.textContent === selectedDisplayName) {
-        targetChannelId = channel.getAttribute('id');
-        break;
+    const text = document.getElementById('searchText').value.toLowerCase();
+    const date = document.getElementById('searchDate').value;
+    const time = document.getElementById('searchTime').value;
+    const selectedDisplayName = document.getElementById('categorySelect').value; // Get selected display name
+
+    // Create both simplified and traditional versions of the search text
+    const textSimplified = t2s(text);
+    const textTraditional = s2t(text);
+
+    const programmes = xmlDoc.getElementsByTagName('programme');
+    const results = [];
+
+    // Find the channel ID for the selected display name
+    let targetChannelId = null;
+    if (selectedDisplayName) {
+      const allChannels = xmlDoc.getElementsByTagName('channel');
+      for (let channel of allChannels) {
+        if (channel.querySelector('display-name')?.textContent === selectedDisplayName) {
+          targetChannelId = channel.getAttribute('id');
+          break;
+        }
       }
     }
+
+    for (let prog of programmes) {
+      const titleRaw = prog.querySelector('title')?.textContent || '';
+      const descRaw = prog.querySelector('desc')?.textContent || '';
+      const start = prog.getAttribute('start');
+      const channelId = prog.getAttribute('channel');
+
+      const titleLower = titleRaw.toLowerCase();
+      const descLower = descRaw.toLowerCase();
+
+      // Check for matches using both simplified and traditional versions
+      const matchText = text === '' || 
+                        titleLower.includes(textSimplified) || descLower.includes(textSimplified) ||
+                        titleLower.includes(textTraditional) || descLower.includes(textTraditional);
+
+      // Filtering logic
+      const matchDisplayName = !selectedDisplayName || channelId === targetChannelId;
+      const matchDate = date === '' || start.startsWith(date.replace(/-/g, ''));
+      const matchTime = time === '' || start.includes(time.replace(/:/g, ''));
+
+      if (matchDisplayName && matchText && matchDate && matchTime) {
+        const displayName = getDisplayName(xmlDoc, channelId);
+        const formattedStart = formatStartTime(start);
+
+        results.push(`
+<pre style="margin-bottom: 1em; font-family: inherit; max-width: 600px;">
+${displayName}
+${formattedStart}
+${titleRaw}
+${descRaw}
+</pre>
+        `);
+      }
+    }
+
+    resultsDiv.innerHTML = results.length
+      ? results.join('<hr>')
+      : '<p>No results found.</p>';
+  } catch (error) {
+    resultsDiv.innerHTML = '<p>An error occurred during the search. Check the console.</p>';
+    console.error('❌ Failed to search EPG:', error);
   }
-
-  for (let prog of programmes) {
-    const titleRaw = prog.querySelector('title')?.textContent || '';
-    const descRaw = prog.querySelector('desc')?.textContent || '';
-    const start = prog.getAttribute('start');
-    const channelId = prog.getAttribute('channel');
-
-    // Filtering logic
-    const matchDisplayName = !selectedDisplayName || channelId === targetChannelId;
-    const matchText = text === '' || titleRaw.toLowerCase().includes(text) || descRaw.toLowerCase().includes(text);
-    const matchDate = date === '' || start.startsWith(date.replace(/-/g, ''));
-    const matchTime = time === '' || start.includes(time.replace(/:/g, ''));
-
-    if (matchDisplayName && matchText && matchDate && matchTime) {
-      const displayName = getDisplayName(xmlDoc, channelId);
-      const formattedStart = formatStartTime(start);
-
-              results.push(`
-      <pre style="margin-bottom: 1em; font-family: inherit; max-width: 600px;">
-      ${displayName}
-      ${formattedStart}
-      ${titleRaw}
-      ${descRaw}
-      </pre>
-              `);    }
-  }
-
-      resultsDiv.innerHTML = results.length
-        ? results.join('<hr>')
-        : '<p>No results found.</p>';}
+}
 
 function getDisplayName(xmlDoc, channelId) {
   const channel = xmlDoc.querySelector(`channel[id="${channelId}"]`);
