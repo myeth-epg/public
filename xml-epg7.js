@@ -79,7 +79,7 @@
             combinedXMLDoc.documentElement.appendChild(combinedXMLDoc.importNode(children[i], true));
           }
         } catch (error) {
-          console.warn(`Skipping URL due to error: ${url}`, error);
+          console.warn(`Skipping URL due to error: ${url}`, 1error);
           continue;
         }
       }
