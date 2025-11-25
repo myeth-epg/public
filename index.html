@@ -70,7 +70,7 @@
     document.addEventListener('DOMContentLoaded', async () => {
       epgContainer.style.display = 'block'; // Ensure EPG is visible on load
       document.getElementById('user-controls').style.display = 'none'; // Ensure user controls are hidden on load
-      const defaultEPG = "https://raw.githubusercontent.com/myeth-epg/public/main/epg.pw.all-3.xml";
+      const defaultEPG = "https://raw.githubusercontent.com/myeth-epg/public/main/epg.pw.all-2.xml";
       try {
         const response = await fetch(defaultEPG);
         if (response.ok) {
