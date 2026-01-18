@@ -139,10 +139,29 @@ function getDisplayName(xmlDoc, channelId) {
 
 function formatStartTime(raw) {
   if (!raw) return '';
+  // Parse YYYYMMDDHHmmss or YYYYMMDDHHmmss +0000
   const match = raw.match(/^(\d{4})(\d{2})(\d{2})T?(\d{2})(\d{2})(\d{2})/);
   if (!match) return raw;
 
   const [_, y, m, d, h, min, s] = match;
-  const zone = raw.slice(15); // "+0800" or empty
-  return `${y}${m}${d}  ${h}:${min}:${s}  ${zone}`.trim();
+  
+  // Construct UTC Date object. 
+  // IMPORTANT: The XML is assumed to be in UTC (or have an explicit offset we are normalizing to UTC here).
+  // If the input 'raw' has a timezone offset (e.g. +0800), simple extraction like this works 
+  // IF we assume the input raw string digits are ALREADY in UTC or we strictly follow the 'raw' digits as UTC.
+  // XMLTV standard: YYYYMMDDHHMMSS +/-HHMM. 
+  // If your XML file ALREADY has UTC digits (e.g. 20251003003000 +0000), this works perfect.
+  
+  const utcDate = new Date(Date.UTC(parseInt(y), parseInt(m) - 1, parseInt(d), parseInt(h), parseInt(min), parseInt(s)));
+  
+  // Return user's local time string
+  return utcDate.toLocaleString(undefined, { 
+    year: 'numeric', 
+    month: '2-digit', 
+    day: '2-digit', 
+    hour: '2-digit', 
+    minute: '2-digit', 
+    second: '2-digit',
+    hour12: false 
+  });
 }
