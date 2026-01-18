@@ -9,7 +9,7 @@
   <link href="xml-epg.css" rel="stylesheet">
   <style>
     body { margin: 0; font-family: Arial, sans-serif; display: flex; height: 100vh; background-color: #282c34; }
-    #playlist { width: 350px; background-color: #282c34; color: #fff; overflow-y: auto; border-right: 1px solid #444; padding: 20px; box-shadow: 2px 0 5px rgb(0 0 0 / .2); display: flex; flex-direction: column; }
+    #playlist { width: 650px; background-color: #282c34; color: #fff; overflow-y: auto; border-right: 1px solid #444; padding: 20px; box-shadow: 2px 0 5px rgb(0 0 0 / .2); display: flex; flex-direction: column; }
     #search-input { width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #444; border-radius: 5px; background-color: #3c4043; color: #fff; font-size: 1em; box-sizing: border-box; display: none; }
     #epg-button { width: 100%; padding: 10px; margin-bottom: 10px; background-color: #61dafb; color: #000; border: none; border-radius: 5px; font-size: 1em; cursor: pointer; box-shadow: 0 4px 8px rgb(0 0 0 / .3); }
     #epg-button:hover { background-color: #4fa3c4; }
@@ -93,12 +93,15 @@
     videoList.innerHTML = '';
     channelsToDisplay.forEach(channel => {
       const listItem = document.createElement('li');
+      listItem.style.display = 'flex';
+      listItem.style.flexWrap = 'wrap'; // Allow content to wrap
+      listItem.style.alignItems = 'center'; // Keep items vertically aligned
       const isFavorite = favoriteChannelIds.includes(channel.channelName);
 
       listItem.innerHTML = `
         <input type="checkbox" class="favorite-checkbox" data-channel-name="${channel.channelName}" ${isFavorite ? 'checked' : ''}>
-        <img src="${channel.tvgLogo}" alt="${channel.channelName} logo" style="margin-left: 10px;">
-        <span style="margin-left: 10px;">${channel.channelName}</span>
+        <img src="${channel.tvgLogo}" alt="${channel.channelName} logo" style="margin-left: 10px; flex-shrink: 0;">
+        <span style="margin-left: 10px; white-space: normal; flex-grow: 1; flex-shrink: 1; min-width: 0;">${channel.channelName}</span>
       `;
 
       if (channel.tvgId === lastActiveChannelId) {
