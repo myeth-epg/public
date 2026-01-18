@@ -15,11 +15,13 @@ function updateClock() {
     el.textContent = `Your Local Time: ${timeString} (${zoneName})`;
   }
 }
-setInterval(updateClock, 1000);
-updateClock(); // Initial call
 
 // 1. Fetch and parse XML on page load
 document.addEventListener('DOMContentLoaded', async () => {
+  // Start the clock immediately when DOM is ready
+  updateClock();
+  setInterval(updateClock, 1000);
+
   try {
     // Initialize converters
     s2t = OpenCC.Converter({ from: 'cn', to: 'tw' });
