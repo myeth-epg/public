@@ -1,6 +1,23 @@
 let xmlDoc = null; // Global variable to hold the parsed XML document
 let s2t, t2s; // Converters for Chinese scripts
 
+// 0. Live Clock
+function updateClock() {
+  const now = new Date();
+  const timeString = now.toLocaleString(undefined, {
+    year: 'numeric', month: '2-digit', day: '2-digit',
+    hour: '2-digit', minute: '2-digit', second: '2-digit',
+    hour12: false
+  });
+  const zoneName = Intl.DateTimeFormat().resolvedOptions().timeZone;
+  const el = document.getElementById('userTime');
+  if (el) {
+    el.textContent = `Your Local Time: ${timeString} (${zoneName})`;
+  }
+}
+setInterval(updateClock, 1000);
+updateClock(); // Initial call
+
 // 1. Fetch and parse XML on page load
 document.addEventListener('DOMContentLoaded', async () => {
   try {
