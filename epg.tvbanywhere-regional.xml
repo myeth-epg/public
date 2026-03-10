@@ -1,0 +1,1897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="tvb.jade.us.west">
+    <display-name lang="zh">06 翡翠台 (美加西岸时区)</display-name>
+  </channel>
+  <channel id="tvb.jade.us.east">
+    <display-name lang="zh">07 翡翠台 (美加东岸时区)</display-name>
+  </channel>
+  <channel id="tvb.jade.uk">
+    <display-name lang="zh">08 翡翠台 (英国时区)</display-name>
+  </channel>
+  <channel id="tvb.jade.au">
+    <display-name lang="zh">09 翡翠台 (澳新时区)</display-name>
+  </channel>
+  <programme start="20260310020000 +0000" stop="20260310030000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">The Imperial Coroner II</title>
+    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
+  </programme>
+  <programme start="20260310030000 +0000" stop="20260310033000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">US-Canada News</title>
+  </programme>
+  <programme start="20260310033000 +0000" stop="20260310040000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World News Roundup</title>
+    <desc lang="zh">(Chinese).</desc>
+  </programme>
+  <programme start="20260310040000 +0000" stop="20260310043000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260310043000 +0000" stop="20260310050000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260310050000 +0000" stop="20260310060000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Pretty Dangerous</title>
+    <desc lang="zh">Women who commit crimes upon unsuspecting men.</desc>
+  </programme>
+  <programme start="20260310060000 +0000" stop="20260310070000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">The Imperial Coroner II</title>
+    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
+  </programme>
+  <programme start="20260310070000 +0000" stop="20260310073000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Game of Scholars</title>
+  </programme>
+  <programme start="20260310073000 +0000" stop="20260310080000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Scoop</title>
+  </programme>
+  <programme start="20260310080000 +0000" stop="20260310083000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World Noon News</title>
+    <desc lang="zh">News.</desc>
+  </programme>
+  <programme start="20260310083000 +0000" stop="20260310090000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">US-Canada News</title>
+  </programme>
+  <programme start="20260310090000 +0000" stop="20260310094500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Big City Shop</title>
+  </programme>
+  <programme start="20260310094500 +0000" stop="20260310100000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Current Affairs &amp; Information</title>
+  </programme>
+  <programme start="20260310100000 +0000" stop="20260310110000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Girlie Days</title>
+    <desc lang="zh">When a woman&apos;s perfect life is shattered, she sets out on an inspirational journey to find herself again.</desc>
+  </programme>
+  <programme start="20260310110000 +0000" stop="20260310113000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260310113000 +0000" stop="20260310120000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World Noon News</title>
+    <desc lang="zh">News.</desc>
+  </programme>
+  <programme start="20260310120000 +0000" stop="20260310124500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Big City Shop</title>
+  </programme>
+  <programme start="20260310124500 +0000" stop="20260310130000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Current Affairs &amp; Information</title>
+  </programme>
+  <programme start="20260310130000 +0000" stop="20260310133000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">US-Canada News</title>
+  </programme>
+  <programme start="20260310133000 +0000" stop="20260310140000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World News &amp; Financial News</title>
+    <desc lang="zh">International updates from Hong Kong.</desc>
+  </programme>
+  <programme start="20260310140000 +0000" stop="20260310150000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Girlie Days</title>
+    <desc lang="zh">When a woman&apos;s perfect life is shattered, she sets out on an inspirational journey to find herself again.</desc>
+  </programme>
+  <programme start="20260310150000 +0000" stop="20260310153000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260310153000 +0000" stop="20260310160000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260310160000 +0000" stop="20260310170000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Pretty Dangerous</title>
+    <desc lang="zh">Women who commit crimes upon unsuspecting men.</desc>
+  </programme>
+  <programme start="20260310170000 +0000" stop="20260310180000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">The Imperial Coroner II</title>
+    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
+  </programme>
+  <programme start="20260310180000 +0000" stop="20260310183000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Game of Scholars</title>
+  </programme>
+  <programme start="20260310183000 +0000" stop="20260310190000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World News &amp; Financial News</title>
+    <desc lang="zh">International updates from Hong Kong.</desc>
+  </programme>
+  <programme start="20260310190000 +0000" stop="20260310193000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">News Treasury</title>
+  </programme>
+  <programme start="20260310193000 +0000" stop="20260310200000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260310200000 +0000" stop="20260310203000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Scoop</title>
+  </programme>
+  <programme start="20260310203000 +0000" stop="20260310213000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Girlie Days</title>
+    <desc lang="zh">When a woman&apos;s perfect life is shattered, she sets out on an inspirational journey to find herself again.</desc>
+  </programme>
+  <programme start="20260310213000 +0000" stop="20260310221500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Big City Shop</title>
+  </programme>
+  <programme start="20260310221500 +0000" stop="20260310224500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">On the Record</title>
+  </programme>
+  <programme start="20260310224500 +0000" stop="20260310230000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Info / Current Affairs &amp; Information</title>
+  </programme>
+  <programme start="20260310230000 +0000" stop="20260310233000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Game of Scholars</title>
+  </programme>
+  <programme start="20260310233000 +0000" stop="20260311000000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260311000000 +0000" stop="20260311003000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260311003000 +0000" stop="20260311010000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">News Treasury</title>
+  </programme>
+  <programme start="20260311010000 +0000" stop="20260311020000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Pretty Dangerous</title>
+    <desc lang="zh">Women who commit crimes upon unsuspecting men.</desc>
+  </programme>
+  <programme start="20260311020000 +0000" stop="20260311030000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">The Imperial Coroner II</title>
+    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
+  </programme>
+  <programme start="20260311030000 +0000" stop="20260311033000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">US-Canada News</title>
+  </programme>
+  <programme start="20260311033000 +0000" stop="20260311040000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World News Roundup</title>
+    <desc lang="zh">(Chinese).</desc>
+  </programme>
+  <programme start="20260311040000 +0000" stop="20260311043000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260311043000 +0000" stop="20260311050000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260311050000 +0000" stop="20260311060000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Pretty Dangerous</title>
+    <desc lang="zh">Women who commit crimes upon unsuspecting men.</desc>
+  </programme>
+  <programme start="20260311060000 +0000" stop="20260311070000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">The Imperial Coroner II</title>
+    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
+  </programme>
+  <programme start="20260311070000 +0000" stop="20260311073000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Game of Scholars</title>
+  </programme>
+  <programme start="20260311073000 +0000" stop="20260311080000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Scoop</title>
+  </programme>
+  <programme start="20260311080000 +0000" stop="20260311083000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World Noon News</title>
+    <desc lang="zh">News.</desc>
+  </programme>
+  <programme start="20260311083000 +0000" stop="20260311090000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">US-Canada News</title>
+  </programme>
+  <programme start="20260311090000 +0000" stop="20260311094500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Big City Shop</title>
+  </programme>
+  <programme start="20260311094500 +0000" stop="20260311100000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Current Affairs &amp; Information</title>
+  </programme>
+  <programme start="20260311100000 +0000" stop="20260311110000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Girlie Days</title>
+    <desc lang="zh">When a woman&apos;s perfect life is shattered, she sets out on an inspirational journey to find herself again.</desc>
+  </programme>
+  <programme start="20260311110000 +0000" stop="20260311113000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260311113000 +0000" stop="20260311120000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World Noon News</title>
+    <desc lang="zh">News.</desc>
+  </programme>
+  <programme start="20260311120000 +0000" stop="20260311124500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Big City Shop</title>
+  </programme>
+  <programme start="20260311124500 +0000" stop="20260311130000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Current Affairs &amp; Information</title>
+  </programme>
+  <programme start="20260311130000 +0000" stop="20260311133000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">US-Canada News</title>
+  </programme>
+  <programme start="20260311133000 +0000" stop="20260311140000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World News &amp; Financial News</title>
+    <desc lang="zh">International updates from Hong Kong.</desc>
+  </programme>
+  <programme start="20260311140000 +0000" stop="20260311150000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Girlie Days</title>
+    <desc lang="zh">When a woman&apos;s perfect life is shattered, she sets out on an inspirational journey to find herself again.</desc>
+  </programme>
+  <programme start="20260311150000 +0000" stop="20260311153000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260311153000 +0000" stop="20260311160000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260311160000 +0000" stop="20260311170000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Pretty Dangerous</title>
+    <desc lang="zh">Women who commit crimes upon unsuspecting men.</desc>
+  </programme>
+  <programme start="20260311170000 +0000" stop="20260311180000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">The Imperial Coroner II</title>
+    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
+  </programme>
+  <programme start="20260311180000 +0000" stop="20260311183000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Game of Scholars</title>
+  </programme>
+  <programme start="20260311183000 +0000" stop="20260311190000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World News &amp; Financial News</title>
+    <desc lang="zh">International updates from Hong Kong.</desc>
+  </programme>
+  <programme start="20260311190000 +0000" stop="20260311193000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Property Today</title>
+  </programme>
+  <programme start="20260311193000 +0000" stop="20260311200000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260311200000 +0000" stop="20260311203000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Scoop</title>
+  </programme>
+  <programme start="20260311203000 +0000" stop="20260311213000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Girlie Days</title>
+    <desc lang="zh">When a woman&apos;s perfect life is shattered, she sets out on an inspirational journey to find herself again.</desc>
+  </programme>
+  <programme start="20260311213000 +0000" stop="20260311221500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Big City Shop</title>
+  </programme>
+  <programme start="20260311221500 +0000" stop="20260311224500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">News Magazine</title>
+  </programme>
+  <programme start="20260311224500 +0000" stop="20260311230000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Info / Current Affairs &amp; Information</title>
+  </programme>
+  <programme start="20260311230000 +0000" stop="20260311233000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Game of Scholars</title>
+  </programme>
+  <programme start="20260311233000 +0000" stop="20260312000000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260312000000 +0000" stop="20260312003000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260312003000 +0000" stop="20260312010000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Property Today</title>
+  </programme>
+  <programme start="20260312010000 +0000" stop="20260312020000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Pretty Dangerous</title>
+    <desc lang="zh">Women who commit crimes upon unsuspecting men.</desc>
+  </programme>
+  <programme start="20260312020000 +0000" stop="20260312030000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">The Imperial Coroner II</title>
+    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
+  </programme>
+  <programme start="20260312030000 +0000" stop="20260312033000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">US-Canada News</title>
+  </programme>
+  <programme start="20260312033000 +0000" stop="20260312040000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World News Roundup</title>
+    <desc lang="zh">(Chinese).</desc>
+  </programme>
+  <programme start="20260312040000 +0000" stop="20260312043000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260312043000 +0000" stop="20260312050000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260312050000 +0000" stop="20260312060000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Pretty Dangerous</title>
+    <desc lang="zh">Women who commit crimes upon unsuspecting men.</desc>
+  </programme>
+  <programme start="20260312060000 +0000" stop="20260312070000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">The Imperial Coroner II</title>
+    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
+  </programme>
+  <programme start="20260312070000 +0000" stop="20260312073000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Game of Scholars</title>
+  </programme>
+  <programme start="20260312073000 +0000" stop="20260312080000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Scoop</title>
+  </programme>
+  <programme start="20260312080000 +0000" stop="20260312083000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World Noon News</title>
+    <desc lang="zh">News.</desc>
+  </programme>
+  <programme start="20260312083000 +0000" stop="20260312090000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">US-Canada News</title>
+  </programme>
+  <programme start="20260312090000 +0000" stop="20260312094500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Big City Shop</title>
+  </programme>
+  <programme start="20260312094500 +0000" stop="20260312100000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Current Affairs &amp; Information</title>
+  </programme>
+  <programme start="20260312100000 +0000" stop="20260312110000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Girlie Days</title>
+    <desc lang="zh">When a woman&apos;s perfect life is shattered, she sets out on an inspirational journey to find herself again.</desc>
+  </programme>
+  <programme start="20260312110000 +0000" stop="20260312113000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260312113000 +0000" stop="20260312120000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World Noon News</title>
+    <desc lang="zh">News.</desc>
+  </programme>
+  <programme start="20260312120000 +0000" stop="20260312124500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Big City Shop</title>
+  </programme>
+  <programme start="20260312124500 +0000" stop="20260312130000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Current Affairs &amp; Information</title>
+  </programme>
+  <programme start="20260312130000 +0000" stop="20260312133000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">US-Canada News</title>
+  </programme>
+  <programme start="20260312133000 +0000" stop="20260312140000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World News &amp; Financial News</title>
+    <desc lang="zh">International updates from Hong Kong.</desc>
+  </programme>
+  <programme start="20260312140000 +0000" stop="20260312150000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Girlie Days</title>
+    <desc lang="zh">When a woman&apos;s perfect life is shattered, she sets out on an inspirational journey to find herself again.</desc>
+  </programme>
+  <programme start="20260312150000 +0000" stop="20260312153000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260312153000 +0000" stop="20260312160000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260312160000 +0000" stop="20260312170000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Pretty Dangerous</title>
+    <desc lang="zh">Women who commit crimes upon unsuspecting men.</desc>
+  </programme>
+  <programme start="20260312170000 +0000" stop="20260312180000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">The Imperial Coroner II</title>
+    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
+  </programme>
+  <programme start="20260312180000 +0000" stop="20260312183000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Game of Scholars</title>
+  </programme>
+  <programme start="20260312183000 +0000" stop="20260312190000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World News &amp; Financial News</title>
+    <desc lang="zh">International updates from Hong Kong.</desc>
+  </programme>
+  <programme start="20260312190000 +0000" stop="20260312193000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Property Experts</title>
+    <desc lang="zh">Experts explore real estate trends in India, discussing market dynamics, investment opportunities and regulatory changes.</desc>
+  </programme>
+  <programme start="20260312193000 +0000" stop="20260312200000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260312200000 +0000" stop="20260312203000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Scoop</title>
+  </programme>
+  <programme start="20260312203000 +0000" stop="20260312213000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Girlie Days</title>
+    <desc lang="zh">When a woman&apos;s perfect life is shattered, she sets out on an inspirational journey to find herself again.</desc>
+  </programme>
+  <programme start="20260312213000 +0000" stop="20260312221500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Big City Shop</title>
+  </programme>
+  <programme start="20260312221500 +0000" stop="20260312224500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Sunday Report</title>
+  </programme>
+  <programme start="20260312224500 +0000" stop="20260312230000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Info / Current Affairs &amp; Information</title>
+  </programme>
+  <programme start="20260312230000 +0000" stop="20260312233000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Game of Scholars</title>
+  </programme>
+  <programme start="20260312233000 +0000" stop="20260313000000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260313000000 +0000" stop="20260313003000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260313003000 +0000" stop="20260313010000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Property Experts</title>
+    <desc lang="zh">Experts explore real estate trends in India, discussing market dynamics, investment opportunities and regulatory changes.</desc>
+  </programme>
+  <programme start="20260313010000 +0000" stop="20260313020000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Pretty Dangerous</title>
+    <desc lang="zh">Women who commit crimes upon unsuspecting men.</desc>
+  </programme>
+  <programme start="20260313020000 +0000" stop="20260313030000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">The Imperial Coroner II</title>
+    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
+  </programme>
+  <programme start="20260313030000 +0000" stop="20260313033000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">US-Canada News</title>
+  </programme>
+  <programme start="20260313033000 +0000" stop="20260313040000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World News Roundup</title>
+    <desc lang="zh">(Chinese).</desc>
+  </programme>
+  <programme start="20260313040000 +0000" stop="20260313043000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260313043000 +0000" stop="20260313050000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Pretty Dangerous</title>
+    <desc lang="zh">Women who commit crimes upon unsuspecting men.</desc>
+  </programme>
+  <programme start="20260313060000 +0000" stop="20260313070000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">The Imperial Coroner II</title>
+    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
+  </programme>
+  <programme start="20260310000000 +0000" stop="20260310010000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">我家无难事 / Kwoks And What, The</title>
+    <desc lang="zh">第九集\n忠石忆起与美兰相识经过，并向得宝解释美兰从没偏心得勤和得明，指美兰送赠得宝的洋娃娃，背后原有一段故事。得宝向正锋哭诉，多年来误解了美兰。羽冰乘耀山的车去见网友，发现对方竟是骗徒，她走进海里欲冷静下来，却险些遇溺，幸得耀山救回，对他顿生好感。小玥答应将美兰的花纽手艺传承下去，致澄感激得明的帮忙。得勤、Sam争相找机会亲近羽菲，得勤后来拍摄咖啡广告后意外地大受欢迎，以为与羽菲终有转机…….</desc>
+  </programme>
+  <programme start="20260310010000 +0000" stop="20260310013000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">爱．回家之开心速递 / Lo And Behold</title>
+    <desc lang="zh">第2759集  Call me Bonnie姐\nBonnie被某位新演员称呼为「Bonnie姐」，杜演趁机鼓动众人一同以此尊称她，甚至在片场外亦以「姐」相称。Bonnie地位提升，带来不少好处，起初乐于被称作「Bonnie姐」，后来却发现不少问题，城安遂向她提议「去姐化」的方法。Bonnie照办后成效显著，凌凌却认为不妥。另一方面，该名新演员突然「爆红」，变得十分嚣张，Bonnie尝试藉着杜演来整治此人，杜演却惹上极大麻烦…….</desc>
+  </programme>
+  <programme start="20260310013000 +0000" stop="20260310020000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">Hands Up / Hands Up 2026</title>
+    <desc lang="zh">全新儿童节目《Hands Up》鼓励小朋友勇于发问，表达自我，向目标进发！\n\n吉祥物「酱汁家族」成员跟一众主持演出短剧，陪伴大家度过愉快时光。另会带来多首儿歌，让孩子们边唱边学习生活知识。\n\n小朋友走进录像厂，寓学习于娱乐。透过不同主题游戏，加强逻辑思维、锻练体能；玩转STEAM实验，脑力全开！\n\n节目特设表演小舞台，让小朋友展示才艺；齐集创意工作室，DIY小手工。小教「煮」环节，家长和子女共享亲子烹饪乐趣。.</desc>
+  </programme>
+  <programme start="20260310020000 +0000" stop="20260310023000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">攻你上大学 &amp; 今日知多D / Game of Scholars  &amp; What&apos;s On Today</title>
+    <desc lang="zh">《攻你上大学》，由林盛斌率领2025年港姐亚军施宇琪、季军袁文静主持。这是一个以校园为主题的知识问答节目，学术与娱乐性兼备，带给观众新颖的观赏体验。问答题目涵盖小学至大学程度，艺员们会穿上校服参与。众星从小学问题开始作答，角逐升学席位；如能善用「读书锦囊」，可望令升学更顺利。过程紧张刺激，全面考验艺员的知识水平与临场反应。每轮胜出者除了袋走奖金外，并会晋身台庆夜的终极比拼，争夺更丰厚大奖！.</desc>
+  </programme>
+  <programme start="20260310023000 +0000" stop="20260310030000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">美食新闻报道 / Gourmet Express</title>
+    <desc lang="zh">香港汇聚环球美食，特色佳肴、贴地料理受到识饮识食之人的密切关注！黄婉曼、蔡雪莹、倪嘉雯、黄嘉雯、廖慧仪、伍倩彤等美食主播、主持，紧贴最新饮食情报与优惠，深入了解滋味背后的故事。从不同平台网罗超人气食店的情报，主持亲自出动排队、试食，带来真实食评。不设堂食的外卖小店亦深受追捧，有何必吃之选？经营食店难免尝尽甜酸苦辣，摄制队追踪主理人忙碌的一天，从搜购食材、准备材料到开档做生意，揭开「故事味缘」。.</desc>
+  </programme>
+  <programme start="20260310030000 +0000" stop="20260310040000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">卧底娇娃 / Pretty Dangerous</title>
+    <desc lang="zh">第11集\n楚渝向步青及奕风当面问责，幸得步青替奕风出面解释。小茹之母佩琳和欧凯的婆婆Helen偶然相认；Helen心生妙计以增加小茹和欧凯日后的相处机会。欧凯也终于踏出勇敢的第一步，向小茹提出约会。索帕盯上宝仪，似乎心怀不轨。宝仪上法文班时认识了邻座的同学，那人竟是索帕！奕风为免牵涉妙姿的感情风波而使她尴尬，决定透过佳琪来开解妙姿；妙姿向佳琪坦白与瀚东的往事……索帕带宝仪出走，更成功摆脱妙姿。.</desc>
+  </programme>
+  <programme start="20260310040000 +0000" stop="20260310043000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">东张西望 / Scoop 2026</title>
+    <desc lang="zh">《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。.</desc>
+  </programme>
+  <programme start="20260310043000 +0000" stop="20260310045500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">兄弟帮 / Big Boys Club</title>
+    <desc lang="zh">《兄弟帮》是由一班「好兄弟」林盛斌、梁竞徽、王梓轩、范振锋及陈国峰主持的年青人清谈节目，每集邀请歌手、艺人或不同界别人士作嘉宾，进行轻松访谈，带来时下社会热话、流行文化、潮流玩意等多元化内容。有关爱情、两性，以致同性关系，是男男女女谈之不尽的话题，节目邀来不同界别的嘉宾「谈情说爱」，探讨两性相处之道。「异度空间」专题，请来嘉宾分享不思议事件，如见鬼、UFO、奇人奇事等刺激话题。.</desc>
+  </programme>
+  <programme start="20260310045500 +0000" stop="20260310052000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">Hands Up / Hands Up 2026</title>
+    <desc lang="zh">全新儿童节目《Hands Up》鼓励小朋友勇于发问，表达自我，向目标进发！\n\n吉祥物「酱汁家族」成员跟一众主持演出短剧，陪伴大家度过愉快时光。另会带来多首儿歌，让孩子们边唱边学习生活知识。\n\n小朋友走进录像厂，寓学习于娱乐。透过不同主题游戏，加强逻辑思维、锻练体能；玩转STEAM实验，脑力全开！\n\n节目特设表演小舞台，让小朋友展示才艺；齐集创意工作室，DIY小手工。小教「煮」环节，家长和子女共享亲子烹饪乐趣。.</desc>
+  </programme>
+  <programme start="20260310052000 +0000" stop="20260310060500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">流行都市 / Big City Shop 2026</title>
+    <desc lang="zh">《流行都市》为观众介绍时令产品、健康养生、健体运动、护肤化妆、时尚服饰、婴幼儿护理、育儿知识、城中美食、饲养宠物等潮流信息，内容包罗万有！主持们亲身体验、示范或测试之外，还会邀请嘉宾带来相关专业知识。烹饪环节方面，多位手势了得的厨艺专家轮流登场，示范简单美味的健康美食、家常小菜，替大家解决煮食烦恼。.</desc>
+  </programme>
+  <programme start="20260310060500 +0000" stop="20260310063000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">爱．回家之开心速递 / Lo And Behold</title>
+    <desc lang="zh">第2759集  Call me Bonnie姐\nBonnie被某位新演员称呼为「Bonnie姐」，杜演趁机鼓动众人一同以此尊称她，甚至在片场外亦以「姐」相称。Bonnie地位提升，带来不少好处，起初乐于被称作「Bonnie姐」，后来却发现不少问题，城安遂向她提议「去姐化」的方法。Bonnie照办后成效显著，凌凌却认为不妥。另一方面，该名新演员突然「爆红」，变得十分嚣张，Bonnie尝试藉着杜演来整治此人，杜演却惹上极大麻烦…….</desc>
+  </programme>
+  <programme start="20260310063000 +0000" stop="20260310073000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">机智女法医2 &amp; 今日知多D / Imperial Coroner, The (II) &amp; What&apos;s On Today</title>
+    <desc lang="zh">第3集\n景翊赫尔冷月悻悻地从萧瑾瑜处离开，景翊跟在冷月后面，嘟囔冷月竟也不帮自己说句话。冷月却觉得景翊是咎由自取，谁让他差点说破萧瑾瑜精心准备的惊喜。景翊无奈地嘟囔着，称自己成婚后俸禄都交给了夫人，只能让夫人请自己吃饭，冷月听后点头应下。楚楚和萧瑾瑜回到府中，萧瑾瑜准备的惊喜让楚楚又惊又喜，原来今日是他们三年前初见的日子。楚楚有些不好意思，说自己都未准备礼物。萧瑾瑜温柔地表示，当初成婚是为了抓住乱党，还让楚楚假扮陛下，委屈了她。楚楚却笑着摇头，并不觉得委屈。次日，景翊前来，将写好的东西交给萧瑾瑜。.</desc>
+  </programme>
+  <programme start="20260310073000 +0000" stop="20260310080000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">攻你上大学 / Game of Scholars</title>
+    <desc lang="zh">《攻你上大学》，由林盛斌率领2025年港姐亚军施宇琪、季军袁文静主持。这是一个以校园为主题的知识问答节目，学术与娱乐性兼备，带给观众新颖的观赏体验。问答题目涵盖小学至大学程度，艺员们会穿上校服参与。众星从小学问题开始作答，角逐升学席位；如能善用「读书锦囊」，可望令升学更顺利。过程紧张刺激，全面考验艺员的知识水平与临场反应。每轮胜出者除了袋走奖金外，并会晋身台庆夜的终极比拼，争夺更丰厚大奖！.</desc>
+  </programme>
+  <programme start="20260310080000 +0000" stop="20260310083000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">大梦想家 / Big Big Home</title>
+    <desc lang="zh">新楼华丽时尚，可省却不少装潢烦恼。旧屋只要多花心思，也可换上耳目一新的感觉。主持谭凯萤游走台湾各地，深入市区黄金地段、新市镇发展潜力区域，探寻气派不凡的豪宅别墅与特色家居，细看《大梦想家》！移居台湾的港人，如何实现置业与创业梦想？多位「梦想家」分享当地的买楼故事与生活指南。导演赖丰奇、台裔美籍歌手荣忠豪、艺人杨子黎、音乐制作人陈宏佳、来自加拿大的「中文计算机之父」刘力学等，也会在节目中公开安乐窝。.</desc>
+  </programme>
+  <programme start="20260310083000 +0000" stop="20260310090000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">不可能任务 / Profession Impossible</title>
+    <desc lang="zh">第6集\n特警遴选体验— 基本体能训练\n新一轮《不可能任务》启动，谭俊彦率领李思雅、伍富桥、何泳芍、关曜儁、吴紫韵、余应彤、邬嘉骏，参与警察特别部队联合基本遴选。\n\n来回跑共设三个阶段，思雅跑到面青口唇白；俊彦、曜儁互相支持，坚持到最后！考生需要左右手各持十五磅哑铃，配合不同动作举起三百次，无奈三位女生始终力量不足。\n\n接连挑战掌上压、仰卧起坐，未达目标嘉骏被考官要求离场，他竟拒绝？接受拳击训练前，俊彦为队友们作简单指导，还与曜儁预演对打环节。.</desc>
+  </programme>
+  <programme start="20260310090000 +0000" stop="20260310093000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">兄弟帮 / Big Boys Club</title>
+    <desc lang="zh">《兄弟帮》是由一班「好兄弟」林盛斌、梁竞徽、王梓轩、范振锋及陈国峰主持的年青人清谈节目，每集邀请歌手、艺人或不同界别人士作嘉宾，进行轻松访谈，带来时下社会热话、流行文化、潮流玩意等多元化内容。有关爱情、两性，以致同性关系，是男男女女谈之不尽的话题，节目邀来不同界别的嘉宾「谈情说爱」，探讨两性相处之道。「异度空间」专题，请来嘉宾分享不思议事件，如见鬼、UFO、奇人奇事等刺激话题。.</desc>
+  </programme>
+  <programme start="20260310093000 +0000" stop="20260310103000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">星河长明 / Shining Just for You</title>
+    <desc lang="zh">第16集\n彧修明闯入叶凌霜的闭关处，发现她在尝试解开封印并陷入了幻境。叶凌霜被唤醒后对彧修明大发雷霆，责怪他利用夜北百姓作为牺牲品。随后，叶凌霜被彧修明打入天牢，但很快又被放出并恢复职位。在朝堂上，彧修明借叶凌霜之口警示朝臣，并定下规矩。后来彧修明邀请叶凌霜陪同巡狩，最初被拒绝，但叶凌霜在得知七海伶未死的消息后改变主意，并成功说服彧修明让她随行。最后，樊如晦建议彧修明将叶凌霜纳入后宫。.</desc>
+  </programme>
+  <programme start="20260310103000 +0000" stop="20260310110000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">六点半新闻报导 / News At 18:30</title>
+    <desc lang="zh">翡翠台每日下午六点半，报导本地、两岸及国际重要新闻。.</desc>
+  </programme>
+  <programme start="20260310110000 +0000" stop="20260310113500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">美食新闻报道 &amp; 今日知多D / Gourmet Express &amp; What&apos;s On Today</title>
+    <desc lang="zh">香港汇聚环球美食，特色佳肴、贴地料理受到识饮识食之人的密切关注！黄婉曼、蔡雪莹、倪嘉雯、黄嘉雯、廖慧仪、伍倩彤等美食主播、主持，紧贴最新饮食情报与优惠，深入了解滋味背后的故事。从不同平台网罗超人气食店的情报，主持亲自出动排队、试食，带来真实食评。不设堂食的外卖小店亦深受追捧，有何必吃之选？经营食店难免尝尽甜酸苦辣，摄制队追踪主理人忙碌的一天，从搜购食材、准备材料到开档做生意，揭开「故事味缘」。.</desc>
+  </programme>
+  <programme start="20260310113500 +0000" stop="20260310120000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">东张西望 / Scoop 2026</title>
+    <desc lang="zh">《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。.</desc>
+  </programme>
+  <programme start="20260310120000 +0000" stop="20260310123000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">爱．回家之开心速递 / Lo And Behold</title>
+    <desc lang="zh">第2760集  接龙颁奬礼\n地雷集团举办颁奖礼，颁出逾百个奖项，新人员工亦有机会获奖，而且得奖者都可获得纯金打造的奖座，成功引起话题。敢威不甘被比下去，决意举办「接龙颁奬礼」，务求更显体面。为要尽量做到「人人有奖攞」，并让奖项能为得奖者「度身订造」，力莲提出一个别开生面的「巧立名目」方法，最终成功拟定各个奖项及候选名单。颁奖礼当晚，若水等人满心期待，盼望能夺得「心水」奖项，讵料…….</desc>
+  </programme>
+  <programme start="20260310123000 +0000" stop="20260310133000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">卧底娇娃 / Pretty Dangerous</title>
+    <desc lang="zh">第12集\n索帕将宝仪带到没有讯号的鱼排，刘彪、邦妮大为紧张；幸宝仪安全回家。欧凯藉电影桥段向小茹表白，她却未有察觉。佳琪说服邦妮聘用资安公司，卧底小队藉此骇入爱邦妮的计算机系统。宝仪借故支走妙姿，让索帕潜入家中。幸妙姿发现端倪，与刘彪等赶回家中，刘彪看见索帕感愕然。索帕遭毒打，小茹为他疗伤，索帕道出自己的凄惨人生。小茹、佳琪查出嘉盈的账号被学年盗用；妙姿大受打击，忍不住在众人面前暴露出自己认识嘉盈！.</desc>
+  </programme>
+  <programme start="20260310133000 +0000" stop="20260310143000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">机智女法医2 / Imperial Coroner, The (II)</title>
+    <desc lang="zh">第4集\n宫女向太监恳请，给死去的姐妹一个公道，太监无奈看向了萧瑾瑜，希望他能出面解决这个问题。萧瑾瑜目光沉稳，思索片刻后，果断吩咐太监重审案件。原来，此前楚楚在安慰柳儿时，曾神情认真地问她，是否真要因自己的逃避，让伍两那个人渣拉着石青一同坠入深渊。楚楚一直期待着更好的结果，她深知梦游之人若被强行叫醒，会引发更危险的后果，只有柳儿等人自愿站出来，日后才不至于陷入无尽痛苦。皇帝听闻此事，眼中闪过一丝赞赏，感慨宫女之中竟有如此仗义之人，当即下旨特赦石青无罪。.</desc>
+  </programme>
+  <programme start="20260310143000 +0000" stop="20260310150000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">攻你上大学 / Game of Scholars</title>
+    <desc lang="zh">《攻你上大学》，由林盛斌率领2025年港姐亚军施宇琪、季军袁文静主持。这是一个以校园为主题的知识问答节目，学术与娱乐性兼备，带给观众新颖的观赏体验。问答题目涵盖小学至大学程度，艺员们会穿上校服参与。众星从小学问题开始作答，角逐升学席位；如能善用「读书锦囊」，可望令升学更顺利。过程紧张刺激，全面考验艺员的知识水平与临场反应。每轮胜出者除了袋走奖金外，并会晋身台庆夜的终极比拼，争夺更丰厚大奖！.</desc>
+  </programme>
+  <programme start="20260310150000 +0000" stop="20260310151500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">娱乐头条 / EXTRA</title>
+    <desc lang="zh">每晚紧贴香港娱乐圈的消息，以至世界各地的影视娱乐新闻，报导艺人最新动态、剧集和电影宣传、演唱会精华、颁奖礼盛况等，甚至远赴外地采访娱乐盛事、追踪各地影星，专访观众熟悉的歌、影、视红人，让大家瞬间掌握影视娱乐圈的动态和最新消息。.</desc>
+  </programme>
+  <programme start="20260310151500 +0000" stop="20260310155000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">晚间新闻 / News Roundup</title>
+    <desc lang="zh">报导香港、两岸、国际重要新闻以及体育消息，让你洞悉各地大事及体坛动向.</desc>
+  </programme>
+  <programme start="20260310155000 +0000" stop="20260310160000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">世界观 / Global View</title>
+    <desc lang="zh">由资深新闻工作者负责的《世界观》，带你用世界观、观世界，更阔更广看新闻、长知识。.</desc>
+  </programme>
+  <programme start="20260310160000 +0000" stop="20260310163000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">兄弟帮 / Big Boys Club</title>
+    <desc lang="zh">《兄弟帮》是由一班「好兄弟」林盛斌、梁竞徽、王梓轩、范振锋及陈国峰主持的年青人清谈节目，每集邀请歌手、艺人或不同界别人士作嘉宾，进行轻松访谈，带来时下社会热话、流行文化、潮流玩意等多元化内容。有关爱情、两性，以致同性关系，是男男女女谈之不尽的话题，节目邀来不同界别的嘉宾「谈情说爱」，探讨两性相处之道。「异度空间」专题，请来嘉宾分享不思议事件，如见鬼、UFO、奇人奇事等刺激话题。.</desc>
+  </programme>
+  <programme start="20260310163000 +0000" stop="20260310173000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">我家无难事 / Kwoks And What, The</title>
+    <desc lang="zh">第九集\n忠石忆起与美兰相识经过，并向得宝解释美兰从没偏心得勤和得明，指美兰送赠得宝的洋娃娃，背后原有一段故事。得宝向正锋哭诉，多年来误解了美兰。羽冰乘耀山的车去见网友，发现对方竟是骗徒，她走进海里欲冷静下来，却险些遇溺，幸得耀山救回，对他顿生好感。小玥答应将美兰的花纽手艺传承下去，致澄感激得明的帮忙。得勤、Sam争相找机会亲近羽菲，得勤后来拍摄咖啡广告后意外地大受欢迎，以为与羽菲终有转机…….</desc>
+  </programme>
+  <programme start="20260310173000 +0000" stop="20260310183000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">卧底娇娃 &amp; 今日知多D / Pretty Dangerous &amp; What&apos;s On Today</title>
+    <desc lang="zh">第12集\n索帕将宝仪带到没有讯号的鱼排，刘彪、邦妮大为紧张；幸宝仪安全回家。欧凯藉电影桥段向小茹表白，她却未有察觉。佳琪说服邦妮聘用资安公司，卧底小队藉此骇入爱邦妮的计算机系统。宝仪借故支走妙姿，让索帕潜入家中。幸妙姿发现端倪，与刘彪等赶回家中，刘彪看见索帕感愕然。索帕遭毒打，小茹为他疗伤，索帕道出自己的凄惨人生。小茹、佳琪查出嘉盈的账号被学年盗用；妙姿大受打击，忍不住在众人面前暴露出自己认识嘉盈！.</desc>
+  </programme>
+  <programme start="20260310183000 +0000" stop="20260310190000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">爱．回家之开心速递 / Lo And Behold</title>
+    <desc lang="zh">第2760集  接龙颁奬礼\n地雷集团举办颁奖礼，颁出逾百个奖项，新人员工亦有机会获奖，而且得奖者都可获得纯金打造的奖座，成功引起话题。敢威不甘被比下去，决意举办「接龙颁奬礼」，务求更显体面。为要尽量做到「人人有奖攞」，并让奖项能为得奖者「度身订造」，力莲提出一个别开生面的「巧立名目」方法，最终成功拟定各个奖项及候选名单。颁奖礼当晚，若水等人满心期待，盼望能夺得「心水」奖项，讵料…….</desc>
+  </programme>
+  <programme start="20260310190000 +0000" stop="20260310193000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">东张西望 / Scoop 2026</title>
+    <desc lang="zh">《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。.</desc>
+  </programme>
+  <programme start="20260310193000 +0000" stop="20260310200000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">美食新闻报道 / Gourmet Express</title>
+    <desc lang="zh">香港汇聚环球美食，特色佳肴、贴地料理受到识饮识食之人的密切关注！黄婉曼、蔡雪莹、倪嘉雯、黄嘉雯、廖慧仪、伍倩彤等美食主播、主持，紧贴最新饮食情报与优惠，深入了解滋味背后的故事。从不同平台网罗超人气食店的情报，主持亲自出动排队、试食，带来真实食评。不设堂食的外卖小店亦深受追捧，有何必吃之选？经营食店难免尝尽甜酸苦辣，摄制队追踪主理人忙碌的一天，从搜购食材、准备材料到开档做生意，揭开「故事味缘」。.</desc>
+  </programme>
+  <programme start="20260310200000 +0000" stop="20260310210000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">星河长明 / Shining Just for You</title>
+    <desc lang="zh">第16集\n彧修明闯入叶凌霜的闭关处，发现她在尝试解开封印并陷入了幻境。叶凌霜被唤醒后对彧修明大发雷霆，责怪他利用夜北百姓作为牺牲品。随后，叶凌霜被彧修明打入天牢，但很快又被放出并恢复职位。在朝堂上，彧修明借叶凌霜之口警示朝臣，并定下规矩。后来彧修明邀请叶凌霜陪同巡狩，最初被拒绝，但叶凌霜在得知七海伶未死的消息后改变主意，并成功说服彧修明让她随行。最后，樊如晦建议彧修明将叶凌霜纳入后宫。.</desc>
+  </programme>
+  <programme start="20260310210000 +0000" stop="20260310214500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">流行都市 / Big City Shop 2026</title>
+    <desc lang="zh">《流行都市》为观众介绍时令产品、健康养生、健体运动、护肤化妆、时尚服饰、婴幼儿护理、育儿知识、城中美食、饲养宠物等潮流信息，内容包罗万有！主持们亲身体验、示范或测试之外，还会邀请嘉宾带来相关专业知识。烹饪环节方面，多位手势了得的厨艺专家轮流登场，示范简单美味的健康美食、家常小菜，替大家解决煮食烦恼。.</desc>
+  </programme>
+  <programme start="20260310214500 +0000" stop="20260310220000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">快乐长门人 / Happy Old Buddies</title>
+    <desc lang="zh">不少人或会认为长者并没有性需要，但有调查发现结果却非如此，长者只是因为不同原因引致性生活有所减少。社署临床心理学家林晧明详述世卫对性的定义，并替想跟老伴重启性生活的老友记带来建议。不过，另一半如不想恢复性行为，双方应如何沟通？.</desc>
+  </programme>
+  <programme start="20260310220000 +0000" stop="20260310223000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">大梦想家 / Big Big Home</title>
+    <desc lang="zh">新楼华丽时尚，可省却不少装潢烦恼。旧屋只要多花心思，也可换上耳目一新的感觉。主持谭凯萤游走台湾各地，深入市区黄金地段、新市镇发展潜力区域，探寻气派不凡的豪宅别墅与特色家居，细看《大梦想家》！移居台湾的港人，如何实现置业与创业梦想？多位「梦想家」分享当地的买楼故事与生活指南。导演赖丰奇、台裔美籍歌手荣忠豪、艺人杨子黎、音乐制作人陈宏佳、来自加拿大的「中文计算机之父」刘力学等，也会在节目中公开安乐窝。.</desc>
+  </programme>
+  <programme start="20260310223000 +0000" stop="20260310230000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">东张西望 / Scoop 2026</title>
+    <desc lang="zh">《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。.</desc>
+  </programme>
+  <programme start="20260310230000 +0000" stop="20260311000000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">香港早晨 及 世界观 / Good Morning Hong Kong and Global View</title>
+    <desc lang="zh">报导香港、两岸及国际重要新闻。.</desc>
+  </programme>
+  <programme start="20260311000000 +0000" stop="20260311010000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">我家无难事 / Kwoks And What, The</title>
+    <desc lang="zh">第十集\n羽菲被得勤纠缠，使计令他知难而退。得勤与忠石针锋相对，责备力撑忠石的得明。得明心感不快，忠石带他到拳馆练拳发泄。羽菲、羽冰被记者跟踪，得勤帮忙解围……得明答应借婚纱予致澄布置手作坊，惜因工作无法抽身，景轩帮忙代劳并暗中送小礼物予致澄……羽冰遇上色狼获耀山解救，与他倾诉心事，表示希望有朝一日能穿上婚纱以圆心愿，耀山答应将来为她设计婚纱。忠石外出遭凶徒追斩，得勤等人恰巧目睹忠石遇袭，情势危急…….</desc>
+  </programme>
+  <programme start="20260311010000 +0000" stop="20260311013000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">爱．回家之开心速递 / Lo And Behold</title>
+    <desc lang="zh">第2760集  接龙颁奬礼\n地雷集团举办颁奖礼，颁出逾百个奖项，新人员工亦有机会获奖，而且得奖者都可获得纯金打造的奖座，成功引起话题。敢威不甘被比下去，决意举办「接龙颁奬礼」，务求更显体面。为要尽量做到「人人有奖攞」，并让奖项能为得奖者「度身订造」，力莲提出一个别开生面的「巧立名目」方法，最终成功拟定各个奖项及候选名单。颁奖礼当晚，若水等人满心期待，盼望能夺得「心水」奖项，讵料…….</desc>
+  </programme>
+  <programme start="20260311013000 +0000" stop="20260311020000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">Hands Up / Hands Up 2026</title>
+    <desc lang="zh">全新儿童节目《Hands Up》鼓励小朋友勇于发问，表达自我，向目标进发！\n\n吉祥物「酱汁家族」成员跟一众主持演出短剧，陪伴大家度过愉快时光。另会带来多首儿歌，让孩子们边唱边学习生活知识。\n\n小朋友走进录像厂，寓学习于娱乐。透过不同主题游戏，加强逻辑思维、锻练体能；玩转STEAM实验，脑力全开！\n\n节目特设表演小舞台，让小朋友展示才艺；齐集创意工作室，DIY小手工。小教「煮」环节，家长和子女共享亲子烹饪乐趣。.</desc>
+  </programme>
+  <programme start="20260311020000 +0000" stop="20260311023000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">攻你上大学 &amp; 今日知多D / Game of Scholars  &amp; What&apos;s On Today</title>
+    <desc lang="zh">《攻你上大学》，由林盛斌率领2025年港姐亚军施宇琪、季军袁文静主持。这是一个以校园为主题的知识问答节目，学术与娱乐性兼备，带给观众新颖的观赏体验。问答题目涵盖小学至大学程度，艺员们会穿上校服参与。众星从小学问题开始作答，角逐升学席位；如能善用「读书锦囊」，可望令升学更顺利。过程紧张刺激，全面考验艺员的知识水平与临场反应。每轮胜出者除了袋走奖金外，并会晋身台庆夜的终极比拼，争夺更丰厚大奖！.</desc>
+  </programme>
+  <programme start="20260311023000 +0000" stop="20260311030000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">美食新闻报道 / Gourmet Express</title>
+    <desc lang="zh">香港汇聚环球美食，特色佳肴、贴地料理受到识饮识食之人的密切关注！黄婉曼、蔡雪莹、倪嘉雯、黄嘉雯、廖慧仪、伍倩彤等美食主播、主持，紧贴最新饮食情报与优惠，深入了解滋味背后的故事。从不同平台网罗超人气食店的情报，主持亲自出动排队、试食，带来真实食评。不设堂食的外卖小店亦深受追捧，有何必吃之选？经营食店难免尝尽甜酸苦辣，摄制队追踪主理人忙碌的一天，从搜购食材、准备材料到开档做生意，揭开「故事味缘」。.</desc>
+  </programme>
+  <programme start="20260311030000 +0000" stop="20260311040000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">卧底娇娃 / Pretty Dangerous</title>
+    <desc lang="zh">第12集\n索帕将宝仪带到没有讯号的鱼排，刘彪、邦妮大为紧张；幸宝仪安全回家。欧凯藉电影桥段向小茹表白，她却未有察觉。佳琪说服邦妮聘用资安公司，卧底小队藉此骇入爱邦妮的计算机系统。宝仪借故支走妙姿，让索帕潜入家中。幸妙姿发现端倪，与刘彪等赶回家中，刘彪看见索帕感愕然。索帕遭毒打，小茹为他疗伤，索帕道出自己的凄惨人生。小茹、佳琪查出嘉盈的账号被学年盗用；妙姿大受打击，忍不住在众人面前暴露出自己认识嘉盈！.</desc>
+  </programme>
+  <programme start="20260311040000 +0000" stop="20260311043000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">东张西望 / Scoop 2026</title>
+    <desc lang="zh">《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。.</desc>
+  </programme>
+  <programme start="20260311043000 +0000" stop="20260311045500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">兄弟帮 / Big Boys Club</title>
+    <desc lang="zh">《兄弟帮》是由一班「好兄弟」林盛斌、梁竞徽、王梓轩、范振锋及陈国峰主持的年青人清谈节目，每集邀请歌手、艺人或不同界别人士作嘉宾，进行轻松访谈，带来时下社会热话、流行文化、潮流玩意等多元化内容。有关爱情、两性，以致同性关系，是男男女女谈之不尽的话题，节目邀来不同界别的嘉宾「谈情说爱」，探讨两性相处之道。「异度空间」专题，请来嘉宾分享不思议事件，如见鬼、UFO、奇人奇事等刺激话题。.</desc>
+  </programme>
+  <programme start="20260311045500 +0000" stop="20260311052000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">Hands Up / Hands Up 2026</title>
+    <desc lang="zh">全新儿童节目《Hands Up》鼓励小朋友勇于发问，表达自我，向目标进发！\n\n吉祥物「酱汁家族」成员跟一众主持演出短剧，陪伴大家度过愉快时光。另会带来多首儿歌，让孩子们边唱边学习生活知识。\n\n小朋友走进录像厂，寓学习于娱乐。透过不同主题游戏，加强逻辑思维、锻练体能；玩转STEAM实验，脑力全开！\n\n节目特设表演小舞台，让小朋友展示才艺；齐集创意工作室，DIY小手工。小教「煮」环节，家长和子女共享亲子烹饪乐趣。.</desc>
+  </programme>
+  <programme start="20260311052000 +0000" stop="20260311060500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">流行都市 / Big City Shop 2026</title>
+    <desc lang="zh">《流行都市》为观众介绍时令产品、健康养生、健体运动、护肤化妆、时尚服饰、婴幼儿护理、育儿知识、城中美食、饲养宠物等潮流信息，内容包罗万有！主持们亲身体验、示范或测试之外，还会邀请嘉宾带来相关专业知识。烹饪环节方面，多位手势了得的厨艺专家轮流登场，示范简单美味的健康美食、家常小菜，替大家解决煮食烦恼。.</desc>
+  </programme>
+  <programme start="20260311060500 +0000" stop="20260311063000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">爱．回家之开心速递 / Lo And Behold</title>
+    <desc lang="zh">第2760集  接龙颁奬礼\n地雷集团举办颁奖礼，颁出逾百个奖项，新人员工亦有机会获奖，而且得奖者都可获得纯金打造的奖座，成功引起话题。敢威不甘被比下去，决意举办「接龙颁奬礼」，务求更显体面。为要尽量做到「人人有奖攞」，并让奖项能为得奖者「度身订造」，力莲提出一个别开生面的「巧立名目」方法，最终成功拟定各个奖项及候选名单。颁奖礼当晚，若水等人满心期待，盼望能夺得「心水」奖项，讵料…….</desc>
+  </programme>
+  <programme start="20260311063000 +0000" stop="20260311073000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">机智女法医2 &amp; 今日知多D / Imperial Coroner, The (II) &amp; What&apos;s On Today</title>
+    <desc lang="zh">第4集\n宫女向太监恳请，给死去的姐妹一个公道，太监无奈看向了萧瑾瑜，希望他能出面解决这个问题。萧瑾瑜目光沉稳，思索片刻后，果断吩咐太监重审案件。原来，此前楚楚在安慰柳儿时，曾神情认真地问她，是否真要因自己的逃避，让伍两那个人渣拉着石青一同坠入深渊。楚楚一直期待着更好的结果，她深知梦游之人若被强行叫醒，会引发更危险的后果，只有柳儿等人自愿站出来，日后才不至于陷入无尽痛苦。皇帝听闻此事，眼中闪过一丝赞赏，感慨宫女之中竟有如此仗义之人，当即下旨特赦石青无罪。.</desc>
+  </programme>
+  <programme start="20260311073000 +0000" stop="20260311080000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">攻你上大学 / Game of Scholars</title>
+    <desc lang="zh">《攻你上大学》，由林盛斌率领2025年港姐亚军施宇琪、季军袁文静主持。这是一个以校园为主题的知识问答节目，学术与娱乐性兼备，带给观众新颖的观赏体验。问答题目涵盖小学至大学程度，艺员们会穿上校服参与。众星从小学问题开始作答，角逐升学席位；如能善用「读书锦囊」，可望令升学更顺利。过程紧张刺激，全面考验艺员的知识水平与临场反应。每轮胜出者除了袋走奖金外，并会晋身台庆夜的终极比拼，争夺更丰厚大奖！.</desc>
+  </programme>
+  <programme start="20260311080000 +0000" stop="20260311083000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">港生活．港享受 / Dolce Vita 2021</title>
+    <desc lang="zh">香港人生活多姿多采，《港生活．港享受》既呈献高贵典雅的品味生活，也会带来贴地亲民的优质享受。节目结合多元化主题，每集探索不同范畴，并请来各行各业的精英分享成功之道。.</desc>
+  </programme>
+  <programme start="20260311083000 +0000" stop="20260311090000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">开卷 / Open Book</title>
+    <desc lang="zh">书本、篇章电子化的快餐年代，手机能知天下事，能够保持阅读习惯的人，少之又少……博覧群书的林溥来，联同涂毓麟、何泳芍、伍韵婷、布乐文等年轻一代重新确认实体书的价值。每集介绍一本好书，翻开科学书籍、历史文学、小说读物以至时尚杂志，分享从书本中所得的有趣知识。回想对上一次完整阅览一本书是甚么时候？参考过星级书虫的阅读清单，坐言起行，在繁忙生活中留下喘息空间，重拾良好阅读习惯，充实自己！.</desc>
+  </programme>
+  <programme start="20260311090000 +0000" stop="20260311093000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">兄弟帮 / Big Boys Club</title>
+    <desc lang="zh">《兄弟帮》是由一班「好兄弟」林盛斌、梁竞徽、王梓轩、范振锋及陈国峰主持的年青人清谈节目，每集邀请歌手、艺人或不同界别人士作嘉宾，进行轻松访谈，带来时下社会热话、流行文化、潮流玩意等多元化内容。有关爱情、两性，以致同性关系，是男男女女谈之不尽的话题，节目邀来不同界别的嘉宾「谈情说爱」，探讨两性相处之道。「异度空间」专题，请来嘉宾分享不思议事件，如见鬼、UFO、奇人奇事等刺激话题。.</desc>
+  </programme>
+  <programme start="20260311093000 +0000" stop="20260311103000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">星河长明 / Shining Just for You</title>
+    <desc lang="zh">第17集\n彧修明拒绝了大臣将叶凌霜纳入后宫的建议，并与她一同出发巡狩。期间，叶凌霜将云纹托付给顾惘然照看。在巡狩过程中，彧修明揭露了中州大都护蔡骖的违法行为。蔡骖因此计划反叛，试图在枕霞山切断彧修明的救兵后杀了他。然而，彧修明早有准备，他和叶凌霜一起面对险境。在蔡军围攻枕霞山时，叶凌霜决定留下坚守，而彧修明则下山求援。尽管面临重重困难，叶凌霜仍决心与剩余的禁军一起坚守阵地，等待彧修明的归来。.</desc>
+  </programme>
+  <programme start="20260311103000 +0000" stop="20260311110000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">六点半新闻报导 / News At 18:30</title>
+    <desc lang="zh">翡翠台每日下午六点半，报导本地、两岸及国际重要新闻。.</desc>
+  </programme>
+  <programme start="20260311110000 +0000" stop="20260311113500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">地球村民 &amp; 今日知多D / Global Citizens &amp; What&apos;s On Today</title>
+    <desc lang="zh">第1集\n智利 X 地球村民的条件\n南美国家智利除了盛产红酒，亦深受印加、西班牙传统文化影响。一位智利人只身来到香港，怎样融入这里的生活和文化？.</desc>
+  </programme>
+  <programme start="20260311113500 +0000" stop="20260311120000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">东张西望 / Scoop 2026</title>
+    <desc lang="zh">《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。.</desc>
+  </programme>
+  <programme start="20260311120000 +0000" stop="20260311123000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">爱．回家之开心速递 / Lo And Behold</title>
+    <desc lang="zh">第2761集  我爱Made in HongKong\n城安取得一批吴旺达的新货品，Ceci偶然看中一个手工精良的真皮手袋，城安遂开天杀价牟利。Ceci还额外订购一百个指定颜色的手袋以送赠别人，并全额付款。若未能交货，城安便要缴付巨额赔偿金，怎料该手袋原来早已停产，若水更意外发现竟是本地制造。Ceci要求检视样品，城安企图蒙混过关，却不果。制造该手袋的工厂已倒闭，城安却意外找到当年有份缝制手袋的女工，遂请她出山。女工必须集结昔日工友，共同完成任务…….</desc>
+  </programme>
+  <programme start="20260311123000 +0000" stop="20260311133000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">卧底娇娃 / Pretty Dangerous</title>
+    <desc lang="zh">第13集\n妙姿央求奕风让自己留下继续调查，但其后还是被勒令不准再参与卧底行动。妙姿调往行动组，意外得悉更多关于爱邦妮与嘉盈之死的线索，还暗地以匿名状态向佳琪报料。小茹促成了宝仪和欧凯的相遇，还替二人牵线。欧凯见到小茹和索帕在洗衣店外的亲密接触，有所误会。佳琪在爱邦妮察觉到秘书邝丽荃似有所隐瞒，并知悉丽荃相约某人见面。佳琪使计获得了机密文件柜的钥匙；她和奕风兵分两路调查，奕风发现和丽荃见面的人竟是学年…….</desc>
+  </programme>
+  <programme start="20260311133000 +0000" stop="20260311143000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">机智女法医2 / Imperial Coroner, The (II)</title>
+    <desc lang="zh">第5集\n近日，南赵的神观法师在京城声名大噪，备受众人追捧。礼部赵侍郎的内眷听闻后，特意来到寺庙上香，满心期盼神观法师能前往家中做一场法事。神观法师微微皱眉，面露难色，称自己近期的行程早已排满。赵侍郎的内眷神情恳切，言明自己诚意十足，还拿出慧妃娘娘亲笔所写的手书。神观法师目光扫过手书，沉默片刻后，缓缓点头应下。神观法师的弟子站在一旁，看到香炉中的香突然熄灭，心中涌起一股不祥的预感。他转头看向师父，却见师父神色平静，仿佛早已察觉到这一切。.</desc>
+  </programme>
+  <programme start="20260311143000 +0000" stop="20260311150000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">攻你上大学 / Game of Scholars</title>
+    <desc lang="zh">《攻你上大学》，由林盛斌率领2025年港姐亚军施宇琪、季军袁文静主持。这是一个以校园为主题的知识问答节目，学术与娱乐性兼备，带给观众新颖的观赏体验。问答题目涵盖小学至大学程度，艺员们会穿上校服参与。众星从小学问题开始作答，角逐升学席位；如能善用「读书锦囊」，可望令升学更顺利。过程紧张刺激，全面考验艺员的知识水平与临场反应。每轮胜出者除了袋走奖金外，并会晋身台庆夜的终极比拼，争夺更丰厚大奖！.</desc>
+  </programme>
+  <programme start="20260311150000 +0000" stop="20260311151500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">娱乐头条 / EXTRA</title>
+    <desc lang="zh">每晚紧贴香港娱乐圈的消息，以至世界各地的影视娱乐新闻，报导艺人最新动态、剧集和电影宣传、演唱会精华、颁奖礼盛况等，甚至远赴外地采访娱乐盛事、追踪各地影星，专访观众熟悉的歌、影、视红人，让大家瞬间掌握影视娱乐圈的动态和最新消息。.</desc>
+  </programme>
+  <programme start="20260311151500 +0000" stop="20260311155000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">晚间新闻 / News Roundup</title>
+    <desc lang="zh">报导香港、两岸、国际重要新闻以及体育消息，让你洞悉各地大事及体坛动向.</desc>
+  </programme>
+  <programme start="20260311155000 +0000" stop="20260311160000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">世界观 / Global View</title>
+    <desc lang="zh">由资深新闻工作者负责的《世界观》，带你用世界观、观世界，更阔更广看新闻、长知识。.</desc>
+  </programme>
+  <programme start="20260311160000 +0000" stop="20260311163000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">兄弟帮 / Big Boys Club</title>
+    <desc lang="zh">《兄弟帮》是由一班「好兄弟」林盛斌、梁竞徽、王梓轩、范振锋及陈国峰主持的年青人清谈节目，每集邀请歌手、艺人或不同界别人士作嘉宾，进行轻松访谈，带来时下社会热话、流行文化、潮流玩意等多元化内容。有关爱情、两性，以致同性关系，是男男女女谈之不尽的话题，节目邀来不同界别的嘉宾「谈情说爱」，探讨两性相处之道。「异度空间」专题，请来嘉宾分享不思议事件，如见鬼、UFO、奇人奇事等刺激话题。.</desc>
+  </programme>
+  <programme start="20260311163000 +0000" stop="20260311173000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">我家无难事 / Kwoks And What, The</title>
+    <desc lang="zh">第十集\n羽菲被得勤纠缠，使计令他知难而退。得勤与忠石针锋相对，责备力撑忠石的得明。得明心感不快，忠石带他到拳馆练拳发泄。羽菲、羽冰被记者跟踪，得勤帮忙解围……得明答应借婚纱予致澄布置手作坊，惜因工作无法抽身，景轩帮忙代劳并暗中送小礼物予致澄……羽冰遇上色狼获耀山解救，与他倾诉心事，表示希望有朝一日能穿上婚纱以圆心愿，耀山答应将来为她设计婚纱。忠石外出遭凶徒追斩，得勤等人恰巧目睹忠石遇袭，情势危急…….</desc>
+  </programme>
+  <programme start="20260311173000 +0000" stop="20260311183000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">卧底娇娃 &amp; 今日知多D / Pretty Dangerous &amp; What&apos;s On Today</title>
+    <desc lang="zh">第13集\n妙姿央求奕风让自己留下继续调查，但其后还是被勒令不准再参与卧底行动。妙姿调往行动组，意外得悉更多关于爱邦妮与嘉盈之死的线索，还暗地以匿名状态向佳琪报料。小茹促成了宝仪和欧凯的相遇，还替二人牵线。欧凯见到小茹和索帕在洗衣店外的亲密接触，有所误会。佳琪在爱邦妮察觉到秘书邝丽荃似有所隐瞒，并知悉丽荃相约某人见面。佳琪使计获得了机密文件柜的钥匙；她和奕风兵分两路调查，奕风发现和丽荃见面的人竟是学年…….</desc>
+  </programme>
+  <programme start="20260311183000 +0000" stop="20260311190000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">爱．回家之开心速递 / Lo And Behold</title>
+    <desc lang="zh">第2761集  我爱Made in HongKong\n城安取得一批吴旺达的新货品，Ceci偶然看中一个手工精良的真皮手袋，城安遂开天杀价牟利。Ceci还额外订购一百个指定颜色的手袋以送赠别人，并全额付款。若未能交货，城安便要缴付巨额赔偿金，怎料该手袋原来早已停产，若水更意外发现竟是本地制造。Ceci要求检视样品，城安企图蒙混过关，却不果。制造该手袋的工厂已倒闭，城安却意外找到当年有份缝制手袋的女工，遂请她出山。女工必须集结昔日工友，共同完成任务…….</desc>
+  </programme>
+  <programme start="20260311190000 +0000" stop="20260311193000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">东张西望 / Scoop 2026</title>
+    <desc lang="zh">《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。.</desc>
+  </programme>
+  <programme start="20260311193000 +0000" stop="20260311200000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">地球村民 / Global Citizens</title>
+    <desc lang="zh">第1集\n智利 X 地球村民的条件\n南美国家智利除了盛产红酒，亦深受印加、西班牙传统文化影响。一位智利人只身来到香港，怎样融入这里的生活和文化？.</desc>
+  </programme>
+  <programme start="20260311200000 +0000" stop="20260311210000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">星河长明 / Shining Just for You</title>
+    <desc lang="zh">第17集\n彧修明拒绝了大臣将叶凌霜纳入后宫的建议，并与她一同出发巡狩。期间，叶凌霜将云纹托付给顾惘然照看。在巡狩过程中，彧修明揭露了中州大都护蔡骖的违法行为。蔡骖因此计划反叛，试图在枕霞山切断彧修明的救兵后杀了他。然而，彧修明早有准备，他和叶凌霜一起面对险境。在蔡军围攻枕霞山时，叶凌霜决定留下坚守，而彧修明则下山求援。尽管面临重重困难，叶凌霜仍决心与剩余的禁军一起坚守阵地，等待彧修明的归来。.</desc>
+  </programme>
+  <programme start="20260311210000 +0000" stop="20260311214500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">流行都市 / Big City Shop 2026</title>
+    <desc lang="zh">《流行都市》为观众介绍时令产品、健康养生、健体运动、护肤化妆、时尚服饰、婴幼儿护理、育儿知识、城中美食、饲养宠物等潮流信息，内容包罗万有！主持们亲身体验、示范或测试之外，还会邀请嘉宾带来相关专业知识。烹饪环节方面，多位手势了得的厨艺专家轮流登场，示范简单美味的健康美食、家常小菜，替大家解决煮食烦恼。.</desc>
+  </programme>
+  <programme start="20260311214500 +0000" stop="20260311220000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">快乐长门人 / Happy Old Buddies</title>
+    <desc lang="zh">不少人或会认为长者并没有性需要，但有调查发现结果却非如此，长者只是因为不同原因引致性生活有所减少。社署临床心理学家林晧明详述世卫对性的定义，并替想跟老伴重启性生活的老友记带来建议。不过，另一半如不想恢复性行为，双方应如何沟通？.</desc>
+  </programme>
+  <programme start="20260311220000 +0000" stop="20260311223000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">港生活．港享受 / Dolce Vita 2021</title>
+    <desc lang="zh">香港人生活多姿多采，《港生活．港享受》既呈献高贵典雅的品味生活，也会带来贴地亲民的优质享受。节目结合多元化主题，每集探索不同范畴，并请来各行各业的精英分享成功之道。.</desc>
+  </programme>
+  <programme start="20260311223000 +0000" stop="20260311230000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">东张西望 / Scoop 2026</title>
+    <desc lang="zh">《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。.</desc>
+  </programme>
+  <programme start="20260311230000 +0000" stop="20260312000000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">香港早晨 及 世界观 / Good Morning Hong Kong and Global View</title>
+    <desc lang="zh">报导香港、两岸及国际重要新闻。.</desc>
+  </programme>
+  <programme start="20260312000000 +0000" stop="20260312010000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">我家无难事 / Kwoks And What, The</title>
+    <desc lang="zh">第十一集\n忠石找朱锐追问自己遇袭之事，朱锐假装毫不知情，并故意提起往事。忠石欲寻找前社团大哥刀爷，追查当年台湾冤狱的真相。得勤出席活动大受欢迎，自信羽菲会回归身边。淑娥欲撮合正峰和家务助理Elaine，正峰无奈。羽冰获耀山羽冰改变形象，对耀山芳心暗许；得明帮致澄缝补工作布袋，致澄暗感心甜。忠石得悉刀爷在澳门，赴澳门途中巧遇得明。得宝病倒，得景轩悉心照料……得勤欲于岚臣代言人签约仪式上追回羽菲，讵料生出变数…….</desc>
+  </programme>
+  <programme start="20260312010000 +0000" stop="20260312013000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">爱．回家之开心速递 / Lo And Behold</title>
+    <desc lang="zh">第2761集  我爱Made in HongKong\n城安取得一批吴旺达的新货品，Ceci偶然看中一个手工精良的真皮手袋，城安遂开天杀价牟利。Ceci还额外订购一百个指定颜色的手袋以送赠别人，并全额付款。若未能交货，城安便要缴付巨额赔偿金，怎料该手袋原来早已停产，若水更意外发现竟是本地制造。Ceci要求检视样品，城安企图蒙混过关，却不果。制造该手袋的工厂已倒闭，城安却意外找到当年有份缝制手袋的女工，遂请她出山。女工必须集结昔日工友，共同完成任务…….</desc>
+  </programme>
+  <programme start="20260312013000 +0000" stop="20260312020000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">Hands Up / Hands Up 2026</title>
+    <desc lang="zh">全新儿童节目《Hands Up》鼓励小朋友勇于发问，表达自我，向目标进发！\n\n吉祥物「酱汁家族」成员跟一众主持演出短剧，陪伴大家度过愉快时光。另会带来多首儿歌，让孩子们边唱边学习生活知识。\n\n小朋友走进录像厂，寓学习于娱乐。透过不同主题游戏，加强逻辑思维、锻练体能；玩转STEAM实验，脑力全开！\n\n节目特设表演小舞台，让小朋友展示才艺；齐集创意工作室，DIY小手工。小教「煮」环节，家长和子女共享亲子烹饪乐趣。.</desc>
+  </programme>
+  <programme start="20260312020000 +0000" stop="20260312023000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">攻你上大学 &amp; 今日知多D / Game of Scholars  &amp; What&apos;s On Today</title>
+    <desc lang="zh">《攻你上大学》，由林盛斌率领2025年港姐亚军施宇琪、季军袁文静主持。这是一个以校园为主题的知识问答节目，学术与娱乐性兼备，带给观众新颖的观赏体验。问答题目涵盖小学至大学程度，艺员们会穿上校服参与。众星从小学问题开始作答，角逐升学席位；如能善用「读书锦囊」，可望令升学更顺利。过程紧张刺激，全面考验艺员的知识水平与临场反应。每轮胜出者除了袋走奖金外，并会晋身台庆夜的终极比拼，争夺更丰厚大奖！.</desc>
+  </programme>
+  <programme start="20260312023000 +0000" stop="20260312030000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">地球村民 / Global Citizens</title>
+    <desc lang="zh">第1集\n智利 X 地球村民的条件\n南美国家智利除了盛产红酒，亦深受印加、西班牙传统文化影响。一位智利人只身来到香港，怎样融入这里的生活和文化？.</desc>
+  </programme>
+  <programme start="20260312030000 +0000" stop="20260312040000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">卧底娇娃 / Pretty Dangerous</title>
+    <desc lang="zh">第13集\n妙姿央求奕风让自己留下继续调查，但其后还是被勒令不准再参与卧底行动。妙姿调往行动组，意外得悉更多关于爱邦妮与嘉盈之死的线索，还暗地以匿名状态向佳琪报料。小茹促成了宝仪和欧凯的相遇，还替二人牵线。欧凯见到小茹和索帕在洗衣店外的亲密接触，有所误会。佳琪在爱邦妮察觉到秘书邝丽荃似有所隐瞒，并知悉丽荃相约某人见面。佳琪使计获得了机密文件柜的钥匙；她和奕风兵分两路调查，奕风发现和丽荃见面的人竟是学年…….</desc>
+  </programme>
+  <programme start="20260312040000 +0000" stop="20260312043000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">东张西望 / Scoop 2026</title>
+    <desc lang="zh">《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。.</desc>
+  </programme>
+  <programme start="20260312043000 +0000" stop="20260312045500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">兄弟帮 / Big Boys Club</title>
+    <desc lang="zh">《兄弟帮》是由一班「好兄弟」林盛斌、梁竞徽、王梓轩、范振锋及陈国峰主持的年青人清谈节目，每集邀请歌手、艺人或不同界别人士作嘉宾，进行轻松访谈，带来时下社会热话、流行文化、潮流玩意等多元化内容。有关爱情、两性，以致同性关系，是男男女女谈之不尽的话题，节目邀来不同界别的嘉宾「谈情说爱」，探讨两性相处之道。「异度空间」专题，请来嘉宾分享不思议事件，如见鬼、UFO、奇人奇事等刺激话题。.</desc>
+  </programme>
+  <programme start="20260312045500 +0000" stop="20260312052000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">Hands Up / Hands Up 2026</title>
+    <desc lang="zh">全新儿童节目《Hands Up》鼓励小朋友勇于发问，表达自我，向目标进发！\n\n吉祥物「酱汁家族」成员跟一众主持演出短剧，陪伴大家度过愉快时光。另会带来多首儿歌，让孩子们边唱边学习生活知识。\n\n小朋友走进录像厂，寓学习于娱乐。透过不同主题游戏，加强逻辑思维、锻练体能；玩转STEAM实验，脑力全开！\n\n节目特设表演小舞台，让小朋友展示才艺；齐集创意工作室，DIY小手工。小教「煮」环节，家长和子女共享亲子烹饪乐趣。.</desc>
+  </programme>
+  <programme start="20260312052000 +0000" stop="20260312060500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">流行都市 / Big City Shop 2026</title>
+    <desc lang="zh">《流行都市》为观众介绍时令产品、健康养生、健体运动、护肤化妆、时尚服饰、婴幼儿护理、育儿知识、城中美食、饲养宠物等潮流信息，内容包罗万有！主持们亲身体验、示范或测试之外，还会邀请嘉宾带来相关专业知识。烹饪环节方面，多位手势了得的厨艺专家轮流登场，示范简单美味的健康美食、家常小菜，替大家解决煮食烦恼。.</desc>
+  </programme>
+  <programme start="20260312060500 +0000" stop="20260312063000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">爱．回家之开心速递 / Lo And Behold</title>
+    <desc lang="zh">第2761集  我爱Made in HongKong\n城安取得一批吴旺达的新货品，Ceci偶然看中一个手工精良的真皮手袋，城安遂开天杀价牟利。Ceci还额外订购一百个指定颜色的手袋以送赠别人，并全额付款。若未能交货，城安便要缴付巨额赔偿金，怎料该手袋原来早已停产，若水更意外发现竟是本地制造。Ceci要求检视样品，城安企图蒙混过关，却不果。制造该手袋的工厂已倒闭，城安却意外找到当年有份缝制手袋的女工，遂请她出山。女工必须集结昔日工友，共同完成任务…….</desc>
+  </programme>
+  <programme start="20260312063000 +0000" stop="20260312073000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">机智女法医2 &amp; 今日知多D / Imperial Coroner, The (II) &amp; What&apos;s On Today</title>
+    <desc lang="zh">第5集\n近日，南赵的神观法师在京城声名大噪，备受众人追捧。礼部赵侍郎的内眷听闻后，特意来到寺庙上香，满心期盼神观法师能前往家中做一场法事。神观法师微微皱眉，面露难色，称自己近期的行程早已排满。赵侍郎的内眷神情恳切，言明自己诚意十足，还拿出慧妃娘娘亲笔所写的手书。神观法师目光扫过手书，沉默片刻后，缓缓点头应下。神观法师的弟子站在一旁，看到香炉中的香突然熄灭，心中涌起一股不祥的预感。他转头看向师父，却见师父神色平静，仿佛早已察觉到这一切。.</desc>
+  </programme>
+  <programme start="20260312073000 +0000" stop="20260312080000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">攻你上大学 / Game of Scholars</title>
+    <desc lang="zh">《攻你上大学》，由林盛斌率领2025年港姐亚军施宇琪、季军袁文静主持。这是一个以校园为主题的知识问答节目，学术与娱乐性兼备，带给观众新颖的观赏体验。问答题目涵盖小学至大学程度，艺员们会穿上校服参与。众星从小学问题开始作答，角逐升学席位；如能善用「读书锦囊」，可望令升学更顺利。过程紧张刺激，全面考验艺员的知识水平与临场反应。每轮胜出者除了袋走奖金外，并会晋身台庆夜的终极比拼，争夺更丰厚大奖！.</desc>
+  </programme>
+  <programme start="20260312080000 +0000" stop="20260312083000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">港生活．港享受 / Dolce Vita 2021</title>
+    <desc lang="zh">香港人生活多姿多采，《港生活．港享受》既呈献高贵典雅的品味生活，也会带来贴地亲民的优质享受。节目结合多元化主题，每集探索不同范畴，并请来各行各业的精英分享成功之道。.</desc>
+  </programme>
+  <programme start="20260312083000 +0000" stop="20260312090000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">开卷 / Open Book</title>
+    <desc lang="zh">书本、篇章电子化的快餐年代，手机能知天下事，能够保持阅读习惯的人，少之又少……博覧群书的林溥来，联同涂毓麟、何泳芍、伍韵婷、布乐文等年轻一代重新确认实体书的价值。每集介绍一本好书，翻开科学书籍、历史文学、小说读物以至时尚杂志，分享从书本中所得的有趣知识。回想对上一次完整阅览一本书是甚么时候？参考过星级书虫的阅读清单，坐言起行，在繁忙生活中留下喘息空间，重拾良好阅读习惯，充实自己！.</desc>
+  </programme>
+  <programme start="20260312090000 +0000" stop="20260312093000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">兄弟帮 / Big Boys Club</title>
+    <desc lang="zh">《兄弟帮》是由一班「好兄弟」林盛斌、梁竞徽、王梓轩、范振锋及陈国峰主持的年青人清谈节目，每集邀请歌手、艺人或不同界别人士作嘉宾，进行轻松访谈，带来时下社会热话、流行文化、潮流玩意等多元化内容。有关爱情、两性，以致同性关系，是男男女女谈之不尽的话题，节目邀来不同界别的嘉宾「谈情说爱」，探讨两性相处之道。「异度空间」专题，请来嘉宾分享不思议事件，如见鬼、UFO、奇人奇事等刺激话题。.</desc>
+  </programme>
+  <programme start="20260312093000 +0000" stop="20260312103000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">星河长明 / Shining Just for You</title>
+    <desc lang="zh">第18集\n叶凌霜在彧修明下山求援期间，坚守枕霞山并成功抵御蔡骖的围攻。在危机时刻，彧修明及时归来，救下了准备自尽的叶凌霜。之后，叶凌霜利用自己的影响力，为叛军家属求情，使彧修明赦免了他们。在前往闵中山的途中，叶凌霜被人推下藤桥，但幸得彧修明相救。在一次意外中，叶凌霜进入了一个法阵，得知了彧修明身世的秘密和他的使命。尽管得知了真相，但叶凌霜选择对彧修明隐瞒，同时，他们发现想害叶凌霜的人是羽人。.</desc>
+  </programme>
+  <programme start="20260312103000 +0000" stop="20260312110000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">六点半新闻报导 / News At 18:30</title>
+    <desc lang="zh">翡翠台每日下午六点半，报导本地、两岸及国际重要新闻。.</desc>
+  </programme>
+  <programme start="20260312110000 +0000" stop="20260312113500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">地球大神秘2 &amp; 今日知多D / Shock Mystery (Sr.2) &amp; What&apos;s On Today</title>
+    <desc lang="zh">人类对未知的事物，与生俱来有种好奇心，甚至有人相信，在生活中的一切事物，并非全部可以单从科学物理现像解释得到，即使表面上有可以接受的答案，也未必能够圆满解释所有疑问！《地球大神秘》制作队从世界各地搜集到数以百计奇异事物内容，都是无法以一般人接受的观点加以解释，除非呢个世界有「超自然」的存在！节目将会让大家知道不可思议的神秘事物，不但在过去存在，而且目前仍然存在！.</desc>
+  </programme>
+  <programme start="20260312113500 +0000" stop="20260312120000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">东张西望 / Scoop 2026</title>
+    <desc lang="zh">《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。.</desc>
+  </programme>
+  <programme start="20260312120000 +0000" stop="20260312123000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">爱．回家之开心速递 / Lo And Behold</title>
+    <desc lang="zh">第2762集  我的梦幻神卡\n国际知名的战地记者将在本地举办作品拍卖会，他多年前曾于战乱地区英勇救下一名小孩，因而受人敬仰。树仁却向熊家众人宣称该记者抢去他的功劳，却并无凭据。树仁偶然找到当年获救小孩手持的特别版游戏卡，并知悉该卡如今价值连城，却拒绝转售牟利。树根等人企图改变他的决定，但屡试不果。拍卖会当天，当年获救的小孩亲身到场，树仁打算凭游戏卡与他相认，藉此揭穿该记者的谎言，讵料…….</desc>
+  </programme>
+  <programme start="20260312123000 +0000" stop="20260312133000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">卧底娇娃 / Pretty Dangerous</title>
+    <desc lang="zh">第14集\n佳琪查到爱邦妮旗下某单位电费不寻常，与奕风前往查探，终发现索帕与学年暗中勾结。刘彪突然来到索帕家，原来是他指使索帕陷害学年。丽荃向大韦哭诉自己遭学年胁逼参与非法赌档、甚至可能运毒事宜，大韦大发雷霆，要踢学年出四联商会；佳琪与奕风暗中偷听，更确信学年是粉精灵的上线。小茹从洗衣店找到嘉盈留下的线索，怀疑与粉精灵有关。警方与国际刑警合作要捣破网上赌场，奕风竟出现救走学年，但学年否认自己是粉精灵的上线…….</desc>
+  </programme>
+  <programme start="20260312133000 +0000" stop="20260312143000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">机智女法医2 / Imperial Coroner, The (II)</title>
+    <desc lang="zh">第6集\n萧瑾瑜提出借图谱，但佑辰安眼神坚定地表示此物不能外借。萧瑾瑜微微挑眉，目光落在图谱上，心中暗自思量，如此珍贵之物，怎会轻易拿出作为加入三法司的交换条件。佑辰安似乎看穿了他的想法，嘴角微微上扬，说道若自己拜楚楚为师，师徒情谊深厚，自然可将图谱借给楚楚一观。萧瑾瑜神色严肃，强调加入三法司意义重大，除非陛下下旨，否则不可随意行事。佑辰安未再多言，转身前往皇宫求见陛下。他站在陛下面前，身姿挺拔，诚恳地表达了自己一直渴望学习仵作能力的愿望，希望能进入三法司学习。皇帝微微点头，同意了他的请求。.</desc>
+  </programme>
+  <programme start="20260312143000 +0000" stop="20260312150000 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">攻你上大学 / Game of Scholars</title>
+    <desc lang="zh">《攻你上大学》，由林盛斌率领2025年港姐亚军施宇琪、季军袁文静主持。这是一个以校园为主题的知识问答节目，学术与娱乐性兼备，带给观众新颖的观赏体验。问答题目涵盖小学至大学程度，艺员们会穿上校服参与。众星从小学问题开始作答，角逐升学席位；如能善用「读书锦囊」，可望令升学更顺利。过程紧张刺激，全面考验艺员的知识水平与临场反应。每轮胜出者除了袋走奖金外，并会晋身台庆夜的终极比拼，争夺更丰厚大奖！.</desc>
+  </programme>
+  <programme start="20260312150000 +0000" stop="20260312151500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">娱乐头条 / EXTRA</title>
+    <desc lang="zh">每晚紧贴香港娱乐圈的消息，以至世界各地的影视娱乐新闻，报导艺人最新动态、剧集和电影宣传、演唱会精华、颁奖礼盛况等，甚至远赴外地采访娱乐盛事、追踪各地影星，专访观众熟悉的歌、影、视红人，让大家瞬间掌握影视娱乐圈的动态和最新消息。.</desc>
+  </programme>
+  <programme start="20260312151500 +0000" stop="20260312161500 +0000" channel="tvb.jade.us.east">
+    <title lang="zh">晚间新闻 / News Roundup</title>
+    <desc lang="zh">报导香港、两岸、国际重要新闻以及体育消息，让你洞悉各地大事及体坛动向.</desc>
+  </programme>
+  <programme start="20260311001000 +0000" stop="20260311011000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Kwoks and What Ep10</title>
+    <desc lang="zh">This family drama depicts Kwok Law Mei Lan, a mother who goes all out to help her three adult children who are burdened with problems, to free themselves - and find their way forward.</desc>
+  </programme>
+  <programme start="20260311011000 +0000" stop="20260311014000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2760</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260311014000 +0000" stop="20260311021000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Hands up Ep1613</title>
+    <desc lang="zh">In this new TVB kids&apos; show, children play themed games to boost their logic and physical fitness. They also perform on stage, make handicrafts and enjoy parent-child cooking sessions.</desc>
+  </programme>
+  <programme start="20260311021000 +0000" stop="20260311024000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Game of Scholars Ep17</title>
+    <desc lang="zh">Hosted by Bob Lam with Miss Hong Kong 2025 runners-up Angela Stanton and Jane Yuan! Artistes in school uniforms battle through quizzes for glory and big prizes!</desc>
+  </programme>
+  <programme start="20260311024000 +0000" stop="20260311024500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260311024500 +0000" stop="20260311031000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Gourmet Express Ep173</title>
+    <desc lang="zh">Discover the latest dining gems with Icy Wong, Carmaney Wong and friends! From must-try eateries to hidden takeout spots, get the inside scoop on flavors and stories behind your favorite bites.</desc>
+  </programme>
+  <programme start="20260311031000 +0000" stop="20260311041000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Pretty Dangerous Ep12</title>
+    <desc lang="zh">Undercover agent Poon catches drug lord Kuen Sai Ho, who gets a light sentence. He enlists 3 female operatives to infiltrate the Lau family, while Chief Inspector Kwok grows wary of his secret agenda.</desc>
+  </programme>
+  <programme start="20260311041000 +0000" stop="20260311044000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep69</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260311044000 +0000" stop="20260311050500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big Boys Club Ep2087</title>
+    <desc lang="zh">Hosted by Bob Lam, Jonathan Wong, Oscar Leung, Penny Chan and Ricky Fan, each episode brings fun and relaxed interviews with stars and icons from all walks of life!</desc>
+  </programme>
+  <programme start="20260311050500 +0000" stop="20260311053000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Hands up Ep1613</title>
+    <desc lang="zh">In this new TVB kids&apos; show, children play themed games to boost their logic and physical fitness. They also perform on stage, make handicrafts and enjoy parent-child cooking sessions.</desc>
+  </programme>
+  <programme start="20260311053000 +0000" stop="20260311061500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big City Shop 2026 Ep1933</title>
+    <desc lang="zh">Get firsthand recommendations as hosts try out the hottest products in health and wellness, fitness, skin care and beauty, fashion and accessories , baby care, food - and more.</desc>
+  </programme>
+  <programme start="20260311061500 +0000" stop="20260311064000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2760</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260311064000 +0000" stop="20260311074000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Imperial Coroner 2 Ep04</title>
+    <desc lang="zh">In this suspenseful mystery romance, a detective couple unravels the &apos;Blood Jade Case,&apos; exposing Nanzhao&apos;s invasion &amp; an 18-year-old rebellion.</desc>
+  </programme>
+  <programme start="20260311074000 +0000" stop="20260311074500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260311074500 +0000" stop="20260311081000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Game of Scholars Ep17</title>
+    <desc lang="zh">Hosted by Bob Lam with Miss Hong Kong 2025 runners-up Angela Stanton and Jane Yuan! Artistes in school uniforms battle through quizzes for glory and big prizes!</desc>
+  </programme>
+  <programme start="20260311081000 +0000" stop="20260311084000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Dolce Vita 2021 Ep13</title>
+    <desc lang="zh">The lifestyle programme on fine dining, fashion, latest goods and activities available in Hong Kong, with interviews with English-speaking artists, celebrities or fashion designers who visit Hong Kong.</desc>
+  </programme>
+  <programme start="20260311084000 +0000" stop="20260311091000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Open Book Ep106</title>
+    <desc lang="zh">Rediscover the benefits and pleasure of reading physical books with host Patrick Lam and young artists. Each episode introduces books of various genres, from science, to literature and novels.</desc>
+  </programme>
+  <programme start="20260311091000 +0000" stop="20260311094000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big Boys Club Ep2088</title>
+    <desc lang="zh">Hosted by Bob Lam, Jonathan Wong, Oscar Leung, Penny Chan and Ricky Fan, each episode brings fun and relaxed interviews with stars and icons from all walks of life!</desc>
+  </programme>
+  <programme start="20260311094000 +0000" stop="20260311104000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Shining Just for You Ep17</title>
+    <desc lang="zh">Gifted with visions of doom, Ye Ling Shuang defies fate to save her best friend. Will her love survive the impending disaster, or will her powers seal their tragic end?</desc>
+  </programme>
+  <programme start="20260311104000 +0000" stop="20260311111000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News at 18:30 Ep11</title>
+    <desc lang="zh">Daily breaking news on Hong Kong and beyond.</desc>
+  </programme>
+  <programme start="20260311111000 +0000" stop="20260311114000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Global Citizens Ep01</title>
+    <desc lang="zh">Global Citizens</desc>
+  </programme>
+  <programme start="20260311114000 +0000" stop="20260311114500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260311114500 +0000" stop="20260311121000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep70</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260311121000 +0000" stop="20260311124000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2761</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260311124000 +0000" stop="20260311134000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Pretty Dangerous Ep13</title>
+    <desc lang="zh">Undercover agent Poon catches drug lord Kuen Sai Ho, who gets a light sentence. He enlists 3 female operatives to infiltrate the Lau family, while Chief Inspector Kwok grows wary of his secret agenda.</desc>
+  </programme>
+  <programme start="20260311134000 +0000" stop="20260311144000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Imperial Coroner 2 Ep05</title>
+    <desc lang="zh">In this suspenseful mystery romance, a detective couple unravels the &apos;Blood Jade Case,&apos; exposing Nanzhao&apos;s invasion &amp; an 18-year-old rebellion.</desc>
+  </programme>
+  <programme start="20260311144000 +0000" stop="20260311151000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Game of Scholars Ep18</title>
+    <desc lang="zh">Hosted by Bob Lam with Miss Hong Kong 2025 runners-up Angela Stanton and Jane Yuan! Artistes in school uniforms battle through quizzes for glory and big prizes!</desc>
+  </programme>
+  <programme start="20260311151000 +0000" stop="20260311152500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">EXTRA Ep3971</title>
+    <desc lang="zh">This entertainment news show features the hottest events, awards, shows, movies, concerts and artists interviews in Hong Kong and around the world.</desc>
+  </programme>
+  <programme start="20260311152500 +0000" stop="20260311160000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News Roundup Ep11</title>
+    <desc lang="zh">Daily breaking news on Hong Kong and beyond.</desc>
+  </programme>
+  <programme start="20260311160000 +0000" stop="20260311161000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Global View Ep08</title>
+    <desc lang="zh">This in-depth analytic news bulletin reports on major news events around the world from an unbiased perspective.</desc>
+  </programme>
+  <programme start="20260311161000 +0000" stop="20260311164000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big Boys Club Ep2088</title>
+    <desc lang="zh">Hosted by Bob Lam, Jonathan Wong, Oscar Leung, Penny Chan and Ricky Fan, each episode brings fun and relaxed interviews with stars and icons from all walks of life!</desc>
+  </programme>
+  <programme start="20260311164000 +0000" stop="20260311174000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Imperial Coroner 2 Ep05</title>
+    <desc lang="zh">In this suspenseful mystery romance, a detective couple unravels the &apos;Blood Jade Case,&apos; exposing Nanzhao&apos;s invasion &amp; an 18-year-old rebellion.</desc>
+  </programme>
+  <programme start="20260311174000 +0000" stop="20260311184000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Pretty Dangerous Ep13</title>
+    <desc lang="zh">Undercover agent Poon catches drug lord Kuen Sai Ho, who gets a light sentence. He enlists 3 female operatives to infiltrate the Lau family, while Chief Inspector Kwok grows wary of his secret agenda.</desc>
+  </programme>
+  <programme start="20260311184000 +0000" stop="20260311184500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260311184500 +0000" stop="20260311191000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2761</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260311191000 +0000" stop="20260311194000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep70</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260311194000 +0000" stop="20260311201000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Global Citizens Ep01</title>
+    <desc lang="zh">Global Citizens</desc>
+  </programme>
+  <programme start="20260311201000 +0000" stop="20260311211000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Shining Just for You Ep17</title>
+    <desc lang="zh">Gifted with visions of doom, Ye Ling Shuang defies fate to save her best friend. Will her love survive the impending disaster, or will her powers seal their tragic end?</desc>
+  </programme>
+  <programme start="20260311211000 +0000" stop="20260311215500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big City Shop 2026 Ep1933</title>
+    <desc lang="zh">Get firsthand recommendations as hosts try out the hottest products in health and wellness, fitness, skin care and beauty, fashion and accessories , baby care, food - and more.</desc>
+  </programme>
+  <programme start="20260311215500 +0000" stop="20260311221000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Happy Old Buddies Ep291</title>
+    <desc lang="zh">Doctors and Chinese medicine practitioners discuss illnesses and treatment options related to the elderly. Learn how to maximize your golden years through diet, activity and social interests.</desc>
+  </programme>
+  <programme start="20260311221000 +0000" stop="20260311224000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Dolce Vita 2021 Ep13</title>
+    <desc lang="zh">The lifestyle programme on fine dining, fashion, latest goods and activities available in Hong Kong, with interviews with English-speaking artists, celebrities or fashion designers who visit Hong Kong.</desc>
+  </programme>
+  <programme start="20260311224000 +0000" stop="20260311231000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep70</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260311231000 +0000" stop="20260312001000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Good Morning Hong Kong and Global View Ep12</title>
+    <desc lang="zh">This news bulletin keeps you ahead with breaking HK and international news, current affairs, finance, sports, weather and traffic updates.</desc>
+  </programme>
+  <programme start="20260312001000 +0000" stop="20260312011000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Kwoks and What Ep11</title>
+    <desc lang="zh">This family drama depicts Kwok Law Mei Lan, a mother who goes all out to help her three adult children who are burdened with problems, to free themselves - and find their way forward.</desc>
+  </programme>
+  <programme start="20260312011000 +0000" stop="20260312014000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2761</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260312014000 +0000" stop="20260312021000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Hands up Ep1614</title>
+    <desc lang="zh">In this new TVB kids&apos; show, children play themed games to boost their logic and physical fitness. They also perform on stage, make handicrafts and enjoy parent-child cooking sessions.</desc>
+  </programme>
+  <programme start="20260312021000 +0000" stop="20260312024000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Game of Scholars Ep18</title>
+    <desc lang="zh">Hosted by Bob Lam with Miss Hong Kong 2025 runners-up Angela Stanton and Jane Yuan! Artistes in school uniforms battle through quizzes for glory and big prizes!</desc>
+  </programme>
+  <programme start="20260312024000 +0000" stop="20260312024500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260312024500 +0000" stop="20260312031000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Global Citizens Ep01</title>
+    <desc lang="zh">Global Citizens</desc>
+  </programme>
+  <programme start="20260312031000 +0000" stop="20260312041000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Pretty Dangerous Ep13</title>
+    <desc lang="zh">Undercover agent Poon catches drug lord Kuen Sai Ho, who gets a light sentence. He enlists 3 female operatives to infiltrate the Lau family, while Chief Inspector Kwok grows wary of his secret agenda.</desc>
+  </programme>
+  <programme start="20260312041000 +0000" stop="20260312044000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep70</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260312044000 +0000" stop="20260312050500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big Boys Club Ep2088</title>
+    <desc lang="zh">Hosted by Bob Lam, Jonathan Wong, Oscar Leung, Penny Chan and Ricky Fan, each episode brings fun and relaxed interviews with stars and icons from all walks of life!</desc>
+  </programme>
+  <programme start="20260312050500 +0000" stop="20260312053000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Hands up Ep1614</title>
+    <desc lang="zh">In this new TVB kids&apos; show, children play themed games to boost their logic and physical fitness. They also perform on stage, make handicrafts and enjoy parent-child cooking sessions.</desc>
+  </programme>
+  <programme start="20260312053000 +0000" stop="20260312061500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big City Shop 2026 Ep1934</title>
+    <desc lang="zh">Get firsthand recommendations as hosts try out the hottest products in health and wellness, fitness, skin care and beauty, fashion and accessories , baby care, food - and more.</desc>
+  </programme>
+  <programme start="20260312061500 +0000" stop="20260312064000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2761</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260312064000 +0000" stop="20260312074000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Imperial Coroner 2 Ep05</title>
+    <desc lang="zh">In this suspenseful mystery romance, a detective couple unravels the &apos;Blood Jade Case,&apos; exposing Nanzhao&apos;s invasion &amp; an 18-year-old rebellion.</desc>
+  </programme>
+  <programme start="20260312074000 +0000" stop="20260312074500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260312074500 +0000" stop="20260312081000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Game of Scholars Ep18</title>
+    <desc lang="zh">Hosted by Bob Lam with Miss Hong Kong 2025 runners-up Angela Stanton and Jane Yuan! Artistes in school uniforms battle through quizzes for glory and big prizes!</desc>
+  </programme>
+  <programme start="20260312081000 +0000" stop="20260312084000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Dolce Vita 2021 Ep14</title>
+    <desc lang="zh">The lifestyle programme on fine dining, fashion, latest goods and activities available in Hong Kong, with interviews with English-speaking artists, celebrities or fashion designers who visit Hong Kong.</desc>
+  </programme>
+  <programme start="20260312084000 +0000" stop="20260312091000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Open Book Ep107</title>
+    <desc lang="zh">Rediscover the benefits and pleasure of reading physical books with host Patrick Lam and young artists. Each episode introduces books of various genres, from science, to literature and novels.</desc>
+  </programme>
+  <programme start="20260312091000 +0000" stop="20260312094000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big Boys Club Ep2089</title>
+    <desc lang="zh">Hosted by Bob Lam, Jonathan Wong, Oscar Leung, Penny Chan and Ricky Fan, each episode brings fun and relaxed interviews with stars and icons from all walks of life!</desc>
+  </programme>
+  <programme start="20260312094000 +0000" stop="20260312104000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Shining Just for You Ep18</title>
+    <desc lang="zh">Gifted with visions of doom, Ye Ling Shuang defies fate to save her best friend. Will her love survive the impending disaster, or will her powers seal their tragic end?</desc>
+  </programme>
+  <programme start="20260312104000 +0000" stop="20260312111000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News at 18:30 Ep12</title>
+    <desc lang="zh">Daily breaking news on Hong Kong and beyond.</desc>
+  </programme>
+  <programme start="20260312111000 +0000" stop="20260312114000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Shock Mystery S2 Ep79</title>
+    <desc lang="zh">Explore hundreds of bizarre and unexplained phenomena. This show delves into the most astonishing mysteries beyond scientific understanding, feeding our innate curiosity about the unknown.</desc>
+  </programme>
+  <programme start="20260312114000 +0000" stop="20260312114500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260312114500 +0000" stop="20260312121000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep71</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260312121000 +0000" stop="20260312124000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2762</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260312124000 +0000" stop="20260312134000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Pretty Dangerous Ep14</title>
+    <desc lang="zh">Undercover agent Poon catches drug lord Kuen Sai Ho, who gets a light sentence. He enlists 3 female operatives to infiltrate the Lau family, while Chief Inspector Kwok grows wary of his secret agenda.</desc>
+  </programme>
+  <programme start="20260312134000 +0000" stop="20260312144000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Imperial Coroner 2 Ep06</title>
+    <desc lang="zh">In this suspenseful mystery romance, a detective couple unravels the &apos;Blood Jade Case,&apos; exposing Nanzhao&apos;s invasion &amp; an 18-year-old rebellion.</desc>
+  </programme>
+  <programme start="20260312144000 +0000" stop="20260312151000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Game of Scholars Ep19</title>
+    <desc lang="zh">Hosted by Bob Lam with Miss Hong Kong 2025 runners-up Angela Stanton and Jane Yuan! Artistes in school uniforms battle through quizzes for glory and big prizes!</desc>
+  </programme>
+  <programme start="20260312151000 +0000" stop="20260312152500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">EXTRA Ep3972</title>
+    <desc lang="zh">This entertainment news show features the hottest events, awards, shows, movies, concerts and artists interviews in Hong Kong and around the world.</desc>
+  </programme>
+  <programme start="20260312152500 +0000" stop="20260312160000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News Roundup Ep12</title>
+    <desc lang="zh">Daily breaking news on Hong Kong and beyond.</desc>
+  </programme>
+  <programme start="20260312160000 +0000" stop="20260312161000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Global View Ep09</title>
+    <desc lang="zh">This in-depth analytic news bulletin reports on major news events around the world from an unbiased perspective.</desc>
+  </programme>
+  <programme start="20260312161000 +0000" stop="20260312164000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big Boys Club Ep2089</title>
+    <desc lang="zh">Hosted by Bob Lam, Jonathan Wong, Oscar Leung, Penny Chan and Ricky Fan, each episode brings fun and relaxed interviews with stars and icons from all walks of life!</desc>
+  </programme>
+  <programme start="20260312164000 +0000" stop="20260312174000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Imperial Coroner 2 Ep06</title>
+    <desc lang="zh">In this suspenseful mystery romance, a detective couple unravels the &apos;Blood Jade Case,&apos; exposing Nanzhao&apos;s invasion &amp; an 18-year-old rebellion.</desc>
+  </programme>
+  <programme start="20260312174000 +0000" stop="20260312184000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Pretty Dangerous Ep14</title>
+    <desc lang="zh">Undercover agent Poon catches drug lord Kuen Sai Ho, who gets a light sentence. He enlists 3 female operatives to infiltrate the Lau family, while Chief Inspector Kwok grows wary of his secret agenda.</desc>
+  </programme>
+  <programme start="20260312184000 +0000" stop="20260312184500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260312184500 +0000" stop="20260312191000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2762</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260312191000 +0000" stop="20260312194000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep71</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260312194000 +0000" stop="20260312201000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Open Book Ep107</title>
+    <desc lang="zh">Rediscover the benefits and pleasure of reading physical books with host Patrick Lam and young artists. Each episode introduces books of various genres, from science, to literature and novels.</desc>
+  </programme>
+  <programme start="20260312201000 +0000" stop="20260312211000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Shining Just for You Ep18</title>
+    <desc lang="zh">Gifted with visions of doom, Ye Ling Shuang defies fate to save her best friend. Will her love survive the impending disaster, or will her powers seal their tragic end?</desc>
+  </programme>
+  <programme start="20260312211000 +0000" stop="20260312215500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big City Shop 2026 Ep1934</title>
+    <desc lang="zh">Get firsthand recommendations as hosts try out the hottest products in health and wellness, fitness, skin care and beauty, fashion and accessories , baby care, food - and more.</desc>
+  </programme>
+  <programme start="20260312215500 +0000" stop="20260312221000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Happy Old Buddies Ep292</title>
+    <desc lang="zh">Doctors and Chinese medicine practitioners discuss illnesses and treatment options related to the elderly. Learn how to maximize your golden years through diet, activity and social interests.</desc>
+  </programme>
+  <programme start="20260312221000 +0000" stop="20260312224000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Dolce Vita 2021 Ep14</title>
+    <desc lang="zh">The lifestyle programme on fine dining, fashion, latest goods and activities available in Hong Kong, with interviews with English-speaking artists, celebrities or fashion designers who visit Hong Kong.</desc>
+  </programme>
+  <programme start="20260312224000 +0000" stop="20260312231000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep71</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260312231000 +0000" stop="20260313001000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Good Morning Hong Kong and Global View Ep13</title>
+    <desc lang="zh">This news bulletin keeps you ahead with breaking HK and international news, current affairs, finance, sports, weather and traffic updates.</desc>
+  </programme>
+  <programme start="20260313001000 +0000" stop="20260313011000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Kwoks and What Ep12</title>
+    <desc lang="zh">This family drama depicts Kwok Law Mei Lan, a mother who goes all out to help her three adult children who are burdened with problems, to free themselves - and find their way forward.</desc>
+  </programme>
+  <programme start="20260313011000 +0000" stop="20260313014000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2762</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260313014000 +0000" stop="20260313021000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Hands up Ep1615</title>
+    <desc lang="zh">In this new TVB kids&apos; show, children play themed games to boost their logic and physical fitness. They also perform on stage, make handicrafts and enjoy parent-child cooking sessions.</desc>
+  </programme>
+  <programme start="20260313021000 +0000" stop="20260313024000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Game of Scholars Ep19</title>
+    <desc lang="zh">Hosted by Bob Lam with Miss Hong Kong 2025 runners-up Angela Stanton and Jane Yuan! Artistes in school uniforms battle through quizzes for glory and big prizes!</desc>
+  </programme>
+  <programme start="20260313024000 +0000" stop="20260313024500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260313024500 +0000" stop="20260313031000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Profession Impossible Ep06</title>
+    <desc lang="zh">In a tribute to the specialized workforce, join TVB artists including Shaun Tam as they take on extraordinary jobs only a select few can perform!</desc>
+  </programme>
+  <programme start="20260313031000 +0000" stop="20260313041000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Pretty Dangerous Ep14</title>
+    <desc lang="zh">Undercover agent Poon catches drug lord Kuen Sai Ho, who gets a light sentence. He enlists 3 female operatives to infiltrate the Lau family, while Chief Inspector Kwok grows wary of his secret agenda.</desc>
+  </programme>
+  <programme start="20260313041000 +0000" stop="20260313044000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep71</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260313044000 +0000" stop="20260313050500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big Boys Club Ep2089</title>
+    <desc lang="zh">Hosted by Bob Lam, Jonathan Wong, Oscar Leung, Penny Chan and Ricky Fan, each episode brings fun and relaxed interviews with stars and icons from all walks of life!</desc>
+  </programme>
+  <programme start="20260313050500 +0000" stop="20260313053000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Hands up Ep1615</title>
+    <desc lang="zh">In this new TVB kids&apos; show, children play themed games to boost their logic and physical fitness. They also perform on stage, make handicrafts and enjoy parent-child cooking sessions.</desc>
+  </programme>
+  <programme start="20260313053000 +0000" stop="20260313061500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big City Shop 2026 Ep1935</title>
+    <desc lang="zh">Get firsthand recommendations as hosts try out the hottest products in health and wellness, fitness, skin care and beauty, fashion and accessories , baby care, food - and more.</desc>
+  </programme>
+  <programme start="20260313061500 +0000" stop="20260313064000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2762</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260313064000 +0000" stop="20260313074000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Imperial Coroner 2 Ep06</title>
+    <desc lang="zh">In this suspenseful mystery romance, a detective couple unravels the &apos;Blood Jade Case,&apos; exposing Nanzhao&apos;s invasion &amp; an 18-year-old rebellion.</desc>
+  </programme>
+  <programme start="20260313074000 +0000" stop="20260313074500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260313074500 +0000" stop="20260313081000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Game of Scholars Ep19</title>
+    <desc lang="zh">Hosted by Bob Lam with Miss Hong Kong 2025 runners-up Angela Stanton and Jane Yuan! Artistes in school uniforms battle through quizzes for glory and big prizes!</desc>
+  </programme>
+  <programme start="20260313081000 +0000" stop="20260313084000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Taste of Us Ep05</title>
+    <desc lang="zh">After a breakup, Liang Liang rents a room to prove his independence and meets Ah Zhi, a secretive, talented cook. Through food and daily life, they share laughs and heal each other&apos;s hearts.</desc>
+  </programme>
+  <programme start="20260313084000 +0000" stop="20260313091000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Open Book Ep108</title>
+    <desc lang="zh">Rediscover the benefits and pleasure of reading physical books with host Patrick Lam and young artists. Each episode introduces books of various genres, from science, to literature and novels.</desc>
+  </programme>
+  <programme start="20260313091000 +0000" stop="20260313094000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big Boys Club Ep2090</title>
+    <desc lang="zh">Hosted by Bob Lam, Jonathan Wong, Oscar Leung, Penny Chan and Ricky Fan, each episode brings fun and relaxed interviews with stars and icons from all walks of life!</desc>
+  </programme>
+  <programme start="20260313094000 +0000" stop="20260313104000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Shining Just for You Ep19</title>
+    <desc lang="zh">Gifted with visions of doom, Ye Ling Shuang defies fate to save her best friend. Will her love survive the impending disaster, or will her powers seal their tragic end?</desc>
+  </programme>
+  <programme start="20260313104000 +0000" stop="20260313111000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News at 18:30 Ep13</title>
+    <desc lang="zh">Daily breaking news on Hong Kong and beyond.</desc>
+  </programme>
+  <programme start="20260313111000 +0000" stop="20260313114000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Vital Lifeline Ep440</title>
+    <desc lang="zh">Invited to explain various diseases and their causes, medical doctors, physical therapists and TCM practitioners will all show you how to be the healthiest possible version of yourself.</desc>
+  </programme>
+  <programme start="20260313114000 +0000" stop="20260313114500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260313114500 +0000" stop="20260313121000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep72</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260313121000 +0000" stop="20260313124000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2763</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260313124000 +0000" stop="20260313134000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Pretty Dangerous Ep15</title>
+    <desc lang="zh">Undercover agent Poon catches drug lord Kuen Sai Ho, who gets a light sentence. He enlists 3 female operatives to infiltrate the Lau family, while Chief Inspector Kwok grows wary of his secret agenda.</desc>
+  </programme>
+  <programme start="20260313134000 +0000" stop="20260313144000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Imperial Coroner 2 Ep07</title>
+    <desc lang="zh">In this suspenseful mystery romance, a detective couple unravels the &apos;Blood Jade Case,&apos; exposing Nanzhao&apos;s invasion &amp; an 18-year-old rebellion.</desc>
+  </programme>
+  <programme start="20260313144000 +0000" stop="20260313151000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Game of Scholars Ep20</title>
+    <desc lang="zh">Hosted by Bob Lam with Miss Hong Kong 2025 runners-up Angela Stanton and Jane Yuan! Artistes in school uniforms battle through quizzes for glory and big prizes!</desc>
+  </programme>
+  <programme start="20260313151000 +0000" stop="20260313152500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">EXTRA Ep3973</title>
+    <desc lang="zh">This entertainment news show features the hottest events, awards, shows, movies, concerts and artists interviews in Hong Kong and around the world.</desc>
+  </programme>
+  <programme start="20260313152500 +0000" stop="20260313160000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News Roundup Ep13</title>
+    <desc lang="zh">Daily breaking news on Hong Kong and beyond.</desc>
+  </programme>
+  <programme start="20260313160000 +0000" stop="20260313161000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Global View Ep10</title>
+    <desc lang="zh">This in-depth analytic news bulletin reports on major news events around the world from an unbiased perspective.</desc>
+  </programme>
+  <programme start="20260313161000 +0000" stop="20260313164000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big Boys Club Ep2090</title>
+    <desc lang="zh">Hosted by Bob Lam, Jonathan Wong, Oscar Leung, Penny Chan and Ricky Fan, each episode brings fun and relaxed interviews with stars and icons from all walks of life!</desc>
+  </programme>
+  <programme start="20260313164000 +0000" stop="20260313174000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Imperial Coroner 2 Ep07</title>
+    <desc lang="zh">In this suspenseful mystery romance, a detective couple unravels the &apos;Blood Jade Case,&apos; exposing Nanzhao&apos;s invasion &amp; an 18-year-old rebellion.</desc>
+  </programme>
+  <programme start="20260313174000 +0000" stop="20260313184000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Pretty Dangerous Ep15</title>
+    <desc lang="zh">Undercover agent Poon catches drug lord Kuen Sai Ho, who gets a light sentence. He enlists 3 female operatives to infiltrate the Lau family, while Chief Inspector Kwok grows wary of his secret agenda.</desc>
+  </programme>
+  <programme start="20260313184000 +0000" stop="20260313184500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260313184500 +0000" stop="20260313191000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2763</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260313191000 +0000" stop="20260313194000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep72</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260313194000 +0000" stop="20260313201000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Vital Lifeline Ep440</title>
+    <desc lang="zh">Invited to explain various diseases and their causes, medical doctors, physical therapists and TCM practitioners will all show you how to be the healthiest possible version of yourself.</desc>
+  </programme>
+  <programme start="20260313201000 +0000" stop="20260313211000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Shining Just for You Ep19</title>
+    <desc lang="zh">Gifted with visions of doom, Ye Ling Shuang defies fate to save her best friend. Will her love survive the impending disaster, or will her powers seal their tragic end?</desc>
+  </programme>
+  <programme start="20260313211000 +0000" stop="20260313215500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big City Shop 2026 Ep1935</title>
+    <desc lang="zh">Get firsthand recommendations as hosts try out the hottest products in health and wellness, fitness, skin care and beauty, fashion and accessories , baby care, food - and more.</desc>
+  </programme>
+  <programme start="20260313215500 +0000" stop="20260313221000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Happy Old Buddies Ep293</title>
+    <desc lang="zh">Doctors and Chinese medicine practitioners discuss illnesses and treatment options related to the elderly. Learn how to maximize your golden years through diet, activity and social interests.</desc>
+  </programme>
+  <programme start="20260313221000 +0000" stop="20260313224000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Taste of Us Ep05</title>
+    <desc lang="zh">After a breakup, Liang Liang rents a room to prove his independence and meets Ah Zhi, a secretive, talented cook. Through food and daily life, they share laughs and heal each other&apos;s hearts.</desc>
+  </programme>
+  <programme start="20260313224000 +0000" stop="20260313231000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep72</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260313231000 +0000" stop="20260314001000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Good Morning Hong Kong Ep14</title>
+    <desc lang="zh">This news bulletin keeps you ahead with breaking HK and international news, current affairs, finance, sports, weather and traffic updates.</desc>
+  </programme>
+  <programme start="20260314001000 +0000" stop="20260314011000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Kwoks and What Ep13</title>
+    <desc lang="zh">This family drama depicts Kwok Law Mei Lan, a mother who goes all out to help her three adult children who are burdened with problems, to free themselves - and find their way forward.</desc>
+  </programme>
+  <programme start="20260314011000 +0000" stop="20260314014000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Dolce Vita 2021 Ep13</title>
+    <desc lang="zh">The lifestyle programme on fine dining, fashion, latest goods and activities available in Hong Kong, with interviews with English-speaking artists, celebrities or fashion designers who visit Hong Kong.</desc>
+  </programme>
+  <programme start="20260314014000 +0000" stop="20260314021000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Hands up Ep1616</title>
+    <desc lang="zh">In this new TVB kids&apos; show, children play themed games to boost their logic and physical fitness. They also perform on stage, make handicrafts and enjoy parent-child cooking sessions.</desc>
+  </programme>
+  <programme start="20260314021000 +0000" stop="20260314031000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Legal Mavericks 2020 Ep17</title>
+    <desc lang="zh">This sequel follows blind lawyer Hope Man and his best friends Gogo and Ching Mui as they seek the truth surrounding every case. Barrister Eva Siu is the series&apos; newcomer.</desc>
+  </programme>
+  <programme start="20260314031000 +0000" stop="20260314041000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Legal Mavericks 2020 Ep18</title>
+    <desc lang="zh">This sequel follows blind lawyer Hope Man and his best friends Gogo and Ching Mui as they seek the truth surrounding every case. Barrister Eva Siu is the series&apos; newcomer.</desc>
+  </programme>
+  <programme start="20260314041000 +0000" stop="20260314044000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep72</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260314044000 +0000" stop="20260314051000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Food Mister Ep09</title>
+    <desc lang="zh">The show seeks creative inspiration from TV series, video games, cartoons, and literary classics, using the skilled hands of star chefs to recreate these seemingly unreal culinary creations.</desc>
+  </programme>
+  <programme start="20260314051000 +0000" stop="20260314054000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big Big Home Ep07</title>
+    <desc lang="zh">Host Tracy Tam tours Taiwan, exploring luxury and unique homes. Locals share their property and business stories, showing how to turn houses into dream homes.</desc>
+  </programme>
+  <programme start="20260314054000 +0000" stop="20260314061000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">ChatSAT Ep10</title>
+    <desc lang="zh">Join TVB beauties Yvette Chan, Rachel Chan and Wong Fei as they keep pace with the global pulse, sharing the world&apos;s hottest trends in technology, arts, medicine, daily life, and the internet.</desc>
+  </programme>
+  <programme start="20260314061000 +0000" stop="20260314081000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Midlife, Sing &amp; Shine! S4 Ep15</title>
+    <desc lang="zh">Stephanie Che warmly guides contestants in Season 4, while Maria Cordero, Clayton Cheung, Brian Chow and Vivian Koo celebrate every unique story.</desc>
+  </programme>
+  <programme start="20260314081000 +0000" stop="20260314091000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Star Weekly Ep13</title>
+    <desc lang="zh">Celebrities share their latest projects and discuss film, TV and concerts, plus a &apos;Myth-Busting&apos; segment where they address rumours and set the record straight.</desc>
+  </programme>
+  <programme start="20260314091000 +0000" stop="20260314094000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Profession Impossible Ep06</title>
+    <desc lang="zh">In a tribute to the specialized workforce, join TVB artists including Shaun Tam as they take on extraordinary jobs only a select few can perform!</desc>
+  </programme>
+  <programme start="20260314094000 +0000" stop="20260314101000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">ChatSAT Ep10</title>
+    <desc lang="zh">Join TVB beauties Yvette Chan, Rachel Chan and Wong Fei as they keep pace with the global pulse, sharing the world&apos;s hottest trends in technology, arts, medicine, daily life, and the internet.</desc>
+  </programme>
+  <programme start="20260314101000 +0000" stop="20260314104000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Gourmet Express Ep172</title>
+    <desc lang="zh">Discover the latest dining gems with Icy Wong, Carmaney Wong and friends! From must-try eateries to hidden takeout spots, get the inside scoop on flavors and stories behind your favorite bites.</desc>
+  </programme>
+  <programme start="20260314104000 +0000" stop="20260314111000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News at 18:30 Ep14</title>
+    <desc lang="zh">Daily breaking news on Hong Kong and beyond.</desc>
+  </programme>
+  <programme start="20260314111000 +0000" stop="20260314114000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News Magazine 2026 Ep11</title>
+    <desc lang="zh">Find out what&apos;s &apos;hot&apos; and &apos;happening&apos; in Hong Kong and China via this coverage of its cultural, educational, social and political issues.</desc>
+  </programme>
+  <programme start="20260314114000 +0000" stop="20260314114500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Trick or Cheat Ep11</title>
+    <desc lang="zh">The first AI urban romance drama follows designer Nicole. After her husband&apos;s affair ends their marriage, she moves into a new home where hidden truths slowly surface, revealing unexpected twists.</desc>
+  </programme>
+  <programme start="20260314114500 +0000" stop="20260314121000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep73</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260314121000 +0000" stop="20260314124000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Hong Kong: Never Too Small Ep03</title>
+    <desc lang="zh">Hosted by Louis Yuen, the show visits a Hong Kong cheongsam shop and other unique local stores, uncovering their business journeys and heartfelt stories that showcase the city&apos;s spirit and resilience.</desc>
+  </programme>
+  <programme start="20260314124000 +0000" stop="20260314134000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Music Money Monster Ep08</title>
+    <desc lang="zh">An interactive music game show testing vocal range and rhythm. Hosted by Eric Kwok, Sammy Leung and Desta Lee, contestants clear a 3x3 grid to cash out, continue, or face the Monster round.</desc>
+  </programme>
+  <programme start="20260314134000 +0000" stop="20260314142000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">J Music 2026 Ep98</title>
+    <desc lang="zh">This new TVB music show showcases popular singers as they jam with live bands and crossover with different artists. Join in the fun as they busk on the street and help shape skilled vocalists.</desc>
+  </programme>
+  <programme start="20260314142000 +0000" stop="20260314152000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">You Are Not Alone Again Ep02</title>
+    <desc lang="zh">Spencer Leung hosts celebrities &amp; experts sharing supernatural stories; masters use Tarot, Feng Shui &amp; Qi Men Dun Jia, while others explore temple rituals &amp; customs.</desc>
+  </programme>
+  <programme start="20260314152000 +0000" stop="20260314152500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">You Are Not Alone in A.I. Ep02</title>
+    <desc lang="zh">A.I. micro-drama: Cheung Ka Yan trapped in nightly nightmares, shifting identities and facing 11 strange events, blurring reality and illusion in a chilling, mysterious diary.</desc>
+  </programme>
+  <programme start="20260314152500 +0000" stop="20260314154000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News Roundup Ep14</title>
+    <desc lang="zh">Daily breaking news on Hong Kong and beyond.</desc>
+  </programme>
+  <programme start="20260314154000 +0000" stop="20260314161000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">ChatSAT Ep10</title>
+    <desc lang="zh">Join TVB beauties Yvette Chan, Rachel Chan and Wong Fei as they keep pace with the global pulse, sharing the world&apos;s hottest trends in technology, arts, medicine, daily life, and the internet.</desc>
+  </programme>
+  <programme start="20260314161000 +0000" stop="20260314164000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News Magazine 2026 Ep11</title>
+    <desc lang="zh">Find out what&apos;s &apos;hot&apos; and &apos;happening&apos; in Hong Kong and China via this coverage of its cultural, educational, social and political issues.</desc>
+  </programme>
+  <programme start="20260314164000 +0000" stop="20260314171000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Profession Impossible Ep06</title>
+    <desc lang="zh">In a tribute to the specialized workforce, join TVB artists including Shaun Tam as they take on extraordinary jobs only a select few can perform!</desc>
+  </programme>
+  <programme start="20260314171000 +0000" stop="20260314174000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Taste of Us Ep05</title>
+    <desc lang="zh">After a breakup, Liang Liang rents a room to prove his independence and meets Ah Zhi, a secretive, talented cook. Through food and daily life, they share laughs and heal each other&apos;s hearts.</desc>
+  </programme>
+  <programme start="20260314174000 +0000" stop="20260314181000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Hong Kong: Never Too Small Ep03</title>
+    <desc lang="zh">Hosted by Louis Yuen, the show visits a Hong Kong cheongsam shop and other unique local stores, uncovering their business journeys and heartfelt stories that showcase the city&apos;s spirit and resilience.</desc>
+  </programme>
+  <programme start="20260314181000 +0000" stop="20260314191000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Music Money Monster Ep08</title>
+    <desc lang="zh">An interactive music game show testing vocal range and rhythm. Hosted by Eric Kwok, Sammy Leung and Desta Lee, contestants clear a 3x3 grid to cash out, continue, or face the Monster round.</desc>
+  </programme>
+  <programme start="20260314191000 +0000" stop="20260314194000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">J Music 2026 Ep98</title>
+    <desc lang="zh">This new TVB music show showcases popular singers as they jam with live bands and crossover with different artists. Join in the fun as they busk on the street and help shape skilled vocalists.</desc>
+  </programme>
+  <programme start="20260314194000 +0000" stop="20260314201000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep73</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260314201000 +0000" stop="20260314211000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">You Are Not Alone Again Ep02</title>
+    <desc lang="zh">Spencer Leung hosts celebrities &amp; experts sharing supernatural stories; masters use Tarot, Feng Shui &amp; Qi Men Dun Jia, while others explore temple rituals &amp; customs.</desc>
+  </programme>
+  <programme start="20260314211000 +0000" stop="20260314214000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News Magazine 2026 Ep11</title>
+    <desc lang="zh">Find out what&apos;s &apos;hot&apos; and &apos;happening&apos; in Hong Kong and China via this coverage of its cultural, educational, social and political issues.</desc>
+  </programme>
+  <programme start="20260314214000 +0000" stop="20260314221000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">ChatSAT Ep10</title>
+    <desc lang="zh">Join TVB beauties Yvette Chan, Rachel Chan and Wong Fei as they keep pace with the global pulse, sharing the world&apos;s hottest trends in technology, arts, medicine, daily life, and the internet.</desc>
+  </programme>
+  <programme start="20260314221000 +0000" stop="20260314224000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Global Citizens Ep01</title>
+    <desc lang="zh">Global Citizens</desc>
+  </programme>
+  <programme start="20260314224000 +0000" stop="20260314231000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep73</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260314231000 +0000" stop="20260315001000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Good Morning Hong Kong Ep15</title>
+    <desc lang="zh">This news bulletin keeps you ahead with breaking HK and international news, current affairs, finance, sports, weather and traffic updates.</desc>
+  </programme>
+  <programme start="20260315001000 +0000" stop="20260315011000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Kwoks and What Ep14</title>
+    <desc lang="zh">This family drama depicts Kwok Law Mei Lan, a mother who goes all out to help her three adult children who are burdened with problems, to free themselves - and find their way forward.</desc>
+  </programme>
+  <programme start="20260315011000 +0000" stop="20260315014000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Dolce Vita 2021 Ep14</title>
+    <desc lang="zh">The lifestyle programme on fine dining, fashion, latest goods and activities available in Hong Kong, with interviews with English-speaking artists, celebrities or fashion designers who visit Hong Kong.</desc>
+  </programme>
+  <programme start="20260315014000 +0000" stop="20260315021000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Hands up Ep1617</title>
+    <desc lang="zh">In this new TVB kids&apos; show, children play themed games to boost their logic and physical fitness. They also perform on stage, make handicrafts and enjoy parent-child cooking sessions.</desc>
+  </programme>
+  <programme start="20260315021000 +0000" stop="20260315031000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Legal Mavericks 2020 Ep19</title>
+    <desc lang="zh">This sequel follows blind lawyer Hope Man and his best friends Gogo and Ching Mui as they seek the truth surrounding every case. Barrister Eva Siu is the series&apos; newcomer.</desc>
+  </programme>
+  <programme start="20260315031000 +0000" stop="20260315041000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Legal Mavericks 2020 Ep20</title>
+    <desc lang="zh">This sequel follows blind lawyer Hope Man and his best friends Gogo and Ching Mui as they seek the truth surrounding every case. Barrister Eva Siu is the series&apos; newcomer.</desc>
+  </programme>
+  <programme start="20260315041000 +0000" stop="20260315044000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep73</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260315044000 +0000" stop="20260315051000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News Treasury 2025 Ep293</title>
+    <desc lang="zh">Explore the treasure trove of news, unearthing gems like classic features, series reports, and rare, never-before-seen footage.</desc>
+  </programme>
+  <programme start="20260315051000 +0000" stop="20260315061000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Cantopop at 50 Ep82</title>
+    <desc lang="zh">This music show invites original singers and other powerful vocalists to perform classic Chinese and Western hits from across the decades. Enjoy top-quality music and delightful surprises.</desc>
+  </programme>
+  <programme start="20260315061000 +0000" stop="20260315064000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News Magazine 2026 Ep11</title>
+    <desc lang="zh">Find out what&apos;s &apos;hot&apos; and &apos;happening&apos; in Hong Kong and China via this coverage of its cultural, educational, social and political issues.</desc>
+  </programme>
+  <programme start="20260315064000 +0000" stop="20260315074000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">J Music 2026 Ep98</title>
+    <desc lang="zh">This new TVB music show showcases popular singers as they jam with live bands and crossover with different artists. Join in the fun as they busk on the street and help shape skilled vocalists.</desc>
+  </programme>
+  <programme start="20260315074000 +0000" stop="20260315081000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Hong Kong: Never Too Small Ep03</title>
+    <desc lang="zh">Hosted by Louis Yuen, the show visits a Hong Kong cheongsam shop and other unique local stores, uncovering their business journeys and heartfelt stories that showcase the city&apos;s spirit and resilience.</desc>
+  </programme>
+  <programme start="20260315081000 +0000" stop="20260315091000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Music Money Monster Ep08</title>
+    <desc lang="zh">An interactive music game show testing vocal range and rhythm. Hosted by Eric Kwok, Sammy Leung and Desta Lee, contestants clear a 3x3 grid to cash out, continue, or face the Monster round.</desc>
+  </programme>
+  <programme start="20260315091000 +0000" stop="20260315094000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News Treasury 2025 Ep293</title>
+    <desc lang="zh">Explore the treasure trove of news, unearthing gems like classic features, series reports, and rare, never-before-seen footage.</desc>
+  </programme>
+  <programme start="20260315094000 +0000" stop="20260315101000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Finance Magazine 2026 Ep11</title>
+    <desc lang="zh">Financial Magazine delivers weekly Hong Kong stock and housing market updates, analysis and experts&apos; opinions on business hot topics worldwide, featuring a wide variety of career reviews.</desc>
+  </programme>
+  <programme start="20260315101000 +0000" stop="20260315104000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Gourmet Express Ep173</title>
+    <desc lang="zh">Discover the latest dining gems with Icy Wong, Carmaney Wong and friends! From must-try eateries to hidden takeout spots, get the inside scoop on flavors and stories behind your favorite bites.</desc>
+  </programme>
+  <programme start="20260315104000 +0000" stop="20260315111000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News at 18:30 Ep15</title>
+    <desc lang="zh">Daily breaking news on Hong Kong and beyond.</desc>
+  </programme>
+  <programme start="20260315111000 +0000" stop="20260315114500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Sunday Report 2026 Ep11</title>
+    <desc lang="zh">This news and current affairs bulletin features the faces, places and stories that are moving the region&apos;s social and political arena.</desc>
+  </programme>
+  <programme start="20260315114500 +0000" stop="20260315121000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep74</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260315121000 +0000" stop="20260315141500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Midlife, Sing &amp; Shine! S4 Ep16</title>
+    <desc lang="zh">Stephanie Che warmly guides contestants in Season 4, while Maria Cordero, Clayton Cheung, Brian Chow and Vivian Koo celebrate every unique story.</desc>
+  </programme>
+  <programme start="20260315141500 +0000" stop="20260315145500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Star Weekly Ep14</title>
+    <desc lang="zh">Celebrities share their latest projects and discuss film, TV and concerts, plus a &apos;Myth-Busting&apos; segment where they address rumours and set the record straight.</desc>
+  </programme>
+  <programme start="20260315145500 +0000" stop="20260315152500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Gourmet Express Weekly Ep60</title>
+    <desc lang="zh">Hosted by Carmaney Wong, Arthur Sy and Choy King Hang, the show visits trending eateries and street food, with expats, chefs and locals revealing flavors and stories behind every bite.</desc>
+  </programme>
+  <programme start="20260315152500 +0000" stop="20260315154000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News Roundup Ep15</title>
+    <desc lang="zh">Daily breaking news on Hong Kong and beyond.</desc>
+  </programme>
+  <programme start="20260315154000 +0000" stop="20260315161000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Vital Lifeline Ep440</title>
+    <desc lang="zh">Invited to explain various diseases and their causes, medical doctors, physical therapists and TCM practitioners will all show you how to be the healthiest possible version of yourself.</desc>
+  </programme>
+  <programme start="20260315161000 +0000" stop="20260315164000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News Treasury 2025 Ep293</title>
+    <desc lang="zh">Explore the treasure trove of news, unearthing gems like classic features, series reports, and rare, never-before-seen footage.</desc>
+  </programme>
+  <programme start="20260315164000 +0000" stop="20260315171000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Finance Magazine 2026 Ep11</title>
+    <desc lang="zh">Financial Magazine delivers weekly Hong Kong stock and housing market updates, analysis and experts&apos; opinions on business hot topics worldwide, featuring a wide variety of career reviews.</desc>
+  </programme>
+  <programme start="20260315171000 +0000" stop="20260315174000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Sunday Report 2026 Ep11</title>
+    <desc lang="zh">This news and current affairs bulletin features the faces, places and stories that are moving the region&apos;s social and political arena.</desc>
+  </programme>
+  <programme start="20260315174000 +0000" stop="20260315194000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Midlife, Sing &amp; Shine! S4 Ep16</title>
+    <desc lang="zh">Stephanie Che warmly guides contestants in Season 4, while Maria Cordero, Clayton Cheung, Brian Chow and Vivian Koo celebrate every unique story.</desc>
+  </programme>
+  <programme start="20260315194000 +0000" stop="20260315201000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep74</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260315201000 +0000" stop="20260315204000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Star Weekly Ep14</title>
+    <desc lang="zh">Celebrities share their latest projects and discuss film, TV and concerts, plus a &apos;Myth-Busting&apos; segment where they address rumours and set the record straight.</desc>
+  </programme>
+  <programme start="20260315204000 +0000" stop="20260315211000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Sunday Report 2026 Ep11</title>
+    <desc lang="zh">This news and current affairs bulletin features the faces, places and stories that are moving the region&apos;s social and political arena.</desc>
+  </programme>
+  <programme start="20260315211000 +0000" stop="20260315221000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Cantopop at 50 Ep82</title>
+    <desc lang="zh">This music show invites original singers and other powerful vocalists to perform classic Chinese and Western hits from across the decades. Enjoy top-quality music and delightful surprises.</desc>
+  </programme>
+  <programme start="20260315221000 +0000" stop="20260315224000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Finance Magazine 2026 Ep11</title>
+    <desc lang="zh">Financial Magazine delivers weekly Hong Kong stock and housing market updates, analysis and experts&apos; opinions on business hot topics worldwide, featuring a wide variety of career reviews.</desc>
+  </programme>
+  <programme start="20260315224000 +0000" stop="20260315231000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep74</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260315231000 +0000" stop="20260316001000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Good Morning Hong Kong and Global View Ep16</title>
+    <desc lang="zh">This news bulletin keeps you ahead with breaking HK and international news, current affairs, finance, sports, weather and traffic updates.</desc>
+  </programme>
+  <programme start="20260316001000 +0000" stop="20260316011000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Kwoks and What Ep15</title>
+    <desc lang="zh">This family drama depicts Kwok Law Mei Lan, a mother who goes all out to help her three adult children who are burdened with problems, to free themselves - and find their way forward.</desc>
+  </programme>
+  <programme start="20260316011000 +0000" stop="20260316014000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2763</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260316014000 +0000" stop="20260316021000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Hands up Ep1618</title>
+    <desc lang="zh">In this new TVB kids&apos; show, children play themed games to boost their logic and physical fitness. They also perform on stage, make handicrafts and enjoy parent-child cooking sessions.</desc>
+  </programme>
+  <programme start="20260316021000 +0000" stop="20260316024000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Game of Scholars Ep20</title>
+    <desc lang="zh">Hosted by Bob Lam with Miss Hong Kong 2025 runners-up Angela Stanton and Jane Yuan! Artistes in school uniforms battle through quizzes for glory and big prizes!</desc>
+  </programme>
+  <programme start="20260316024000 +0000" stop="20260316024500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260316024500 +0000" stop="20260316031000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News Treasury 2025 Ep293</title>
+    <desc lang="zh">Explore the treasure trove of news, unearthing gems like classic features, series reports, and rare, never-before-seen footage.</desc>
+  </programme>
+  <programme start="20260316031000 +0000" stop="20260316041000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Pretty Dangerous Ep15</title>
+    <desc lang="zh">Undercover agent Poon catches drug lord Kuen Sai Ho, who gets a light sentence. He enlists 3 female operatives to infiltrate the Lau family, while Chief Inspector Kwok grows wary of his secret agenda.</desc>
+  </programme>
+  <programme start="20260316041000 +0000" stop="20260316044000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep74</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260316044000 +0000" stop="20260316050500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big Boys Club Ep2090</title>
+    <desc lang="zh">Hosted by Bob Lam, Jonathan Wong, Oscar Leung, Penny Chan and Ricky Fan, each episode brings fun and relaxed interviews with stars and icons from all walks of life!</desc>
+  </programme>
+  <programme start="20260316050500 +0000" stop="20260316053000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Hands up Ep1618</title>
+    <desc lang="zh">In this new TVB kids&apos; show, children play themed games to boost their logic and physical fitness. They also perform on stage, make handicrafts and enjoy parent-child cooking sessions.</desc>
+  </programme>
+  <programme start="20260316053000 +0000" stop="20260316061500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big City Shop 2026 Ep1936</title>
+    <desc lang="zh">Get firsthand recommendations as hosts try out the hottest products in health and wellness, fitness, skin care and beauty, fashion and accessories , baby care, food - and more.</desc>
+  </programme>
+  <programme start="20260316061500 +0000" stop="20260316064000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2763</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260316064000 +0000" stop="20260316074000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Imperial Coroner 2 Ep07</title>
+    <desc lang="zh">In this suspenseful mystery romance, a detective couple unravels the &apos;Blood Jade Case,&apos; exposing Nanzhao&apos;s invasion and an 18-year-old rebellion.</desc>
+  </programme>
+  <programme start="20260316074000 +0000" stop="20260316074500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260316074500 +0000" stop="20260316081000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Game of Scholars Ep20</title>
+    <desc lang="zh">Hosted by Bob Lam with Miss Hong Kong 2025 runners-up Angela Stanton and Jane Yuan! Artistes in school uniforms battle through quizzes for glory and big prizes!</desc>
+  </programme>
+  <programme start="20260316081000 +0000" stop="20260316084000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Food Mister Ep10</title>
+    <desc lang="zh">The show seeks creative inspiration from TV series, video games, cartoons, and literary classics, using the skilled hands of star chefs to recreate these seemingly unreal culinary creations.</desc>
+  </programme>
+  <programme start="20260316084000 +0000" stop="20260316091000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Gourmet Express Weekly Ep60</title>
+    <desc lang="zh">Hosted by Carmaney Wong, Arthur Sy and Choy King Hang, the show visits trending eateries and street food, with expats, chefs and locals revealing flavors and stories behind every bite.</desc>
+  </programme>
+  <programme start="20260316091000 +0000" stop="20260316094000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Big Boys Club Ep2091</title>
+    <desc lang="zh">Hosted by Bob Lam, Jonathan Wong, Oscar Leung, Penny Chan and Ricky Fan, each episode brings fun and relaxed interviews with stars and icons from all walks of life!</desc>
+  </programme>
+  <programme start="20260316094000 +0000" stop="20260316104000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Shining Just for You Ep20</title>
+    <desc lang="zh">Gifted with visions of doom, Ye Ling Shuang defies fate to save her best friend. Will her love survive the impending disaster, or will her powers seal their tragic end?</desc>
+  </programme>
+  <programme start="20260316104000 +0000" stop="20260316111000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News at 18:30 Ep16</title>
+    <desc lang="zh">Daily breaking news on Hong Kong and beyond.</desc>
+  </programme>
+  <programme start="20260316111000 +0000" stop="20260316114000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Gourmet Express Ep174</title>
+    <desc lang="zh">Discover the latest dining gems with Icy Wong, Carmaney Wong and friends! From must-try eateries to hidden takeout spots, get the inside scoop on flavors and stories behind your favorite bites.</desc>
+  </programme>
+  <programme start="20260316114000 +0000" stop="20260316114500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">What&apos;s On Today</title>
+    <desc lang="zh">What&apos;s On Today</desc>
+  </programme>
+  <programme start="20260316114500 +0000" stop="20260316121000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Scoop 2026 Ep75</title>
+    <desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260316121000 +0000" stop="20260316124000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Lo and Behold Ep2764</title>
+    <desc lang="zh">Revolving around the Hung family, this long-running, award-winning TVB sitcom reflects on life today and how love and humour can bridge the generation gap.</desc>
+  </programme>
+  <programme start="20260316124000 +0000" stop="20260316134000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Pretty Dangerous Ep16</title>
+    <desc lang="zh">Undercover agent Poon catches drug lord Kuen Sai Ho, who gets a light sentence. He enlists 3 female operatives to infiltrate the Lau family, while Chief Inspector Kwok grows wary of his secret agenda.</desc>
+  </programme>
+  <programme start="20260316134000 +0000" stop="20260316144000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">The Imperial Coroner 2 Ep08</title>
+    <desc lang="zh">In this suspenseful mystery romance, a detective couple unravels the &apos;Blood Jade Case,&apos; exposing Nanzhao&apos;s invasion and an 18-year-old rebellion.</desc>
+  </programme>
+  <programme start="20260316144000 +0000" stop="20260316151000 +0000" channel="tvb.jade.uk">
+    <title lang="zh">Road Trip Down Under Ep01</title>
+    <desc lang="zh">Road Trip Down Under</desc>
+  </programme>
+  <programme start="20260316151000 +0000" stop="20260316152500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">EXTRA Ep3974</title>
+    <desc lang="zh">This entertainment news show features the hottest events, awards, shows, movies, concerts and artists interviews in Hong Kong and around the world.</desc>
+  </programme>
+  <programme start="20260316152500 +0000" stop="20260316162500 +0000" channel="tvb.jade.uk">
+    <title lang="zh">News Roundup Ep16</title>
+    <desc lang="zh">Daily breaking news on Hong Kong and beyond.</desc>
+  </programme>
+  <programme start="20260310001000 +0000" stop="20260310011000 +0000" channel="tvb.jade.au">
+    <title lang="zh">The Kwoks and What</title>
+  </programme>
+  <programme start="20260310011000 +0000" stop="20260310014000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260310014000 +0000" stop="20260310021000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Hands up</title>
+  </programme>
+  <programme start="20260310021000 +0000" stop="20260310024000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Game of Scholars</title>
+  </programme>
+  <programme start="20260310024000 +0000" stop="20260310024500 +0000" channel="tvb.jade.au">
+    <title lang="zh">What&apos;s On Today</title>
+  </programme>
+  <programme start="20260310024500 +0000" stop="20260310031000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Gourmet Express</title>
+  </programme>
+  <programme start="20260310031000 +0000" stop="20260310041000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Pretty Dangerous</title>
+  </programme>
+  <programme start="20260310041000 +0000" stop="20260310044000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Scoop 2026</title>
+  </programme>
+  <programme start="20260310044000 +0000" stop="20260310050500 +0000" channel="tvb.jade.au">
+    <title lang="zh">Big Boys Club</title>
+  </programme>
+  <programme start="20260310050500 +0000" stop="20260310053000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Hands up</title>
+  </programme>
+  <programme start="20260310053000 +0000" stop="20260310061500 +0000" channel="tvb.jade.au">
+    <title lang="zh">Big City Shop 2026</title>
+  </programme>
+  <programme start="20260310061500 +0000" stop="20260310064000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260310064000 +0000" stop="20260310074000 +0000" channel="tvb.jade.au">
+    <title lang="zh">The Imperial Coroner 2</title>
+  </programme>
+  <programme start="20260310074000 +0000" stop="20260310074500 +0000" channel="tvb.jade.au">
+    <title lang="zh">What&apos;s On Today</title>
+  </programme>
+  <programme start="20260310074500 +0000" stop="20260310081000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Game of Scholars</title>
+  </programme>
+  <programme start="20260310081000 +0000" stop="20260310084000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Big Big Home</title>
+  </programme>
+  <programme start="20260310084000 +0000" stop="20260310091000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Profession Impossible</title>
+  </programme>
+  <programme start="20260310091000 +0000" stop="20260310094000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Big Boys Club</title>
+  </programme>
+  <programme start="20260310094000 +0000" stop="20260310104000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Shining Just for You</title>
+  </programme>
+  <programme start="20260310104000 +0000" stop="20260310111000 +0000" channel="tvb.jade.au">
+    <title lang="zh">News at 18:30</title>
+  </programme>
+  <programme start="20260310111000 +0000" stop="20260310114000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Gourmet Express</title>
+  </programme>
+  <programme start="20260310114000 +0000" stop="20260310114500 +0000" channel="tvb.jade.au">
+    <title lang="zh">What&apos;s On Today</title>
+  </programme>
+  <programme start="20260310114500 +0000" stop="20260310121000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Scoop 2026</title>
+  </programme>
+  <programme start="20260310121000 +0000" stop="20260310124000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260310124000 +0000" stop="20260310134000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Pretty Dangerous</title>
+  </programme>
+  <programme start="20260310134000 +0000" stop="20260310144000 +0000" channel="tvb.jade.au">
+    <title lang="zh">The Imperial Coroner 2</title>
+  </programme>
+  <programme start="20260310144000 +0000" stop="20260310151000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Game of Scholars</title>
+  </programme>
+  <programme start="20260310151000 +0000" stop="20260310152500 +0000" channel="tvb.jade.au">
+    <title lang="zh">EXTRA</title>
+  </programme>
+  <programme start="20260310152500 +0000" stop="20260310161000 +0000" channel="tvb.jade.au">
+    <title lang="zh">News Roundup</title>
+  </programme>
+  <programme start="20260310161000 +0000" stop="20260310164000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Big Boys Club</title>
+  </programme>
+  <programme start="20260310164000 +0000" stop="20260310174000 +0000" channel="tvb.jade.au">
+    <title lang="zh">The Imperial Coroner 2</title>
+  </programme>
+  <programme start="20260310174000 +0000" stop="20260310184000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Pretty Dangerous</title>
+  </programme>
+  <programme start="20260310184000 +0000" stop="20260310184500 +0000" channel="tvb.jade.au">
+    <title lang="zh">What&apos;s On Today</title>
+  </programme>
+  <programme start="20260310184500 +0000" stop="20260310191000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260310191000 +0000" stop="20260310194000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Scoop 2026</title>
+  </programme>
+  <programme start="20260310194000 +0000" stop="20260310201000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Gourmet Express</title>
+  </programme>
+  <programme start="20260310201000 +0000" stop="20260310211000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Shining Just for You</title>
+  </programme>
+  <programme start="20260310211000 +0000" stop="20260310215500 +0000" channel="tvb.jade.au">
+    <title lang="zh">Big City Shop 2026</title>
+  </programme>
+  <programme start="20260310215500 +0000" stop="20260310221000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Happy Old Buddies</title>
+  </programme>
+  <programme start="20260310221000 +0000" stop="20260310224000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Big Big Home</title>
+  </programme>
+  <programme start="20260310224000 +0000" stop="20260310231000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Scoop 2026</title>
+  </programme>
+  <programme start="20260310231000 +0000" stop="20260311001000 +0000" channel="tvb.jade.au">
+    <title lang="zh">Good Morning Hong Kong and Global View</title>
+  </programme>
+</tv>
