@@ -349,8 +349,34 @@
     <title lang="zh">The Imperial Coroner II</title>
     <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
   </programme>
-  <programme start="20260316180000 +0000" stop="20260316190000 +0000" channel="tvb.jade.us.west">
+  <programme start="20260316180000 +0000" stop="20260316183000 +0000" channel="tvb.jade.us.west">
     <title lang="zh">Their AustraliaTrip</title>
+  </programme>
+  <programme start="20260316183000 +0000" stop="20260316190000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Hong Kong, World News &amp; Financial News</title>
+    <desc lang="zh">International updates from Hong Kong.</desc>
+  </programme>
+  <programme start="20260316190000 +0000" stop="20260316193000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Property Today</title>
+  </programme>
+  <programme start="20260316193000 +0000" stop="20260316200000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260316200000 +0000" stop="20260316203000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Scoop</title>
+  </programme>
+  <programme start="20260316203000 +0000" stop="20260316213000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Girlie Days</title>
+    <desc lang="zh">When a woman&apos;s perfect life is shattered, she sets out on an inspirational journey to find herself again.</desc>
+  </programme>
+  <programme start="20260316213000 +0000" stop="20260316221500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Big City Shop</title>
+  </programme>
+  <programme start="20260316221500 +0000" stop="20260316224500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Finance Magazine</title>
+  </programme>
+  <programme start="20260316224500 +0000" stop="20260316234500 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Info / Current Affairs &amp; Information</title>
   </programme>
   <programme start="20260314000000 +0000" stop="20260314010000 +0000" channel="tvb.jade.us.east">
     <title lang="zh">我家无难事 / Kwoks And What, The</title>
