@@ -12,137 +12,6 @@
   <channel id="tvb.jade.au">
     <display-name lang="zh">09 翡翠台 (澳新时区)</display-name>
   </channel>
-  <programme start="20260313020000 +0000" stop="20260313030000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">The Imperial Coroner II</title>
-    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
-  </programme>
-  <programme start="20260313030000 +0000" stop="20260313033000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">US-Canada News</title>
-  </programme>
-  <programme start="20260313033000 +0000" stop="20260313040000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Hong Kong, World News Roundup</title>
-    <desc lang="zh">(Chinese).</desc>
-  </programme>
-  <programme start="20260313040000 +0000" stop="20260313043000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Entertainment News</title>
-  </programme>
-  <programme start="20260313043000 +0000" stop="20260313050000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Lo and Behold</title>
-  </programme>
-  <programme start="20260313050000 +0000" stop="20260313060000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Pretty Dangerous</title>
-    <desc lang="zh">Women who commit crimes upon unsuspecting men.</desc>
-  </programme>
-  <programme start="20260313060000 +0000" stop="20260313070000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">The Imperial Coroner II</title>
-    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
-  </programme>
-  <programme start="20260313070000 +0000" stop="20260313073000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Game of Scholars</title>
-  </programme>
-  <programme start="20260313073000 +0000" stop="20260313080000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Scoop</title>
-  </programme>
-  <programme start="20260313080000 +0000" stop="20260313083000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Hong Kong, World Noon News</title>
-    <desc lang="zh">News.</desc>
-  </programme>
-  <programme start="20260313083000 +0000" stop="20260313090000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">US-Canada News</title>
-  </programme>
-  <programme start="20260313090000 +0000" stop="20260313094500 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Big City Shop</title>
-  </programme>
-  <programme start="20260313094500 +0000" stop="20260313100000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Current Affairs &amp; Information</title>
-  </programme>
-  <programme start="20260313100000 +0000" stop="20260313110000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Girlie Days</title>
-    <desc lang="zh">When a woman&apos;s perfect life is shattered, she sets out on an inspirational journey to find herself again.</desc>
-  </programme>
-  <programme start="20260313110000 +0000" stop="20260313113000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Entertainment News</title>
-  </programme>
-  <programme start="20260313113000 +0000" stop="20260313120000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Hong Kong, World Noon News</title>
-    <desc lang="zh">News.</desc>
-  </programme>
-  <programme start="20260313120000 +0000" stop="20260313124500 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Big City Shop</title>
-  </programme>
-  <programme start="20260313124500 +0000" stop="20260313130000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Current Affairs &amp; Information</title>
-  </programme>
-  <programme start="20260313130000 +0000" stop="20260313133000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">US-Canada News</title>
-  </programme>
-  <programme start="20260313133000 +0000" stop="20260313140000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Hong Kong, World News &amp; Financial News</title>
-    <desc lang="zh">International updates from Hong Kong.</desc>
-  </programme>
-  <programme start="20260313140000 +0000" stop="20260313150000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Girlie Days</title>
-    <desc lang="zh">When a woman&apos;s perfect life is shattered, she sets out on an inspirational journey to find herself again.</desc>
-  </programme>
-  <programme start="20260313150000 +0000" stop="20260313153000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Entertainment News</title>
-  </programme>
-  <programme start="20260313153000 +0000" stop="20260313160000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Lo and Behold</title>
-  </programme>
-  <programme start="20260313160000 +0000" stop="20260313170000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Pretty Dangerous</title>
-    <desc lang="zh">Women who commit crimes upon unsuspecting men.</desc>
-  </programme>
-  <programme start="20260313170000 +0000" stop="20260313180000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">The Imperial Coroner II</title>
-    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
-  </programme>
-  <programme start="20260313180000 +0000" stop="20260313183000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Game of Scholars</title>
-  </programme>
-  <programme start="20260313183000 +0000" stop="20260313190000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Hong Kong, World News &amp; Financial News</title>
-    <desc lang="zh">International updates from Hong Kong.</desc>
-  </programme>
-  <programme start="20260313190000 +0000" stop="20260313193000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Property Today</title>
-  </programme>
-  <programme start="20260313193000 +0000" stop="20260313200000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Entertainment News</title>
-  </programme>
-  <programme start="20260313200000 +0000" stop="20260313203000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Scoop</title>
-  </programme>
-  <programme start="20260313203000 +0000" stop="20260313213000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Girlie Days</title>
-    <desc lang="zh">When a woman&apos;s perfect life is shattered, she sets out on an inspirational journey to find herself again.</desc>
-  </programme>
-  <programme start="20260313213000 +0000" stop="20260313221500 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Big City Shop</title>
-  </programme>
-  <programme start="20260313221500 +0000" stop="20260313224500 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Shock Mystery</title>
-  </programme>
-  <programme start="20260313224500 +0000" stop="20260313230000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Info / Current Affairs &amp; Information</title>
-  </programme>
-  <programme start="20260313230000 +0000" stop="20260313233000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Game of Scholars</title>
-  </programme>
-  <programme start="20260313233000 +0000" stop="20260314000000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Entertainment News</title>
-  </programme>
-  <programme start="20260314000000 +0000" stop="20260314003000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Lo and Behold</title>
-  </programme>
-  <programme start="20260314003000 +0000" stop="20260314010000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Property Today</title>
-  </programme>
-  <programme start="20260314010000 +0000" stop="20260314020000 +0000" channel="tvb.jade.us.west">
-    <title lang="zh">Pretty Dangerous</title>
-    <desc lang="zh">Women who commit crimes upon unsuspecting men.</desc>
-  </programme>
   <programme start="20260314020000 +0000" stop="20260314030000 +0000" channel="tvb.jade.us.west">
     <title lang="zh">The Imperial Coroner II</title>
     <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
@@ -466,8 +335,22 @@
     <title lang="zh">Girlie Days</title>
     <desc lang="zh">When a woman&apos;s perfect life is shattered, she sets out on an inspirational journey to find herself again.</desc>
   </programme>
-  <programme start="20260316150000 +0000" stop="20260316160000 +0000" channel="tvb.jade.us.west">
+  <programme start="20260316150000 +0000" stop="20260316153000 +0000" channel="tvb.jade.us.west">
     <title lang="zh">Entertainment News</title>
+  </programme>
+  <programme start="20260316153000 +0000" stop="20260316160000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Lo and Behold</title>
+  </programme>
+  <programme start="20260316160000 +0000" stop="20260316170000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Pretty Dangerous</title>
+    <desc lang="zh">Women who commit crimes upon unsuspecting men.</desc>
+  </programme>
+  <programme start="20260316170000 +0000" stop="20260316180000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">The Imperial Coroner II</title>
+    <desc lang="zh">Prince An and coroner Chu Chu solve new, complex cases to protect the Tang Dynasty.</desc>
+  </programme>
+  <programme start="20260316180000 +0000" stop="20260316190000 +0000" channel="tvb.jade.us.west">
+    <title lang="zh">Their AustraliaTrip</title>
   </programme>
   <programme start="20260314000000 +0000" stop="20260314010000 +0000" channel="tvb.jade.us.east">
     <title lang="zh">我家无难事 / Kwoks And What, The</title>
