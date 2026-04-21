@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260421073332 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="CN-EPG-Merger">
+<tv date="20260421075630 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="CN-EPG-Merger">
 
 <!-- Channels -->
 
@@ -26,7 +26,7 @@
 <channel id="tvmao.NANFANG-NANFANG1"><display-name>[CN] 4419 廣東經濟科教</display-name><icon src="https://myeth-epg.github.io/icons4/c0000.png" /></channel>
 
 <channel id="tvmao.CCTV-CCTV1"><display-name>[CN-I] 0001 CCTV-1</display-name><icon src="https://myeth-epg.github.io/icons/c0001.png" /></channel>
-<channel id="CCTV-2 财经"><display-name>[CN-I] 0002 CCTV-2</display-name><icon src="https://myeth-epg.github.io/icons/c0002.png" /></channel>
+<channel id="tvmao.CCTV-CCTV2"><display-name>[CN-I] 0002 CCTV-2</display-name><icon src="https://myeth-epg.github.io/icons/c0002.png" /></channel>
 <channel id="tvmao.CCTV-CCTV3"><display-name>[CN-I] 0003 CCTV-3</display-name><icon src="https://myeth-epg.github.io/icons/c0003.png" /></channel>
 <channel id="tvmao.CCTV-CCTV4"><display-name>[CN-I] 0004 CCTV-4</display-name><icon src="https://myeth-epg.github.io/icons/c0004.png" /></channel>
 <channel id="tvmao.CCTV-CCTV5"><display-name>[CN-I] 0005 CCTV-5</display-name><icon src="https://myeth-epg.github.io/icons/c0005.png" /></channel>
@@ -37,7 +37,7 @@
 <channel id="tvmao.CCTV-CCTV9"><display-name>[CN-I] 0009 CCTV-9</display-name><icon src="https://myeth-epg.github.io/icons/c0009.png" /></channel>
 <channel id="tvmao.CCTV-CCTV10"><display-name>[CN-I] 0010 CCTV-10</display-name><icon src="https://myeth-epg.github.io/icons/c0010.png" /></channel>
 <channel id="tvmao.CCTV-CCTV11"><display-name>[CN-I] 0011 CCTV-11</display-name><icon src="https://myeth-epg.github.io/icons/c0011.png" /></channel>
-<channel id="CCTV-12 社会与法"><display-name>[CN-I] 0012 CCTV-12</display-name><icon src="https://myeth-epg.github.io/icons/c0012.png" /></channel>
+<channel id="tvmao.CCTV-CCTV12"><display-name>[CN-I] 0012 CCTV-12</display-name><icon src="https://myeth-epg.github.io/icons/c0012.png" /></channel>
 <channel id="tvmao.CCTV-CCTV13"><display-name>[CN-I] 0013 CCTV-13</display-name><icon src="https://myeth-epg.github.io/icons/c0013.png" /></channel>
 <channel id="tvmao.CCTV-CCTV14"><display-name>[CN-I] 0014 CCTV-14</display-name><icon src="https://myeth-epg.github.io/icons/c0014.png" /></channel>
 <channel id="tvmao.CCTV-CCTV15"><display-name>[CN-I] 0015 CCTV-15</display-name><icon src="https://myeth-epg.github.io/icons/c0015.png" /></channel>
@@ -82,7 +82,7 @@
 <channel id="368366"><display-name>[CN-II] 005 翡翠台</display-name><icon src="https://myeth-epg.github.io/icons/tvb.jade.png" /></channel>
 <channel id="tvmao.HUNANTV1"><display-name>[CN-II] 008 湖南卫视</display-name><icon src="https://myeth-epg.github.io/icons4/c2008.png" /></channel>
 <channel id="tvmao.BTV1"><display-name>[CN-II] 009 北京卫视</display-name><icon src="https://myeth-epg.github.io/icons4/c2009.png" /></channel>
-<channel id="CCTV-2 财经"><display-name>[CN-II] 010 CCTV-2财经</display-name><icon src="https://myeth-epg.github.io/icons/c0002.png" /></channel>
+<channel id="tvmao.CCTV-CCTV2"><display-name>[CN-II] 010 CCTV-2财经</display-name><icon src="https://myeth-epg.github.io/icons/c0002.png" /></channel>
 <channel id="tvmao.CCTV-CCTV3"><display-name>[CN-II] 011 CCTV-3综艺</display-name><icon src="https://myeth-epg.github.io/icons/c0003.png" /></channel>
 <channel id="tvmao.CCTV-CCTV4"><display-name>[CN-II] 012 CCTV-4中文国际</display-name><icon src="https://myeth-epg.github.io/icons/c0004.png" /></channel>
 <channel id="tvmao.CCTV-CCTV5"><display-name>[CN-II] 013 CCTV-5体育</display-name><icon src="https://myeth-epg.github.io/icons/c0005.png" /></channel>
@@ -93,7 +93,7 @@
 <channel id="tvmao.CCTV-CCTV9"><display-name>[CN-II] 018 CCTV-9纪录</display-name><icon src="https://myeth-epg.github.io/icons/c0009.png" /></channel>
 <channel id="tvmao.CCTV-CCTV10"><display-name>[CN-II] 019 CCTV-10科教</display-name><icon src="https://myeth-epg.github.io/icons/c0010.png" /></channel>
 <channel id="tvmao.CCTV-CCTV11"><display-name>[CN-II] 020 CCTV-11戏曲</display-name><icon src="https://myeth-epg.github.io/icons/c0011.png" /></channel>
-<channel id="CCTV-12 社会与法"><display-name>[CN-II] 021 CCTV-12社会</display-name><icon src="https://myeth-epg.github.io/icons/c0012.png" /></channel>
+<channel id="tvmao.CCTV-CCTV12"><display-name>[CN-II] 021 CCTV-12社会</display-name><icon src="https://myeth-epg.github.io/icons/c0012.png" /></channel>
 <channel id="tvmao.CCTV-CCTV13"><display-name>[CN-II] 022 CCTV-13新闻</display-name><icon src="https://myeth-epg.github.io/icons/c0013.png" /></channel>
 <channel id="tvmao.CCTV-CCTV14"><display-name>[CN-II] 023 CCTV-14少儿</display-name><icon src="https://myeth-epg.github.io/icons/c0014.png" /></channel>
 <channel id="tvmao.CCTV-CCTV15"><display-name>[CN-II] 024 CCTV-15音乐</display-name><icon src="https://myeth-epg.github.io/icons/c0015.png" /></channel>
