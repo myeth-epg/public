@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260701170934 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="CN-EPG-Merger">
+<tv date="20260702192702 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="CN-EPG-Merger">
 
 <!-- Channels -->
 
@@ -206,600 +206,6 @@
 
 
 <!-- Programmes -->
-<programme start="20260625160000 +0000" stop="20260625161000 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">猪猪侠之竞速小英雄七</title>
-  </programme>
-<programme start="20260625160000 +0000" stop="20260625165000 +0000" channel="gdtv.广东少儿">
-    <title lang="zh">午夜剧场</title>
-  </programme>
-<programme start="20260625160000 +0000" stop="20260625163000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260625161000 +0000" stop="20260625220600 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">巴啦啦小魔仙之魔法星缘堡</title>
-  </programme>
-<programme start="20260625161300 +0000" stop="20260625181400 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">南征北战</title>
-  </programme>
-<programme start="20260625161500 +0000" stop="20260625170500 +0000" channel="gdtv.广东影视">
-    <title lang="zh">午夜剧场</title>
-  </programme>
-<programme start="20260625163000 +0000" stop="20260625170000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日焦点</title>
-  </programme>
-<programme start="20260625163400 +0000" stop="20260625170800 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第3轮瑞士vs加拿大</title>
-  </programme>
-<programme start="20260625165500 +0000" stop="20260625220000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">电视剧:打狗棍</title>
-  </programme>
-<programme start="20260625170000 +0000" stop="20260625220000 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">风雅潮韵:《成康登基》名段精选(1)</title>
-  </programme>
-<programme start="20260625170000 +0000" stop="20260625174500 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日一线</title>
-  </programme>
-<programme start="20260625170800 +0000" stop="20260625173400 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛A组第3轮南非vs韩国</title>
-  </programme>
-<programme start="20260625173400 +0000" stop="20260625180000 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮英格兰vs加纳</title>
-  </programme>
-<programme start="20260625174500 +0000" stop="20260625180500 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">老广的味道</title>
-  </programme>
-<programme start="20260625180000 +0000" stop="20260625182600 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播2026年广东省城市足球超级联赛6轮精编版梅州vs清远</title>
-  </programme>
-<programme start="20260625180500 +0000" stop="20260625214000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日关注</title>
-  </programme>
-<programme start="20260625181400 +0000" stop="20260625210000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">纪录片</title>
-  </programme>
-<programme start="20260625182600 +0000" stop="20260625190400 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播2026年广东省城市足球超级联赛第7轮精编版清远vs揭阳</title>
-  </programme>
-<programme start="20260625190400 +0000" stop="20260625193000 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮巴拿马vs克罗地亚</title>
-  </programme>
-<programme start="20260625193000 +0000" stop="20260625220700 +0000" channel="gdtv.广东体育">
-    <title lang="zh">直播燃情世界杯:2026年国际足联美加墨世界杯E组第3轮(28:00厄瓜多尔vs德国)</title>
-  </programme>
-<programme start="20260625210000 +0000" stop="20260625214400 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">无所畏惧之永不放弃(6)</title>
-  </programme>
-<programme start="20260625214000 +0000" stop="20260625220000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">社会纵横</title>
-  </programme>
-<programme start="20260625214400 +0000" stop="20260625223000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">无所畏惧之永不放弃(7)</title>
-  </programme>
-<programme start="20260625220000 +0000" stop="20260625233900 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">剧场连线:洞庭良缘(2)</title>
-  </programme>
-<programme start="20260625220000 +0000" stop="20260626000000 +0000" channel="gdtv.广东少儿">
-    <title lang="zh">早间卡通剧场《超级飞侠》</title>
-  </programme>
-<programme start="20260625220000 +0000" stop="20260625223000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">直播广东</title>
-  </programme>
-<programme start="20260625220000 +0000" stop="20260625230000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">系列短剧:外来媳妇本地郎</title>
-  </programme>
-<programme start="20260625220600 +0000" stop="20260626000900 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">猪猪侠之竞速小英雄七</title>
-  </programme>
-<programme start="20260625220700 +0000" stop="20260625223300 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第3轮瑞士vs加拿大</title>
-  </programme>
-<programme start="20260625221000 +0000" stop="20260626004500 +0000" channel="gdtv.广东影视">
-    <title lang="zh">醒晨剧场一:开封府(69-72)</title>
-  </programme>
-<programme start="20260625223000 +0000" stop="20260625225700 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">广东新闻联播重播</title>
-  </programme>
-<programme start="20260625223000 +0000" stop="20260625230100 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260625223300 +0000" stop="20260626010600 +0000" channel="gdtv.广东体育">
-    <title lang="zh">直播燃情世界杯:2026年国际足联美加墨世界杯F组第3轮(07:00日本vs瑞典)</title>
-  </programme>
-<programme start="20260625225700 +0000" stop="20260625230000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">早间天气预报</title>
-  </programme>
-<programme start="20260625230000 +0000" stop="20260625233500 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">大美南粤</title>
-  </programme>
-<programme start="20260625230000 +0000" stop="20260626001500 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">今日关注(重播)</title>
-  </programme>
-<programme start="20260625230100 +0000" stop="20260626000000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日关注</title>
-  </programme>
-<programme start="20260625230500 +0000" stop="20260626002000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">DV现场</title>
-  </programme>
-<programme start="20260625233500 +0000" stop="20260626003800 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">绞杀1943(28)</title>
-  </programme>
-<programme start="20260625233900 +0000" stop="20260625234300 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">戏人戏语(338)</title>
-  </programme>
-<programme start="20260625234300 +0000" stop="20260625234800 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(898)</title>
-  </programme>
-<programme start="20260625234800 +0000" stop="20260625235300 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">趣谈广州话(1916)</title>
-  </programme>
-<programme start="20260625235300 +0000" stop="20260626010300 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">风雅潮韵:《成康登基》名段精选(1)</title>
-  </programme>
-<programme start="20260626000000 +0000" stop="20260626043000 +0000" channel="gdtv.广东少儿">
-    <title lang="zh">《猪猪侠》</title>
-  </programme>
-<programme start="20260626000000 +0000" stop="20260626003000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广东新闻联播</title>
-  </programme>
-<programme start="20260626000900 +0000" stop="20260626033200 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">薇薇猫的日常</title>
-  </programme>
-<programme start="20260626001500 +0000" stop="20260626090500 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">传奇剧场:血色玫瑰之女子特遣队</title>
-  </programme>
-<programme start="20260626002000 +0000" stop="20260626020500 +0000" channel="gdtv.广东民生">
-    <title lang="zh">好团圆</title>
-  </programme>
-<programme start="20260626003000 +0000" stop="20260626010000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260626003800 +0000" stop="20260626012000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">绞杀1943(29)</title>
-  </programme>
-<programme start="20260626004500 +0000" stop="20260626030500 +0000" channel="gdtv.广东影视">
-    <title lang="zh">醒晨剧场二:刀锋下的替身(37-39)</title>
-  </programme>
-<programme start="20260626010000 +0000" stop="20260626014500 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日一线</title>
-  </programme>
-<programme start="20260626010300 +0000" stop="20260626022500 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">高手在民间:月擂主争霸赛(32)</title>
-  </programme>
-<programme start="20260626010600 +0000" stop="20260626013300 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮葡萄牙vs乌兹别克斯坦</title>
-  </programme>
-<programme start="20260626012000 +0000" stop="20260626021300 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">绞杀1943(30完)</title>
-  </programme>
-<programme start="20260626013300 +0000" stop="20260626042100 +0000" channel="gdtv.广东体育">
-    <title lang="zh">直播燃情世界杯:2026年国际足联美加墨世界杯D组第3轮(10:00巴拉圭vs澳大利亚)</title>
-  </programme>
-<programme start="20260626014500 +0000" stop="20260626020000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">社会纵横</title>
-  </programme>
-<programme start="20260626020000 +0000" stop="20260626023000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260626020500 +0000" stop="20260626040000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">外来媳妇本地郎</title>
-  </programme>
-<programme start="20260626021300 +0000" stop="20260626030500 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">决战风铃渡(1)</title>
-  </programme>
-<programme start="20260626022500 +0000" stop="20260626040400 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">剧场连线:洞庭良缘(2)</title>
-  </programme>
-<programme start="20260626023000 +0000" stop="20260626030000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260626030000 +0000" stop="20260626033000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260626030500 +0000" stop="20260626040000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">决战风铃渡(2)</title>
-  </programme>
-<programme start="20260626030500 +0000" stop="20260626080000 +0000" channel="gdtv.广东影视">
-    <title lang="zh">午间大强档:刑警队长(10-14)</title>
-  </programme>
-<programme start="20260626033000 +0000" stop="20260626040000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260626033200 +0000" stop="20260626045000 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">奶龙搞怪大作战</title>
-  </programme>
-<programme start="20260626040000 +0000" stop="20260626045500 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">手枪队(25)</title>
-  </programme>
-<programme start="20260626040000 +0000" stop="20260626043000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">午间30分</title>
-  </programme>
-<programme start="20260626040000 +0000" stop="20260626052000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">DV现场</title>
-  </programme>
-<programme start="20260626040400 +0000" stop="20260626040800 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">戏人戏语(338)</title>
-  </programme>
-<programme start="20260626040800 +0000" stop="20260626041300 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(898)</title>
-  </programme>
-<programme start="20260626041300 +0000" stop="20260626041800 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">趣谈广州话(1916)</title>
-  </programme>
-<programme start="20260626041800 +0000" stop="20260626052600 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">锦绣梨园:粤韵飘香玉清来(2)</title>
-  </programme>
-<programme start="20260626042130 +0000" stop="20260626053200 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播出奇智胜(887)</title>
-  </programme>
-<programme start="20260626043000 +0000" stop="20260626060000 +0000" channel="gdtv.广东少儿">
-    <title lang="zh">《神奇阿呦》</title>
-  </programme>
-<programme start="20260626043000 +0000" stop="20260626050000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260626045000 +0000" stop="20260626060300 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">奶龙搞怪大作战二</title>
-  </programme>
-<programme start="20260626045500 +0000" stop="20260626054800 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">手枪队(26)</title>
-  </programme>
-<programme start="20260626050000 +0000" stop="20260626053000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260626052000 +0000" stop="20260626070500 +0000" channel="gdtv.广东民生">
-    <title lang="zh">好团圆</title>
-  </programme>
-<programme start="20260626052600 +0000" stop="20260626055700 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">红梅飘香:梁耀安</title>
-  </programme>
-<programme start="20260626053000 +0000" stop="20260626060000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260626053230 +0000" stop="20260626060800 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第3轮苏格兰vs巴西</title>
-  </programme>
-<programme start="20260626054800 +0000" stop="20260626064200 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">手枪队(27)</title>
-  </programme>
-<programme start="20260626055700 +0000" stop="20260626060100 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">戏人戏语(338)</title>
-  </programme>
-<programme start="20260626060000 +0000" stop="20260626090000 +0000" channel="gdtv.广东少儿">
-    <title lang="zh">《薇薇猫的日常》</title>
-  </programme>
-<programme start="20260626060000 +0000" stop="20260626063000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260626060100 +0000" stop="20260626060600 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(898)</title>
-  </programme>
-<programme start="20260626060300 +0000" stop="20260626080800 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">喜羊羊与灰太狼之羊村守护者六</title>
-  </programme>
-<programme start="20260626060600 +0000" stop="20260626060900 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">趣谈广州话(1916)</title>
-  </programme>
-<programme start="20260626060800 +0000" stop="20260626064500 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛A组第3轮南非vs韩国</title>
-  </programme>
-<programme start="20260626060900 +0000" stop="20260626074700 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">剧场连线:洞庭良缘(2)</title>
-  </programme>
-<programme start="20260626063000 +0000" stop="20260626070000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260626064200 +0000" stop="20260626073700 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">手枪队(28)</title>
-  </programme>
-<programme start="20260626064530 +0000" stop="20260626072400 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第3轮瑞士vs加拿大</title>
-  </programme>
-<programme start="20260626070000 +0000" stop="20260626073000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260626070500 +0000" stop="20260626082000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">外来媳妇本地郎</title>
-  </programme>
-<programme start="20260626072400 +0000" stop="20260626080000 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播2026年广东省城市足球超级联赛6轮精编版梅州vs清远</title>
-  </programme>
-<programme start="20260626073000 +0000" stop="20260626080000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260626073700 +0000" stop="20260626082900 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">手枪队(29)</title>
-  </programme>
-<programme start="20260626074700 +0000" stop="20260626075100 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">戏人戏语(338)</title>
-  </programme>
-<programme start="20260626075100 +0000" stop="20260626075600 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(898)</title>
-  </programme>
-<programme start="20260626075600 +0000" stop="20260626075900 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">趣谈广州话(1916)</title>
-  </programme>
-<programme start="20260626075900 +0000" stop="20260626084500 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">粤剧有我地:梁晓莹</title>
-  </programme>
-<programme start="20260626080000 +0000" stop="20260626103500 +0000" channel="gdtv.广东影视">
-    <title lang="zh">剧无霸前战剧场:新燕子李三(26-28)</title>
-  </programme>
-<programme start="20260626080000 +0000" stop="20260626083000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260626080030 +0000" stop="20260626083600 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮葡萄牙vs刚果(金)</title>
-  </programme>
-<programme start="20260626080800 +0000" stop="20260626083000 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">嘿，托玛</title>
-  </programme>
-<programme start="20260626082000 +0000" stop="20260626100000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">父辈的荣耀</title>
-  </programme>
-<programme start="20260626082900 +0000" stop="20260626093200 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">手枪队(30)</title>
-  </programme>
-<programme start="20260626083000 +0000" stop="20260626110000 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">宠物旅店</title>
-  </programme>
-<programme start="20260626083000 +0000" stop="20260626090000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260626083600 +0000" stop="20260626091600 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播2026年广东省城市足球超级联赛第7轮精编版清远vs揭阳</title>
-  </programme>
-<programme start="20260626084500 +0000" stop="20260626094000 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">老倌学堂:冯刚毅《情僧偷到潇湘馆》</title>
-  </programme>
-<programme start="20260626090000 +0000" stop="20260626103000 +0000" channel="gdtv.广东少儿">
-    <title lang="zh">《天才小鲁班》</title>
-  </programme>
-<programme start="20260626090000 +0000" stop="20260626093000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260626090500 +0000" stop="20260626091500 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">人生一万年</title>
-  </programme>
-<programme start="20260626091500 +0000" stop="20260626095000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">粤韵风华</title>
-  </programme>
-<programme start="20260626091600 +0000" stop="20260626094800 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮巴拿马vs克罗地亚</title>
-  </programme>
-<programme start="20260626093000 +0000" stop="20260626100000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260626093200 +0000" stop="20260626101600 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">手枪队(31)</title>
-  </programme>
-<programme start="20260626094000 +0000" stop="20260626104800 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">风雅潮韵:《成康登基》名段精选(2)</title>
-  </programme>
-<programme start="20260626094830 +0000" stop="20260626102200 +0000" channel="gdtv.广东体育">
-    <title lang="zh">首播美加墨赛场:2026年美加墨世界杯小组赛第3轮厄瓜多尔vs德国</title>
-  </programme>
-<programme start="20260626095000 +0000" stop="20260626100000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">今日财经</title>
-  </programme>
-<programme start="20260626100000 +0000" stop="20260626103000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260626100000 +0000" stop="20260626104600 +0000" channel="gdtv.广东民生">
-    <title lang="zh">外来媳妇本地郎</title>
-  </programme>
-<programme start="20260626100000 +0000" stop="20260626110000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">珠江新闻</title>
-  </programme>
-<programme start="20260626101600 +0000" stop="20260626102300 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">高质量发展第一线</title>
-  </programme>
-<programme start="20260626102200 +0000" stop="20260626110000 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第3轮瑞士vs加拿大</title>
-  </programme>
-<programme start="20260626102300 +0000" stop="20260626103000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">家在嘉禾</title>
-  </programme>
-<programme start="20260626103000 +0000" stop="20260626105600 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">广东新闻联播</title>
-  </programme>
-<programme start="20260626103000 +0000" stop="20260626160000 +0000" channel="gdtv.广东少儿">
-    <title lang="zh">《羊村守护者》</title>
-  </programme>
-<programme start="20260626103000 +0000" stop="20260626110000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260626103500 +0000" stop="20260626105000 +0000" channel="gdtv.广东影视">
-    <title lang="zh">闪闪小红星</title>
-  </programme>
-<programme start="20260626104600 +0000" stop="20260626110000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">DV严选</title>
-  </programme>
-<programme start="20260626104800 +0000" stop="20260626105200 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">戏人戏语(338)</title>
-  </programme>
-<programme start="20260626105000 +0000" stop="20260626142000 +0000" channel="gdtv.广东影视">
-    <title lang="zh">剧无霸剧场:我和我的传奇奶奶(31-35)</title>
-  </programme>
-<programme start="20260626105200 +0000" stop="20260626105700 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(898)</title>
-  </programme>
-<programme start="20260626105600 +0000" stop="20260626110000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">天气预报</title>
-  </programme>
-<programme start="20260626105700 +0000" stop="20260626110000 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">趣谈广州话(1916)</title>
-  </programme>
-<programme start="20260626110000 +0000" stop="20260626111200 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">咖宝车神之超能救援</title>
-  </programme>
-<programme start="20260626110000 +0000" stop="20260626123900 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">剧场连线:两嫁三婚历劫缘(1)</title>
-  </programme>
-<programme start="20260626110000 +0000" stop="20260626112400 +0000" channel="gdtv.广东体育">
-    <title lang="zh">直播体育世界(粤讲世界杯第15期)</title>
-  </programme>
-<programme start="20260626110000 +0000" stop="20260626113300 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">转播中央台新闻联播</title>
-  </programme>
-<programme start="20260626110000 +0000" stop="20260626112500 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260626110000 +0000" stop="20260626122300 +0000" channel="gdtv.广东民生">
-    <title lang="zh">DV现场(5475)</title>
-  </programme>
-<programme start="20260626110000 +0000" stop="20260626120000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">珠江剧场:红高粱49</title>
-  </programme>
-<programme start="20260626111200 +0000" stop="20260626120100 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">超级飞侠二十</title>
-  </programme>
-<programme start="20260626112400 +0000" stop="20260626133900 +0000" channel="gdtv.广东体育">
-    <title lang="zh">首播2026年沙田镇龙舟锦标赛</title>
-  </programme>
-<programme start="20260626112500 +0000" stop="20260626113000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">天气预报</title>
-  </programme>
-<programme start="20260626113000 +0000" stop="20260626120000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广东新闻联播</title>
-  </programme>
-<programme start="20260626113300 +0000" stop="20260626122500 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">八千里路云和月(19)</title>
-  </programme>
-<programme start="20260626120000 +0000" stop="20260626123000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">乡村振兴报道</title>
-  </programme>
-<programme start="20260626120000 +0000" stop="20260626130000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">珠江剧场:红高粱50</title>
-  </programme>
-<programme start="20260626120100 +0000" stop="20260626120400 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">2026蕃尼蕃尼之嘉有好朋友</title>
-  </programme>
-<programme start="20260626120400 +0000" stop="20260626120700 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">大玩家特搜队-潮玩对对碰</title>
-  </programme>
-<programme start="20260626120700 +0000" stop="20260626122300 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">超级飞侠特别篇之飞鸟特工行动</title>
-  </programme>
-<programme start="20260626122300 +0000" stop="20260626132000 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">喜羊羊与灰太狼之羊村守护者五</title>
-  </programme>
-<programme start="20260626122300 +0000" stop="20260626124000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">全民帮帮忙(1308)</title>
-  </programme>
-<programme start="20260626122500 +0000" stop="20260626132000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">八千里路云和月(20)</title>
-  </programme>
-<programme start="20260626123000 +0000" stop="20260626130000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日焦点</title>
-  </programme>
-<programme start="20260626123900 +0000" stop="20260626124300 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">戏人戏语(338)</title>
-  </programme>
-<programme start="20260626124000 +0000" stop="20260626130600 +0000" channel="gdtv.广东民生">
-    <title lang="zh">热搜榜中榜(673)</title>
-  </programme>
-<programme start="20260626124300 +0000" stop="20260626124800 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(898)</title>
-  </programme>
-<programme start="20260626124800 +0000" stop="20260626125900 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">趣谈广州话(1916)</title>
-  </programme>
-<programme start="20260626125900 +0000" stop="20260626140600 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">锦绣梨园:粤韵飘香玉清来(2)</title>
-  </programme>
-<programme start="20260626130000 +0000" stop="20260626131000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">社会纵横</title>
-  </programme>
-<programme start="20260626130000 +0000" stop="20260626140000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">今日关注</title>
-  </programme>
-<programme start="20260626130600 +0000" stop="20260626132200 +0000" channel="gdtv.广东民生">
-    <title lang="zh">宜居大湾区平日版(290)</title>
-  </programme>
-<programme start="20260626131000 +0000" stop="20260626133000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260626132000 +0000" stop="20260626132100 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">2026遇见中华诗词之美</title>
-  </programme>
-<programme start="20260626132000 +0000" stop="20260626134300 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">晚间新闻</title>
-  </programme>
-<programme start="20260626132100 +0000" stop="20260626135800 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">喜羊羊与灰太狼之羊村守护者五</title>
-  </programme>
-<programme start="20260626132200 +0000" stop="20260626150000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">民生休闲剧场:好团圆(29-30)</title>
-  </programme>
-<programme start="20260626133000 +0000" stop="20260626142000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日一线</title>
-  </programme>
-<programme start="20260626133900 +0000" stop="20260626141100 +0000" channel="gdtv.广东体育">
-    <title lang="zh">首播美加墨赛场:2026年美加墨世界杯小组赛第3轮日本vs瑞典</title>
-  </programme>
-<programme start="20260626134300 +0000" stop="20260626142700 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">雪迷宫(24)</title>
-  </programme>
-<programme start="20260626135800 +0000" stop="20260626144800 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">猪猪侠之竞速小英雄七</title>
-  </programme>
-<programme start="20260626140000 +0000" stop="20260626150000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">王牌剧场:兄弟营20</title>
-  </programme>
-<programme start="20260626140600 +0000" stop="20260626150300 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">老倌学堂:冯刚毅《情僧偷到潇湘馆》</title>
-  </programme>
-<programme start="20260626141130 +0000" stop="20260626150700 +0000" channel="gdtv.广东体育">
-    <title lang="zh">首播出奇智胜(888)</title>
-  </programme>
-<programme start="20260626142000 +0000" stop="20260626143500 +0000" channel="gdtv.广东影视">
-    <title lang="zh">广东电影报道</title>
-  </programme>
-<programme start="20260626142000 +0000" stop="20260626143000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">社会纵横</title>
-  </programme>
-<programme start="20260626142700 +0000" stop="20260626151100 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">雪迷宫(25)</title>
-  </programme>
-<programme start="20260626143000 +0000" stop="20260626150000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">新闻夜线</title>
-  </programme>
-<programme start="20260626143500 +0000" stop="20260626161500 +0000" channel="gdtv.广东影视">
-    <title lang="zh">剧无霸经典剧场:女子奇袭队(43-45)</title>
-  </programme>
-<programme start="20260626150000 +0000" stop="20260626155000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日关注</title>
-  </programme>
-<programme start="20260626150000 +0000" stop="20260626155000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">DV现场</title>
-  </programme>
-<programme start="20260626150000 +0000" stop="20260626155500 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">王牌剧场:兄弟营21</title>
-  </programme>
-<programme start="20260626150300 +0000" stop="20260626150800 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(898)</title>
-  </programme>
-<programme start="20260626150700 +0000" stop="20260626153300 +0000" channel="gdtv.广东体育">
-    <title lang="zh">首播体育世界(粤讲世界杯第15期)</title>
-  </programme>
-<programme start="20260626150800 +0000" stop="20260626151100 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">趣谈广州话(1916)</title>
-  </programme>
-<programme start="20260626151100 +0000" stop="20260626160100 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">剧场连线:两嫁三婚历劫缘(1)</title>
-  </programme>
-<programme start="20260626151100 +0000" stop="20260626153100 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">古色古香中国味</title>
-  </programme>
-<programme start="20260626153100 +0000" stop="20260626162100 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">南粤4K画卷</title>
-  </programme>
-<programme start="20260626153300 +0000" stop="20260626160600 +0000" channel="gdtv.广东体育">
-    <title lang="zh">首播美加墨赛场:2026年美加墨世界杯小组赛第3轮巴拉圭vs澳大利亚</title>
-  </programme>
-<programme start="20260626155500 +0000" stop="20260626164500 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">今日关注(重播)</title>
-  </programme>
 <programme start="20260626160000 +0000" stop="20260626162200 +0000" channel="gdtv.嘉佳卡通">
     <title lang="zh">巴啦啦小魔仙之魔法星缘堡</title>
   </programme>
@@ -4472,6 +3878,9 @@
 <programme start="20260702155500 +0000" stop="20260702164500 +0000" channel="gdtv.广东珠江">
     <title lang="zh">今日关注(重播)</title>
   </programme>
+<programme start="20260702160000 +0000" stop="20260702221700 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">喜羊羊与灰太狼之筐出胜利</title>
+  </programme>
 <programme start="20260702160000 +0000" stop="20260702165000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">午夜剧场</title>
   </programme>
@@ -4480,6 +3889,9 @@
   </programme>
 <programme start="20260702161500 +0000" stop="20260702170500 +0000" channel="gdtv.广东影视">
     <title lang="zh">午夜剧场</title>
+  </programme>
+<programme start="20260702161700 +0000" stop="20260702174500 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">平原游击队</title>
   </programme>
 <programme start="20260702163000 +0000" stop="20260702170000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">今日焦点</title>
@@ -4505,6 +3917,9 @@
 <programme start="20260702173800 +0000" stop="20260702180400 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛英格兰vs刚果(金)</title>
   </programme>
+<programme start="20260702174500 +0000" stop="20260702210000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">纪录片</title>
+  </programme>
 <programme start="20260702174500 +0000" stop="20260702180500 +0000" channel="gdtv.广东新闻">
     <title lang="zh">老广的味道</title>
   </programme>
@@ -4517,11 +3932,17 @@
 <programme start="20260702183000 +0000" stop="20260702214200 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播燃情世界杯:2026年国际足联美加墨世界杯1/16决赛(03:00西班牙vs奥地利)</title>
   </programme>
+<programme start="20260702210000 +0000" stop="20260702214400 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">无所畏惧之永不放弃(20)</title>
+  </programme>
 <programme start="20260702214000 +0000" stop="20260702220000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">社会纵横</title>
   </programme>
 <programme start="20260702214200 +0000" stop="20260702215000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播十分好球(世界杯版)</title>
+  </programme>
+<programme start="20260702214400 +0000" stop="20260702223000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">无所畏惧之永不放弃(21)</title>
   </programme>
 <programme start="20260702215000 +0000" stop="20260702221600 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛(25:00科特迪瓦vs挪威)</title>
@@ -4544,11 +3965,23 @@
 <programme start="20260702221600 +0000" stop="20260702223000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播十分好球(世界杯版)</title>
   </programme>
+<programme start="20260702221700 +0000" stop="20260702235700 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">猪猪侠之功夫小英雄(一)</title>
+  </programme>
 <programme start="20260702223000 +0000" stop="20260703011400 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播燃情世界杯:2026年国际足联美加墨世界杯1/16决赛(07:00葡萄牙vs克罗地亚)</title>
   </programme>
+<programme start="20260702223000 +0000" stop="20260702225700 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">广东新闻联播重播</title>
+  </programme>
 <programme start="20260702223000 +0000" stop="20260702230100 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
+  </programme>
+<programme start="20260702225700 +0000" stop="20260702230000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">早间天气预报</title>
+  </programme>
+<programme start="20260702230000 +0000" stop="20260702233000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">大美南粤</title>
   </programme>
 <programme start="20260702230000 +0000" stop="20260703001500 +0000" channel="gdtv.广东珠江">
     <title lang="zh">今日关注(重播)</title>
@@ -4558,6 +3991,9 @@
   </programme>
 <programme start="20260702230500 +0000" stop="20260703002000 +0000" channel="gdtv.广东民生">
     <title lang="zh">DV现场</title>
+  </programme>
+<programme start="20260702233000 +0000" stop="20260702235500 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">动画:海底小纵队</title>
   </programme>
 <programme start="20260702233600 +0000" stop="20260702234000 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">戏人戏语(343)</title>
@@ -4570,6 +4006,12 @@
   </programme>
 <programme start="20260702235000 +0000" stop="20260703010000 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">风雅潮韵:江姐(2)</title>
+  </programme>
+<programme start="20260702235500 +0000" stop="20260703005800 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(5)</title>
+  </programme>
+<programme start="20260702235700 +0000" stop="20260703033800 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">喜羊羊与灰太狼之古古怪界有古怪</title>
   </programme>
 <programme start="20260703000000 +0000" stop="20260703040000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">《海底小纵队》</title>
@@ -4589,6 +4031,9 @@
 <programme start="20260703004500 +0000" stop="20260703030500 +0000" channel="gdtv.广东影视">
     <title lang="zh">醒晨剧场二:黄河英雄(7-9)</title>
   </programme>
+<programme start="20260703005800 +0000" stop="20260703014100 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(6)</title>
+  </programme>
 <programme start="20260703010000 +0000" stop="20260703023300 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">第二届《高手在民间》风腔粤曲演唱大赛(1)</title>
   </programme>
@@ -4600,6 +4045,9 @@
   </programme>
 <programme start="20260703012200 +0000" stop="20260703015000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛比利时vs塞内加尔</title>
+  </programme>
+<programme start="20260703014100 +0000" stop="20260703023400 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(7)</title>
   </programme>
 <programme start="20260703015030 +0000" stop="20260703015800 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播十分好球(世界杯版)</title>
@@ -4622,14 +4070,23 @@
 <programme start="20260703023300 +0000" stop="20260703041100 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">剧场连线:鸿胜馆(1)</title>
   </programme>
+<programme start="20260703023400 +0000" stop="20260703032600 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(8)</title>
+  </programme>
 <programme start="20260703030000 +0000" stop="20260703033000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">正点播报</title>
   </programme>
 <programme start="20260703030500 +0000" stop="20260703080000 +0000" channel="gdtv.广东影视">
     <title lang="zh">午间大强档:刑警队长(45-47)决胜(1-2)</title>
   </programme>
+<programme start="20260703032600 +0000" stop="20260703042000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(9)</title>
+  </programme>
 <programme start="20260703033000 +0000" stop="20260703040000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
+  </programme>
+<programme start="20260703033800 +0000" stop="20260703062000 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">薇薇猫的日常</title>
   </programme>
 <programme start="20260703040000 +0000" stop="20260703060000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">《宠物旅店》</title>
@@ -4649,6 +4106,9 @@
 <programme start="20260703042000 +0000" stop="20260703042600 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">趣谈广州话(1931)</title>
   </programme>
+<programme start="20260703042000 +0000" stop="20260703051300 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(28)</title>
+  </programme>
 <programme start="20260703042600 +0000" stop="20260703053300 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">锦绣梨园:女韵天籁桃李聚</title>
   </programme>
@@ -4657,6 +4117,9 @@
   </programme>
 <programme start="20260703050000 +0000" stop="20260703053000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">正点播报</title>
+  </programme>
+<programme start="20260703051300 +0000" stop="20260703060400 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(29)</title>
   </programme>
 <programme start="20260703052000 +0000" stop="20260703070500 +0000" channel="gdtv.广东民生">
     <title lang="zh">我们的婚姻</title>
@@ -4676,6 +4139,9 @@
 <programme start="20260703060000 +0000" stop="20260703063000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">正点播报</title>
   </programme>
+<programme start="20260703060400 +0000" stop="20260703065400 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(30)</title>
+  </programme>
 <programme start="20260703060600 +0000" stop="20260703061000 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">戏人戏语(343)</title>
   </programme>
@@ -4688,11 +4154,17 @@
 <programme start="20260703061800 +0000" stop="20260703075300 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">剧场连线:鸿胜馆(1)</title>
   </programme>
+<programme start="20260703062000 +0000" stop="20260703073600 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">喜羊羊与灰太狼之勇闯四季城</title>
+  </programme>
 <programme start="20260703063000 +0000" stop="20260703070000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
   </programme>
 <programme start="20260703063130 +0000" stop="20260703070900 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛英格兰vs刚果(金)</title>
+  </programme>
+<programme start="20260703065400 +0000" stop="20260703074700 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(31)</title>
   </programme>
 <programme start="20260703070000 +0000" stop="20260703073000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">正点播报</title>
@@ -4706,14 +4178,23 @@
 <programme start="20260703073000 +0000" stop="20260703080000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
   </programme>
+<programme start="20260703073600 +0000" stop="20260703080000 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">愿望喵喵</title>
+  </programme>
 <programme start="20260703074630 +0000" stop="20260703082500 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛美国vs波黑</title>
+  </programme>
+<programme start="20260703074700 +0000" stop="20260703083700 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(32)</title>
   </programme>
 <programme start="20260703075300 +0000" stop="20260703075800 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">岭南大舞台:资讯(901)</title>
   </programme>
 <programme start="20260703075800 +0000" stop="20260703080100 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">趣谈广州话(1931)</title>
+  </programme>
+<programme start="20260703080000 +0000" stop="20260703082100 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">嘿，托玛</title>
   </programme>
 <programme start="20260703080000 +0000" stop="20260703103500 +0000" channel="gdtv.广东影视">
     <title lang="zh">剧无霸前战剧场:新燕子李三(47-49)</title>
@@ -4727,11 +4208,17 @@
 <programme start="20260703082000 +0000" stop="20260703100000 +0000" channel="gdtv.广东民生">
     <title lang="zh">父辈的荣耀</title>
   </programme>
+<programme start="20260703082100 +0000" stop="20260703110200 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">薇薇猫的日常</title>
+  </programme>
 <programme start="20260703082500 +0000" stop="20260703085200 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播足球星视界(202616)</title>
   </programme>
 <programme start="20260703083000 +0000" stop="20260703090000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
+  </programme>
+<programme start="20260703083700 +0000" stop="20260703094000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(33)</title>
   </programme>
 <programme start="20260703084700 +0000" stop="20260703094300 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">老倌学堂:郭凤女《荔枝颂》</title>
@@ -4757,6 +4244,9 @@
 <programme start="20260703093900 +0000" stop="20260703100700 +0000" channel="gdtv.广东体育">
     <title lang="zh">首播美加墨赛场:2026年美加墨世界杯1/16决赛西班牙vs奥地利</title>
   </programme>
+<programme start="20260703094000 +0000" stop="20260703102200 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(34)</title>
+  </programme>
 <programme start="20260703094300 +0000" stop="20260703104800 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">风雅潮韵:江姐(3)</title>
   </programme>
@@ -4781,6 +4271,12 @@
 <programme start="20260703102000 +0000" stop="20260703110000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛科特迪瓦vs挪威</title>
   </programme>
+<programme start="20260703102200 +0000" stop="20260703103000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">高质量发展第一线</title>
+  </programme>
+<programme start="20260703103000 +0000" stop="20260703105600 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">广东新闻联播</title>
+  </programme>
 <programme start="20260703103000 +0000" stop="20260703110000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
   </programme>
@@ -4799,6 +4295,9 @@
 <programme start="20260703105200 +0000" stop="20260703105700 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">岭南大舞台:资讯(901)</title>
   </programme>
+<programme start="20260703105600 +0000" stop="20260703110000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">天气预报</title>
+  </programme>
 <programme start="20260703105700 +0000" stop="20260703110000 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">趣谈广州话(1931)2</title>
   </programme>
@@ -4807,6 +4306,9 @@
   </programme>
 <programme start="20260703110000 +0000" stop="20260703112100 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播体育世界(粤讲世界杯第22期)</title>
+  </programme>
+<programme start="20260703110000 +0000" stop="20260703113300 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">转播中央台新闻联播</title>
   </programme>
 <programme start="20260703110000 +0000" stop="20260703112500 +0000" channel="gdtv.广东新闻">
     <title lang="zh">正点播报</title>
@@ -4817,6 +4319,9 @@
 <programme start="20260703110000 +0000" stop="20260703120000 +0000" channel="gdtv.广东珠江">
     <title lang="zh">珠江剧场:深潜10</title>
   </programme>
+<programme start="20260703110200 +0000" stop="20260703113700 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">超级飞侠(二十)</title>
+  </programme>
 <programme start="20260703112100 +0000" stop="20260703115100 +0000" channel="gdtv.广东体育">
     <title lang="zh">首播美加墨赛场:2026年美加墨世界杯1/16决赛葡萄牙vs克罗地亚</title>
   </programme>
@@ -4826,8 +4331,20 @@
 <programme start="20260703113000 +0000" stop="20260703120000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广东新闻联播</title>
   </programme>
+<programme start="20260703113300 +0000" stop="20260703122100 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">八千里路云和月(33)</title>
+  </programme>
+<programme start="20260703113700 +0000" stop="20260703114900 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">爆裂飞车之晶码迷踪</title>
+  </programme>
+<programme start="20260703114900 +0000" stop="20260703120000 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">超级飞侠(二十)</title>
+  </programme>
 <programme start="20260703115130 +0000" stop="20260703122300 +0000" channel="gdtv.广东体育">
     <title lang="zh">首播美加墨赛场:2026年美加墨世界杯1/16决赛瑞士vs阿尔及利亚</title>
+  </programme>
+<programme start="20260703120000 +0000" stop="20260703120300 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">2026蕃尼蕃尼之嘉有好朋友</title>
   </programme>
 <programme start="20260703120000 +0000" stop="20260703160000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">《赵琳的探险日记》</title>
@@ -4837,6 +4354,15 @@
   </programme>
 <programme start="20260703120000 +0000" stop="20260703130000 +0000" channel="gdtv.广东珠江">
     <title lang="zh">珠江剧场:深潜11</title>
+  </programme>
+<programme start="20260703120300 +0000" stop="20260703120700 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">亚运星推官一</title>
+  </programme>
+<programme start="20260703120700 +0000" stop="20260703131400 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">喜羊羊与灰太狼之疯狂超能营</title>
+  </programme>
+<programme start="20260703122100 +0000" stop="20260703132000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">八千里路云和月(34)</title>
   </programme>
 <programme start="20260703122300 +0000" stop="20260703125300 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛英格兰vs刚果(金)</title>
@@ -4880,6 +4406,18 @@
 <programme start="20260703131000 +0000" stop="20260703133000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
   </programme>
+<programme start="20260703131400 +0000" stop="20260703131700 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">嗨!小喇叭-朗朗读书声东莞赛</title>
+  </programme>
+<programme start="20260703131700 +0000" stop="20260703131800 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">2026遇见中华诗词之美</title>
+  </programme>
+<programme start="20260703131800 +0000" stop="20260703140700 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">喜羊羊与灰太狼之疯狂超能营</title>
+  </programme>
+<programme start="20260703132000 +0000" stop="20260703134500 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">晚间新闻</title>
+  </programme>
 <programme start="20260703132200 +0000" stop="20260703150000 +0000" channel="gdtv.广东民生">
     <title lang="zh">民生休闲剧场:我们的婚姻(7-8)</title>
   </programme>
@@ -4888,6 +4426,9 @@
   </programme>
 <programme start="20260703133000 +0000" stop="20260703142000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">今日一线</title>
+  </programme>
+<programme start="20260703134500 +0000" stop="20260703143000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">绝密较量(7)</title>
   </programme>
 <programme start="20260703135500 +0000" stop="20260703151300 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">第二届《高手在民间》风腔粤曲演唱大赛(1)</title>
@@ -4898,11 +4439,17 @@
 <programme start="20260703140000 +0000" stop="20260703150000 +0000" channel="gdtv.广东珠江">
     <title lang="zh">王牌剧场:兄弟营36</title>
   </programme>
+<programme start="20260703140700 +0000" stop="20260703160000 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">猪猪侠之竞速小英雄(二)</title>
+  </programme>
 <programme start="20260703142000 +0000" stop="20260703143500 +0000" channel="gdtv.广东影视">
     <title lang="zh">广东电影报道</title>
   </programme>
 <programme start="20260703142000 +0000" stop="20260703143000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">社会纵横</title>
+  </programme>
+<programme start="20260703143000 +0000" stop="20260703151300 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">绝密较量(8)</title>
   </programme>
 <programme start="20260703143000 +0000" stop="20260703150000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">新闻夜线</title>
@@ -4925,6 +4472,9 @@
 <programme start="20260703151300 +0000" stop="20260703151800 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">岭南大舞台:资讯(901)</title>
   </programme>
+<programme start="20260703151300 +0000" stop="20260703153400 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">古色古香中国味</title>
+  </programme>
 <programme start="20260703151800 +0000" stop="20260703152200 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">趣谈广州话(1931)</title>
   </programme>
@@ -4933,6 +4483,9 @@
   </programme>
 <programme start="20260703152200 +0000" stop="20260703161200 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">剧场连线:鸿胜馆(2)</title>
+  </programme>
+<programme start="20260703153400 +0000" stop="20260703162400 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">南粤4K画卷</title>
   </programme>
 <programme start="20260703154400 +0000" stop="20260703155200 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播十分好球(世界杯版)</title>
@@ -4945,6 +4498,9 @@
   </programme>
 <programme start="20260703160000 +0000" stop="20260703165000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">午夜剧场</title>
+  </programme>
+<programme start="20260703160500 +0000" stop="20260703175100 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">永不消逝的电波</title>
   </programme>
 <programme start="20260703161500 +0000" stop="20260703170500 +0000" channel="gdtv.广东影视">
     <title lang="zh">午夜剧场</title>
@@ -4964,6 +4520,9 @@
 <programme start="20260703173000 +0000" stop="20260703201100 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播燃情世界杯:2026年国际足联美加墨世界杯1/16决赛(02:00澳大利亚vs埃及)</title>
   </programme>
+<programme start="20260703175100 +0000" stop="20260703210000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">纪录片</title>
+  </programme>
 <programme start="20260703201100 +0000" stop="20260703201900 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播十分好球(世界杯版)</title>
   </programme>
@@ -4976,11 +4535,17 @@
 <programme start="20260703205500 +0000" stop="20260703212100 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛瑞士vs阿尔及利亚)</title>
   </programme>
+<programme start="20260703210000 +0000" stop="20260703214400 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">无所畏惧之永不放弃(22)</title>
+  </programme>
 <programme start="20260703212100 +0000" stop="20260703213000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播十分好球(世界杯版)</title>
   </programme>
 <programme start="20260703213000 +0000" stop="20260704001400 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播燃情世界杯:2026年国际足联美加墨世界杯1/16决赛阿根廷vs佛得角)</title>
+  </programme>
+<programme start="20260703214400 +0000" stop="20260703223000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">无所畏惧之永不放弃(23)</title>
   </programme>
 <programme start="20260703220000 +0000" stop="20260704000000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">早间卡通剧场《航海少年团》</title>
@@ -4991,11 +4556,26 @@
 <programme start="20260703221000 +0000" stop="20260704004500 +0000" channel="gdtv.广东影视">
     <title lang="zh">醒晨剧场一:妻子的秘密(23-26)</title>
   </programme>
+<programme start="20260703223000 +0000" stop="20260703225700 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">广东新闻联播重播</title>
+  </programme>
+<programme start="20260703225700 +0000" stop="20260703230000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">早间天气预报</title>
+  </programme>
+<programme start="20260703230000 +0000" stop="20260703233000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">大美南粤</title>
+  </programme>
 <programme start="20260703230000 +0000" stop="20260704001500 +0000" channel="gdtv.广东珠江">
     <title lang="zh">今日关注(重播)</title>
   </programme>
 <programme start="20260703230500 +0000" stop="20260704002000 +0000" channel="gdtv.广东民生">
     <title lang="zh">DV现场</title>
+  </programme>
+<programme start="20260703233000 +0000" stop="20260703235500 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">动画:海底小纵队</title>
+  </programme>
+<programme start="20260703235500 +0000" stop="20260704005800 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(10)</title>
   </programme>
 <programme start="20260704000000 +0000" stop="20260704094500 +0000" channel="gdtv.广东少儿">
     <title lang="zh">《熊出没》</title>
@@ -5018,14 +4598,26 @@
 <programme start="20260704005000 +0000" stop="20260704010000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播十分好球(世界杯版)</title>
   </programme>
+<programme start="20260704005800 +0000" stop="20260704014100 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(11)</title>
+  </programme>
 <programme start="20260704010000 +0000" stop="20260704034000 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播燃情世界杯:2026年国际足联美加墨世界杯1/16决赛(09:30哥伦比亚vs加纳)</title>
+  </programme>
+<programme start="20260704014100 +0000" stop="20260704023400 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(12)</title>
   </programme>
 <programme start="20260704020500 +0000" stop="20260704040000 +0000" channel="gdtv.广东民生">
     <title lang="zh">外来媳妇本地郎</title>
   </programme>
+<programme start="20260704023400 +0000" stop="20260704032600 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(13)</title>
+  </programme>
 <programme start="20260704030500 +0000" stop="20260704080000 +0000" channel="gdtv.广东影视">
     <title lang="zh">午间大强档:决胜(3-7)</title>
+  </programme>
+<programme start="20260704032600 +0000" stop="20260704042000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(14)</title>
   </programme>
 <programme start="20260704034000 +0000" stop="20260704040000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播十分好球(世界杯版)(0703)</title>
@@ -5036,8 +4628,14 @@
 <programme start="20260704040030 +0000" stop="20260704051100 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播出奇智胜(893)</title>
   </programme>
+<programme start="20260704042000 +0000" stop="20260704051300 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(35)</title>
+  </programme>
 <programme start="20260704051130 +0000" stop="20260704053500 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播五佳球(城市篮球联赛版)</title>
+  </programme>
+<programme start="20260704051300 +0000" stop="20260704060400 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(36)</title>
   </programme>
 <programme start="20260704052000 +0000" stop="20260704070500 +0000" channel="gdtv.广东民生">
     <title lang="zh">我们的婚姻</title>
@@ -5045,11 +4643,20 @@
 <programme start="20260704053500 +0000" stop="20260704065500 +0000" channel="gdtv.广东体育">
     <title lang="zh">实况延播2025-2026国际汽联电动方程式锦标赛第12站上海大奖赛第一回合排位赛(10:40)</title>
   </programme>
+<programme start="20260704060400 +0000" stop="20260704065400 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(37)</title>
+  </programme>
+<programme start="20260704065400 +0000" stop="20260704074700 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(38)</title>
+  </programme>
 <programme start="20260704065500 +0000" stop="20260704081000 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播2025-2026国际汽联电动方程式锦标赛第12站上海大奖赛第一回合正赛(15:05-16:00)</title>
   </programme>
 <programme start="20260704070500 +0000" stop="20260704082000 +0000" channel="gdtv.广东民生">
     <title lang="zh">外来媳妇本地郎</title>
+  </programme>
+<programme start="20260704074700 +0000" stop="20260704083700 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(39)</title>
   </programme>
 <programme start="20260704080000 +0000" stop="20260704103500 +0000" channel="gdtv.广东影视">
     <title lang="zh">剧无霸前战剧场:新燕子李三(50-52)</title>
@@ -5062,6 +4669,9 @@
   </programme>
 <programme start="20260704082000 +0000" stop="20260704100000 +0000" channel="gdtv.广东民生">
     <title lang="zh">父辈的荣耀</title>
+  </programme>
+<programme start="20260704083700 +0000" stop="20260704094000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(40)</title>
   </programme>
 <programme start="20260704085600 +0000" stop="20260704092400 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛西班牙vs奥地利</title>
@@ -5078,6 +4688,9 @@
 <programme start="20260704094000 +0000" stop="20260704101500 +0000" channel="gdtv.广东体育">
     <title lang="zh">首播珠江少年派(27)</title>
   </programme>
+<programme start="20260704094000 +0000" stop="20260704102300 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(41)</title>
+  </programme>
 <programme start="20260704094500 +0000" stop="20260704123000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">《奶龙》</title>
   </programme>
@@ -5089,6 +4702,12 @@
   </programme>
 <programme start="20260704101500 +0000" stop="20260704105000 +0000" channel="gdtv.广东体育">
     <title lang="zh">首播美加墨赛场:2026年美加墨世界杯1/16决赛澳大利亚vs埃及</title>
+  </programme>
+<programme start="20260704102300 +0000" stop="20260704103000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">广货行天下·每日新品</title>
+  </programme>
+<programme start="20260704103000 +0000" stop="20260704105600 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">广东新闻联播</title>
   </programme>
 <programme start="20260704103500 +0000" stop="20260704105000 +0000" channel="gdtv.广东影视">
     <title lang="zh">微短剧</title>
@@ -5102,6 +4721,12 @@
 <programme start="20260704105000 +0000" stop="20260704143500 +0000" channel="gdtv.广东影视">
     <title lang="zh">剧无霸剧场:黄金大劫案(18-22)</title>
   </programme>
+<programme start="20260704105600 +0000" stop="20260704110000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">天气预报</title>
+  </programme>
+<programme start="20260704110000 +0000" stop="20260704113300 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">转播中央台新闻联播</title>
+  </programme>
 <programme start="20260704110000 +0000" stop="20260704121500 +0000" channel="gdtv.广东民生">
     <title lang="zh">DV现场(5483)</title>
   </programme>
@@ -5111,11 +4736,17 @@
 <programme start="20260704113000 +0000" stop="20260704133000 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播2026年广东省城市篮球联赛半决赛首回合(19:30广州VS深圳)</title>
   </programme>
+<programme start="20260704113300 +0000" stop="20260704122100 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">八千里路云和月(35)</title>
+  </programme>
 <programme start="20260704120000 +0000" stop="20260704130000 +0000" channel="gdtv.广东珠江">
     <title lang="zh">珠江剧场:深潜13</title>
   </programme>
 <programme start="20260704121500 +0000" stop="20260704123700 +0000" channel="gdtv.广东民生">
     <title lang="zh">最紧要健康(1878)</title>
+  </programme>
+<programme start="20260704122100 +0000" stop="20260704131500 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">八千里路云和月(36)</title>
   </programme>
 <programme start="20260704123000 +0000" stop="20260704124000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">《研学大湾区》</title>
@@ -5129,6 +4760,9 @@
 <programme start="20260704130000 +0000" stop="20260704134000 +0000" channel="gdtv.广东珠江">
     <title lang="zh">今日关注</title>
   </programme>
+<programme start="20260704131500 +0000" stop="20260704134500 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">全球零距离</title>
+  </programme>
 <programme start="20260704131500 +0000" stop="20260704132000 +0000" channel="gdtv.广东民生">
     <title lang="zh">快乐长门人</title>
   </programme>
@@ -5141,8 +4775,14 @@
 <programme start="20260704134000 +0000" stop="20260704144500 +0000" channel="gdtv.广东珠江">
     <title lang="zh">王牌剧场:兄弟营38</title>
   </programme>
+<programme start="20260704134500 +0000" stop="20260704143300 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">绝密较量(9)</title>
+  </programme>
 <programme start="20260704140600 +0000" stop="20260704150500 +0000" channel="gdtv.广东体育">
     <title lang="zh">首播出奇智胜(894)</title>
+  </programme>
+<programme start="20260704143300 +0000" stop="20260704151800 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">绝密较量(10)</title>
   </programme>
 <programme start="20260704143500 +0000" stop="20260704161500 +0000" channel="gdtv.广东影视">
     <title lang="zh">剧无霸经典剧场:正义之战(18-20)</title>
@@ -5159,11 +4799,17 @@
 <programme start="20260704151300 +0000" stop="20260704154000 +0000" channel="gdtv.广东体育">
     <title lang="zh">首播美加墨赛场:2026年美加墨世界杯1/16决赛哥伦比亚vs加纳</title>
   </programme>
+<programme start="20260704151800 +0000" stop="20260704154900 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">南粤4K画卷</title>
+  </programme>
 <programme start="20260704153500 +0000" stop="20260704162500 +0000" channel="gdtv.广东珠江">
     <title lang="zh">王牌剧场:兄弟营40</title>
   </programme>
 <programme start="20260704154000 +0000" stop="20260704155400 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播五佳球(城市篮球联赛版)</title>
+  </programme>
+<programme start="20260704154900 +0000" stop="20260704163900 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">刘三姐</title>
   </programme>
 <programme start="20260704155400 +0000" stop="20260704162000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛澳大利亚vs埃及</title>
@@ -5186,6 +4832,9 @@
 <programme start="20260704170000 +0000" stop="20260704220000 +0000" channel="gdtv.广东珠江">
     <title lang="zh">电视剧:</title>
   </programme>
+<programme start="20260704174000 +0000" stop="20260704210000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">纪录片</title>
+  </programme>
 <programme start="20260704191400 +0000" stop="20260704192200 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播十分好球(世界杯版)</title>
   </programme>
@@ -5204,6 +4853,12 @@
 <programme start="20260704203000 +0000" stop="20260704231400 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播燃情世界杯:2026年国际足联美加墨世界杯1/8决赛(29:00巴拉圭vs法国)</title>
   </programme>
+<programme start="20260704210000 +0000" stop="20260704214400 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">无所畏惧之永不放弃(24)</title>
+  </programme>
+<programme start="20260704214400 +0000" stop="20260704223000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">无所畏惧之永不放弃(25)</title>
+  </programme>
 <programme start="20260704220000 +0000" stop="20260705000000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">早间卡通剧场《航海少年团》</title>
   </programme>
@@ -5212,6 +4867,15 @@
   </programme>
 <programme start="20260704221000 +0000" stop="20260705004500 +0000" channel="gdtv.广东影视">
     <title lang="zh">醒晨剧场一:妻子的秘密(27-30)</title>
+  </programme>
+<programme start="20260704223000 +0000" stop="20260704225700 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">广东新闻联播重播</title>
+  </programme>
+<programme start="20260704225700 +0000" stop="20260704230000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">早间天气预报</title>
+  </programme>
+<programme start="20260704230000 +0000" stop="20260704233000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">大美南粤</title>
   </programme>
 <programme start="20260704230000 +0000" stop="20260704235500 +0000" channel="gdtv.广东珠江">
     <title lang="zh">今日关注(重播)</title>
@@ -5225,8 +4889,14 @@
 <programme start="20260704232300 +0000" stop="20260704235000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛澳大利亚vs埃及</title>
   </programme>
+<programme start="20260704233000 +0000" stop="20260704235500 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">动画:海底小纵队</title>
+  </programme>
 <programme start="20260704235000 +0000" stop="20260705000200 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播十分好球(世界杯版)</title>
+  </programme>
+<programme start="20260704235500 +0000" stop="20260705005800 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(15)</title>
   </programme>
 <programme start="20260704235500 +0000" stop="20260705090500 +0000" channel="gdtv.广东珠江">
     <title lang="zh">传奇剧场:齐天大圣</title>
@@ -5252,11 +4922,17 @@
 <programme start="20260705004500 +0000" stop="20260705030500 +0000" channel="gdtv.广东影视">
     <title lang="zh">醒晨剧场二:黄河英雄(13-15)</title>
   </programme>
+<programme start="20260705005800 +0000" stop="20260705014100 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(16)</title>
+  </programme>
 <programme start="20260705011300 +0000" stop="20260705012500 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播十分好球(世界杯版)</title>
   </programme>
 <programme start="20260705012500 +0000" stop="20260705015800 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播珠江少年派(27)</title>
+  </programme>
+<programme start="20260705014100 +0000" stop="20260705023400 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(17)</title>
   </programme>
 <programme start="20260705015830 +0000" stop="20260705023000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛葡萄牙vs克罗地亚</title>
@@ -5267,8 +4943,14 @@
 <programme start="20260705023000 +0000" stop="20260705040500 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播2025-2026国际汽联电动方程式锦标赛第13站上海大奖赛第二回合排位赛(10:40)</title>
   </programme>
+<programme start="20260705023400 +0000" stop="20260705032600 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(18)</title>
+  </programme>
 <programme start="20260705030500 +0000" stop="20260705080000 +0000" channel="gdtv.广东影视">
     <title lang="zh">午间大强档:决胜(8-12)</title>
+  </programme>
+<programme start="20260705032600 +0000" stop="20260705042000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">枪侠(19)</title>
   </programme>
 <programme start="20260705040000 +0000" stop="20260705051000 +0000" channel="gdtv.广东民生">
     <title lang="zh">DV现场</title>
@@ -5276,8 +4958,14 @@
 <programme start="20260705040500 +0000" stop="20260705051600 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播出奇智胜(894)</title>
   </programme>
+<programme start="20260705042000 +0000" stop="20260705051300 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(42)</title>
+  </programme>
 <programme start="20260705051000 +0000" stop="20260705070000 +0000" channel="gdtv.广东民生">
     <title lang="zh">我们的婚姻</title>
+  </programme>
+<programme start="20260705051300 +0000" stop="20260705060400 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(43)</title>
   </programme>
 <programme start="20260705051600 +0000" stop="20260705052800 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播十分好球(世界杯版)</title>
@@ -5285,17 +4973,26 @@
 <programme start="20260705052800 +0000" stop="20260705060500 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛阿根廷vs佛得角</title>
   </programme>
+<programme start="20260705060400 +0000" stop="20260705065400 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(44)</title>
+  </programme>
 <programme start="20260705060530 +0000" stop="20260705063600 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛哥伦比亚vs加纳</title>
   </programme>
 <programme start="20260705063600 +0000" stop="20260705065500 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播十分好球(世界杯版)</title>
   </programme>
+<programme start="20260705065400 +0000" stop="20260705074700 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(45)</title>
+  </programme>
 <programme start="20260705065500 +0000" stop="20260705081100 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播2025-2026国际汽联电动方程式锦标赛第13站上海大奖赛第二回合正赛(15:05-16:00)</title>
   </programme>
 <programme start="20260705070000 +0000" stop="20260705082000 +0000" channel="gdtv.广东民生">
     <title lang="zh">外来媳妇本地郎</title>
+  </programme>
+<programme start="20260705074700 +0000" stop="20260705083700 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">苍狼(46完)</title>
   </programme>
 <programme start="20260705080000 +0000" stop="20260705103500 +0000" channel="gdtv.广东影视">
     <title lang="zh">剧无霸前战剧场:新燕子李三(53)女子特战队(1-2)</title>
@@ -5308,6 +5005,9 @@
   </programme>
 <programme start="20260705082000 +0000" stop="20260705090500 +0000" channel="gdtv.广东民生">
     <title lang="zh">父辈的荣耀</title>
+  </programme>
+<programme start="20260705083700 +0000" stop="20260705094000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">烈火(1)</title>
   </programme>
 <programme start="20260705084730 +0000" stop="20260705090400 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播十分好球(世界杯版)</title>
@@ -5323,6 +5023,9 @@
   </programme>
 <programme start="20260705091500 +0000" stop="20260705100000 +0000" channel="gdtv.广东珠江">
     <title lang="zh">粤韵风华</title>
+  </programme>
+<programme start="20260705094000 +0000" stop="20260705102300 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">烈火(2)</title>
   </programme>
 <programme start="20260705094100 +0000" stop="20260705101000 +0000" channel="gdtv.广东体育">
     <title lang="zh">首播美加墨赛场:2026年美加墨世界杯1/8决赛加拿大vs摩洛哥</title>
@@ -5342,6 +5045,12 @@
 <programme start="20260705102000 +0000" stop="20260705110000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛阿根廷vs佛得角</title>
   </programme>
+<programme start="20260705102300 +0000" stop="20260705103000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">广货行天下·每日新品</title>
+  </programme>
+<programme start="20260705103000 +0000" stop="20260705105600 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">广东新闻联播</title>
+  </programme>
 <programme start="20260705103500 +0000" stop="20260705105000 +0000" channel="gdtv.广东影视">
     <title lang="zh">微短剧</title>
   </programme>
@@ -5351,8 +5060,14 @@
 <programme start="20260705105000 +0000" stop="20260705143500 +0000" channel="gdtv.广东影视">
     <title lang="zh">剧无霸剧场:黄金大劫案(23-27)</title>
   </programme>
+<programme start="20260705105600 +0000" stop="20260705110000 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">天气预报</title>
+  </programme>
 <programme start="20260705110000 +0000" stop="20260705112100 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播体育世界(粤讲世界杯第23期)</title>
+  </programme>
+<programme start="20260705110000 +0000" stop="20260705113300 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">转播中央台新闻联播</title>
   </programme>
 <programme start="20260705110000 +0000" stop="20260705121500 +0000" channel="gdtv.广东民生">
     <title lang="zh">DV现场(5484)</title>
@@ -5363,6 +5078,9 @@
 <programme start="20260705112100 +0000" stop="20260705115000 +0000" channel="gdtv.广东体育">
     <title lang="zh">首播美加墨赛场:2026年美加墨世界杯1/8决赛巴拉圭vs法国</title>
   </programme>
+<programme start="20260705113300 +0000" stop="20260705122100 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">八千里路云和月(37)</title>
+  </programme>
 <programme start="20260705115000 +0000" stop="20260705135500 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播2026年广东省城市足球超级联赛常规赛(东区)第8轮补赛(20:00深圳vs汕头)</title>
   </programme>
@@ -5371,6 +5089,9 @@
   </programme>
 <programme start="20260705121500 +0000" stop="20260705123700 +0000" channel="gdtv.广东民生">
     <title lang="zh">最紧要健康(1879)</title>
+  </programme>
+<programme start="20260705122100 +0000" stop="20260705131500 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">八千里路云和月(38)</title>
   </programme>
 <programme start="20260705123000 +0000" stop="20260705124000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">《广府叻少年》</title>
@@ -5384,6 +5105,9 @@
 <programme start="20260705130000 +0000" stop="20260705134000 +0000" channel="gdtv.广东珠江">
     <title lang="zh">今日关注</title>
   </programme>
+<programme start="20260705131500 +0000" stop="20260705140500 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">老广的味道</title>
+  </programme>
 <programme start="20260705131500 +0000" stop="20260705132000 +0000" channel="gdtv.广东民生">
     <title lang="zh">快乐长门人</title>
   </programme>
@@ -5396,17 +5120,74 @@
 <programme start="20260705135500 +0000" stop="20260705144500 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播2026世界一级方程式锦标赛第9站英国大奖赛(22:00正赛)</title>
   </programme>
+<programme start="20260705140500 +0000" stop="20260705145500 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">绝密较量(11)</title>
+  </programme>
 <programme start="20260705143500 +0000" stop="20260705161500 +0000" channel="gdtv.广东影视">
     <title lang="zh">剧无霸经典剧场:正义之战(21-23)</title>
   </programme>
 <programme start="20260705144500 +0000" stop="20260705153500 +0000" channel="gdtv.广东珠江">
     <title lang="zh">王牌剧场:地雷战1</title>
   </programme>
+<programme start="20260705145500 +0000" stop="20260705153800 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">绝密较量(12)</title>
+  </programme>
 <programme start="20260705150000 +0000" stop="20260705155000 +0000" channel="gdtv.广东民生">
     <title lang="zh">DV现场</title>
   </programme>
 <programme start="20260705153500 +0000" stop="20260705162500 +0000" channel="gdtv.广东珠江">
     <title lang="zh">王牌剧场:地雷战2</title>
+  </programme>
+<programme start="20260705153800 +0000" stop="20260705162800 +0000" channel="gdtv.广东卫视">
+    <title lang="zh">南粤4K画卷</title>
+  </programme>
+<programme start="20260705162500 +0000" stop="20260705170500 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">今日关注(重播)</title>
+  </programme>
+<programme start="20260705170500 +0000" stop="20260705220000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">电视剧:铁血茶城</title>
+  </programme>
+<programme start="20260705220000 +0000" stop="20260705230000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">系列短剧:外来媳妇本地郎</title>
+  </programme>
+<programme start="20260705230000 +0000" stop="20260706000000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">今日关注(重播)</title>
+  </programme>
+<programme start="20260706000000 +0000" stop="20260706024000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">传奇剧场:齐天大圣</title>
+  </programme>
+<programme start="20260706024000 +0000" stop="20260706090000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">传奇剧场:西游记2</title>
+  </programme>
+<programme start="20260706090000 +0000" stop="20260706091500 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">人生一万年</title>
+  </programme>
+<programme start="20260706091500 +0000" stop="20260706095000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">粤韵风华</title>
+  </programme>
+<programme start="20260706095000 +0000" stop="20260706100000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">今日财经</title>
+  </programme>
+<programme start="20260706100000 +0000" stop="20260706110000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">珠江新闻</title>
+  </programme>
+<programme start="20260706110000 +0000" stop="20260706120000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">珠江剧场:深潜15</title>
+  </programme>
+<programme start="20260706120000 +0000" stop="20260706130000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">珠江剧场:深潜16</title>
+  </programme>
+<programme start="20260706130000 +0000" stop="20260706141000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">今日关注</title>
+  </programme>
+<programme start="20260706141000 +0000" stop="20260706150500 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">王牌剧场:地雷战3</title>
+  </programme>
+<programme start="20260706150500 +0000" stop="20260706155500 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">王牌剧场:地雷战4</title>
+  </programme>
+<programme start="20260706155500 +0000" stop="20260706164500 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">今日关注(重播)</title>
   </programme>
 <programme start="20260630160500 +0000" stop="20260630182600 +0000" channel="tvmao.CCTVPAYFEE-CCTVPAYFEE20">
     <title lang="zh">京剧:伯温轶事</title>
