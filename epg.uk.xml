@@ -1,0 +1,1111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20260704120710 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="UK-EPG-Merger">
+
+<!-- Channels & Slotted Programmes -->
+
+
+<!-- A -->
+<!-- FIFA 2026 -->
+
+
+<channel id="tvguidecouk.BBCOneLondon"><display-name lang="TW">UK | BBC One (a)</display-name><icon src="https://myeth-epg.github.io/icons4/ub001.png" /></channel>
+<channel id="tvguidecouk.ITV1ChannelTelevision"><display-name lang="TW">UK | ITV1</display-name><icon src="https://myeth-epg.github.io/icons/itv1.png" /></channel>
+<channel id="tvguidecouk.BBCTwoHD"><display-name>UK | BBC Two</display-name><icon src="https://myeth-epg.github.io/icons4/ub002.png" /></channel>
+<channel id="tvguidecouk.ITV4"><display-name>UK | ITV4</display-name><icon src="https://myeth-epg.github.io/icons/itv4.png" /></channel>
+
+
+<!-- UK-I -->
+<channel id="tvguidecouk.BBCOneLondon"><display-name>[BBC] 001 One</display-name><icon src="https://myeth-epg.github.io/icons4/ub001.png" /></channel>
+<channel id="tvguidecouk.BBCTwoHD"><display-name>[BBC] 002 Two</display-name><icon src="https://myeth-epg.github.io/icons4/ub002.png" /></channel>
+<channel id="tvguidecouk.BBCThree"><display-name>[BBC] 003 Three</display-name><icon src="https://myeth-epg.github.io/icons4/ub003.png" /></channel>
+<channel id="tvguidecouk.BBCFour"><display-name>[BBC] 004 Four</display-name><icon src="https://myeth-epg.github.io/icons4/ub004.png" /></channel>
+<channel id="tvguidecouk.CBBC"><display-name>[BBC] 005 CBBC</display-name><icon src="https://myeth-epg.github.io/icons4/ub005.png" /></channel>
+<channel id="tvguidecouk.CBeebies"><display-name>[BBC] 006 Cbeebies</display-name><icon src="https://myeth-epg.github.io/icons/cbeebies.png" /></channel>
+<channel id="tvguidecouk.BBCScotland"><display-name>[BBC] 007 Scotland</display-name><icon src="https://myeth-epg.github.io/icons4/ub007.png" /></channel>
+<channel id="tvguidecouk.BBCNews"><display-name>[BBC] 008 News</display-name><icon src="https://myeth-epg.github.io/icons/bbc.news.png" /></channel>
+<channel id="tvguidecouk.BBCParliament"><display-name>[BBC] 009 Parliament</display-name><icon src="https://myeth-epg.github.io/icons4/ub009.png" /></channel>
+<channel id="tvguidecouk.BBCAlba"><display-name>[BBC] 010 Alba</display-name><icon src="https://myeth-epg.github.io/icons4/ub010.png" /></channel>
+<channel id="tvguidecouk.S4C"><display-name>[BBC] 011 S4C</display-name><icon src="https://myeth-epg.github.io/icons4/ub011.png" /></channel>
+
+<channel id="tvguidecouk.SkySportsNews"><display-name>[UK-I] 001 Sky Sports News HQ</display-name><icon src="https://myeth-epg.github.io/icons/ssnews.png" /></channel>
+<channel id="tvguidecouk.SkySportsMainEvent"><display-name>[UK-I] 002 Sky Sports Main Event</display-name><icon src="https://myeth-epg.github.io/icons/ssmainevent.png" /></channel>
+<channel id="tvguidecouk.SkySportsPremierLeague"><display-name>[UK-I] 003 Sky Sports Premier League</display-name><icon src="https://myeth-epg.github.io/icons/sspremierleague.png" /></channel>
+<channel id="tvguidecouk.SkySportsFootballHD"><display-name>[UK-I] 004 Sky Sports Football</display-name><icon src="https://myeth-epg.github.io/icons/ssfootball.png" /></channel>
+<channel id="tvguidecouk.SkySportsCricket"><display-name>[UK-I] 005 Sky Sports Cricket</display-name><icon src="https://myeth-epg.github.io/icons/sscricket.png" /></channel>
+<channel id="tvguidecouk.SkySportsGolf"><display-name>[UK-I] 006 Sky Sports Golf</display-name><icon src="https://myeth-epg.github.io/icons/ssgolf.png" /></channel>
+<channel id="tvguidecouk.SkySportsF1"><display-name>[UK-I] 007 Sky Sports F1</display-name><icon src="https://myeth-epg.github.io/icons4/icons/ssf1.png" /></channel>
+<channel id="0"><display-name>[UK-I] 008 Sky Sports Action</display-name><icon src="https://myeth-epg.github.io/icons/ssaction.png" /></channel>
+<channel id="0"><display-name>[UK-I] 009 Sky Sports Arena</display-name><icon src="https://myeth-epg.github.io/icons/ssarena.png" /></channel>
+<channel id="tvguidecouk.SkySportsRacing"><display-name>[UK-I] 010 Sky Sports Racing</display-name><icon src="https://myeth-epg.github.io/icons/ssracing.png" /></channel>
+<channel id="tvguidecouk.SkySportsMix"><display-name>[UK-I] 011 Sky Sports Mix</display-name><icon src="https://myeth-epg.github.io/icons/ssmix.png" /></channel>
+<channel id="tvguidecouk.SkySportsTennis"><display-name>[UK-I] 012 Sky Sports Tennis</display-name><icon src="https://myeth-epg.github.io/icons/sstennis.png" /></channel>
+
+<channel id="tvguidecouk.TNTSports1"><display-name>[UK-I] 111 TNT SPORT 1</display-name><icon src="https://myeth-epg.github.io/icons/tntsports1.png" /></channel>
+<channel id="tvguidecouk.TNTSports2"><display-name>[UK-I] 112 TNT SPORT 2</display-name><icon src="https://myeth-epg.github.io/icons/tntsports2.png" /></channel>
+<channel id="tvguidecouk.TNTSports3"><display-name>[UK-I] 113 TNT SPORT 3</display-name><icon src="https://myeth-epg.github.io/icons/tntsports3.png" /></channel>
+<channel id="tvguidecouk.TNTSports4"><display-name>[UK-I] 114 TNT SPORT 4</display-name><icon src="https://myeth-epg.github.io/icons/tntsports4.png" /></channel>
+<channel id="Eurosport 1 HD.uk"><display-name>[UK-I] 211 EURO SPORT 1</display-name><icon src="https://myeth-epg.github.io/icons4/usu17.png" /></channel>
+<channel id="Eurosport 2 HD.uk"><display-name>[UK-I] 212 EURO SPORT 2</display-name><icon src="https://myeth-epg.github.io/icons4/usu18.png" /></channel>
+<channel id="tvguidecouk.PremierSports1HD"><display-name>[UK-I] 221 Premier Sports 1</display-name><icon src="https://myeth-epg.github.io/icons4/0.png" /></channel>
+<channel id="tvguidecouk.PremierSports2HD"><display-name>[UK-I] 222 Premier Sports 2</display-name><icon src="https://myeth-epg.github.io/icons4/0.png" /></channel>
+
+<channel id="tvguidecouk.ITV1ChannelTelevision"><display-name>[ITV] 001 ITV1</display-name><icon src="https://myeth-epg.github.io/icons/itv1.png" /></channel>
+<channel id="tvguidecouk.ITV2"><display-name>[ITV] 002 ITV2</display-name><icon src="https://myeth-epg.github.io/icons/itv2.png" /></channel>
+<channel id="tvguidecouk.ITV3"><display-name>[ITV] 003 ITV3</display-name><icon src="https://myeth-epg.github.io/icons/itv3.png" /></channel>
+<channel id="tvguidecouk.ITV4"><display-name>[ITV] 004 ITV4</display-name><icon src="https://myeth-epg.github.io/icons/itv4.png" /></channel>
+<channel id="0"><display-name>[ITV] 005 ITVBe</display-name><icon src="https://myeth-epg.github.io/icons/itvbe.png" /></channel>
+
+
+
+<!-- Programme1 --><programme start="20260704050000 +0000" stop="20260704053000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">James Martin&apos;s French Adventure</title>
+    <desc lang="en">The next leg of his trip sees James heading to Bresse, home of one of the country&apos;s most famous ingredients - the Bresse chicken. He visits a chicken farm to discover just why these birds are so special, and gets the chance to cook his own. He also meets Georges Blanc, one of his culinary heroes, before attending the annual Michelin star football tournament</desc>
+  </programme>
+<programme start="20260704053000 +0000" stop="20260704063000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">James Martin&apos;s Spanish Adventure</title>
+    <desc lang="en">The chef meets a family who live off grid, samples fabada stew, Urbies cheese, and visits a restaurant famous for its sardines</desc>
+  </programme>
+<programme start="20260704063000 +0000" stop="20260704093000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Nations Championship</title>
+    <desc lang="en">New Zealand v France (Kick-off 8.10am). Ugo Monye presents all the action from the opening round-robin match of the inaugural rugby union competition, held at One New Zealand Stadium. With analysis from Maggie Alphonsi and Sean Fitzpatrick, and commentary by Gareth Rhys Owen and Benjamin Kayser</desc>
+  </programme>
+<programme start="20260704093000 +0000" stop="20260704122000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Nations Championship</title>
+    <desc lang="en">Australia v Ireland (Kick-off 11.10am). Ugo Monye presents coverage of the rugby union match at Allianz Stadium in Sydney. Wallabies coach Joe Schmidt will have fond memories of his time in Ireland - he enjoyed a successful six year spell as head coach. His counterpart Andy Farrell has just signed a long term deal to lead the Irish team and will be hoping to build on a largely positive Six Nations campaign which saw them finish second to France. With analysis from Rory Best and George Gregan, and commentary by Martin Gillingham and Gordon D&apos;Arcy</desc>
+  </programme>
+<programme start="20260704122000 +0000" stop="20260704152000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Nations Championship</title>
+    <desc lang="en">Fiji v Wales (Kick-off 2.10pm). Lauren Salter presents all the action from the rugby union match at Cardiff City Stadium. While Fiji are the designated hosts, the match is being played here because their main stadium does not meet the competition requirements, and Wales will be looking to take advantage of that and build on their long-awaited Six Nations victory over Italy in March. With analysis from Sam Warburton, Jamie Roberts and Dan Biggar, and commentary by Miles Harrison, Shane Williams and Ben Kay</desc>
+  </programme>
+<programme start="20260704152000 +0000" stop="20260704154500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Tipping Point: Best Ever Finals</title>
+    <desc lang="en">Two more of the most dramatic endgames from the arcade-themed quiz show hosted by Ben Shephard, in which the last contestant standing competes for a £10,000 jackpot</desc>
+  </programme>
+<programme start="20260704154500 +0000" stop="20260704160000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News and Weather</title>
+    <desc lang="en">Round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260704160000 +0000" stop="20260704161500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News Channel TV; Weather</title>
+  </programme>
+<programme start="20260704161500 +0000" stop="20260704193500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">FIFA WC2026: Canada v Morocco</title>
+    <desc lang="en">Canada v Morocco (Kick-off 6.00pm). Coverage of the first round-of-16 match, which takes place at Houston Stadium in the USA. Canada edged past South Africa 1-0 in the last round, in a match that is unlikely to live long in the memory, but the Canadians won&apos;t let that bother them, although they&apos;ll be underdogs this time against a side looking to emulate their achievements of four years ago, when they reached the semi-finals. Morocco come into this match on the back of a penalty shootout victory over the Netherlands, secured thanks to a late equaliser from Fulham defender Issa Diop</desc>
+  </programme>
+<programme start="20260704193500 +0000" stop="20260704200500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">It&apos;ll Be Alright on the Night</title>
+    <desc lang="en">Comedian Tom Allen celebrates the chaos that occurs when making TV shows with unseen outtakes from dramas, comedies and entertainment shows. This episode features an accidental innuendo with Idris Elba that leaves Lorraine in tears of laughter, Love Island filming that is interrupted by angry animals, and an interview with Hollywood star Paul Rudd that ends in disaster</desc>
+  </programme>
+<programme start="20260704200500 +0000" stop="20260704210500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">The 1% Club</title>
+    <desc lang="en">Quiz game show hosted by Lee Mack in which the questions have nothing to do with remembering facts, but are all about logic and common sense. A hundred contestants begin every show, but who will make it to the end and answer a question only one per cent of the country can get right - and win up to £100,000?</desc>
+  </programme>
+<programme start="20260704210500 +0000" stop="20260704212400 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News and Weather</title>
+    <desc lang="en">Round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260704212400 +0000" stop="20260704212500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Channel TV Weather</title>
+  </programme>
+<programme start="20260704212500 +0000" stop="20260704232500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Dirty Dancing</title>
+    <desc lang="en">A dance instructor at a 1960s resort hotel fears his career will be jeopardised when his regular partner is forced to pull out of an important show in which they are due to perform. Luckily, a naive teenager is happy to step in, and is treated to a whirlwind holiday education in life, love and expressing herself. Romantic drama, with Patrick Swayze, Jennifer Grey and Jerry Orbach</desc>
+  </programme>
+<programme start="20260704232500 +0000" stop="20260705020500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Shop on TV</title>
+  </programme>
+<programme start="20260705020500 +0000" stop="20260705030000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">James Martin&apos;s Spanish Adventure</title>
+    <desc lang="en">The chef discovers how migas is made in Extremadura, meets an award-winning tortilla chef, and visits a local brewery. He also creates a garlic and bean stew, poussin, and a cherry beer and chocolate cake</desc>
+  </programme>
+<programme start="20260705030000 +0000" stop="20260705040000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Unwind with ITV</title>
+    <desc lang="en">Daily escape designed to calm the mind and encourage relaxation and reflection</desc>
+  </programme>
+<programme start="20260705040000 +0000" stop="20260705050000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Ainsley&apos;s Fantastic Flavours</title>
+    <desc lang="en">Ainsley Harriott delves into the tastes and flavours of North America, making his own version of a famous fast food chain&apos;s double burger, as well as peanut butter and jelly brownies. He is also joined by Ruby Bhogal, who tries to find out the secret behind the best fried chicken, and actress Sheree Murphy, who makes chicken pot pie</desc>
+  </programme>
+<programme start="20260705050000 +0000" stop="20260705055500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">James Martin&apos;s French Adventure</title>
+    <desc lang="en">The chef heads to Normandy and sets up his mobile kitchen in one of the many calvados orchards in the area, making a dish of artichokes with hollandaise. He also visits restaurant Le Pavé d&apos;Auge in Beuvron-en-Auge to meets a chef who likes to cook with as much butter as he does</desc>
+  </programme>
+<programme start="20260705055500 +0000" stop="20260705082500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Thunderball</title>
+    <desc lang="en">James Bond travels to the Bahamas on the trail of two nuclear warheads stolen from a British aircraft. The lethal weapons have fallen into the hands of international crime syndicate Spectre, which plans to fire them at the US coast unless an exorbitant ransom is paid. Spy adventure, starring Sean Connery, Claudine Auger, Adolfo Celi and Lois Maxwell</desc>
+  </programme>
+<programme start="20260705082500 +0000" stop="20260705083000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260705083000 +0000" stop="20260705103500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Love Your Weekend with Alan Titchmarsh</title>
+    <desc lang="en">Alan is joined by star of Gavin &amp; Stacey Joanna Page, sports presenter and host of The High Performance Podcast Jake Humphrey, and India Hicks. Farmer Tom Davis brings along a pair of piglets to hog the limelight, and drinks expert Andy Clarke shares his favourite tipples inspired by the movies in the Best of British feature</desc>
+  </programme>
+<programme start="20260705103500 +0000" stop="20260705113500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Prue Leith&apos;s Cotswold Kitchen</title>
+    <desc lang="en">Prue welcomes Ellie Simmonds back for a second visit to her kitchen after the two got on so well the first time, with the five-time Paralympic swimming gold medallist baking a coffee and walnut cake. Prue&apos;s food hero is a tea producer from the Vale of Glamorgan who makes loose leaf tea and kombucha tea, while he has a versatile baked feta, roasted tomatoes and garlic dish on the menu and is pleased when a hack for egg yolks goes well</desc>
+  </programme>
+<programme start="20260705113500 +0000" stop="20260705120500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Love Your Garden</title>
+    <desc lang="en">Alan Titchmarsh and his team of gardening experts head to Waltham Abbey in Essex to create a tropical escape with a yoga deck and home office at its heart for Venessa Taylor, a selfless leukaemia survivor who campaigns to raise the awareness of blood cancer and the importance of bone marrow donations across all ethnic groups</desc>
+  </programme>
+<programme start="20260705120500 +0000" stop="20260705121900 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News and Weather</title>
+    <desc lang="en">Round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260705121900 +0000" stop="20260705122000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Channel TV Weather</title>
+  </programme>
+<programme start="20260705122000 +0000" stop="20260705141500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Midsomer Murders</title>
+    <desc lang="en">The headmaster of a local school is murdered, his body found pinned to the wall in the manner of his own butterfly collection. The dead man was a member of a mysterious international club for geniuses, which are currently testing the school&apos;s pupils for possible new recruits. Barnaby and Winter investigate the secretive organisation, which has proven controversial in the local area, but also uncover the possibility of a connection between the killing and the impact of pesticides on a rare species of butterfly</desc>
+  </programme>
+<programme start="20260705141500 +0000" stop="20260705163500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">You Only Live Twice</title>
+    <desc lang="en">James Bond is sent on a mission to uncover the truth behind the disappearances of Soviet and American space capsules before the mutually suspicious superpowers go to war. The trail leads to Japan, where Bond finally comes face to face with his arch-enemy Blofeld. Spy thriller, starring Sean Connery, Donald Pleasence, Akiko Wakabayashi and Bernard Lee</desc>
+  </programme>
+<programme start="20260705163500 +0000" stop="20260705174000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as Nathan from Hitchin, Olivia originally from Guernsey, Michaela from Lincolnshire and Martyn from London pit their wits against one of the ruthless Chasers in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught</desc>
+  </programme>
+<programme start="20260705174000 +0000" stop="20260705180000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News and Weather</title>
+    <desc lang="en">Round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260705180000 +0000" stop="20260705181500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News Channel TV; Weather</title>
+  </programme>
+<programme start="20260705181500 +0000" stop="20260705191500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Who Wants to Be a Millionaire? Celebrity Special</title>
+    <desc lang="en">A celebrity version of the big-prize quiz in which stars answer questions to win cash for their chosen charities. With lifelines including Ask the Audience, Phone a Friend and 50-50 available to them if they get stuck</desc>
+  </programme>
+<programme start="20260705191500 +0000" stop="20260705223500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">FIFA WC2026: Brazil v Norway</title>
+    <desc lang="en">Brazil v Norway (Kick-off 9.00pm). Coverage of the third round-of-16 match, which takes place at New York/New Jersey Stadium in the USA. Brazil came from behind to beat Japan 2-1 in injury-time, having trailed at the break, with goals by Casemiro and Gabriel Martinelli breaking Japanese hearts. Despite not quite reaching their peak yet, Brazil will start as favourites here as they look to move a step closer towards a first World Cup triumph since 2002. Norway had Erling Braut Haaland to thank for a late winner in their last-32 match against Ivory Coast, after Amad Diallo&apos;s stunning goal had seemed enough to take the game into extra time</desc>
+  </programme>
+<programme start="20260705223500 +0000" stop="20260705231500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Password</title>
+    <desc lang="en">Stephen Mangan hosts the game show, with Alex and Me&apos;sha joining captains Daisy May Cooper and Alan Carr to try to guess mystery passwords across multiple rounds as they try to win £10,000</desc>
+  </programme>
+<programme start="20260705231500 +0000" stop="20260706020000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Shop on TV</title>
+  </programme>
+<programme start="20260706020000 +0000" stop="20260706025000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Motorsport UK</title>
+    <desc lang="en">Richard John Neill presents action from Brands Hatch, with racing from the Porsche Carrera Cup Great Britain and the Caterham Seven 310R Championship</desc>
+  </programme>
+<programme start="20260706025000 +0000" stop="20260706040500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Unwind with ITV</title>
+    <desc lang="en">Daily escape designed to calm the mind and encourage relaxation and reflection</desc>
+  </programme>
+<programme start="20260706040500 +0000" stop="20260706050000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">James Martin&apos;s French Adventure</title>
+    <desc lang="en">The chef heads to Normandy and sets up his mobile kitchen in one of the many calvados orchards in the area, making a dish of artichokes with hollandaise. He also visits restaurant Le Pavé d&apos;Auge in Beuvron-en-Auge to meets a chef who likes to cook with as much butter as he does</desc>
+  </programme>
+<programme start="20260706050000 +0000" stop="20260706090000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Good Morning Britain</title>
+    <desc lang="en">Morning magazine featuring a lively mix of news and current affairs, plus health, entertainment and lifestyle features</desc>
+  </programme>
+<programme start="20260706090000 +0000" stop="20260706113000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">This Morning</title>
+    <desc lang="en">A mix of celebrity chat, lifestyle features, advice and competitions</desc>
+  </programme>
+<programme start="20260706113000 +0000" stop="20260706123000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Loose Women</title>
+    <desc lang="en">Celebrity interviews and studio discussion from a female perspective</desc>
+  </programme>
+<programme start="20260706123000 +0000" stop="20260706125500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Lunchtime News; Weather</title>
+    <desc lang="en">The key headlines from the day so far</desc>
+  </programme>
+<programme start="20260706125500 +0000" stop="20260706130000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News Channel TV; Weather</title>
+  </programme>
+<programme start="20260706130000 +0000" stop="20260706140000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Dickinson&apos;s Real Deal</title>
+    <desc lang="en">David Dickinson and his team of dealers set up under the wings of Concorde at Aerospace Bristol as they assess items brought in by members of the public</desc>
+  </programme>
+<programme start="20260706140000 +0000" stop="20260706145900 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Deal or No Deal</title>
+    <desc lang="en">Stephen Mulhern hosts as contestant Craig tries to open the 22 red boxes in the right order, taking on the infamous Banker for the chance to win a life-changing cash prize</desc>
+  </programme>
+<programme start="20260706145900 +0000" stop="20260706150000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Channel TV Weather</title>
+  </programme>
+<programme start="20260706150000 +0000" stop="20260706160000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Tipping Point</title>
+    <desc lang="en">Ben Shephard hosts the quiz in which contestants answer questions to win turns on an arcade-style machine. Dropping tokens down a choice of four chutes, they hope to knock piles of them off a moving shelf - and the more they collect, the greater the prize fund. The player who has won the least amount is then eliminated, and the last one standing competes for a £10,000 jackpot</desc>
+  </programme>
+<programme start="20260706160000 +0000" stop="20260706170000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as Graham, Derry, Elizabeth and Ben pit their wits against one of the ruthless Chasers in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught</desc>
+  </programme>
+<programme start="20260706170000 +0000" stop="20260706173000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News Channel TV; Weather</title>
+  </programme>
+<programme start="20260706173000 +0000" stop="20260706183000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Evening News; Weather</title>
+    <desc lang="en">A round-up of the day&apos;s news headlines and talking points from the UK and around the world</desc>
+  </programme>
+<programme start="20260706183000 +0000" stop="20260706193000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Emmerdale</title>
+    <desc lang="en">Monty the dog is in danger, while Mack is livid and there is a crisis of conscience as Kerry urges Caleb to do the right thing. Paddy arrives with bad news</desc>
+  </programme>
+<programme start="20260706193000 +0000" stop="20260706203000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Coronation Street</title>
+    <desc lang="en">Abi and Kevin rush Alfie to hospital with breathing difficulties, while concern grows that Brody is being cast in the same mould as Idris. Cassie decides to stake her claim on Steve, and Hope invites a guilt-ridden Will to visit Sam</desc>
+  </programme>
+<programme start="20260706203000 +0000" stop="20260706212500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Long Lost Family</title>
+    <desc lang="en">Davina McCall and Nicky Campbell help more people reunite with long-lost relatives, with investigators picking up the search when the trail has gone cold. Ros Webb searches for the daughter that her strict parents made her travel 100 miles to London to give up for adoption, while Tegan Cornish looks for the brother who was separated from her as a baby</desc>
+  </programme>
+<programme start="20260706212500 +0000" stop="20260706215500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News at Ten; Weather</title>
+    <desc lang="en">A fresh perspective on the major stories of the day, featuring national and international news, with reports and analysis from ITV&apos;s correspondents</desc>
+  </programme>
+<programme start="20260706215500 +0000" stop="20260706221500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News Channel TV; Weather</title>
+  </programme>
+<programme start="20260706221500 +0000" stop="20260706231000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">TikTok: Murder Gone Viral</title>
+    <desc lang="en">A look at the case of 17-year-old Charlie Cosser, who was fatally stabbed by 16-year-old Yura Varybrus at an end-of-term summer party for teenagers. Charlie&apos;s dad Martin made his dying son a promise that he would campaign for justice and awareness of knife crime, and his TikTok videos tell the story of a family struggling to come to terms with an act of senseless violence that tore their lives apart</desc>
+  </programme>
+<programme start="20260706231000 +0000" stop="20260707000000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">The Debrief with Dan and ROG</title>
+    <desc lang="en">Claire Thomas is joined by Dan Biggar and Ronan O&apos;Gara to analyse the best of the action from the opening weekend of the inaugural Nations Championship</desc>
+  </programme>
+<programme start="20260707000000 +0000" stop="20260707020000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Shop on TV</title>
+  </programme>
+<programme start="20260707020000 +0000" stop="20260707022500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">James Martin&apos;s French Adventure</title>
+    <desc lang="en">The next leg of his trip sees James heading to Bresse, home of one of the country&apos;s most famous ingredients - the Bresse chicken. He visits a chicken farm to discover just why these birds are so special, and gets the chance to cook his own. He also meets Georges Blanc, one of his culinary heroes, before attending the annual Michelin star football tournament</desc>
+  </programme>
+<programme start="20260707022500 +0000" stop="20260707031500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as Gary from London, Ginny from Falmouth, Beth from Manchester and Wesley from Bristol pit their wits against one of the ruthless Chasers in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught</desc>
+  </programme>
+<programme start="20260707031500 +0000" stop="20260707043500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Unwind with ITV</title>
+    <desc lang="en">Daily escape designed to calm the mind and encourage relaxation and reflection</desc>
+  </programme>
+<programme start="20260707043500 +0000" stop="20260707050000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Ainsley&apos;s Taste of the Bahamas</title>
+    <desc lang="en">Chef Ainsley Harriott explores the vibrant flavours, local producers, markets and unique dishes of the island nation located in the Atlantic Ocean. He kicks off his island adventures with the comfort foods at the heart of Bahamian cooking, from &apos;chicken in da bag&apos; at Bamboo Shack to learning to put his peas before his rice with chef Tevin Kemp. Then he wraps things up in his beachside kitchen with prawn and coconut fritters served with a pickled coconut slaw</desc>
+  </programme>
+<programme start="20260707050000 +0000" stop="20260707090000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Good Morning Britain</title>
+    <desc lang="en">Morning magazine featuring a lively mix of news and current affairs, plus health, entertainment and lifestyle features</desc>
+  </programme>
+<programme start="20260707090000 +0000" stop="20260707113000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">This Morning</title>
+    <desc lang="en">A mix of celebrity chat, lifestyle features, advice and competitions</desc>
+  </programme>
+<programme start="20260707113000 +0000" stop="20260707124500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Loose Women</title>
+    <desc lang="en">More celebrity interviews and topical debate from a female perspective</desc>
+  </programme>
+<programme start="20260707124500 +0000" stop="20260707131000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Lunchtime News; Weather</title>
+    <desc lang="en">The key headlines from the day so far</desc>
+  </programme>
+<programme start="20260707131000 +0000" stop="20260707131500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News Channel TV; Weather</title>
+  </programme>
+<programme start="20260707131500 +0000" stop="20260707141500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Dickinson&apos;s Real Deal</title>
+    <desc lang="en">David Dickinson and the team are at Crewe Hall in Cheshire, where Fay Rutter has a deal mapped out and newcomer Laurie Scully faces a regular in the bid for a vintage hat stretcher</desc>
+  </programme>
+<programme start="20260707141500 +0000" stop="20260707151400 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Deal or No Deal</title>
+    <desc lang="en">Stephen Mulhern hosts as contestant Ryan tries to open the 22 red boxes in the right order, taking on the infamous Banker for the chance to win a life-changing cash prize</desc>
+  </programme>
+<programme start="20260707151400 +0000" stop="20260707151500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Channel TV Weather</title>
+  </programme>
+<programme start="20260707151500 +0000" stop="20260707183500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">FIFA World Cup 2026</title>
+    <desc lang="en">Coverage of the seventh round-of-16 match (Kick-off 5.00pm), which takes place at Atlanta Stadium in the USA. The fans in attendance will hope for a more entertaining affair than in the corresponding clash in Al Rayyan four years ago, as Morocco and Spain played out a monotonous 0-0 draw over 120 minutes, in which the Spanish dominated possession but did little with it as few chances were created. The tie came to life in the subsequent penalty shootout as the 2010 champions failed to convert any of their three attempts with goalkeeper Yassine Bounou saving from Sergio Busquets and Carlos Soler after Pablo Sarabia first hit the post, while the Atlas Lions scored three of their four penalties to progress. By missing their three spot kicks, Spain became only the second team to not score in a World Cup penalty shoot-out, following in the footsteps of Switzerland who lost to Ukraine in 2006 by the same 3-0 scoreline</desc>
+  </programme>
+<programme start="20260707183500 +0000" stop="20260707184500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News Channel TV; Weather</title>
+  </programme>
+<programme start="20260707184500 +0000" stop="20260707191500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Evening News; Weather</title>
+    <desc lang="en">A round-up of the day&apos;s news headlines and talking points from the UK and around the world</desc>
+  </programme>
+<programme start="20260707191500 +0000" stop="20260707223500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">FIFA World Cup 2026</title>
+    <desc lang="en">Switzerland v Colombia or Ghana (Kick-off 9.00pm). Coverage of the eighth round-of-16 match, which takes place at BC Place Vancouver in Canada. Switzerland had a game to forget at the corresponding stage of the 2022 World Cup when they were thrashed 6-1 by Portugal. However, they will be hopeful of a much stronger showing this time around, having topped a group containing Canada, Bosnia and Herzegovina and Qatar, before easing past Algeria 2-0 in the round of 32</desc>
+  </programme>
+<programme start="20260707223500 +0000" stop="20260707230500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">The Assembly</title>
+    <desc lang="en">Stephen Fry faces a grilling from a cast of autistic and learning-disabled interviewers. Did he take drugs in Buckingham Palace? Is he happy to be alive? As the questions come thick and fast, Stephen opens up about mental health, shame and self-criticism. There are probing questions about love, identity and belief, alongside moments of pure mischief and laughter - including an explosive question about his sexual preferences</desc>
+  </programme>
+<programme start="20260707230500 +0000" stop="20260708000000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Who Wants to Be a Millionaire?</title>
+    <desc lang="en">Another line-up of contestants answer questions that could change their lives - with the four lifelines Ask the Audience, Phone a Friend, 50-50 and Ask the Host available to them if they get stuck. Jeremy Clarkson hosts</desc>
+  </programme>
+<programme start="20260708000000 +0000" stop="20260708020000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Shop on TV</title>
+  </programme>
+<programme start="20260708020000 +0000" stop="20260708025000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Wheel of Fortune</title>
+    <desc lang="en">Graham Norton hosts the game show, which sees events assistant Alex, weight loss coach Jennifer and business owner Chris spin the wheel and try to solve the word puzzles in a bid to win big money prizes, with a potential jackpot of £50,000</desc>
+  </programme>
+<programme start="20260708025000 +0000" stop="20260708040500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Unwind with ITV</title>
+    <desc lang="en">Daily escape designed to calm the mind and encourage relaxation and reflection</desc>
+  </programme>
+<programme start="20260708040500 +0000" stop="20260708050000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Dickinson&apos;s Real Deal</title>
+    <desc lang="en">David Dickinson and the team are at Crewe Hall in Cheshire, where Fay Rutter has a deal mapped out and newcomer Laurie Scully faces a regular in the bid for a vintage hat stretcher</desc>
+  </programme>
+<programme start="20260708050000 +0000" stop="20260708090000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Good Morning Britain</title>
+    <desc lang="en">Morning magazine featuring a lively mix of news and current affairs, plus health, entertainment and lifestyle features</desc>
+  </programme>
+<programme start="20260708090000 +0000" stop="20260708113000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">This Morning</title>
+    <desc lang="en">A mix of celebrity chat, lifestyle features, advice and competitions</desc>
+  </programme>
+<programme start="20260708113000 +0000" stop="20260708123000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Loose Women</title>
+    <desc lang="en">Another helping of topical studio discussion from a female perspective, featuring celebrity interviews</desc>
+  </programme>
+<programme start="20260708123000 +0000" stop="20260708125500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Lunchtime News; Weather</title>
+    <desc lang="en">The key headlines from the day so far</desc>
+  </programme>
+<programme start="20260708125500 +0000" stop="20260708130000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News Channel TV; Weather</title>
+  </programme>
+<programme start="20260708130000 +0000" stop="20260708140000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Dickinson&apos;s Real Deal</title>
+    <desc lang="en">David Dickinson and the team are in Sheffield where, Mark Stevens pirouettes for a profit, David Ford blows his cash on a set of old whistles, and Tim Hogarth comes across a collection of football programmes</desc>
+  </programme>
+<programme start="20260708140000 +0000" stop="20260708145900 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Deal or No Deal</title>
+    <desc lang="en">Stephen Mulhern hosts as Carol gets her chance to open the iconic red boxes - in the game show with only one question, will she say Deal or No Deal when faced with the Banker&apos;s tempting cash offers, or will Carol instead choose to take home what&apos;s inside her box?</desc>
+  </programme>
+<programme start="20260708145900 +0000" stop="20260708150000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Channel TV Weather</title>
+  </programme>
+<programme start="20260708150000 +0000" stop="20260708160000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Tipping Point</title>
+    <desc lang="en">Ben Shephard hosts the quiz in which contestants answer questions to win turns on an arcade-style machine. Dropping tokens down a choice of four chutes, they hope to knock piles of them off a moving shelf - and the more they collect, the greater the prize fund. The player who has won the least amount is then eliminated, and the last one standing competes for a £10,000 jackpot</desc>
+  </programme>
+<programme start="20260708160000 +0000" stop="20260708170000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh hosts as Diane from Ashton-under-Lyne, Matt from Mansfield, Katie from Peterborough and Andy from Birmingham hope they can take on a Chaser as a team and leave with thousands of pounds</desc>
+  </programme>
+<programme start="20260708170000 +0000" stop="20260708173000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News Channel TV; Weather</title>
+  </programme>
+<programme start="20260708173000 +0000" stop="20260708183000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Evening News; Weather</title>
+    <desc lang="en">A round-up of the day&apos;s news headlines and talking points from the UK and around the world</desc>
+  </programme>
+<programme start="20260708183000 +0000" stop="20260708190000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Deal or No Deal: Banker&apos;s Best Battles</title>
+    <desc lang="en">Stephen Mulhern revisits Ronnie and Sami&apos;s battles against the mean-spirited Banker. Do they have the skill and strength to show the Banker who&apos;s boss, and will either of them be victorious and take home a huge cash prize?</desc>
+  </programme>
+<programme start="20260708190000 +0000" stop="20260708193000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Emmerdale</title>
+    <desc lang="en">Kev changes his name to Barton to bond with Lewis, but is frustrated when he does not get through to his son, while a mysterious figure breaks into the cafe and steals the cash box</desc>
+  </programme>
+<programme start="20260708193000 +0000" stop="20260708200000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Coronation Street</title>
+    <desc lang="en">Cassie chats up a bloke while drowning her sorrows over Steve, Abi threatens to take Idris to court, Will makes an announcement about his future, and Glenda makes an alarming discovery in Christina&apos;s handbag</desc>
+  </programme>
+<programme start="20260708200000 +0000" stop="20260708210000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Unbelievable Moments Caught on Camera</title>
+    <desc lang="en">More jaw-dropping footage filmed by members of the public, including the moment that an American father saves his children from an alligator at his home, and a British cave diver gets stuck 200 metres below ground</desc>
+  </programme>
+<programme start="20260708210000 +0000" stop="20260708213000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News at Ten; Weather</title>
+    <desc lang="en">A fresh perspective on the major stories of the day, featuring national and international news, with reports and analysis from ITV&apos;s correspondents</desc>
+  </programme>
+<programme start="20260708213000 +0000" stop="20260708214500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News Channel TV; Weather</title>
+  </programme>
+<programme start="20260708214500 +0000" stop="20260708221500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">The Last Word</title>
+    <desc lang="en">Phil Hornby hosts the monthly programme in which he is joined by MPs and guests to discuss the big political stories in the region</desc>
+  </programme>
+<programme start="20260708221500 +0000" stop="20260708225000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">G&apos;wed</title>
+    <desc lang="en">An old ballroom rivalry reignites as dance legend Mary returns to face Grandma Pat, pulling Christopher and Reece into the feud. Aimee questions her family&apos;s past</desc>
+  </programme>
+<programme start="20260708225000 +0000" stop="20260708231500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Sorry, I Didn&apos;t Know</title>
+    <desc lang="en">Nina Wadia, DJ Target and Eddie Nestor join team leaders Chizzy Akudolu and Stephen K Amos to answer questions about black history. Jimmy Akingbola hosts</desc>
+  </programme>
+<programme start="20260708231500 +0000" stop="20260709020000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Shop on TV</title>
+  </programme>
+<programme start="20260709020000 +0000" stop="20260709025000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Killer in the House: The Murder of Nicholas Billingham</title>
+    <desc lang="en">A look at the case of primary school teacher Fiona Beal, who pleaded guilty to the 2022 murder of her partner Nicholas Billingham at the Old Bailey. The programme reveals a genuinely extraordinary murder that involved the victim&apos;s body being hidden in the garden of the family home for months, with Beal claiming he had left her for another woman</desc>
+  </programme>
+<programme start="20260709025000 +0000" stop="20260709040500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Unwind with ITV</title>
+    <desc lang="en">Daily escape designed to calm the mind and encourage relaxation and reflection</desc>
+  </programme>
+<programme start="20260709040500 +0000" stop="20260709050000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Ainsley&apos;s Fantastic Flavours</title>
+    <desc lang="en">Chef Ainsley Harriott demonstrates flavour-packed recipes from the Mediterranean, including a spinach and ricotta gnudi with cherry tomatoes and pine nuts. Shivi Ramoutar visits Maltby Street Market where she takes in all the tastes of the Med and cooks a Spanish-style rice. Nicki Chapman joins Ainsley to cook a fish dish inspired by her holidays and enjoy a fig, hazelnut and orange cake</desc>
+  </programme>
+<programme start="20260709050000 +0000" stop="20260709090000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Good Morning Britain</title>
+    <desc lang="en">Morning magazine featuring a lively mix of news and current affairs, plus health, entertainment and lifestyle features</desc>
+  </programme>
+<programme start="20260709090000 +0000" stop="20260709120000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">This Morning</title>
+    <desc lang="en">Daily magazine, featuring a mix of celebrity chat, showbusiness news, lifestyle features, topical discussion, health and beauty advice and more</desc>
+  </programme>
+<programme start="20260709120000 +0000" stop="20260709122000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Lunchtime News; Weather</title>
+    <desc lang="en">The key headlines from the day so far</desc>
+  </programme>
+<programme start="20260709122000 +0000" stop="20260709123000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News Channel TV; Weather</title>
+  </programme>
+<programme start="20260709123000 +0000" stop="20260709145900 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Racing: Live from Newmarket</title>
+    <desc lang="en">Ed Chamberlin and Francesca Cumani present coverage of day one of the July Festival, headlined by the Princess of Wales&apos; Stakes, plus racing from Doncaster. With analysis from Jason Weaver, reports by Matt Chapman and Megan Nicholls, and commentary from Richard Hoiles</desc>
+  </programme>
+<programme start="20260709145900 +0000" stop="20260709150000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Channel TV Weather</title>
+  </programme>
+<programme start="20260709150000 +0000" stop="20260709160000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Tipping Point</title>
+    <desc lang="en">Ben Shephard hosts the quiz in which contestants answer questions to win turns on an arcade-style machine. Dropping tokens down a choice of four chutes, they hope to knock piles of them off a moving shelf - and the more they collect, the greater the prize fund. The player who has won the least amount is then eliminated, and the last one standing competes for a £10,000 jackpot</desc>
+  </programme>
+<programme start="20260703050000 +0000" stop="20260703083000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Good Morning Britain</title>
+    <desc lang="en">Morning magazine featuring a lively mix of news and current affairs, plus health, entertainment and lifestyle features</desc>
+  </programme>
+<programme start="20260703083000 +0000" stop="20260703090000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Lorraine</title>
+    <desc lang="en">Early morning chat show presented by Lorraine Kelly, with celebrity interviews, entertainment news, cooking tips, fashion features and musical guests.</desc>
+  </programme>
+<programme start="20260703090000 +0000" stop="20260703113000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">This Morning</title>
+    <desc lang="en">Daily magazine, featuring a mix of celebrity chat, showbusiness news, lifestyle features, topical discussion, health and beauty advice and more</desc>
+  </programme>
+<programme start="20260703113000 +0000" stop="20260703124500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Loose Women</title>
+    <desc lang="en">Guest panellists engage in topical debate and celebrity interviews from a female perspective</desc>
+  </programme>
+<programme start="20260703124500 +0000" stop="20260703131000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Lunchtime News; Weather</title>
+    <desc lang="en">The key headlines from the day so far</desc>
+  </programme>
+<programme start="20260703131000 +0000" stop="20260703131500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News Channel TV; Weather</title>
+  </programme>
+<programme start="20260703131500 +0000" stop="20260703141500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Dickinson&apos;s Real Deal</title>
+    <desc lang="en">David Dickinson and the team of antiques experts visit Oldham, Greater Manchester, where Simon Schneider falls for a stunning clock, Michael Hogben splashes out big for some gold, and the Duke himself gets stumped by an artist&apos;s print</desc>
+  </programme>
+<programme start="20260703141500 +0000" stop="20260703151400 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Deal or No Deal</title>
+    <desc lang="en">Stephen Mulhern hosts the game show as contestant Becca tries to open the 22 red boxes in the right order, taking on the infamous Banker for the chance to win a life-changing cash prize</desc>
+  </programme>
+<programme start="20260703151400 +0000" stop="20260703151500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Channel TV Weather</title>
+  </programme>
+<programme start="20260703151500 +0000" stop="20260703161500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Tipping Point</title>
+    <desc lang="en">Ben Shephard hosts the quiz in which contestants answer questions to win turns on an arcade-style machine. Dropping tokens down a choice of four chutes, they hope to knock piles of them off a moving shelf - and the more they collect, the greater the prize fund. The player who has won the least amount is then eliminated, and the last one standing competes for a £10,000 jackpot</desc>
+  </programme>
+<programme start="20260703161500 +0000" stop="20260703171500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">The Chase</title>
+    <desc lang="en">Bradley Walsh presents as Calum from Glasgow, Ann from Rochdale, Ali from London and Rio from Guildford pit their wits against one of the ruthless Chasers in the hope of winning a potential prize pot worth thousands of pounds. They work as a team and play strategically to answer general knowledge questions against the clock and race down the game board to the exit without being caught</desc>
+  </programme>
+<programme start="20260703171500 +0000" stop="20260703174500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV News Channel TV; Weather</title>
+  </programme>
+<programme start="20260703174500 +0000" stop="20260703184500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">ITV Evening News; Weather</title>
+    <desc lang="en">A round-up of the day&apos;s news headlines and talking points from the UK and around the world</desc>
+  </programme>
+<programme start="20260703184500 +0000" stop="20260703191500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Emmerdale</title>
+    <desc lang="en">Cain warns Graham and the rest of Tates to stay away from Kyle, while Kev tells Charles he fears that Lewis wants nothing to do with him</desc>
+  </programme>
+<programme start="20260703191500 +0000" stop="20260703194500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Coronation Street</title>
+    <desc lang="en">The Driscolls pray for justice as Megan&apos;s verdict is delivered. Abi identifies her evasive landlord, Sam makes peace with Nick, and Hope and Ruby plan a surprise for Tyrone</desc>
+  </programme>
+<programme start="20260703194500 +0000" stop="20260703204500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Who Wants to Be a Millionaire? Celebrity Special</title>
+    <desc lang="en">A celebrity version of the big-prize quiz in which stars answer questions to win cash for their chosen charities. With lifelines including Ask the Audience, Phone a Friend and 50-50 available to them if they get stuck</desc>
+  </programme>
+<programme start="20260703204500 +0000" stop="20260703211500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Bradley &amp; Barney Walsh: Breaking Dad</title>
+    <desc lang="en">The actor and his son hit the road together on a series of adventures</desc>
+  </programme>
+<programme start="20260703211500 +0000" stop="20260704010500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">FIFA WC2026: Argentina v C. Verde</title>
+    <desc lang="en">Argentina v Cape Verde (Kick-off 11.00pm). Coverage of the round-of-32 match at Miami Stadium in the USA. Reigning champions Argentina topped Group J with a game to spare after talisman Lionel Messi scored all five of his team&apos;s goals in wins over Algeria and Austria. The progress of Cape Verde is arguably the story of the tournament so far, with the unfancied and unheralded minnows reaching this stage at the first attempt, courtesy of draws against Spain, Uruguay and Saudi Arabia</desc>
+  </programme>
+<programme start="20260704010500 +0000" stop="20260704040500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">FIFA WC2026: Colombia v Ghana</title>
+    <desc lang="en">Colombia v Ghana (Kick-off 2.30am). Coverage of the final round-of-32 match, held at Kansas City Stadium in the USA. Colombia won Group K with seven points, courtesy of wins against DR Congo and Uzbekistan, and a goalless draw with Portugal. Ghana impressed at times in the group stage, holding England to a goalless draw and taking the lead against Croatia, before succumbing to a 2-1 defeat that left them third in Group L</desc>
+  </programme>
+<programme start="20260704040500 +0000" stop="20260704043500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Unwind with ITV</title>
+    <desc lang="en">Daily escape designed to calm the mind and encourage relaxation and reflection</desc>
+  </programme>
+<programme start="20260704043500 +0000" stop="20260704050000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
+    <title lang="en">Fletchers&apos; Family Farm</title>
+    <desc lang="en">There is an emergency on the farm when a ewe becomes sick, Kelvin readies the older piglets for market and a visit to A&amp;E is in order after a run-in with a wasp&apos;s nest. A kitten becomes the newest member of the household and it is party time as Kelvin pulls out all the stops for a surprise birthday bash for Liz&apos;s 40th</desc>
+  </programme>
+<programme start="20260704050000 +0000" stop="20260704090000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">A round-up of national and international news, plus sports reports, weather forecasts and arts and entertainment features</desc>
+  </programme>
+<programme start="20260704090000 +0000" stop="20260704103000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Saturday Kitchen Live</title>
+    <desc lang="en">Matt Tebbutt is joined by chefs Andrew Wong, Seema Pankhania and Jess Shadbolt. Drinks expert Olly Smith picks the wines to go with the studio dishes. Also, there are highlights from the BBC food archive</desc>
+  </programme>
+<programme start="20260704103000 +0000" stop="20260704110000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Anna Haugh&apos;s Big Irish Food Tour</title>
+    <desc lang="en">Having grown up just two hours from Belfast, Anna is excited to visit for the first time and meet boxing champion Carl Frampton, as he shows her around his home city. Anna learns about the local malt loaf staple veda bread and cooks for tourists at the birthplace of the Titanic. Carl puts Anna through her paces in the boxing ring and brings her to one of the city&apos;s last traditional bakeries, where she discovers the local sweet treat, fifteens</desc>
+  </programme>
+<programme start="20260704110000 +0000" stop="20260704111000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260704111000 +0000" stop="20260704111500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260704111500 +0000" stop="20260704112000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Weather</title>
+    <desc lang="en">The latest forecast</desc>
+  </programme>
+<programme start="20260704112000 +0000" stop="20260704161500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Wimbledon 2026</title>
+    <desc lang="en">Coverage of day six of the third Grand Slam tournament of the year, held at the All England Club, featuring men&apos;s and ladies&apos; third-round singles matches. Eventual champion Jannik Sinner opened the day&apos;s proceedings on Centre Court at this stage last year, and he claimed a comfortable 6-1, 6-3, 6-1 victory over Pedro Martínez. Sinner went into this year&apos;s tournament highly fancied to retain the title, especially given Carlos Alcaraz&apos;s absence due to injury, but he struggled with cramp in the French Open and was eliminated by Juan Manuel Cerúndolo in the second round, ending a streak of nine consecutive Grand Slams that had been won by either him or Alcaraz</desc>
+  </programme>
+<programme start="20260704161500 +0000" stop="20260704162500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260704162500 +0000" stop="20260704163000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Weather</title>
+    <desc lang="en">The latest forecast</desc>
+  </programme>
+<programme start="20260704163000 +0000" stop="20260704201000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Wimbledon 2026</title>
+    <desc lang="en">Clare Balding presents further coverage of day six of the third Grand Slam tournament of the year, held at the All England Club, featuring men&apos;s and ladies&apos; third-round singles matches. Novak Djokovic concluded the sixth day&apos;s play on Centre Court last year with a dominant 6-3, 6-0, 6-4 victory over his Serbian compatriot Miomir Kecmanovic. There would be no eighth Wimbledon title for the modern era&apos;s most decorated man, as he was eliminated by Jannik Sinner at the semi-final stage, but few would have bet against him enjoying another deep run this time around</desc>
+  </programme>
+<programme start="20260704201000 +0000" stop="20260704202500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260704202500 +0000" stop="20260704203000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Weather</title>
+    <desc lang="en">The latest forecast</desc>
+  </programme>
+<programme start="20260704203000 +0000" stop="20260704233000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">MOTD Live: FIFA World Cup 2026</title>
+    <desc lang="en">Paraguay v France (Kick-off 10.00pm). Coverage of the second round-of-16 match, which takes place at Philadelphia Stadium in the USA. The South Americans caused an upset in the last round, providing a defensive masterclass to edge past Germany in a dramatic penalty shootout, following a 1-1 draw. They&apos;ll need a similarly heroic display here against France, who are the tournament favourites, bang in form and awash with attacking talent</desc>
+  </programme>
+<programme start="20260704233000 +0000" stop="20260705005500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Absolutely Fabulous: The Movie</title>
+    <desc lang="en">Worried about her finances when her book fails to find a publisher, Patsy is given the tip that Kate Moss has left her PR company and will be looking for new representation. Things start to go awry when the plot to approach the model goes horribly wrong and Patsy and Edina find themselves vilified by the entire nation and have to flee the country. Comedy based on the BBC sitcom, starring Jennifer Saunders, Joanna Lumley and Julia Sawalha</desc>
+  </programme>
+<programme start="20260705005500 +0000" stop="20260705010000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Weather for the Week Ahead</title>
+    <desc lang="en">A look ahead to the latest forecast</desc>
+  </programme>
+<programme start="20260705010000 +0000" stop="20260705050000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260705050000 +0000" stop="20260705080000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">A round-up of national and international news, plus current affairs, arts and entertainment, and weather</desc>
+  </programme>
+<programme start="20260705080000 +0000" stop="20260705090000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Sunday with Laura Kuenssberg</title>
+    <desc lang="en">The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+  </programme>
+<programme start="20260705090000 +0000" stop="20260705093000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Politics London</title>
+    <desc lang="en">The latest political news and debate from the region</desc>
+  </programme>
+<programme start="20260705093000 +0000" stop="20260705100000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Prayer and Reflection</title>
+    <desc lang="en">A daily morning service from Guru Nanak Darbar Gurdwara Sikh temple in Gravesend, Kent, including the culmination of the Akhand Path, a 48-hour continuous prayer. Featuring a core element of Sikhism called Sewa, or selfless service, in which volunteer prepare food for the congregation throughout the course of the day</desc>
+  </programme>
+<programme start="20260705100000 +0000" stop="20260705103000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Bargain Hunt</title>
+    <desc lang="en">Ben Cooper and Gary Pe help two teams find items at Peterborough&apos;s East of England Showground, while presenter Natasha Raskin Sharp tries her hand at glass-blowing in Stourbridge</desc>
+  </programme>
+<programme start="20260705103000 +0000" stop="20260705104500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Points of View</title>
+    <desc lang="en">Viewers&apos; opinions on BBC shows and behind-the-scenes reports on new programmes</desc>
+  </programme>
+<programme start="20260705104500 +0000" stop="20260705112000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Songs of Praise</title>
+    <desc lang="en">Pam Rhodes visits Ashburnham Place Retreat Centre in East Sussex to introduce hymns that explore the profound meaning of water in the Bible and in the Christian faith</desc>
+  </programme>
+<programme start="20260705112000 +0000" stop="20260705113000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260705113000 +0000" stop="20260705113500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Weather for the Week Ahead</title>
+    <desc lang="en">A look ahead to the latest forecast</desc>
+  </programme>
+<programme start="20260705113500 +0000" stop="20260705150000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Wimbledon 2026</title>
+    <desc lang="en">Laura Robson presents coverage of day seven of the third Grand Slam tournament of the year, held at the All England Club, featuring men&apos;s and ladies&apos; fourth-round singles matches. British hopeful Sonay Kartal&apos;s run came to an end at this stage last year on Centre Court when she was beaten 7-6, 6-4 by Anastasia Pavlyuchenkova, but she had every reason to be proud of her performances at SW19 over the week, having never previously gone beyond the second round of a Grand Slam event</desc>
+  </programme>
+<programme start="20260705150000 +0000" stop="20260705151000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260705151000 +0000" stop="20260705151500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Weather</title>
+    <desc lang="en">The latest forecast</desc>
+  </programme>
+<programme start="20260705151500 +0000" stop="20260705164000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Wimbledon 2026</title>
+    <desc lang="en">Clare Balding presents further coverage of day seven of the Grand Slam tournament from the All England Club, featuring men&apos;s and ladies&apos; fourth-round singles matches. Home favourite Cameron Norrie eventually came through an attritional contest with Chilean qualifier Nicolás Jarry at this stage last year, prevailing 6-3, 7-6, 6-7, 6-7, 6-3. He was eventually followed onto the No. 1 Court by Amanda Anisimova of America and Czechia&apos;s Linda Nosková, with eventual runner-up Anisimova winning 6-2, 5-7, 6-4</desc>
+  </programme>
+<programme start="20260705164000 +0000" stop="20260705165500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260705165500 +0000" stop="20260705170000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Weather</title>
+    <desc lang="en">The latest forecast</desc>
+  </programme>
+<programme start="20260705170000 +0000" stop="20260705210000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Wimbledon 2026</title>
+    <desc lang="en">Clare Balding presents continued coverage of day seven of the Grand Slam event from the All England Club, featuring fourth-round matches in the men&apos;s and ladies&apos; singles competitions. This day was traditionally a rest day at SW19, but that was changed in 2022, with one of the main reasons being that advances in grass technology and maintenance meaning the courts no longer required a day of recovery mid-tournament. The crowd were treated to a strong performance by Carlos Alcaraz against a competitive opponent on the seventh day last year, with the 2023 and 2024 champion defeating Andrey Rublev 6-7, 6-3, 6-4, 6-4. However, the Spaniard will not be present this year due to a wrist injury, leaving the likes of Rublev with possibly their best chance yet of winning a Grand Slam</desc>
+  </programme>
+<programme start="20260705210000 +0000" stop="20260705212500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at Ten</title>
+    <desc lang="en">A round-up of today&apos;s headlines</desc>
+  </programme>
+<programme start="20260705212500 +0000" stop="20260705213000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260705213000 +0000" stop="20260705221500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">The Weakest Link</title>
+    <desc lang="en">Romesh Ranganathan is joined by contestants JB Gill, Kaye Adams, Helen Flanagan, Davood Ghadami, Adam Pearson, Ivo Graham, Toyah Willcox and Jen Brister. They must initially work together to bank as much money as possible for charity, before voting off round by round</desc>
+  </programme>
+<programme start="20260705221500 +0000" stop="20260705230000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Pointless Celebrities</title>
+    <desc lang="en">Alexander Armstrong and Richard Osman present as famous faces take part in the general knowledge quiz in which they try to come up with the least likely correct answers to a series of questions posed to members of the public</desc>
+  </programme>
+<programme start="20260705230000 +0000" stop="20260706023000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">MOTD Live: FIFA World Cup 2026</title>
+    <desc lang="en">Mexico v England (Kick-off 1.00am). Coverage of the fourth round-of-16 match, which takes place at Mexico City Stadium. The co-hosts beat Ecuador 2-0 in the last round, thanks to first-half goals from Julian Quinones and Raul Jimenez, and have to concede in the tournament so far. Facing the Mexicans at this venue is a particularly tough test, as they have such an excellent record here over the years, and England undoubtedly need to improve if they are to progress to the quarter-finals, having scraped past DR Congo 2-1 in the previous round thanks to two goals by Harry Kane</desc>
+  </programme>
+<programme start="20260706023000 +0000" stop="20260706023500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Weather for the Week Ahead</title>
+    <desc lang="en">A look ahead to the latest forecast</desc>
+  </programme>
+<programme start="20260706023500 +0000" stop="20260706050000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260706050000 +0000" stop="20260706083000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">A round-up of national and international news, plus current affairs, arts and entertainment, and weather</desc>
+  </programme>
+<programme start="20260706083000 +0000" stop="20260706094500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Morning Live</title>
+    <desc lang="en">Helen Skelton and Rav Wilding present the weekday magazine show featuring a mixture of topical discussion and expert advice for viewers</desc>
+  </programme>
+<programme start="20260706094500 +0000" stop="20260706101500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Expert Witness</title>
+    <desc lang="en">The stories of major crimes that were solved with the help of forensic evidence provided by expert witnesses. A ballistics expert proves the shooting of a young woman was murder not manslaughter, and a forensic scientist secures justice for a cold case victim, 20 years after the crime</desc>
+  </programme>
+<programme start="20260706101500 +0000" stop="20260706111500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Homes Under the Hammer</title>
+    <desc lang="en">Jacqui Joseph cannot get outside because of overgrown gardens in Kent and Norfolk. Dion Dublin is in Liverpool, where a massive project offers equally massive potential</desc>
+  </programme>
+<programme start="20260706111500 +0000" stop="20260706120000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Bargain Hunt</title>
+    <desc lang="en">Christina Trevanion goes on the trail of scientific treasures near Swindon, while Ben Cooper and Gary Pe help the teams at an antiques fair in Devon</desc>
+  </programme>
+<programme start="20260706120000 +0000" stop="20260706123500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at One; Weather</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260706123500 +0000" stop="20260706124500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260706124500 +0000" stop="20260706130000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at One; Weather</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260706130000 +0000" stop="20260706170000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Wimbledon 2026</title>
+    <desc lang="en">Laura Robson presents coverage of day eight of the third Grand Slam tournament of the year, held at the All England Club, featuring men&apos;s and ladies&apos; fourth-round singles matches. Novak Djokovic was first up on Centre Court on the eighth day last year and he lost the first set heavily to Alex de Minaur, but recovered to claim a 1-6, 6-4, 6-4, 6-4 victory. It was the 16th time he had reached the quarter-finals here, a record only bettered by Roger Federer with 18</desc>
+  </programme>
+<programme start="20260706170000 +0000" stop="20260706173000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260706173000 +0000" stop="20260706180000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260706180000 +0000" stop="20260706183000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">EastEnders</title>
+    <desc lang="en">Honey attempts to clear Billy&apos;s name, and Kim continues to avoid Denise out of guilt</desc>
+  </programme>
+<programme start="20260706183000 +0000" stop="20260706213000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">MOTD Live: FIFA World Cup 2026</title>
+    <desc lang="en">Portugal v Spain (Kick-off 8.00pm). Coverage of the fifth round-of-16 match, which takes place at Dallas Stadium in the USA. Portugal finished second in their group, below Colombia and above DR Congo and Uzbekistan with two draws and a win before coming back from behind in their round-of-32 match with Croatia to prevail 2-1. Spain got off to a disappointing start with a goalless draw against Cape Verde, but they are still yet to concede in this tournament, having followed that result up with wins against Saudi Arabia and Uruguay in the group stage, before comfortably defeating Austria 3-0 in the next round. However, this is likely to be their toughest test so far, and the last meeting between the Iberian rivals saw Portugal win on penalties after a 2-2 draw in the final of the 2024/25 UEFA Nations League in Germany</desc>
+  </programme>
+<programme start="20260706213000 +0000" stop="20260706220000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at Ten</title>
+    <desc lang="en">A round-up of today&apos;s headlines</desc>
+  </programme>
+<programme start="20260706220000 +0000" stop="20260706221000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260706221000 +0000" stop="20260706224000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">How Are You? It&apos;s Alan (Partridge)</title>
+    <desc lang="en">Alone in the Peaks with only a stick-cam, the radio presenter-turned-documentary-maker contemplates whether nature can heal a troubled mind, unlocking a heroic side some people doubted he ever had. Steve Coogan stars</desc>
+  </programme>
+<programme start="20260706224000 +0000" stop="20260706231500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Blankety Blank</title>
+    <desc lang="en">Bradley Walsh hosts a revival of the comedy quiz show, in which a panel of six celebrities fill in the blanks to help contestants win some brilliant prizes. With John Thomson, Karim Zeroual, Sue Perkins, Joel Dommett, Gloria Hunniford, and Judi Love</desc>
+  </programme>
+<programme start="20260706231500 +0000" stop="20260706234500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Would I Lie to You?</title>
+    <desc lang="en">Chizzy Akudolu, Simon Gregson, Michelle Visage and Henning Wehn join host Rob Brydon and regular captains David Mitchell and Lee Mack on the comedy panel show. As usual, the participants set out to hoodwink their opponents with absurd facts and plausible fibs about themselves in a bid to secure a team victory, through rounds such as Home Truths and Quick-fire Lies</desc>
+  </programme>
+<programme start="20260706234500 +0000" stop="20260707021500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">MOTD Live: FIFA World Cup 2026</title>
+    <desc lang="en">USA v Belgium (Kick-off 1.00am). Coverage of the sixth round-of-16 match, which takes place at Seattle Stadium in the USA. The USA have made the most of home advantage and have made serene progress through to this stage, including a 2-0 win against Bosnia and Herzegovina in the last round. They will fancy their chances against a Belgian side who have looked a shadow of their former selves, but who pulled off a remarkable win against Senegal in the last 32, having been 2-0 down heading into the final minutes</desc>
+  </programme>
+<programme start="20260707021500 +0000" stop="20260707022000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Weather for the Week Ahead</title>
+    <desc lang="en">A look ahead to the latest forecast</desc>
+  </programme>
+<programme start="20260707022000 +0000" stop="20260707050000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260707050000 +0000" stop="20260707083000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">A round-up of national and international news, plus current affairs, arts and entertainment, and weather</desc>
+  </programme>
+<programme start="20260707083000 +0000" stop="20260707094500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Morning Live</title>
+    <desc lang="en">Helen Skelton and Rav Wilding present the weekday magazine show featuring a mixture of topical discussion and expert advice for viewers</desc>
+  </programme>
+<programme start="20260707094500 +0000" stop="20260707101500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Expert Witness</title>
+    <desc lang="en">Ashley John-Baptiste presents the case of two police officers murdered after being lured to a house in Manchester by a bogus 999 call. A known gangland criminal admitted to their killing, only to retract his confession - leaving it up to a voice analyst to make a positive link to the 999 call and the suspect&apos;s voice. There&apos;s also the case of a forensic scientist who tried to identify a phone snatcher from a shoe he left behind</desc>
+  </programme>
+<programme start="20260707101500 +0000" stop="20260707111500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Homes Under the Hammer</title>
+    <desc lang="en">Martin Roberts is in a box, quite literally, as it&apos;s the name of the Wiltshire village he&apos;s visiting. Jacqui Joseph is by the sea in East Sussex, and Dion Dublin is loving the views in Greater Manchester</desc>
+  </programme>
+<programme start="20260707111500 +0000" stop="20260707120000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Bargain Hunt</title>
+    <desc lang="en">Danny Sebastian presents from Naseby Antiques Fair, Northamptonshire, where experts Kate Bliss and David Harper offer up their expertise to assist two teams as they search for profitable items to take to auction. Danny also visits the longest and steepest set of staircase locks in the UK and learns about an incredible feat of engineering</desc>
+  </programme>
+<programme start="20260707120000 +0000" stop="20260707123500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at One; Weather</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260707123500 +0000" stop="20260707124500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260707124500 +0000" stop="20260707130000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at One; Weather</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260707130000 +0000" stop="20260707170000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Wimbledon 2026</title>
+    <desc lang="en">Isa Guha presents coverage of day nine of the Grand Slam tournament from the All England Club, featuring the men&apos;s and ladies&apos; singles quarter-finals. Taylor Fritz was the first man to secure a place in the semi-finals last year, claiming a 6-3, 6-4, 1-6, 7-6 victory over Karen Khachanov, and the current world number eight will hope to still be in contention for a maiden Grand Slam title this time around</desc>
+  </programme>
+<programme start="20260707170000 +0000" stop="20260707173000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260707173000 +0000" stop="20260707180000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260707180000 +0000" stop="20260707210000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Wimbledon 2026</title>
+    <desc lang="en">Clare Balding presents the concluding coverage on day nine of the Grand Slam tournament from the All England Club, including the men&apos;s and ladies&apos; singles quarter-finals. Home favourite Cameron Norrie&apos;s tournament came to an abrupt end at this stage last year when he was beaten 6-2, 6-3, 6-3 by 2023 and 2024 champion Carlos Alcaraz. It was still Norrie&apos;s second best run in a Grand Slam behind when he was a semi-finalist here in 2022, but he was eliminated in the first round this time around</desc>
+  </programme>
+<programme start="20260707210000 +0000" stop="20260707213000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at Ten</title>
+    <desc lang="en">A round-up of today&apos;s headlines</desc>
+  </programme>
+<programme start="20260707213000 +0000" stop="20260707214000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260707214000 +0000" stop="20260707231500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Anyone But You</title>
+    <desc lang="en">Bea and Ben enjoy an incredible first date, but attraction quickly burns out and they are delighted to be apart. However, fate compels the duo to reconsider, and they seize the opportunity to attend a lavish wedding in Australia, as a couple. The pair pretend to be deliriously in love during the once-in-a-lifetime trip and keep up appearances in front of other guests. Director Will Gluck&apos;s romantic comedy based on Shakespeare&apos;s Much Ado About Nothing, starring Sydney Sweeney and Glen Powell</desc>
+  </programme>
+<programme start="20260707231500 +0000" stop="20260707232000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Weather for the Week Ahead</title>
+    <desc lang="en">A look ahead to the latest forecast</desc>
+  </programme>
+<programme start="20260707232000 +0000" stop="20260708050000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260708050000 +0000" stop="20260708083000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">A round-up of national and international news, plus current affairs, arts and entertainment, and weather</desc>
+  </programme>
+<programme start="20260708083000 +0000" stop="20260708094500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Morning Live</title>
+    <desc lang="en">Helen Skelton and Greg Rutherford present the weekday magazine show featuring a mixture of topical discussion and expert advice for viewers</desc>
+  </programme>
+<programme start="20260708094500 +0000" stop="20260708101500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Expert Witness</title>
+    <desc lang="en">A look at the deaths of married couple Carol and Stephen Baxter, who were found slumped in chairs in their Essex conservatory, and how a forensic toxicologist proved they were murdered, Also, exploring how a footprint expert linked a killer to two different murder scenes</desc>
+  </programme>
+<programme start="20260708101500 +0000" stop="20260708120000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Wimbledon 2026</title>
+    <desc lang="en">Isa Guha presents early coverage of day 10 of the Grand Slam tournament from the All England Club, featuring action from the outside courts. Plus, a look ahead to the remaining quarter-finals</desc>
+  </programme>
+<programme start="20260708120000 +0000" stop="20260708123500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at One; Weather</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260708123500 +0000" stop="20260708124500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260708124500 +0000" stop="20260708130000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at One; Weather</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260708130000 +0000" stop="20260708170000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Wimbledon 2026</title>
+    <desc lang="en">Further coverage of day 10 of the Grand Slam tournament from the All England Club, as the quarter-finals continue in the men&apos;s and ladies&apos; singles competitions. Belinda Bencic reached the second Grand Slam semi-final of her career, following on from the 2019 US Open, at this stage last year on Centre Court when she won two tie-breakers to overcome this year&apos;s French Open champion Mirra Andreeva in straight sets</desc>
+  </programme>
+<programme start="20260708170000 +0000" stop="20260708173000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at Six; Weather</title>
+    <desc lang="en">The latest headlines</desc>
+  </programme>
+<programme start="20260708173000 +0000" stop="20260708180000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260708180000 +0000" stop="20260708200000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Wimbledon 2026</title>
+    <desc lang="en">Further coverage of day 10 of the Grand Slam tournament from the All England Club, where the singles quarter-finals are scheduled to conclude. Novak Djokovic reached his 14th Wimbledon semi-final last year when he claimed a 6-7, 6-2, 7-5, 6-4 over Flavio Cobolli. However, Cobolli reached the final of the recent French Open, while Djokovic was surprisingly eliminated in the third round, so it remained to be seen who would progress further this time around</desc>
+  </programme>
+<programme start="20260708200000 +0000" stop="20260708210000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Death in Paradise</title>
+    <desc lang="en">When a young pop star is found dead at a rehab clinic, it initially looks like a tragic accident. However, Neville is convinced there&apos;s more to her death than meets the eye. The Commisioner joins them after Darlene calls him to help prove her innocence. Caribbean detective drama, starring Ralf Little, Don Warrington and Shantol Jackson</desc>
+  </programme>
+<programme start="20260708210000 +0000" stop="20260708213000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at Ten</title>
+    <desc lang="en">A round-up of today&apos;s headlines</desc>
+  </programme>
+<programme start="20260708213000 +0000" stop="20260708214000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260708214000 +0000" stop="20260708232500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">War of the Worlds</title>
+    <desc lang="en">A divorced father&apos;s rare weekend with his two estranged children descends into horror when alien war machines rise from beneath Earth and begin to systematically destroy every human being in their path - leaving the man with the dangerous task of getting his kids to safety. Steven Spielberg&apos;s sci-fi thriller, based on HG Wells&apos; novel, with Tom Cruise, Dakota Fanning, Justin Chatwin, Miranda Otto and Tim Robbins</desc>
+  </programme>
+<programme start="20260708232500 +0000" stop="20260708233000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Weather for the Week Ahead</title>
+    <desc lang="en">A look ahead to the latest forecast</desc>
+  </programme>
+<programme start="20260708233000 +0000" stop="20260709050000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260709050000 +0000" stop="20260709083000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">A round-up of national and international news, plus current affairs, arts and entertainment, and weather</desc>
+  </programme>
+<programme start="20260709083000 +0000" stop="20260709094500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Morning Live</title>
+    <desc lang="en">Michelle Ackerley and Gethin Jones present the weekday magazine show featuring a mixture of topical discussion and expert advice for viewers</desc>
+  </programme>
+<programme start="20260709094500 +0000" stop="20260709101500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Expert Witness</title>
+    <desc lang="en">A pathologist and forensic scientist work together to convict the twisted killer of Elaine Collie, who was found tortured and killed in her flat in Muirhouse, Scotland in 1999. Home Office pathologist Stuart Hamilton links two suspects to the double homicide of reclusive couple Patricia and William Wycherley</desc>
+  </programme>
+<programme start="20260709101500 +0000" stop="20260709111500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Homes Under the Hammer</title>
+    <desc lang="en">The new owners of properties in Plymouth, Rochdale and Bradford attempt to make the best use of the space available to them as they make major layout changes</desc>
+  </programme>
+<programme start="20260709111500 +0000" stop="20260709120000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Bargain Hunt</title>
+    <desc lang="en">In Southwell, Nottinghamshire, experts Mark Stacey and Stephanie Connell guide their teams and pick three items to take to auction in Derbyshire. Presenter Charlie Ross observes the contest and also takes a mystery item to market</desc>
+  </programme>
+<programme start="20260709120000 +0000" stop="20260709123500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at One; Weather</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260709123500 +0000" stop="20260709124500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260709124500 +0000" stop="20260709130000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at One; Weather</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260709130000 +0000" stop="20260709170000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Wimbledon 2026</title>
+    <desc lang="en">Clare Balding presents coverage of day 11 of the Grand Slam tournament from the All England Club, featuring the ladies&apos; singles semi-finals. Centre Court was treated to a back-and-forth opening last-four match in 2025, with Amanda Anisimova reaching her maiden Grand Slam final by defeating top seed Aryna Sabalenka 6-4, 4-6, 6-4. The second semi-final was considerably more one-sided, with Iga Swiatek sweeping Belinda Bencic aside 6-2, 6-0 to reach her first final here, having previously won the French Open four times and the US Open once</desc>
+  </programme>
+<programme start="20260703050000 +0000" stop="20260703051500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">MOTD Live: FIFA World Cup 2026</title>
+    <desc lang="en">Switzerland v Algeria (Kick-off 4.00am). Coverage of the round-of-32 match at BC Place Vancouver in Canada. Switzerland finished top of Group B after they beat co-hosts Canada 2-1 in their final group game thanks to second-half goals from Ruben Vargas and Johan Manzambi. That victory left them on seven points while Canada had to settle for second place on four points, and they face an Algerian side who booked their place with a dramatic 3-3 draw against Austria in their final group match</desc>
+  </programme>
+<programme start="20260703051500 +0000" stop="20260703083000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">A round-up of national and international news, plus current affairs, arts and entertainment, and weather</desc>
+  </programme>
+<programme start="20260703083000 +0000" stop="20260703094500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Morning Live</title>
+    <desc lang="en">Greg Rutherford and Michelle Ackerley present the weekday magazine show featuring a mixture of topical discussion and expert advice for viewers</desc>
+  </programme>
+<programme start="20260703094500 +0000" stop="20260703101500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Fraud Squad</title>
+    <desc lang="en">A business owner dodges £2.5million in tax to fund his luxury lifestyle and Trading Standards raid a shop selling illegal tobacco five separate times, finding around £170,000 worth of goods. An Environment Agency investigate reports of illegal waste being dumped in an industrial estate only to find asbestos when they arrive on site</desc>
+  </programme>
+<programme start="20260703101500 +0000" stop="20260703111500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Homes Under the Hammer</title>
+    <desc lang="en">Dion Dublin meets a football fan in Liverpool, keen to tailor his new property for visitors to Anfield. Martel Maxwell finds a property with a leaking roof in South Shields and Jacqui Joseph rides high in a tower block in Essex</desc>
+  </programme>
+<programme start="20260703111500 +0000" stop="20260703120000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Bargain Hunt</title>
+    <desc lang="en">Gary Pe and Ben Cooper help two teams search an antiques fair in Exeter for valuable items to sell at auction. Father and daughter David and Ellie&apos;s eyes are caught by a pair of etched, cut-glass decanters while partners Darren and Simon have their eyes on a stall of shiny costume jewellery. Christina Trevanion keeps fairgoers guessing with a mystery object</desc>
+  </programme>
+<programme start="20260703120000 +0000" stop="20260703123500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at One; Weather</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260703123500 +0000" stop="20260703124500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260703124500 +0000" stop="20260703130000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at One; Weather</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260703130000 +0000" stop="20260703163000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Wimbledon 2026</title>
+    <desc lang="en">Coverage of day five of the third Grand Slam tournament of the year, held at the All England Club, featuring men&apos;s and ladies&apos; third-round singles matches. Taylor Fritz and Alejandro Davidovich Fokina were first up on Centre Court on the fifth day last year, and it was fifth seed Fritz who took the honours in a 6-4, 6-3, 6-7, 6-1 victory. Carlos Alcaraz followed them, and the 2023 and 2024 champion triumphed 6-1, 3-6, 6-3, 6-4 against Jan-Lennard Struff. Alcaraz went on to reach another final here, but he is not present this year due to a wrist injury</desc>
+  </programme>
+<programme start="20260703163000 +0000" stop="20260703170000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260703170000 +0000" stop="20260703173000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260703173000 +0000" stop="20260703210000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">MOTD Live: FIFA World Cup 2026</title>
+    <desc lang="en">Australia v Egypt (Kick-off 7.00pm). Coverage of the round-of-32 match at Dallas Stadium in the USA. Australia finished second in Group D behind United States after they picked up four points from their three matches. They did lose 2-0 to the co-hosts but a 2-0 victory over Turkiye and a 0-0 draw against Paraguay meant they progressed to the knockout stages for the second successive World Cup. Egypt came through their group undefeated, beating New Zealand and drawing with Belgium and Iran, with the winners expected to face Argentina in the last 16</desc>
+  </programme>
+<programme start="20260703210000 +0000" stop="20260703213000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News at Ten</title>
+    <desc lang="en">A round-up of today&apos;s headlines</desc>
+  </programme>
+<programme start="20260703213000 +0000" stop="20260703214000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC London News; Weather</title>
+    <desc lang="en">The latest updates from the region</desc>
+  </programme>
+<programme start="20260703214000 +0000" stop="20260703232500 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Marry Me</title>
+    <desc lang="en">Music superstars Kat and Bastian are preparing to get married before a global audience of fans. But when Kat learns, seconds before her vows, that Bastian has been unfaithful, she instead decides to marry Charlie, a stranger in the crowd. Romantic comedy, starring Jennifer Lopez, Owen Wilson and Maluma</desc>
+  </programme>
+<programme start="20260703232500 +0000" stop="20260703233000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">Weather for the Week Ahead</title>
+    <desc lang="en">A look ahead to the latest forecast</desc>
+  </programme>
+<programme start="20260703233000 +0000" stop="20260704040000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+<programme start="20260704040000 +0000" stop="20260704050000 +0000" channel="tvguidecouk.BBCOneLondon">
+    <title lang="en">BBC News</title>
+    <desc lang="en">A round-up of the latest headlines</desc>
+  </programme>
+
+
+
+<!-- Programme2 -->
+
+<!-- Programme3 -->
+
+<!-- Programme4 -->
+
+<!-- Programme5 -->
+
+<!-- Programme6 -->
+<!-- Programme7 -->
+
+<!-- Programme8 -->
+<!-- Programme9 -->
+<!-- Programme10 -->
+<!-- Programme11 -->
+<!-- Programme12 -->
+<!-- Programme13 -->
+<!-- Programme14 -->
+<!-- Programme15 -->
+<!-- Programme16 -->
+<!-- Programme17 -->
+<!-- Programme18 -->
+<!-- Programme19 -->
+<!-- Programme20 -->
+<!-- Programme21 -->
+<!-- Programme22 -->
+<!-- Programme23 -->
+<!-- Programme24 -->
+<!-- Programme25 -->
+<!-- Programme26 -->
+<!-- Programme27 -->
+<!-- Programme28 -->
+<!-- Programme29 -->
+<!-- Programme30 -->
+<!-- Programme31 -->
+<!-- Programme32 -->
+<!-- Programme33 -->
+<!-- Programme34 -->
+<!-- Programme35 -->
+
+<!-- Programme36 -->
+<!-- Programme37 -->
+<!-- Programme38 -->
+<!-- Programme39 -->
+<!-- Programme40 -->
+<!-- Programme41 -->
+<!-- Programme42 -->
+<!-- Programme43 -->
+<!-- Programme44 -->
+<!-- Programme45 -->
+<!-- Programme46 -->
+
+
+</tv>
