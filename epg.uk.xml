@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260705090019 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="UK-EPG-Merger">
+<tv date="20260706135428 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="UK-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -552,47 +552,6 @@
     <title lang="en">Tipping Point</title>
     <desc lang="en">Ben Shephard hosts the quiz in which contestants answer questions to win turns on an arcade-style machine. Dropping tokens down a choice of four chutes, they hope to knock piles of them off a moving shelf - and the more they collect, the greater the prize fund. The player who has won the least amount is then eliminated, and the last one standing competes for a £10,000 jackpot</desc>
   </programme>
-<programme start="20260710160000 +0000" stop="20260710170000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">The Chase</title>
-    <desc lang="en">Bradley Walsh presents as Charlotte from Didsbury, Nilpa from London, Mike from Nottingham and Ethan from Hertfordshire pit their wits against one of the ruthless Chasers in the hope of winning a potential prize pot worth thousands of pounds</desc>
-  </programme>
-<programme start="20260710170000 +0000" stop="20260710173000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">ITV News Channel TV; Weather</title>
-  </programme>
-<programme start="20260710173000 +0000" stop="20260710181500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">ITV Evening News; Weather</title>
-    <desc lang="en">A round-up of the day&apos;s news headlines and talking points from the UK and around the world</desc>
-  </programme>
-<programme start="20260710181500 +0000" stop="20260710213500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">FIFA World Cup 2026</title>
-    <desc lang="en">$4a</desc>
-  </programme>
-<programme start="20260710213500 +0000" stop="20260710220500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">ITV News at Ten; Weather</title>
-    <desc lang="en">A fresh perspective on the major stories of the day, featuring national and international news, with reports and analysis from ITV&apos;s correspondents</desc>
-  </programme>
-<programme start="20260710220500 +0000" stop="20260710222500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">ITV News Channel TV; Weather</title>
-  </programme>
-<programme start="20260710222500 +0000" stop="20260710232500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">WhatsApp Obsession: The Murder of Stephanie Hansen</title>
-    <desc lang="en">On December 30, 2022, 39-year-old Stephanie Hansen was stabbed to death in her London home. Her housemate Sheldon Rodrigues initially appeared grief-stricken - but as this documentary reveals, behind his facade lay a chilling obsession. In the months before Stephanie&apos;s death, Rodrigues planted secret cameras and recording devices in their home and bombarded her with coercive WhatsApp messages. And when Stephanie began a new relationship, his jealousy and obsession turned deadly</desc>
-  </programme>
-<programme start="20260710232500 +0000" stop="20260711020000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">Shop on TV</title>
-  </programme>
-<programme start="20260711020000 +0000" stop="20260711034500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">All Elite Wrestling: Dynamite</title>
-    <desc lang="en">Hard-hitting action from the world of All Elite Wrestling - the roster features world-class talent including Jon Moxley and Claudio Castagnoli, and many more who bring a freshness and energy into professional wrestling</desc>
-  </programme>
-<programme start="20260711034500 +0000" stop="20260711050000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">Unwind with ITV</title>
-    <desc lang="en">Daily escape designed to calm the mind and encourage relaxation and reflection</desc>
-  </programme>
-<programme start="20260711050000 +0000" stop="20260711071000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">Nations Championship</title>
-    <desc lang="en">New Zealand v Italy (Kick-off 6.10am). Coverage of both teams&apos; second round-robin match in the rugby union competition, held at Hnry Stadium in Wellington. With commentary by Nick Heath and Nolli Waterman</desc>
-  </programme>
 <programme start="20260704050000 +0000" stop="20260704090000 +0000" channel="tvguidecouk.BBCOneLondon">
     <title lang="en">Breakfast</title>
     <desc lang="en">A round-up of national and international news, plus sports reports, weather forecasts and arts and entertainment features</desc>
@@ -1076,53 +1035,6 @@
 <programme start="20260710130000 +0000" stop="20260710170000 +0000" channel="tvguidecouk.BBCOneLondon">
     <title lang="en">Wimbledon 2026</title>
     <desc lang="en">Clare Balding presents coverage of day 12 of the Grand Slam tournament from the All England Club, featuring the men&apos;s singles semi-finals. Carlos Alcaraz reached his third successive Wimbledon final last year with a hard-fought 6-4, 5-7, 6-3, 7-6 victory over fifth seed Taylor Fritz. Jannik Sinner then produced a dominant display to overcome Novak Djokovic 6-3, 6-3, 6-4. The results could have been seen as something of a changing of the guard, with top seed Sinner reaching the final here for the first time, while denying Djokovic an 11th appearance in the showpiece match</desc>
-  </programme>
-<programme start="20260710170000 +0000" stop="20260710173000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">BBC News</title>
-    <desc lang="en">A round-up of the latest headlines</desc>
-  </programme>
-<programme start="20260710173000 +0000" stop="20260710180000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">BBC London News; Weather</title>
-    <desc lang="en">The latest updates from the region</desc>
-  </programme>
-<programme start="20260710180000 +0000" stop="20260710183000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">Our Lives: Ashington AFC: Saving Our Club</title>
-    <desc lang="en">A look at how a tight-knit group of volunteers are aiming to keep the Northumberland-based semi-professional football club afloat. Formed back in 1883 in a town that once became known as the largest coal mining village in the world and produced World Cup-winning brothers Jack and Bobby Charlton, the club are facing financial strain despite reaching their highest position in the Northern Premier League East for 55 years</desc>
-  </programme>
-<programme start="20260710183000 +0000" stop="20260710213000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">MOTD Live: FIFA World Cup 2026</title>
-    <desc lang="en">$56</desc>
-  </programme>
-<programme start="20260710213000 +0000" stop="20260710220000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">BBC News; Weather</title>
-  </programme>
-<programme start="20260710220000 +0000" stop="20260710221000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">BBC London News; Weather</title>
-    <desc lang="en">The latest updates from the region</desc>
-  </programme>
-<programme start="20260710221000 +0000" stop="20260710224000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">Austin</title>
-    <desc lang="en">Comedy about a children&apos;s author who suddenly discovers he has an adult son from a fling decades earlier. The DNA test results claim Julian isn&apos;t Austin&apos;s dad after all. While grappling with this news, the gang visits the DNA match in Northampton. Starring Ben Miller, Sally Phillips and Michael Theo</desc>
-  </programme>
-<programme start="20260710224000 +0000" stop="20260710231000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">Austin</title>
-    <desc lang="en">The publisher asks Austin to go in search of his British roots to make his book more identifiable, while Julian and Ingrid pitch their Big Bear TV show - and Julian soon realises the industry still sees him as radioactive. Comedy, starring Ben Miller, Sally Phillips and Michael Theo</desc>
-  </programme>
-<programme start="20260710231000 +0000" stop="20260711004500 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">Harry Brown</title>
-    <desc lang="en">An elderly retired marine leads a law-abiding existence on a south London estate, until his best friend is murdered by a local gang. Furious at the police&apos;s inability to bring the killers to justice, he takes the law into his own hands to get revenge. Crime thriller, starring Michael Caine, Emily Mortimer, Charlie Creed-Miles, Ben Drew, Iain Glen and Sean Harris</desc>
-  </programme>
-<programme start="20260711004500 +0000" stop="20260711005000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">Weather for the Week Ahead</title>
-    <desc lang="en">A look ahead to the latest forecast</desc>
-  </programme>
-<programme start="20260711005000 +0000" stop="20260711050000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">BBC News</title>
-    <desc lang="en">A round-up of the latest headlines</desc>
-  </programme>
-<programme start="20260711050000 +0000" stop="20260711090000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">A round-up of national and international news, plus sports reports, weather forecasts and arts and entertainment features</desc>
   </programme>
 
 
