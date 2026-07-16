@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260716170714 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
+<tv date="20260716192506 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -24834,6 +24834,11 @@
     <title>이슈 픽 쌤과 함께 스페셜</title>
     <category>교양/정보 / 강좌</category>
   </programme>
+<programme start="20260722150000 +0000" stop="20260722161000 +0000" channel="skylife.kbs1">
+    <title>KBS 중계석</title>
+    <desc>문화예술 공연실황과 함께 연주자들과 해설자의 인터뷰를 함께 방송한다.</desc>
+    <category>교양/정보 / 일반</category>
+  </programme>
 <programme start="20260721154500 +0000" stop="20260721160500 +0000" channel="skylife.mbc">
     <title>MBC 뉴스 25</title>
     <category>뉴스 / 뉴스</category>
@@ -25040,6 +25045,11 @@
     <desc>반려견의 문제 행동 이면에 있는 보호자의 원인까지 함께 들여다보는 리얼리티 예능 프로그램</desc>
     <category>연예/오락 / 일반</category>
   </programme>
+<programme start="20260722150000 +0000" stop="20260722161000 +0000" channel="skylife.채널a">
+    <title>강철지구</title>
+    <desc>“지구야 덤벼라quot; 대한민국 최고의 강철부대원들이 펼치는 대자연과의 한 판 승부- 강철 여행자들의 ‘생존여행기’</desc>
+    <category>교양/정보 / 일반</category>
+  </programme>
 <programme start="20260721154000 +0000" stop="20260721164000 +0000" channel="skylife.mbn">
     <title>건강히어로</title>
     <desc>수많은 건강정보 속, 정확한 근거를 바탕으로 &apos;진실&apos;을 가려내는 프로그램</desc>
@@ -25146,6 +25156,11 @@
 <programme start="20260722142000 +0000" stop="20260722150000 +0000" channel="skylife.mbn">
     <title>전설의 사내 3부</title>
     <desc>&apos;무명전설&apos; TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category>연예/오락 / 일반</category>
+  </programme>
+<programme start="20260722150000 +0000" stop="20260722154000 +0000" channel="skylife.mbn">
+    <title>남의 집 귀한 가족</title>
+    <desc>남의 집 이야기 같지만, 알고 보면 우리 모두의 이야기. 웃기고, 짠하고, 숨 막히게 현실적인 &apos;가족&apos;의 진짜 의미를 찾아가는 가족 관찰 리얼리티 프로그램</desc>
     <category>연예/오락 / 일반</category>
   </programme>
 <programme start="20260721154500 +0000" stop="20260721161500 +0000" channel="skylife.tv조선">
@@ -26519,6 +26534,10 @@
     <title>주식, 알아야번다 2부</title>
     <category>교양/정보 / 일반</category>
   </programme>
+<programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="skylife.한국경제tv">
+    <title>판도라 (판을 읽는 도파민 라이브)</title>
+    <category>교양/정보 / 일반</category>
+  </programme>
 <programme start="20260721162000 +0000" stop="20260721182000 +0000" channel="skylife.매일경제tv">
     <title>친절한 종목상담 4989</title>
     <category>교양/정보 / 증권</category>
@@ -26690,6 +26709,10 @@
     <title>007 노 타임 투 다이</title>
     <desc>가장 강력한 운명의 적과 마주하게된 제임스 본드의 마지막 미션이 시작된다</desc>
     <category>영화 / 액션</category>
+  </programme>
+<programme start="20260722150000 +0000" stop="20260722174000 +0000" channel="skylife.ocn">
+    <title>해바라기</title>
+    <category>영화 / 드라마</category>
   </programme>
 <programme start="20260721172000 +0000" stop="20260721191000 +0000" channel="skylife.ocn.movies">
     <title>더 플랫폼</title>
@@ -26946,6 +26969,10 @@
     <title>순정시대</title>
     <category>시사/다큐 / 일반</category>
   </programme>
+<programme start="20260722150000 +0000" stop="20260722153000 +0000" channel="skylife.ytn2">
+    <title>메디컬 인사이트</title>
+    <category>교양/정보 / 의료건강</category>
+  </programme>
 <programme start="20260721160000 +0000" stop="20260721170000 +0000" channel="skylife.히스토리">
     <title>세상의 모든 미스터리</title>
     <category>시사/다큐 / 일반</category>
@@ -27035,6 +27062,10 @@
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260722140000 +0000" stop="20260722150000 +0000" channel="skylife.히스토리">
+    <title>위대한 미스터리</title>
+    <category>시사/다큐 / 일반</category>
+  </programme>
+<programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="skylife.히스토리">
     <title>위대한 미스터리</title>
     <category>시사/다큐 / 일반</category>
   </programme>
@@ -27197,6 +27228,10 @@
     <title>다큐S 프라임</title>
     <category>시사/다큐 / 일반</category>
   </programme>
+<programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="skylife.ytn사이언스">
+    <title>게임체인저, 총의 세계</title>
+    <category>시사/다큐 / 일반</category>
+  </programme>
 <programme start="20260721160000 +0000" stop="20260721170000 +0000" channel="skylife.국회방송">
     <title>고대공학의 비밀 시즌1</title>
     <category>교양/정보 / 일반</category>
@@ -27292,6 +27327,10 @@
   </programme>
 <programme start="20260722140000 +0000" stop="20260722150000 +0000" channel="skylife.국회방송">
     <title>세계의 극한환경</title>
+    <category>교양/정보 / 일반</category>
+  </programme>
+<programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="skylife.국회방송">
+    <title>지구촌 기상재난</title>
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260721153000 +0000" stop="20260721160000 +0000" channel="skylife.애니플러스">
@@ -27589,6 +27628,10 @@
     <title>귀멸의 칼날: 합동 강화 훈련 편(더빙)</title>
     <category>만화 / 모험(adventure)</category>
   </programme>
+<programme start="20260722150000 +0000" stop="20260722153000 +0000" channel="skylife.애니맥스">
+    <title>유녀전기 2</title>
+    <category>만화 / 액션/무협</category>
+  </programme>
 <programme start="20260721153000 +0000" stop="20260721160000 +0000" channel="skylife.애니박스">
     <title>[자막] 천막의 자두가르</title>
     <category>만화 / 역사</category>
@@ -27857,6 +27900,10 @@
     <title>[자막] 얼굴에 드러나지 않는 카시와다 양과 얼굴에 드러나는 오오타 군</title>
     <category>만화 / 순정</category>
   </programme>
+<programme start="20260722150000 +0000" stop="20260722153000 +0000" channel="skylife.애니박스">
+    <title>[자막] 소녀 괴수 캐러멜리제</title>
+    <category>만화 / 순정</category>
+  </programme>
 <programme start="20260721160000 +0000" stop="20260721170000 +0000" channel="skylife.투니버스">
     <title>명탐정 코난 14</title>
     <category>만화 / 탐정</category>
@@ -27952,6 +27999,10 @@
 <programme start="20260722140000 +0000" stop="20260722150000 +0000" channel="skylife.투니버스">
     <title>카모노하시 론의 금단추리2 (자막)</title>
     <category>만화 / 탐정</category>
+  </programme>
+<programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="skylife.투니버스">
+    <title>짱구는 못말려 25</title>
+    <category>만화 / 코믹</category>
   </programme>
 <programme start="20260721160000 +0000" stop="20260721170000 +0000" channel="skylife.cj.온스타일">
     <title>Replay Best</title>
