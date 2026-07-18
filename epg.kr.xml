@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260717165859 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
+<tv date="20260718070430 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -5374,11 +5374,11 @@
     <desc>You Quiz On The Block.  Step by step~    보통날을 살아가는 당신 앞에 나타난 유재석x조세호.  두 사람이 건넨 한마디.  quot;You Quiz...?quot;    평범한 사람들의 인생 무대인 &apos;길거리&apos;를 &apos;세트&apos;로 빌리고 세상 누구에게나 공평한 &apos;태양&apos;을 &apos;조명&apos; 삼아 여러분을 주인공으로 모시는 유쾌한 서프라이즈!</desc>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260718085000 +0000" stop="20260718103000 +0000" channel="skylife.tvn">
+<programme start="20260718085000 +0000" stop="20260718103500 +0000" channel="skylife.tvn">
     <title>콩콩팜팜</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260718103000 +0000" stop="20260718121000 +0000" channel="skylife.tvn">
+<programme start="20260718103500 +0000" stop="20260718121000 +0000" channel="skylife.tvn">
     <title>놀라운 토요일</title>
     <desc>토요일 저녁! 가족이 모여 함께 즐길 수 있는 예능 프로그램</desc>
     <category>연예/오락 / 일반</category>
@@ -5391,7 +5391,7 @@
     <title>파친코 시즌2</title>
     <category>드라마 / 시대극</category>
   </programme>
-<programme start="20260718145000 +0000" stop="20260718170000 +0000" channel="skylife.tvn">
+<programme start="20260718145000 +0000" stop="20260718170500 +0000" channel="skylife.tvn">
     <title>언더커버 셰프</title>
     <category>연예/오락 / 일반</category>
   </programme>
@@ -8499,31 +8499,23 @@
     <title>2026 FIFA 북중미 월드컵 3위 결정전 진출 팀 하이라이트</title>
     <category>스포츠 / 월드컵</category>
   </programme>
-<programme start="20260718203000 +0000" stop="20260718231000 +0000" channel="skylife.jtbc">
+<programme start="20260718203000 +0000" stop="20260719000000 +0000" channel="skylife.jtbc">
     <title>2026 FIFA 북중미 월드컵</title>
     <category>스포츠 / 월드컵</category>
   </programme>
-<programme start="20260718231000 +0000" stop="20260718233000 +0000" channel="skylife.jtbc">
-    <title>매치하이라이트</title>
-    <category>스포츠 / 월드컵</category>
-  </programme>
-<programme start="20260718233000 +0000" stop="20260719005000 +0000" channel="skylife.jtbc">
+<programme start="20260719000000 +0000" stop="20260719012000 +0000" channel="skylife.jtbc">
     <title>아파트</title>
     <desc>아파트 속 숨겨진 돈을 접수하기 위해 입대의회장 선거에 출마한 오아시스파 전직 보스 박해강이 주민들과 함께 비리를 타파해 가는 이야기</desc>
     <category>드라마 / 미스터리/스릴러</category>
   </programme>
-<programme start="20260719005000 +0000" stop="20260719023000 +0000" channel="skylife.jtbc">
+<programme start="20260719012000 +0000" stop="20260719013000 +0000" channel="skylife.jtbc">
+    <title>JTBC 이 시각 뉴스룸</title>
+    <category>뉴스 / 뉴스</category>
+  </programme>
+<programme start="20260719013000 +0000" stop="20260719025000 +0000" channel="skylife.jtbc">
     <title>톡파원 25시</title>
     <desc>CNN에 특파원이 있다면 우리에게는 톡파원이 있다! 생생한 세계 각국의 현지 영상도 살펴보고 화상앱을 통해 다양한 톡파원들과 깊이 있는 토크도 나눠보는 톡파원 25시!</desc>
     <category>연예/오락 / 토크쇼</category>
-  </programme>
-<programme start="20260719023000 +0000" stop="20260719024500 +0000" channel="skylife.jtbc">
-    <title>매치하이라이트</title>
-    <category>스포츠 / 월드컵</category>
-  </programme>
-<programme start="20260719024500 +0000" stop="20260719025000 +0000" channel="skylife.jtbc">
-    <title>JTBC 이 시각 뉴스룸</title>
-    <category>뉴스 / 뉴스</category>
   </programme>
 <programme start="20260719025000 +0000" stop="20260719041000 +0000" channel="skylife.jtbc">
     <title>아파트</title>
@@ -9273,54 +9265,54 @@
     <title>인생의 연장전 특별판</title>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260718170000 +0000" stop="20260718182000 +0000" channel="skylife.tvn">
+<programme start="20260718170500 +0000" stop="20260718182000 +0000" channel="skylife.tvn">
     <title>내일도 출근!</title>
     <category>드라마 / 로맨틱코메디</category>
   </programme>
-<programme start="20260718182000 +0000" stop="20260718194000 +0000" channel="skylife.tvn">
+<programme start="20260718182000 +0000" stop="20260718193500 +0000" channel="skylife.tvn">
     <title>내일도 출근!</title>
     <category>드라마 / 로맨틱코메디</category>
   </programme>
-<programme start="20260718194000 +0000" stop="20260718211000 +0000" channel="skylife.tvn">
+<programme start="20260718193500 +0000" stop="20260718211000 +0000" channel="skylife.tvn">
     <title>스트릿 레스토랑 파이터 1~4화 몰아보기</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260718211000 +0000" stop="20260718221000 +0000" channel="skylife.tvn">
+<programme start="20260718211000 +0000" stop="20260718221500 +0000" channel="skylife.tvn">
     <title>70억의 선택</title>
     <desc>70억 세계인의 건강 비법을 공유하는 시간 세계인이 보내는 건강 시그널!</desc>
     <category>연예/오락 / 인포테인먼트</category>
   </programme>
-<programme start="20260718221000 +0000" stop="20260718232000 +0000" channel="skylife.tvn">
+<programme start="20260718221500 +0000" stop="20260718232500 +0000" channel="skylife.tvn">
     <title>슈퍼푸드의 힘</title>
     <desc>100세를 넘기는 장수 인류 센테네리언! 지금은 평균 기대수명 100세 시대, 인류의 수명을 끌어올린 생명 연장의 원동력을 찾아서 당신의 몸 속 장수 세포를 깨울 세계 각국 무병장수 건강법! 그 속에 감춰진 놀라운 슈퍼 푸드의 힘을 만나본다.</desc>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260718232000 +0000" stop="20260719003000 +0000" channel="skylife.tvn">
+<programme start="20260718232500 +0000" stop="20260719002500 +0000" channel="skylife.tvn">
     <title>너의 몸소리가 들려</title>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260719003000 +0000" stop="20260719013000 +0000" channel="skylife.tvn">
+<programme start="20260719002500 +0000" stop="20260719012500 +0000" channel="skylife.tvn">
     <title>시간관찰자, 더 시크릿</title>
     <category>연예/오락 / 인포테인먼트</category>
   </programme>
-<programme start="20260719013000 +0000" stop="20260719022000 +0000" channel="skylife.tvn">
+<programme start="20260719012500 +0000" stop="20260719022000 +0000" channel="skylife.tvn">
     <title>유 퀴즈 온 더 블럭 특별판 - 스타 자기님을 찾아서</title>
     <desc>You Quiz On The Block.  Step by step~    보통날을 살아가는 당신 앞에 나타난 유재석x조세호.  두 사람이 건넨 한마디.  quot;You Quiz...?quot;    평범한 사람들의 인생 무대인 &apos;길거리&apos;를 &apos;세트&apos;로 빌리고 세상 누구에게나 공평한 &apos;태양&apos;을 &apos;조명&apos; 삼아 여러분을 주인공으로 모시는 유쾌한 서프라이즈!</desc>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260719022000 +0000" stop="20260719034000 +0000" channel="skylife.tvn">
+<programme start="20260719022000 +0000" stop="20260719034500 +0000" channel="skylife.tvn">
     <title>오싹한 연애</title>
     <category>드라마 / 로맨틱코메디</category>
   </programme>
-<programme start="20260719034000 +0000" stop="20260719050000 +0000" channel="skylife.tvn">
+<programme start="20260719034500 +0000" stop="20260719050000 +0000" channel="skylife.tvn">
     <title>파친코 시즌2</title>
     <category>드라마 / 시대극</category>
   </programme>
-<programme start="20260719050000 +0000" stop="20260719065000 +0000" channel="skylife.tvn">
+<programme start="20260719050000 +0000" stop="20260719064500 +0000" channel="skylife.tvn">
     <title>콩콩팜팜</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260719065000 +0000" stop="20260719090000 +0000" channel="skylife.tvn">
+<programme start="20260719064500 +0000" stop="20260719090000 +0000" channel="skylife.tvn">
     <title>언더커버 셰프</title>
     <category>연예/오락 / 일반</category>
   </programme>
@@ -12453,21 +12445,17 @@
     <title>위대한 수업, 그레이트 마인즈</title>
     <category>교양/정보 / 강좌</category>
   </programme>
-<programme start="20260719172000 +0000" stop="20260719211000 +0000" channel="skylife.jtbc">
+<programme start="20260719172000 +0000" stop="20260719200000 +0000" channel="skylife.jtbc">
     <title>2026 FIFA 북중미 월드컵</title>
     <category>스포츠 / 월드컵</category>
   </programme>
-<programme start="20260719211000 +0000" stop="20260719213000 +0000" channel="skylife.jtbc">
-    <title>매치하이라이트</title>
+<programme start="20260719200000 +0000" stop="20260719221000 +0000" channel="skylife.jtbc">
+    <title>2026 FIFA 북중미 월드컵</title>
     <category>스포츠 / 월드컵</category>
   </programme>
-<programme start="20260719213000 +0000" stop="20260719220000 +0000" channel="skylife.jtbc">
-    <title>슈퍼트론 2</title>
-    <category>만화 / 모험(adventure)</category>
-  </programme>
-<programme start="20260719220000 +0000" stop="20260719223000 +0000" channel="skylife.jtbc">
-    <title>슈퍼트론 2</title>
-    <category>만화 / 모험(adventure)</category>
+<programme start="20260719221000 +0000" stop="20260719223000 +0000" channel="skylife.jtbc">
+    <title>매치하이라이트</title>
+    <category>스포츠 / 월드컵</category>
   </programme>
 <programme start="20260719223000 +0000" stop="20260719230000 +0000" channel="skylife.jtbc">
     <title>아침&amp;</title>
@@ -19227,9 +19215,13 @@
     <desc>백년 가게와 백년 소공인들의 삶의 현장을 생생하게 기록하고, 그들의 열정과 철학, 그리고 이들이 우리 사회에 던지는 메시지를 심층적으로 조명, 오래된 시간 속에 담긴 진정한 의미와 가치를 찾아내, 시청자들에게 감동과 영감을 선사하며 &apos;</desc>
     <category>시사/다큐 / 라이프/휴먼</category>
   </programme>
-<programme start="20260721010000 +0000" stop="20260721030000 +0000" channel="skylife.국회방송">
-    <title>의사중계</title>
-    <category>뉴스 / 일반</category>
+<programme start="20260721010000 +0000" stop="20260721020000 +0000" channel="skylife.국회방송">
+    <title>제78주년 제헌절 특집 다큐멘터리 1948년 여름 그 위대한 약속</title>
+    <category>시사/다큐 / 일반</category>
+  </programme>
+<programme start="20260721020000 +0000" stop="20260721030000 +0000" channel="skylife.국회방송">
+    <title>지식의 정석</title>
+    <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260721030000 +0000" stop="20260721031000 +0000" channel="skylife.국회방송">
     <title>우리가 몰랐던 이야기 국회톺아보기</title>
@@ -19248,17 +19240,33 @@
     <title>마에스트로 명장</title>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260721050000 +0000" stop="20260721090000 +0000" channel="skylife.국회방송">
-    <title>의사중계</title>
-    <category>뉴스 / 일반</category>
+<programme start="20260721050000 +0000" stop="20260721053000 +0000" channel="skylife.국회방송">
+    <title>산업실록 대한민국 산업 비사</title>
+    <category>시사/다큐 / 일반</category>
+  </programme>
+<programme start="20260721053000 +0000" stop="20260721060000 +0000" channel="skylife.국회방송">
+    <title>요즘 군대</title>
+    <category>교양/정보 / 일반</category>
+  </programme>
+<programme start="20260721060000 +0000" stop="20260721070000 +0000" channel="skylife.국회방송">
+    <title>엄홍길의 산악버스</title>
+    <category>연예/오락 / 일반</category>
+  </programme>
+<programme start="20260721070000 +0000" stop="20260721080000 +0000" channel="skylife.국회방송">
+    <title>세계문화유산 탐방기</title>
+    <category>시사/다큐 / 일반</category>
+  </programme>
+<programme start="20260721080000 +0000" stop="20260721090000 +0000" channel="skylife.국회방송">
+    <title>하늘과 땅 사이의 산티아고 길</title>
+    <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260721090000 +0000" stop="20260721100000 +0000" channel="skylife.국회방송">
     <title>국회라이브6</title>
     <category>뉴스 / 뉴스</category>
   </programme>
 <programme start="20260721100000 +0000" stop="20260721103000 +0000" channel="skylife.국회방송">
-    <title>대한민국을 바꾼 법의 탄생 : 헌법을 말하다</title>
-    <category>교양/정보 / 일반</category>
+    <title>국회의원 25시</title>
+    <category>시사/다큐 / 라이프/휴먼</category>
   </programme>
 <programme start="20260721103000 +0000" stop="20260721110000 +0000" channel="skylife.국회방송">
     <title>현장 리포트 &amp;lt;다시 쓰는 지방살이&amp;gt;</title>
@@ -20303,8 +20311,8 @@
     <category>교양/정보 / 의료건강</category>
   </programme>
 <programme start="20260721220000 +0000" stop="20260721223000 +0000" channel="skylife.jtbc">
-    <title>바바 프렌즈</title>
-    <category>만화 / 교육</category>
+    <title>슈퍼트론 2</title>
+    <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260721223000 +0000" stop="20260721230000 +0000" channel="skylife.jtbc">
     <title>아침&amp;</title>
@@ -23044,7 +23052,7 @@
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260721230000 +0000" stop="20260722000000 +0000" channel="skylife.ytn사이언스">
-    <title>야생의 무기</title>
+    <title>호주 박물관의 비밀</title>
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260722000000 +0000" stop="20260722003000 +0000" channel="skylife.ytn사이언스">
@@ -23057,7 +23065,7 @@
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260722010000 +0000" stop="20260722020000 +0000" channel="skylife.ytn사이언스">
-    <title>지식다큐 또 하나의 세상</title>
+    <title>진실탐사대 세계의 불가사의</title>
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260722020000 +0000" stop="20260722023000 +0000" channel="skylife.ytn사이언스">
@@ -23087,7 +23095,7 @@
     <category>뉴스 / 일반</category>
   </programme>
 <programme start="20260722050000 +0000" stop="20260722060000 +0000" channel="skylife.ytn사이언스">
-    <title>야생의 무기</title>
+    <title>호주 박물관의 비밀</title>
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260722060000 +0000" stop="20260722063000 +0000" channel="skylife.ytn사이언스">
@@ -23108,7 +23116,7 @@
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260722080000 +0000" stop="20260722090000 +0000" channel="skylife.ytn사이언스">
-    <title>다큐S 프라임</title>
+    <title>이게 왠 날리지</title>
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260722090000 +0000" stop="20260722100000 +0000" channel="skylife.ytn사이언스">
@@ -23125,7 +23133,7 @@
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260722110000 +0000" stop="20260722120000 +0000" channel="skylife.ytn사이언스">
-    <title>게임체인저, 총의 세계</title>
+    <title>세계 최강의 무기들</title>
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260722120000 +0000" stop="20260722123000 +0000" channel="skylife.ytn사이언스">
@@ -23137,7 +23145,7 @@
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260722130000 +0000" stop="20260722140000 +0000" channel="skylife.ytn사이언스">
-    <title>다큐S 프라임</title>
+    <title>이게 왠 날리지</title>
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260722140000 +0000" stop="20260722143000 +0000" channel="skylife.ytn사이언스">
@@ -23150,7 +23158,7 @@
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260722150000 +0000" stop="20260722160000 +0000" channel="skylife.ytn사이언스">
-    <title>게임체인저, 총의 세계</title>
+    <title>세계 최강의 무기들</title>
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260721160000 +0000" stop="20260721170000 +0000" channel="skylife.국회방송">
@@ -24660,6 +24668,11 @@
     <title>이슈 픽 쌤과 함께 스페셜</title>
     <category>교양/정보 / 강좌</category>
   </programme>
+<programme start="20260723150000 +0000" stop="20260723163500 +0000" channel="skylife.kbs1">
+    <title>KBS 중계석</title>
+    <desc>문화예술 공연실황과 함께 연주자들과 해설자의 인터뷰를 함께 방송한다.</desc>
+    <category>교양/정보 / 일반</category>
+  </programme>
 <programme start="20260722151500 +0000" stop="20260722153000 +0000" channel="skylife.mbc">
     <title>유부녀 킬러 프리미어</title>
     <category>연예/오락 / 일반</category>
@@ -24864,6 +24877,11 @@
     <title>야구여왕 2</title>
     <desc>운동선수 출신이라면 야구 경력과 무관하게 선수단에 지원하여 여자 야구팀의 멤버로 합류해 여자 야구 전국대회 우승을 목표로 성장해나가는 스포츠 버라이어티</desc>
     <category>연예/오락 / 일반</category>
+  </programme>
+<programme start="20260723150000 +0000" stop="20260723164000 +0000" channel="skylife.채널a">
+    <title>이제 만나러 갑니다</title>
+    <desc>무수한 죽을 고비를 넘겨 대한민국의 국민이 된 탈북미녀들이 들려주는 진솔한 이야기.</desc>
+    <category>연예/오락 / 토크쇼</category>
   </programme>
 <programme start="20260722154000 +0000" stop="20260722164000 +0000" channel="skylife.mbn">
     <title>소나무</title>
@@ -25447,6 +25465,11 @@
     <title>연애전쟁</title>
     <category>연예/오락 / 일반</category>
   </programme>
+<programme start="20260723150000 +0000" stop="20260723161000 +0000" channel="skylife.jtbc2">
+    <title>냉장고를 부탁해 since 2014</title>
+    <desc>최고의 셰프들이 스타들의 냉장고 속 재료를 활용해 요리 대결을 펼치는 요리 토크쇼</desc>
+    <category>연예/오락 / 일반</category>
+  </programme>
 <programme start="20260722161000 +0000" stop="20260722172000 +0000" channel="skylife.tvn.show">
     <title>꽃보다 할배</title>
     <desc>꽃보다 아름다운 이순재, 박근형, 백일섭, 신구 네 할배의 황혼 배낭여행을 콘셉트로 한 배낭여행을 떠나 펼쳐지는 기상천외한 이야기</desc>
@@ -25683,6 +25706,11 @@
 <programme start="20260723132000 +0000" stop="20260723150000 +0000" channel="skylife.jtbc4">
     <title>[명품 역사 강연] 강연배틀쇼 사기꾼들</title>
     <desc>대한민국 강연계 레전드들이 펼치는 &apos;강연배틀쇼 사기꾼들&apos;!   하나의 주제, 각기 다른 이야기로 벌이는 한 판 승부! 과연 최고의 사기꾼은 누가 될 것인가!</desc>
+    <category>교양/정보 / 일반</category>
+  </programme>
+<programme start="20260723150000 +0000" stop="20260723164000 +0000" channel="skylife.jtbc4">
+    <title>[파국의 부부] 역사 이야기꾼들</title>
+    <desc>최고의 역사 이야기꾼들이 펼치는 역사 강연 배틀쇼 프로그램</desc>
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260722165000 +0000" stop="20260722180000 +0000" channel="skylife.채널a플러스">
@@ -26225,6 +26253,10 @@
     <desc>우리 주변에서 일어나는 재미있고 놀랍고 신기한 이야기를 따뜻한 시선으로 밀착취재 하여 전달하고 감동과 이해를 함께하는 리얼리티 프로그램</desc>
     <category>연예/오락 / 인포테인먼트</category>
   </programme>
+<programme start="20260723150000 +0000" stop="20260723153000 +0000" channel="skylife.sbs.biz">
+    <title>뉴스 톺아보기</title>
+    <category>뉴스 / 뉴스</category>
+  </programme>
 <programme start="20260722160000 +0000" stop="20260722180000 +0000" channel="skylife.한국경제tv">
     <title>더 워룸</title>
     <category>교양/정보 / 일반</category>
@@ -26311,6 +26343,10 @@
   </programme>
 <programme start="20260723143000 +0000" stop="20260723150000 +0000" channel="skylife.한국경제tv">
     <title>주식, 알아야번다 2부</title>
+    <category>교양/정보 / 일반</category>
+  </programme>
+<programme start="20260723150000 +0000" stop="20260723160000 +0000" channel="skylife.한국경제tv">
+    <title>판도라 (판을 읽는 도파민 라이브)</title>
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260722162000 +0000" stop="20260722182000 +0000" channel="skylife.매일경제tv">
@@ -26700,6 +26736,11 @@
     <title>김석훈의 어!여기봐라</title>
     <category>연예/오락 / 일반</category>
   </programme>
+<programme start="20260723150000 +0000" stop="20260723153000 +0000" channel="skylife.ytn2">
+    <title>황금 나침반</title>
+    <desc>생활정보 프로그램</desc>
+    <category>교양/정보 / 일반</category>
+  </programme>
 <programme start="20260722160000 +0000" stop="20260722170000 +0000" channel="skylife.히스토리">
     <title>세상의 모든 미스터리</title>
     <category>시사/다큐 / 일반</category>
@@ -26734,6 +26775,18 @@
     <title>모던인물사 미스터리</title>
     <category>연예/오락 / 일반</category>
   </programme>
+<programme start="20260723003000 +0000" stop="20260723010000 +0000" channel="skylife.히스토리">
+    <title>아인슈타인 챌린지</title>
+    <category>교양/정보 / 일반</category>
+  </programme>
+<programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="skylife.히스토리">
+    <title>당신이 몰랐던 역사 비하인드, 언빌리버블 S2 (한국어 더빙)</title>
+    <category>시사/다큐 / 역사</category>
+  </programme>
+<programme start="20260723020000 +0000" stop="20260723030000 +0000" channel="skylife.히스토리">
+    <title>당신이 몰랐던 역사 비하인드, 언빌리버블 S2 (한국어 더빙)</title>
+    <category>시사/다큐 / 역사</category>
+  </programme>
 <programme start="20260723030000 +0000" stop="20260723040000 +0000" channel="skylife.히스토리">
     <title>다시 찾은 봄날</title>
     <category>연예/오락 / 일반</category>
@@ -26756,6 +26809,10 @@
     <desc>순수한 여행자의 시각으로 한 도시가 가지고 있는 생활 문화를 특징적으로 보여 줄 수 있는 그들의 생활, 공간, 건축물 등 다양한 모습들을 카메라에 담아 볼거리와 재미 속에 차분하고 여유로운 터치로 보여주는 다큐멘터리 프로그램.</desc>
     <category>시사/다큐 / 풍물/기행</category>
   </programme>
+<programme start="20260723080000 +0000" stop="20260723090000 +0000" channel="skylife.히스토리">
+    <title>다시 찾은 봄날</title>
+    <category>연예/오락 / 일반</category>
+  </programme>
 <programme start="20260723090000 +0000" stop="20260723103000 +0000" channel="skylife.히스토리">
     <title>모던인물사 미스터리</title>
     <category>연예/오락 / 일반</category>
@@ -26768,8 +26825,16 @@
     <title>당신이 몰랐던 역사 비하인드, 언빌리버블 S2 (한국어 더빙)</title>
     <category>시사/다큐 / 역사</category>
   </programme>
+<programme start="20260723130000 +0000" stop="20260723140000 +0000" channel="skylife.히스토리">
+    <title>워머신: 인류 최강의 기계들</title>
+    <category>시사/다큐 / 일반</category>
+  </programme>
 <programme start="20260723140000 +0000" stop="20260723150000 +0000" channel="skylife.히스토리">
     <title>세상의 모든 미스터리: 우주의 신비 (한국어 더빙)</title>
+    <category>시사/다큐 / 일반</category>
+  </programme>
+<programme start="20260723150000 +0000" stop="20260723160000 +0000" channel="skylife.히스토리">
+    <title>X파일: 외계인의 흔적18</title>
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260722160000 +0000" stop="20260722163000 +0000" channel="skylife.ytn사이언스">
@@ -26823,7 +26888,7 @@
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260722230000 +0000" stop="20260723000000 +0000" channel="skylife.ytn사이언스">
-    <title>다큐S 프라임</title>
+    <title>이게 왠 날리지</title>
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260723000000 +0000" stop="20260723003000 +0000" channel="skylife.ytn사이언스">
@@ -26835,7 +26900,7 @@
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="skylife.ytn사이언스">
-    <title>지식다큐 또 하나의 세상</title>
+    <title>진실탐사대 세계의 불가사의</title>
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260723020000 +0000" stop="20260723023000 +0000" channel="skylife.ytn사이언스">
@@ -26866,7 +26931,7 @@
     <category>뉴스 / 일반</category>
   </programme>
 <programme start="20260723050000 +0000" stop="20260723060000 +0000" channel="skylife.ytn사이언스">
-    <title>다큐S 프라임</title>
+    <title>이게 왠 날리지</title>
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260723060000 +0000" stop="20260723063000 +0000" channel="skylife.ytn사이언스">
@@ -26883,7 +26948,7 @@
     <category>뉴스 / 일반</category>
   </programme>
 <programme start="20260723073000 +0000" stop="20260723080000 +0000" channel="skylife.ytn사이언스">
-    <title>사이언스 스페셜 지구의 분노, 화산 폭발</title>
+    <title>과학자들</title>
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260723080000 +0000" stop="20260723090000 +0000" channel="skylife.ytn사이언스">
@@ -26899,7 +26964,12 @@
     <desc>국내 외 과학계 소식을 전하는 데일리 뉴스 프로그램으로 리포트 및 단신, 오늘의 과학소사, 요일별 특화코너, 시청자 UCC 활용 등으로 구성.</desc>
     <category>뉴스 / 일반</category>
   </programme>
-<programme start="20260723103000 +0000" stop="20260723120000 +0000" channel="skylife.ytn사이언스">
+<programme start="20260723103000 +0000" stop="20260723110000 +0000" channel="skylife.ytn사이언스">
+    <title>황금 나침반</title>
+    <desc>생활정보 프로그램</desc>
+    <category>교양/정보 / 일반</category>
+  </programme>
+<programme start="20260723110000 +0000" stop="20260723120000 +0000" channel="skylife.ytn사이언스">
     <title>고기서 만나</title>
     <desc>알고 먹어야 더 맛있다! 고기 부위별로 차근차근 배우고 맛보고 즐기며, 부위별 최고의 고기를 찾아 떠나는 프로그램</desc>
     <category>연예/오락 / 일반</category>
@@ -26924,6 +26994,11 @@
 <programme start="20260723143000 +0000" stop="20260723150000 +0000" channel="skylife.ytn사이언스">
     <title>과학자들</title>
     <category>시사/다큐 / 일반</category>
+  </programme>
+<programme start="20260723150000 +0000" stop="20260723160000 +0000" channel="skylife.ytn사이언스">
+    <title>고기서 만나</title>
+    <desc>알고 먹어야 더 맛있다! 고기 부위별로 차근차근 배우고 맛보고 즐기며, 부위별 최고의 고기를 찾아 떠나는 프로그램</desc>
+    <category>연예/오락 / 일반</category>
   </programme>
 <programme start="20260722160000 +0000" stop="20260722170000 +0000" channel="skylife.국회방송">
     <title>동물의 왕국 TOP 20</title>
@@ -27030,6 +27105,10 @@
     <desc>우리 민족은 기록에 관해서는 대단한 저력을 지니고 있다. 유네스코에 세계문화유산으로 지정된 조선시대의 승정원일기가 그렇고 그 사초를 바탕으로 편찬한 조선왕조실록이 그렇다.       현대 의회 민주주의의 전당, 국회에도 이러한 기록에 있다. 국민의 대표기관인 국회의 의정활동을 낱낱이 기록하는 속기록이 바로 그것.   여의도 국회 30주년을 맞아 국회방송에서는 총 16부에 걸친 연작 다큐멘터리 “다시보는 속기록”(연출 조정훈)을 제작, 방송한다.   이 프로그램은 질곡의 대한민국 현대사를 국회 속기록이라는 프리즘을 통해 재조명하고, 우리에게 주는 질책과 교훈을 담아낼 계획이다.</desc>
     <category>시사/다큐 / 역사</category>
   </programme>
+<programme start="20260723150000 +0000" stop="20260723160000 +0000" channel="skylife.국회방송">
+    <title>세계문화유산 탐방기</title>
+    <category>시사/다큐 / 일반</category>
+  </programme>
 <programme start="20260722160000 +0000" stop="20260722163000 +0000" channel="skylife.애니플러스">
     <title>[동시방영작]클레바테스 ll -마수왕과 가짜 용사 전승-</title>
     <category>만화 / 모험(adventure)</category>
@@ -27116,6 +27195,10 @@
   </programme>
 <programme start="20260723143000 +0000" stop="20260723150000 +0000" channel="skylife.애니플러스">
     <title>[동시방영작]세계 최강의 후위 -미궁국의 신인 탐색자-</title>
+    <category>만화 / 모험(adventure)</category>
+  </programme>
+<programme start="20260723150000 +0000" stop="20260723153000 +0000" channel="skylife.애니플러스">
+    <title>[동시방영작]LV999의 마을사람</title>
     <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260722153000 +0000" stop="20260722160000 +0000" channel="skylife.애니맥스">
@@ -27351,6 +27434,10 @@
 <programme start="20260723143000 +0000" stop="20260723150000 +0000" channel="skylife.애니맥스">
     <title>도굴왕(더빙)</title>
     <category>만화 / 모험(adventure)</category>
+  </programme>
+<programme start="20260723150000 +0000" stop="20260723153000 +0000" channel="skylife.애니맥스">
+    <title>구박하지 않는 계모와 언니들</title>
+    <category>만화 / 코믹</category>
   </programme>
 <programme start="20260722153000 +0000" stop="20260722160000 +0000" channel="skylife.애니박스">
     <title>[자막] 소녀 괴수 캐러멜리제</title>
@@ -27615,6 +27702,10 @@
     <title>[자막] 천막의 자두가르</title>
     <category>만화 / 역사</category>
   </programme>
+<programme start="20260723150000 +0000" stop="20260723153000 +0000" channel="skylife.애니박스">
+    <title>[자막] 얼굴에 드러나지 않는 카시와다 양과 얼굴에 드러나는 오오타 군</title>
+    <category>만화 / 순정</category>
+  </programme>
 <programme start="20260722160000 +0000" stop="20260722170000 +0000" channel="skylife.투니버스">
     <title>명탐정 코난 14</title>
     <category>만화 / 탐정</category>
@@ -27711,6 +27802,10 @@
 <programme start="20260723140000 +0000" stop="20260723150000 +0000" channel="skylife.투니버스">
     <title>우동나라의 황금색 털뭉치 (자막)</title>
     <category>만화 / 명랑</category>
+  </programme>
+<programme start="20260723150000 +0000" stop="20260723160000 +0000" channel="skylife.투니버스">
+    <title>짱구는 못말려 25</title>
+    <category>만화 / 코믹</category>
   </programme>
 <programme start="20260722160000 +0000" stop="20260722163000 +0000" channel="skylife.cj.온스타일">
     <title>1촌1명품/1사1명품(수화)</title>
