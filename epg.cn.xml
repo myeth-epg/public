@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260719164529 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="CN-EPG-Merger">
+<tv date="20260719190115 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="CN-EPG-Merger">
 
 <!-- Channels -->
 
@@ -45095,162 +45095,6 @@
 <programme start="20260725152100 +0000" stop="20260725162100 +0000" channel="tvmao.SDTV1">
     <title lang="zh">精英剧场</title>
   </programme>
-<programme start="20260717165200 +0000" stop="20260717165500 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">明日精彩看点</title>
-    <desc lang="zh">精彩看点</desc>
-  </programme>
-<programme start="20260717165500 +0000" stop="20260717173900 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">南来北往(21)</title>
-    <desc lang="zh">南来北往</desc>
-  </programme>
-<programme start="20260717173900 +0000" stop="20260717182100 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">南来北往(22)</title>
-    <desc lang="zh">南来北往</desc>
-  </programme>
-<programme start="20260717182100 +0000" stop="20260717182400 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">明日精彩看点</title>
-    <desc lang="zh">精彩看点</desc>
-  </programme>
-<programme start="20260717182400 +0000" stop="20260717190900 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">南来北往(23)</title>
-    <desc lang="zh">南来北往</desc>
-  </programme>
-<programme start="20260717190900 +0000" stop="20260717195000 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">南来北往(24)</title>
-    <desc lang="zh">南来北往</desc>
-  </programme>
-<programme start="20260717195000 +0000" stop="20260717195300 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">明日精彩看点</title>
-    <desc lang="zh">精彩看点</desc>
-  </programme>
-<programme start="20260717195300 +0000" stop="20260717204100 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">南来北往(25)</title>
-    <desc lang="zh">南来北往</desc>
-  </programme>
-<programme start="20260717204100 +0000" stop="20260717212200 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">南来北往(26)</title>
-    <desc lang="zh">南来北往</desc>
-  </programme>
-<programme start="20260717212200 +0000" stop="20260717212500 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">明日精彩看点</title>
-    <desc lang="zh">精彩看点</desc>
-  </programme>
-<programme start="20260717212500 +0000" stop="20260717221000 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">南来北往(27)</title>
-    <desc lang="zh">南来北往</desc>
-  </programme>
-<programme start="20260717221000 +0000" stop="20260717225400 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">南来北往(28)</title>
-    <desc lang="zh">南来北往</desc>
-  </programme>
-<programme start="20260717225400 +0000" stop="20260717230000 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">探宝上博百物看中国因AI而生(44)</title>
-  </programme>
-<programme start="20260717230000 +0000" stop="20260717230100 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">中华人民共和国国歌</title>
-  </programme>
-<programme start="20260717230100 +0000" stop="20260718005900 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">看东方</title>
-  </programme>
-<programme start="20260718005900 +0000" stop="20260718010200 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">天气预报</title>
-  </programme>
-<programme start="20260718010200 +0000" stop="20260718014500 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">蜜语纪(1)</title>
-    <desc lang="zh">蜜语纪</desc>
-  </programme>
-<programme start="20260718014500 +0000" stop="20260718022700 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">蜜语纪(2)</title>
-    <desc lang="zh">蜜语纪</desc>
-  </programme>
-<programme start="20260718022700 +0000" stop="20260718030500 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">蜜语纪(3)</title>
-    <desc lang="zh">蜜语纪</desc>
-  </programme>
-<programme start="20260718030500 +0000" stop="20260718032800 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">蜜语纪(4)</title>
-    <desc lang="zh">蜜语纪</desc>
-  </programme>
-<programme start="20260718032800 +0000" stop="20260718040000 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">潮童天下(1155)</title>
-    <desc lang="zh">潮童天下</desc>
-  </programme>
-<programme start="20260718040000 +0000" stop="20260718042700 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">世界人工智能大会融媒特别报道</title>
-    <desc lang="zh">特别报道</desc>
-  </programme>
-<programme start="20260718042700 +0000" stop="20260718050700 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">双城记(852):今天你睡够了吗</title>
-    <desc lang="zh">双城记</desc>
-  </programme>
-<programme start="20260718050700 +0000" stop="20260718054300 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">锚点(22)</title>
-    <desc lang="zh">锚点</desc>
-  </programme>
-<programme start="20260718054300 +0000" stop="20260718062700 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">藏海传(1)</title>
-    <desc lang="zh">藏海传</desc>
-  </programme>
-<programme start="20260718062700 +0000" stop="20260718070900 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">藏海传(2)</title>
-    <desc lang="zh">藏海传</desc>
-  </programme>
-<programme start="20260718070900 +0000" stop="20260718075100 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">藏海传(3)</title>
-    <desc lang="zh">藏海传</desc>
-  </programme>
-<programme start="20260718075100 +0000" stop="20260718083300 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">藏海传(4)</title>
-    <desc lang="zh">藏海传</desc>
-  </programme>
-<programme start="20260718083300 +0000" stop="20260718090600 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">藏海传(5)</title>
-    <desc lang="zh">藏海传</desc>
-  </programme>
-<programme start="20260718090600 +0000" stop="20260718093100 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">下一站(230):晨练&apos;江湖&apos;</title>
-    <desc lang="zh">下一站</desc>
-  </programme>
-<programme start="20260718093100 +0000" stop="20260718100000 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">X咖啡馆(3)</title>
-  </programme>
-<programme start="20260718100000 +0000" stop="20260718105700 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">东方新闻</title>
-  </programme>
-<programme start="20260718105700 +0000" stop="20260718110000 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">天气预报</title>
-  </programme>
-<programme start="20260718110000 +0000" stop="20260718113200 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">转播中央台新闻联播</title>
-  </programme>
-<programme start="20260718113200 +0000" stop="20260718121000 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">翘楚(23)</title>
-    <desc lang="zh">翘楚</desc>
-  </programme>
-<programme start="20260718121000 +0000" stop="20260718121800 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">明日精彩看点</title>
-    <desc lang="zh">精彩看点</desc>
-  </programme>
-<programme start="20260718121800 +0000" stop="20260718133900 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">东方金曲大赏:经典影视音乐</title>
-    <desc lang="zh">东方金曲大赏</desc>
-  </programme>
-<programme start="20260718133900 +0000" stop="20260718142100 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">扫毒风暴(31)</title>
-    <desc lang="zh">扫毒风暴</desc>
-  </programme>
-<programme start="20260718142100 +0000" stop="20260718150200 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">扫毒风暴(32)</title>
-    <desc lang="zh">扫毒风暴</desc>
-  </programme>
-<programme start="20260718150200 +0000" stop="20260718154600 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">扫毒风暴(33)</title>
-    <desc lang="zh">扫毒风暴</desc>
-  </programme>
-<programme start="20260718154600 +0000" stop="20260719163100 +0000" channel="tvmao.DONGFANG1">
-    <title lang="zh">南来北往(29)</title>
-    <desc lang="zh">南来北往</desc>
-  </programme>
 <programme start="20260719163100 +0000" stop="20260719171400 +0000" channel="tvmao.DONGFANG1">
     <title lang="zh">我们的河山(1)</title>
     <desc lang="zh">我们的河山</desc>
@@ -45965,9 +45809,99 @@
 <programme start="20260724151600 +0000" stop="20260724154100 +0000" channel="tvmao.DONGFANG1">
     <title lang="zh">成长的烦恼第三季(5)</title>
   </programme>
-<programme start="20260724154100 +0000" stop="20260724164100 +0000" channel="tvmao.DONGFANG1">
+<programme start="20260724154100 +0000" stop="20260724164800 +0000" channel="tvmao.DONGFANG1">
     <title lang="zh">梦想改造家精编</title>
     <desc lang="zh">梦想改造家</desc>
+  </programme>
+<programme start="20260724164800 +0000" stop="20260724175600 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">大城无小事</title>
+  </programme>
+<programme start="20260724175600 +0000" stop="20260724191100 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">极速焕新家</title>
+  </programme>
+<programme start="20260724191100 +0000" stop="20260724191600 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">建党百年</title>
+  </programme>
+<programme start="20260724191600 +0000" stop="20260724221600 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">极速焕新家</title>
+  </programme>
+<programme start="20260724221600 +0000" stop="20260724223400 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">急诊室故事</title>
+  </programme>
+<programme start="20260724223400 +0000" stop="20260724230000 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">建党百年</title>
+  </programme>
+<programme start="20260724230000 +0000" stop="20260724230100 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">中华人民共和国国歌</title>
+  </programme>
+<programme start="20260724230100 +0000" stop="20260725005900 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">看东方</title>
+  </programme>
+<programme start="20260725005900 +0000" stop="20260725010200 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">天气预报</title>
+  </programme>
+<programme start="20260725010200 +0000" stop="20260725013100 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">潮童天下</title>
+  </programme>
+<programme start="20260725013100 +0000" stop="20260725024300 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">电视剧</title>
+  </programme>
+<programme start="20260725024300 +0000" stop="20260725025100 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">电视剧</title>
+  </programme>
+<programme start="20260725025100 +0000" stop="20260725040000 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">电视剧</title>
+  </programme>
+<programme start="20260725040000 +0000" stop="20260725043100 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">午间30分</title>
+  </programme>
+<programme start="20260725043100 +0000" stop="20260725051900 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">电视剧</title>
+  </programme>
+<programme start="20260725051900 +0000" stop="20260725060700 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">电视剧</title>
+  </programme>
+<programme start="20260725060700 +0000" stop="20260725065100 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">电视剧</title>
+  </programme>
+<programme start="20260725065100 +0000" stop="20260725073400 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">电视剧</title>
+  </programme>
+<programme start="20260725073400 +0000" stop="20260725082100 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">电视剧</title>
+  </programme>
+<programme start="20260725082100 +0000" stop="20260725091000 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">电视剧</title>
+  </programme>
+<programme start="20260725091000 +0000" stop="20260725093500 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">文娱新天地</title>
+  </programme>
+<programme start="20260725093500 +0000" stop="20260725100000 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">名医话养生</title>
+  </programme>
+<programme start="20260725100000 +0000" stop="20260725105700 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">东方新闻</title>
+  </programme>
+<programme start="20260725105700 +0000" stop="20260725110000 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">天气预报</title>
+  </programme>
+<programme start="20260725110000 +0000" stop="20260725113500 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">新闻联播</title>
+  </programme>
+<programme start="20260725113500 +0000" stop="20260725122100 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">电视剧</title>
+  </programme>
+<programme start="20260725122100 +0000" stop="20260725145000 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">今晚不加班</title>
+  </programme>
+<programme start="20260725145000 +0000" stop="20260725152900 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">今晚</title>
+  </programme>
+<programme start="20260725152900 +0000" stop="20260725154300 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">天气预报</title>
+  </programme>
+<programme start="20260725154300 +0000" stop="20260725164300 +0000" channel="tvmao.DONGFANG1">
+    <title lang="zh">极限挑战宝藏行</title>
   </programme>
 <programme start="20260719165500 +0000" stop="20260719174500 +0000" channel="tvmao.SHXITV1">
     <title lang="zh">华山论鉴</title>
@@ -53451,7 +53385,7 @@
   </programme>
 <programme start="20260718180000 +0000" stop="20260718185500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">林則徐 虎門銷煙以外</title>
-    <desc lang="zh-hant">2025年，適逢民族英雄林則徐誕辰二百四十周年。國家主席習近平在福州任職期間，保育了林則徐出生地的一系列遺跡。他先後多次引用林則徐「苟利國家生死以，豈因禍福避趨之」的名句，號召國人把林則徐的民族精神和優秀品格繼承發揚下去。&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;《林則徐：虎門銷煙以外》是一部由香港電台出品的五集歷史人文紀錄片。影片以香港視角出發，跨越三萬公里、深入中國多省市（包括澳門、廣東、湖南、福建、浙江、河南、陝西、甘肅、新疆），更東渡日本，探尋虎門銷煙之外那個更為真實、立體的林則徐。&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;林則徐虎門銷煙的壯舉固然永載史冊，但其光輝遠不止於此。本紀錄片突破傳統敘事框架，不僅回顧林則徐虎門銷煙的功績，更深入挖掘他作為治水能臣、嚴謹學者、流放者與思想家的多面人生。透過實地探訪、專家訪談，並結合AI技術生成動畫重現歷史場景，影片呈現林則徐在禁煙、海防、水利、邊疆開發等方面的卓越貢獻，並揭示其「開眼看世界」的深遠影響。節目以細膩的鏡頭語言和情感敘述，串聯歷史與當下，展現林則徐精神的當代意義，值此民族英雄誕辰二百四十周年之際，向他獻上最誠摯的敬意。本片由&amp;amp;amp;amp;amp;lt;香港電台&amp;amp;amp;amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">2025年，適逢民族英雄林則徐誕辰二百四十周年。國家主席習近平在福州任職期間，保育了林則徐出生地的一系列遺跡。他先後多次引用林則徐「苟利國家生死以，豈因禍福避趨之」的名句，號召國人把林則徐的民族精神和優秀品格繼承發揚下去。&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;《林則徐：虎門銷煙以外》是一部由香港電台出品的五集歷史人文紀錄片。影片以香港視角出發，跨越三萬公里、深入中國多省市（包括澳門、廣東、湖南、福建、浙江、河南、陝西、甘肅、新疆），更東渡日本，探尋虎門銷煙之外那個更為真實、立體的林則徐。&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;林則徐虎門銷煙的壯舉固然永載史冊，但其光輝遠不止於此。本紀錄片突破傳統敘事框架，不僅回顧林則徐虎門銷煙的功績，更深入挖掘他作為治水能臣、嚴謹學者、流放者與思想家的多面人生。透過實地探訪、專家訪談，並結合AI技術生成動畫重現歷史場景，影片呈現林則徐在禁煙、海防、水利、邊疆開發等方面的卓越貢獻，並揭示其「開眼看世界」的深遠影響。節目以細膩的鏡頭語言和情感敘述，串聯歷史與當下，展現林則徐精神的當代意義，值此民族英雄誕辰二百四十周年之際，向他獻上最誠摯的敬意。本片由&amp;amp;amp;amp;amp;amp;lt;香港電台&amp;amp;amp;amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260718180000 +0000" stop="20260718190000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">收台</title>
@@ -53482,7 +53416,7 @@
   </programme>
 <programme start="20260718200000 +0000" stop="20260718203500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">綠色長城</title>
-    <desc lang="zh-hant">四集大型生態紀錄片《綠色長城》分為《水·潤澤》、《林·蒼翠》、《草·繁茂》、《沙·生機》，深刻闡釋了習近平生態文明思想在祖國北疆大地上的生動實踐，向世界展示了中國北方生態治理的卓越成果。攝製組歷時兩年半，行程數萬公里，以超長待機狀態捕捉到難得一見的珍貴畫面，呈現了內蒙古如何讓湖泊潤澤、森林蒼翠、草原繁茂、沙漠重煥生機，生動描繪內蒙古山水林田湖草沙的美麗畫卷，深情講述了北疆人民以強烈歷史使命感和責任感築牢我國北方重要生態安全屏障。本片由&amp;amp;amp;amp;amp;lt;內蒙古廣播電視台&amp;amp;amp;amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">四集大型生態紀錄片《綠色長城》分為《水·潤澤》、《林·蒼翠》、《草·繁茂》、《沙·生機》，深刻闡釋了習近平生態文明思想在祖國北疆大地上的生動實踐，向世界展示了中國北方生態治理的卓越成果。攝製組歷時兩年半，行程數萬公里，以超長待機狀態捕捉到難得一見的珍貴畫面，呈現了內蒙古如何讓湖泊潤澤、森林蒼翠、草原繁茂、沙漠重煥生機，生動描繪內蒙古山水林田湖草沙的美麗畫卷，深情講述了北疆人民以強烈歷史使命感和責任感築牢我國北方重要生態安全屏障。本片由&amp;amp;amp;amp;amp;amp;lt;內蒙古廣播電視台&amp;amp;amp;amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260718203000 +0000" stop="20260718204000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">好書分享</title>
@@ -53582,7 +53516,7 @@
   </programme>
 <programme start="20260719003000 +0000" stop="20260719005500 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
   </programme>
 <programme start="20260719003500 +0000" stop="20260719010000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">趨記茶餐廳</title>
@@ -53603,7 +53537,7 @@
   </programme>
 <programme start="20260719010200 +0000" stop="20260719014800 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">鄖縣人3號</title>
-    <desc lang="zh-hant">《“鄖縣人”3號》共三集，分別為《啟封》、《領隊》、《遠方》，聚焦于東方人類起源演化的重大里程碑成果，用伴隨式的鏡頭，從考古發掘工作與“考古人”兩條脈絡出發，全景式記錄“鄖縣人”3號頭骨發掘、提取工作，借助對考古隊生活化情境和細節描摹，傳播考古人的文化傳承精神，詮釋中國人的文明源流與精神底色。在古今“鄖縣人”跨越百萬年的時空對話中，探索人類起源之路，追尋過去的歷史，也不斷思索未來，叩問全人類發展的方向。本片由&amp;amp;amp;amp;amp;lt;湖北廣播電視台&amp;amp;amp;amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">《“鄖縣人”3號》共三集，分別為《啟封》、《領隊》、《遠方》，聚焦于東方人類起源演化的重大里程碑成果，用伴隨式的鏡頭，從考古發掘工作與“考古人”兩條脈絡出發，全景式記錄“鄖縣人”3號頭骨發掘、提取工作，借助對考古隊生活化情境和細節描摹，傳播考古人的文化傳承精神，詮釋中國人的文明源流與精神底色。在古今“鄖縣人”跨越百萬年的時空對話中，探索人類起源之路，追尋過去的歷史，也不斷思索未來，叩問全人類發展的方向。本片由&amp;amp;amp;amp;amp;amp;lt;湖北廣播電視台&amp;amp;amp;amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260719010200 +0000" stop="20260719013000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -53709,7 +53643,7 @@
   </programme>
 <programme start="20260719050300 +0000" stop="20260719080600 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">好劇連場: 罰罪</title>
-    <desc lang="zh-hant">由黃景瑜、楊祐寧、李幼斌主演。故事以一宗惡劣案件為切入口，通過青年刑警常征（黃景瑜飾）的視角，講述兩代公安幹警為維護一方安寧，掃除犯罪團夥，不畏艱險、前赴後繼的英勇故事。在昌武（虛構地）這座小城，在危機重重的戰鬥第一線，刑偵大隊副大隊長常征因長期追查實力雄厚的趙嘯聲家族，而被捲入重重漩渦之中。&amp;amp;amp;amp;amp;quot;法大於天&amp;amp;amp;amp;amp;quot;的信念支撐著常征堅持不懈，恪守誓言，同一眾幹警攜手共進，破解迷局。</desc>
+    <desc lang="zh-hant">由黃景瑜、楊祐寧、李幼斌主演。故事以一宗惡劣案件為切入口，通過青年刑警常征（黃景瑜飾）的視角，講述兩代公安幹警為維護一方安寧，掃除犯罪團夥，不畏艱險、前赴後繼的英勇故事。在昌武（虛構地）這座小城，在危機重重的戰鬥第一線，刑偵大隊副大隊長常征因長期追查實力雄厚的趙嘯聲家族，而被捲入重重漩渦之中。&amp;amp;amp;amp;amp;amp;quot;法大於天&amp;amp;amp;amp;amp;amp;quot;的信念支撐著常征堅持不懈，恪守誓言，同一眾幹警攜手共進，破解迷局。</desc>
   </programme>
 <programme start="20260719050500 +0000" stop="20260719070000 +0000" channel="tdm.93.mo">
     <title lang="zh-hant">直播2026日本羽毛球公開賽：決賽</title>
@@ -53795,7 +53729,7 @@
   </programme>
 <programme start="20260719073500 +0000" stop="20260719080500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">龍舟</title>
-    <desc lang="zh-hant">從端午節習俗切入，分為《千古歸途》、《萬物繁花》、《心靈造像》、《盛裝凡塵》、《與子同行》和《歲月晨光》6集，每集30分鐘。全片以龍舟這個世界符號提煉中華優秀傳統文化元素，用“中國故事，國際表達”的方式，向全球傳遞底蘊深厚的中國智慧。&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;主創團隊介紹，《龍舟》將傳統與現代、東方與西方進行連結，實現了“五個首次呈現”：首次從基因考古視野探究“三皇五帝”神話等中華民族的上古起源和根脈；首次呈現《楚辭》中描述的世界上最後一片野生紅花玉蘭的真容；首次展現臺灣地區與湖北秭歸一脈同源的屈氏後裔端午祭祀活動；首次披露誕生於中國的世界上第一張體育郵票——龍舟競渡；首次以文獻證實中國龍舟競渡在國外的流播。&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;紀錄片創作歷時兩年多，主創團隊外拍行程跨越五大洲，先後在英國、德國、澳大利亞、土耳其、埃及、日本、墨西哥等12個國家實地拍攝，累計查閱文獻和資料約500萬字，採訪了國內外近30位各行業頂尖專家。為呈現最優質的畫面，該片還充分利用AI、3D掃描等前沿技術，將龍舟置身於廣博的大歷史空間，建立起歷史與當代的視覺、知覺聯繫，傳承和弘揚中華民族特有的精神內涵。本片由&amp;amp;amp;amp;amp;lt;湖北廣播電視台&amp;amp;amp;amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">從端午節習俗切入，分為《千古歸途》、《萬物繁花》、《心靈造像》、《盛裝凡塵》、《與子同行》和《歲月晨光》6集，每集30分鐘。全片以龍舟這個世界符號提煉中華優秀傳統文化元素，用“中國故事，國際表達”的方式，向全球傳遞底蘊深厚的中國智慧。&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;主創團隊介紹，《龍舟》將傳統與現代、東方與西方進行連結，實現了“五個首次呈現”：首次從基因考古視野探究“三皇五帝”神話等中華民族的上古起源和根脈；首次呈現《楚辭》中描述的世界上最後一片野生紅花玉蘭的真容；首次展現臺灣地區與湖北秭歸一脈同源的屈氏後裔端午祭祀活動；首次披露誕生於中國的世界上第一張體育郵票——龍舟競渡；首次以文獻證實中國龍舟競渡在國外的流播。&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;紀錄片創作歷時兩年多，主創團隊外拍行程跨越五大洲，先後在英國、德國、澳大利亞、土耳其、埃及、日本、墨西哥等12個國家實地拍攝，累計查閱文獻和資料約500萬字，採訪了國內外近30位各行業頂尖專家。為呈現最優質的畫面，該片還充分利用AI、3D掃描等前沿技術，將龍舟置身於廣博的大歷史空間，建立起歷史與當代的視覺、知覺聯繫，傳承和弘揚中華民族特有的精神內涵。本片由&amp;amp;amp;amp;amp;amp;lt;湖北廣播電視台&amp;amp;amp;amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260719073500 +0000" stop="20260719080000 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">Yoko</title>
@@ -53813,7 +53747,7 @@
     <title lang="zh-hant">健康天天問</title>
   </programme>
 <programme start="20260719080000 +0000" stop="20260719082500 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Karma&amp;amp;amp;amp;amp;apos;s World</title>
+    <title lang="zh-hant">Karma&amp;amp;amp;amp;amp;amp;apos;s World</title>
   </programme>
 <programme start="20260719080000 +0000" stop="20260719083000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">新聞報道</title>
@@ -53972,7 +53906,7 @@
   </programme>
 <programme start="20260719120000 +0000" stop="20260719123100 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">何以嶺南 古粵探源</title>
-    <desc lang="zh-hant">《何以嶺南 古粵探源》是一部講述“嶺南文化發祥地”的考古紀錄片，廣東省內獨家跟進黃埔、增城兩處先秦遺址的搶救性發掘全過程。該紀錄片講述了廣州最新考古發掘和研究成果，走入一個個考古現場，透過地層堆積、窖穴遺址、貝殼堆積等考古發現，來還原南越先民的生活場景和發展脈絡。正如紀錄片中所說：我們雖不能馬上找到答案，但每一個考古新發現都會讓我們有新的認識，讓我們離找到答案更近一步。無數的考古發現，多學科的研究成果，終將助力我們繪製一幅嶺南先民生產生活、嶺南文化發生發展並融入華夏文明的生動歷史圖景。本節目由&amp;amp;amp;amp;amp;lt;廣州市廣播電視台&amp;amp;amp;amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">《何以嶺南 古粵探源》是一部講述“嶺南文化發祥地”的考古紀錄片，廣東省內獨家跟進黃埔、增城兩處先秦遺址的搶救性發掘全過程。該紀錄片講述了廣州最新考古發掘和研究成果，走入一個個考古現場，透過地層堆積、窖穴遺址、貝殼堆積等考古發現，來還原南越先民的生活場景和發展脈絡。正如紀錄片中所說：我們雖不能馬上找到答案，但每一個考古新發現都會讓我們有新的認識，讓我們離找到答案更近一步。無數的考古發現，多學科的研究成果，終將助力我們繪製一幅嶺南先民生產生活、嶺南文化發生發展並融入華夏文明的生動歷史圖景。本節目由&amp;amp;amp;amp;amp;amp;lt;廣州市廣播電視台&amp;amp;amp;amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260719120000 +0000" stop="20260719130000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">粵語新聞</title>
@@ -53995,7 +53929,7 @@
   </programme>
 <programme start="20260719133000 +0000" stop="20260719140000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">香港故事 師傅來了2</title>
-    <desc lang="zh-hant">《香港故事-師傅來了2》，每一集帶領觀眾感受香港的一種工匠精神。該節目從人物故事出發，帶領觀眾透過鏡頭感受匠人對極致的追求，圍繞著細節之美來講述香港故事。本節目由&amp;amp;amp;amp;amp;lt;香港電台&amp;amp;amp;amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">《香港故事-師傅來了2》，每一集帶領觀眾感受香港的一種工匠精神。該節目從人物故事出發，帶領觀眾透過鏡頭感受匠人對極致的追求，圍繞著細節之美來講述香港故事。本節目由&amp;amp;amp;amp;amp;amp;lt;香港電台&amp;amp;amp;amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260719133000 +0000" stop="20260719140000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">#文青這樣玩</title>
@@ -54223,7 +54157,7 @@
   </programme>
 <programme start="20260720003000 +0000" stop="20260720005500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
   </programme>
 <programme start="20260720005500 +0000" stop="20260720012000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">家家有本事</title>
@@ -54248,7 +54182,7 @@
   </programme>
 <programme start="20260720013000 +0000" stop="20260720015700 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">香港故事 師傅來了2</title>
-    <desc lang="zh-hant">《香港故事-師傅來了2》，每一集帶領觀眾感受香港的一種工匠精神。該節目從人物故事出發，帶領觀眾透過鏡頭感受匠人對極致的追求，圍繞著細節之美來講述香港故事。本節目由&amp;amp;amp;amp;amp;lt;香港電台&amp;amp;amp;amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">《香港故事-師傅來了2》，每一集帶領觀眾感受香港的一種工匠精神。該節目從人物故事出發，帶領觀眾透過鏡頭感受匠人對極致的追求，圍繞著細節之美來講述香港故事。本節目由&amp;amp;amp;amp;amp;amp;lt;香港電台&amp;amp;amp;amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260720013000 +0000" stop="20260720020000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -54327,7 +54261,7 @@
   </programme>
 <programme start="20260720044500 +0000" stop="20260720050000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">去桃花盛開的地方2</title>
-    <desc lang="zh-hant">《去桃花盛開的地方2》由徐馳執導，黃日瑩、李蒲赫領銜主演，該短劇在第一部的基礎上，將繼續呈現西藏持續深入推進穩定、發展、生態、強邊四件大事落實的生動故事。故事以桃花村創建國家級旅遊休閒示範區為主線，講述了當地植物學博士梅朵、民宿老闆紮西、美食大廚吉美、網紅博主娜娜、種菜能手老劉等一群新時代追夢人，在桃花村努力奮進、團結互助，創造美好生活、實現自我價值的故事。本節目由&amp;amp;amp;amp;amp;lt;西藏未及文化傳媒有限公司&amp;amp;amp;amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">《去桃花盛開的地方2》由徐馳執導，黃日瑩、李蒲赫領銜主演，該短劇在第一部的基礎上，將繼續呈現西藏持續深入推進穩定、發展、生態、強邊四件大事落實的生動故事。故事以桃花村創建國家級旅遊休閒示範區為主線，講述了當地植物學博士梅朵、民宿老闆紮西、美食大廚吉美、網紅博主娜娜、種菜能手老劉等一群新時代追夢人，在桃花村努力奮進、團結互助，創造美好生活、實現自我價值的故事。本節目由&amp;amp;amp;amp;amp;amp;lt;西藏未及文化傳媒有限公司&amp;amp;amp;amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260720045000 +0000" stop="20260720050000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">神秘蜀韻  百部川揚</title>
@@ -54346,7 +54280,7 @@
   </programme>
 <programme start="20260720050300 +0000" stop="20260720080600 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">好劇連場: 罰罪</title>
-    <desc lang="zh-hant">由黃景瑜、楊祐寧、李幼斌主演。故事以一宗惡劣案件為切入口，通過青年刑警常征（黃景瑜飾）的視角，講述兩代公安幹警為維護一方安寧，掃除犯罪團夥，不畏艱險、前赴後繼的英勇故事。在昌武（虛構地）這座小城，在危機重重的戰鬥第一線，刑偵大隊副大隊長常征因長期追查實力雄厚的趙嘯聲家族，而被捲入重重漩渦之中。&amp;amp;amp;amp;amp;quot;法大於天&amp;amp;amp;amp;amp;quot;的信念支撐著常征堅持不懈，恪守誓言，同一眾幹警攜手共進，破解迷局。</desc>
+    <desc lang="zh-hant">由黃景瑜、楊祐寧、李幼斌主演。故事以一宗惡劣案件為切入口，通過青年刑警常征（黃景瑜飾）的視角，講述兩代公安幹警為維護一方安寧，掃除犯罪團夥，不畏艱險、前赴後繼的英勇故事。在昌武（虛構地）這座小城，在危機重重的戰鬥第一線，刑偵大隊副大隊長常征因長期追查實力雄厚的趙嘯聲家族，而被捲入重重漩渦之中。&amp;amp;amp;amp;amp;amp;quot;法大於天&amp;amp;amp;amp;amp;amp;quot;的信念支撐著常征堅持不懈，恪守誓言，同一眾幹警攜手共進，破解迷局。</desc>
   </programme>
 <programme start="20260720051000 +0000" stop="20260720051200 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">TDM 新視點</title>
@@ -54381,7 +54315,7 @@
   </programme>
 <programme start="20260720053000 +0000" stop="20260720055200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
   </programme>
 <programme start="20260720055200 +0000" stop="20260720060000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">胡sir講收藏</title>
@@ -54606,11 +54540,11 @@
   </programme>
 <programme start="20260720130000 +0000" stop="20260720133500 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">綠色長城</title>
-    <desc lang="zh-hant">四集大型生態紀錄片《綠色長城》分為《水·潤澤》、《林·蒼翠》、《草·繁茂》、《沙·生機》，深刻闡釋了習近平生態文明思想在祖國北疆大地上的生動實踐，向世界展示了中國北方生態治理的卓越成果。攝製組歷時兩年半，行程數萬公里，以超長待機狀態捕捉到難得一見的珍貴畫面，呈現了內蒙古如何讓湖泊潤澤、森林蒼翠、草原繁茂、沙漠重煥生機，生動描繪內蒙古山水林田湖草沙的美麗畫卷，深情講述了北疆人民以強烈歷史使命感和責任感築牢我國北方重要生態安全屏障。本片由&amp;amp;amp;amp;amp;lt;內蒙古廣播電視台&amp;amp;amp;amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">四集大型生態紀錄片《綠色長城》分為《水·潤澤》、《林·蒼翠》、《草·繁茂》、《沙·生機》，深刻闡釋了習近平生態文明思想在祖國北疆大地上的生動實踐，向世界展示了中國北方生態治理的卓越成果。攝製組歷時兩年半，行程數萬公里，以超長待機狀態捕捉到難得一見的珍貴畫面，呈現了內蒙古如何讓湖泊潤澤、森林蒼翠、草原繁茂、沙漠重煥生機，生動描繪內蒙古山水林田湖草沙的美麗畫卷，深情講述了北疆人民以強烈歷史使命感和責任感築牢我國北方重要生態安全屏障。本片由&amp;amp;amp;amp;amp;amp;lt;內蒙古廣播電視台&amp;amp;amp;amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260720130000 +0000" stop="20260720132200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
   </programme>
 <programme start="20260720132200 +0000" stop="20260720133000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">家家有餸煮</title>
@@ -54843,7 +54777,7 @@
   </programme>
 <programme start="20260721003000 +0000" stop="20260721005200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260721005200 +0000" stop="20260721012000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -54954,7 +54888,7 @@
   </programme>
 <programme start="20260721044500 +0000" stop="20260721050500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">去桃花盛開的地方2</title>
-    <desc lang="zh-hant">《去桃花盛開的地方2》由徐馳執導，黃日瑩、李蒲赫領銜主演，該短劇在第一部的基礎上，將繼續呈現西藏持續深入推進穩定、發展、生態、強邊四件大事落實的生動故事。故事以桃花村創建國家級旅遊休閒示範區為主線，講述了當地植物學博士梅朵、民宿老闆紮西、美食大廚吉美、網紅博主娜娜、種菜能手老劉等一群新時代追夢人，在桃花村努力奮進、團結互助，創造美好生活、實現自我價值的故事。本節目由&amp;amp;amp;amp;amp;lt;西藏未及文化傳媒有限公司&amp;amp;amp;amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">《去桃花盛開的地方2》由徐馳執導，黃日瑩、李蒲赫領銜主演，該短劇在第一部的基礎上，將繼續呈現西藏持續深入推進穩定、發展、生態、強邊四件大事落實的生動故事。故事以桃花村創建國家級旅遊休閒示範區為主線，講述了當地植物學博士梅朵、民宿老闆紮西、美食大廚吉美、網紅博主娜娜、種菜能手老劉等一群新時代追夢人，在桃花村努力奮進、團結互助，創造美好生活、實現自我價值的故事。本節目由&amp;amp;amp;amp;amp;amp;lt;西藏未及文化傳媒有限公司&amp;amp;amp;amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260721045000 +0000" stop="20260721050000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">神秘蜀韻  百部川揚</title>
@@ -54973,7 +54907,7 @@
   </programme>
 <programme start="20260721050300 +0000" stop="20260721080500 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">好劇連場: 罰罪</title>
-    <desc lang="zh-hant">由黃景瑜、楊祐寧、李幼斌主演。故事以一宗惡劣案件為切入口，通過青年刑警常征（黃景瑜飾）的視角，講述兩代公安幹警為維護一方安寧，掃除犯罪團夥，不畏艱險、前赴後繼的英勇故事。在昌武（虛構地）這座小城，在危機重重的戰鬥第一線，刑偵大隊副大隊長常征因長期追查實力雄厚的趙嘯聲家族，而被捲入重重漩渦之中。&amp;amp;amp;amp;amp;quot;法大於天&amp;amp;amp;amp;amp;quot;的信念支撐著常征堅持不懈，恪守誓言，同一眾幹警攜手共進，破解迷局。</desc>
+    <desc lang="zh-hant">由黃景瑜、楊祐寧、李幼斌主演。故事以一宗惡劣案件為切入口，通過青年刑警常征（黃景瑜飾）的視角，講述兩代公安幹警為維護一方安寧，掃除犯罪團夥，不畏艱險、前赴後繼的英勇故事。在昌武（虛構地）這座小城，在危機重重的戰鬥第一線，刑偵大隊副大隊長常征因長期追查實力雄厚的趙嘯聲家族，而被捲入重重漩渦之中。&amp;amp;amp;amp;amp;amp;quot;法大於天&amp;amp;amp;amp;amp;amp;quot;的信念支撐著常征堅持不懈，恪守誓言，同一眾幹警攜手共進，破解迷局。</desc>
   </programme>
 <programme start="20260721050500 +0000" stop="20260721051000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">生於斯 長於斯</title>
@@ -55014,7 +54948,7 @@
   </programme>
 <programme start="20260721053000 +0000" stop="20260721055200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260721055200 +0000" stop="20260721060000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">好書分享</title>
@@ -55147,7 +55081,7 @@
   </programme>
 <programme start="20260721110000 +0000" stop="20260721112500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260721111000 +0000" stop="20260721120000 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">A Fazenda</title>
@@ -55170,7 +55104,7 @@
   </programme>
 <programme start="20260721120000 +0000" stop="20260721130000 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">一城煙火 一城詩</title>
-    <desc lang="zh-hant">節目邀請不同領域知名人士，以“citywalk”方式，於大灣區城市遊走，打卡每個人文勝景，開啟別具一格的詩詞美食與文化探尋之旅。本節目由&amp;amp;amp;amp;amp;lt;廣州市廣播電視台&amp;amp;amp;amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">節目邀請不同領域知名人士，以“citywalk”方式，於大灣區城市遊走，打卡每個人文勝景，開啟別具一格的詩詞美食與文化探尋之旅。本節目由&amp;amp;amp;amp;amp;amp;lt;廣州市廣播電視台&amp;amp;amp;amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260721120000 +0000" stop="20260721130000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">粵語新聞</title>
@@ -55207,7 +55141,7 @@
   </programme>
 <programme start="20260721133300 +0000" stop="20260721140000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
   </programme>
 <programme start="20260721133500 +0000" stop="20260721151000 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">深潛</title>
@@ -55264,7 +55198,7 @@
   </programme>
 <programme start="20260721154000 +0000" stop="20260721164000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260721155000 +0000" stop="20260721160100 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">體育新聞</title>
@@ -55286,7 +55220,7 @@
   </programme>
 <programme start="20260721162700 +0000" stop="20260721164900 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
   </programme>
 <programme start="20260721163300 +0000" stop="20260721164500 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">海派百工2</title>
@@ -55346,7 +55280,7 @@
   </programme>
 <programme start="20260721200000 +0000" stop="20260721202500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
   </programme>
 <programme start="20260721202500 +0000" stop="20260721204700 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">澳門早晨精華錄</title>
@@ -55416,7 +55350,7 @@
   </programme>
 <programme start="20260722010200 +0000" stop="20260722012500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
   </programme>
 <programme start="20260722012000 +0000" stop="20260722020000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">競健群英 2026</title>
@@ -55508,7 +55442,7 @@
   </programme>
 <programme start="20260722044500 +0000" stop="20260722050000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">去桃花盛開的地方2</title>
-    <desc lang="zh-hant">《去桃花盛開的地方2》由徐馳執導，黃日瑩、李蒲赫領銜主演，該短劇在第一部的基礎上，將繼續呈現西藏持續深入推進穩定、發展、生態、強邊四件大事落實的生動故事。故事以桃花村創建國家級旅遊休閒示範區為主線，講述了當地植物學博士梅朵、民宿老闆紮西、美食大廚吉美、網紅博主娜娜、種菜能手老劉等一群新時代追夢人，在桃花村努力奮進、團結互助，創造美好生活、實現自我價值的故事。本節目由&amp;amp;amp;amp;amp;lt;西藏未及文化傳媒有限公司&amp;amp;amp;amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">《去桃花盛開的地方2》由徐馳執導，黃日瑩、李蒲赫領銜主演，該短劇在第一部的基礎上，將繼續呈現西藏持續深入推進穩定、發展、生態、強邊四件大事落實的生動故事。故事以桃花村創建國家級旅遊休閒示範區為主線，講述了當地植物學博士梅朵、民宿老闆紮西、美食大廚吉美、網紅博主娜娜、種菜能手老劉等一群新時代追夢人，在桃花村努力奮進、團結互助，創造美好生活、實現自我價值的故事。本節目由&amp;amp;amp;amp;amp;amp;lt;西藏未及文化傳媒有限公司&amp;amp;amp;amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260722045000 +0000" stop="20260722050000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">神秘蜀韻  百部川揚</title>
@@ -55527,7 +55461,7 @@
   </programme>
 <programme start="20260722050300 +0000" stop="20260722080600 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">好劇連場: 罰罪</title>
-    <desc lang="zh-hant">由黃景瑜、楊祐寧、李幼斌主演。故事以一宗惡劣案件為切入口，通過青年刑警常征（黃景瑜飾）的視角，講述兩代公安幹警為維護一方安寧，掃除犯罪團夥，不畏艱險、前赴後繼的英勇故事。在昌武（虛構地）這座小城，在危機重重的戰鬥第一線，刑偵大隊副大隊長常征因長期追查實力雄厚的趙嘯聲家族，而被捲入重重漩渦之中。&amp;amp;amp;amp;amp;quot;法大於天&amp;amp;amp;amp;amp;quot;的信念支撐著常征堅持不懈，恪守誓言，同一眾幹警攜手共進，破解迷局。</desc>
+    <desc lang="zh-hant">由黃景瑜、楊祐寧、李幼斌主演。故事以一宗惡劣案件為切入口，通過青年刑警常征（黃景瑜飾）的視角，講述兩代公安幹警為維護一方安寧，掃除犯罪團夥，不畏艱險、前赴後繼的英勇故事。在昌武（虛構地）這座小城，在危機重重的戰鬥第一線，刑偵大隊副大隊長常征因長期追查實力雄厚的趙嘯聲家族，而被捲入重重漩渦之中。&amp;amp;amp;amp;amp;amp;quot;法大於天&amp;amp;amp;amp;amp;amp;quot;的信念支撐著常征堅持不懈，恪守誓言，同一眾幹警攜手共進，破解迷局。</desc>
   </programme>
 <programme start="20260722051000 +0000" stop="20260722051200 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">TDM 新視點</title>
@@ -55812,7 +55746,7 @@
   </programme>
 <programme start="20260722130000 +0000" stop="20260722133500 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">龍舟</title>
-    <desc lang="zh-hant">從端午節習俗切入，分為《千古歸途》、《萬物繁花》、《心靈造像》、《盛裝凡塵》、《與子同行》和《歲月晨光》6集，每集30分鐘。全片以龍舟這個世界符號提煉中華優秀傳統文化元素，用“中國故事，國際表達”的方式，向全球傳遞底蘊深厚的中國智慧。&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;主創團隊介紹，《龍舟》將傳統與現代、東方與西方進行連結，實現了“五個首次呈現”：首次從基因考古視野探究“三皇五帝”神話等中華民族的上古起源和根脈；首次呈現《楚辭》中描述的世界上最後一片野生紅花玉蘭的真容；首次展現臺灣地區與湖北秭歸一脈同源的屈氏後裔端午祭祀活動；首次披露誕生於中國的世界上第一張體育郵票——龍舟競渡；首次以文獻證實中國龍舟競渡在國外的流播。&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;紀錄片創作歷時兩年多，主創團隊外拍行程跨越五大洲，先後在英國、德國、澳大利亞、土耳其、埃及、日本、墨西哥等12個國家實地拍攝，累計查閱文獻和資料約500萬字，採訪了國內外近30位各行業頂尖專家。為呈現最優質的畫面，該片還充分利用AI、3D掃描等前沿技術，將龍舟置身於廣博的大歷史空間，建立起歷史與當代的視覺、知覺聯繫，傳承和弘揚中華民族特有的精神內涵。本片由&amp;amp;amp;amp;amp;lt;湖北廣播電視台&amp;amp;amp;amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">從端午節習俗切入，分為《千古歸途》、《萬物繁花》、《心靈造像》、《盛裝凡塵》、《與子同行》和《歲月晨光》6集，每集30分鐘。全片以龍舟這個世界符號提煉中華優秀傳統文化元素，用“中國故事，國際表達”的方式，向全球傳遞底蘊深厚的中國智慧。&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;主創團隊介紹，《龍舟》將傳統與現代、東方與西方進行連結，實現了“五個首次呈現”：首次從基因考古視野探究“三皇五帝”神話等中華民族的上古起源和根脈；首次呈現《楚辭》中描述的世界上最後一片野生紅花玉蘭的真容；首次展現臺灣地區與湖北秭歸一脈同源的屈氏後裔端午祭祀活動；首次披露誕生於中國的世界上第一張體育郵票——龍舟競渡；首次以文獻證實中國龍舟競渡在國外的流播。&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;紀錄片創作歷時兩年多，主創團隊外拍行程跨越五大洲，先後在英國、德國、澳大利亞、土耳其、埃及、日本、墨西哥等12個國家實地拍攝，累計查閱文獻和資料約500萬字，採訪了國內外近30位各行業頂尖專家。為呈現最優質的畫面，該片還充分利用AI、3D掃描等前沿技術，將龍舟置身於廣博的大歷史空間，建立起歷史與當代的視覺、知覺聯繫，傳承和弘揚中華民族特有的精神內涵。本片由&amp;amp;amp;amp;amp;amp;lt;湖北廣播電視台&amp;amp;amp;amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260722130000 +0000" stop="20260722133000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -56034,7 +55968,7 @@
   </programme>
 <programme start="20260723003000 +0000" stop="20260723005500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;gt;,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
   </programme>
 <programme start="20260723005500 +0000" stop="20260723012500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -56075,7 +56009,7 @@
   </programme>
 <programme start="20260723053600 +0000" stop="20260723060000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;gt;,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
   </programme>
 <programme start="20260723060000 +0000" stop="20260723063000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">粵語新聞</title>
@@ -56137,7 +56071,7 @@
   </programme>
 <programme start="20260723110100 +0000" stop="20260723112500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;gt;,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
   </programme>
 <programme start="20260723110500 +0000" stop="20260723120000 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">A Fazenda</title>
@@ -56184,7 +56118,7 @@
   </programme>
 <programme start="20260723154000 +0000" stop="20260723164000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;gt;,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落、關注民生議題、繁華背後發掘一個又一個澳門人的故事、欣賞各地藝術風采、推廣本土文化藝術、重溫舊城舊事，翻開當中的歷史記憶、走過不同地方，感受人民風情、緊貼你的生活資訊節目。</desc>
   </programme>
 <programme start="20260723155500 +0000" stop="20260723165500 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">RTPi Directo</title>
@@ -56275,7 +56209,7 @@
   </programme>
 <programme start="20260724010200 +0000" stop="20260724012500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&amp;amp;lt;br&amp;amp;gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&amp;amp;lt;br&amp;amp;gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&amp;amp;lt;br&amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;lt;br&amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;lt;br&amp;amp;gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&amp;amp;amp;lt;br&amp;amp;amp;gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&amp;amp;amp;lt;br&amp;amp;amp;gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;lt;br&amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;lt;br&amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;lt;br&amp;amp;amp;gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260724012000 +0000" stop="20260724020000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">風火台</title>
@@ -56367,7 +56301,7 @@
   </programme>
 <programme start="20260724044500 +0000" stop="20260724050000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">去桃花盛開的地方2</title>
-    <desc lang="zh-hant">《去桃花盛開的地方2》由徐馳執導，黃日瑩、李蒲赫領銜主演，該短劇在第一部的基礎上，將繼續呈現西藏持續深入推進穩定、發展、生態、強邊四件大事落實的生動故事。故事以桃花村創建國家級旅遊休閒示範區為主線，講述了當地植物學博士梅朵、民宿老闆紮西、美食大廚吉美、網紅博主娜娜、種菜能手老劉等一群新時代追夢人，在桃花村努力奮進、團結互助，創造美好生活、實現自我價值的故事。本節目由&amp;amp;lt;西藏未及文化傳媒有限公司&amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">《去桃花盛開的地方2》由徐馳執導，黃日瑩、李蒲赫領銜主演，該短劇在第一部的基礎上，將繼續呈現西藏持續深入推進穩定、發展、生態、強邊四件大事落實的生動故事。故事以桃花村創建國家級旅遊休閒示範區為主線，講述了當地植物學博士梅朵、民宿老闆紮西、美食大廚吉美、網紅博主娜娜、種菜能手老劉等一群新時代追夢人，在桃花村努力奮進、團結互助，創造美好生活、實現自我價值的故事。本節目由&amp;amp;amp;lt;西藏未及文化傳媒有限公司&amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260724045000 +0000" stop="20260724050000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">神秘蜀韻  百部川揚</title>
@@ -56636,7 +56570,7 @@
   </programme>
 <programme start="20260724123000 +0000" stop="20260724133000 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">林則徐 虎門銷煙以外</title>
-    <desc lang="zh-hant">2025年，適逢民族英雄林則徐誕辰二百四十周年。國家主席習近平在福州任職期間，保育了林則徐出生地的一系列遺跡。他先後多次引用林則徐「苟利國家生死以，豈因禍福避趨之」的名句，號召國人把林則徐的民族精神和優秀品格繼承發揚下去。&amp;amp;lt;br&amp;amp;gt;《林則徐：虎門銷煙以外》是一部由香港電台出品的五集歷史人文紀錄片。影片以香港視角出發，跨越三萬公里、深入中國多省市（包括澳門、廣東、湖南、福建、浙江、河南、陝西、甘肅、新疆），更東渡日本，探尋虎門銷煙之外那個更為真實、立體的林則徐。&amp;amp;lt;br&amp;amp;gt;林則徐虎門銷煙的壯舉固然永載史冊，但其光輝遠不止於此。本紀錄片突破傳統敘事框架，不僅回顧林則徐虎門銷煙的功績，更深入挖掘他作為治水能臣、嚴謹學者、流放者與思想家的多面人生。透過實地探訪、專家訪談，並結合AI技術生成動畫重現歷史場景，影片呈現林則徐在禁煙、海防、水利、邊疆開發等方面的卓越貢獻，並揭示其「開眼看世界」的深遠影響。節目以細膩的鏡頭語言和情感敘述，串聯歷史與當下，展現林則徐精神的當代意義，值此民族英雄誕辰二百四十周年之際，向他獻上最誠摯的敬意。本片由&amp;amp;lt;香港電台&amp;amp;gt;贈播。</desc>
+    <desc lang="zh-hant">2025年，適逢民族英雄林則徐誕辰二百四十周年。國家主席習近平在福州任職期間，保育了林則徐出生地的一系列遺跡。他先後多次引用林則徐「苟利國家生死以，豈因禍福避趨之」的名句，號召國人把林則徐的民族精神和優秀品格繼承發揚下去。&amp;amp;amp;lt;br&amp;amp;amp;gt;《林則徐：虎門銷煙以外》是一部由香港電台出品的五集歷史人文紀錄片。影片以香港視角出發，跨越三萬公里、深入中國多省市（包括澳門、廣東、湖南、福建、浙江、河南、陝西、甘肅、新疆），更東渡日本，探尋虎門銷煙之外那個更為真實、立體的林則徐。&amp;amp;amp;lt;br&amp;amp;amp;gt;林則徐虎門銷煙的壯舉固然永載史冊，但其光輝遠不止於此。本紀錄片突破傳統敘事框架，不僅回顧林則徐虎門銷煙的功績，更深入挖掘他作為治水能臣、嚴謹學者、流放者與思想家的多面人生。透過實地探訪、專家訪談，並結合AI技術生成動畫重現歷史場景，影片呈現林則徐在禁煙、海防、水利、邊疆開發等方面的卓越貢獻，並揭示其「開眼看世界」的深遠影響。節目以細膩的鏡頭語言和情感敘述，串聯歷史與當下，展現林則徐精神的當代意義，值此民族英雄誕辰二百四十周年之際，向他獻上最誠摯的敬意。本片由&amp;amp;amp;lt;香港電台&amp;amp;amp;gt;贈播。</desc>
   </programme>
 <programme start="20260724124500 +0000" stop="20260724131500 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">China 360°</title>
@@ -56657,7 +56591,7 @@
     <title lang="zh-hant">灣區全媒睇</title>
   </programme>
 <programme start="20260724131500 +0000" stop="20260724134000 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Happy&amp;amp;apos;s Place T1</title>
+    <title lang="zh-hant">Happy&amp;amp;amp;apos;s Place T1</title>
   </programme>
 <programme start="20260724133000 +0000" stop="20260724140000 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">重回長江的麋鹿</title>
@@ -56862,7 +56796,7 @@
   </programme>
 <programme start="20260725003000 +0000" stop="20260725005200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&lt;br&gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&lt;br&gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&lt;br&gt;更會邀請神秘嘉賓一齊試菜傾計！&lt;br&gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&lt;br&gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&amp;lt;br&amp;gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&amp;lt;br&amp;gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&amp;lt;br&amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;lt;br&amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;lt;br&amp;gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260725005200 +0000" stop="20260725012000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -56901,7 +56835,7 @@
   </programme>
 <programme start="20260725053000 +0000" stop="20260725055200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&lt;br&gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&lt;br&gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&lt;br&gt;更會邀請神秘嘉賓一齊試菜傾計！&lt;br&gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&lt;br&gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&amp;lt;br&amp;gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&amp;lt;br&amp;gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&amp;lt;br&amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;lt;br&amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;lt;br&amp;gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260725055200 +0000" stop="20260725060000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">時局綜觀-英文字幕版</title>
@@ -56971,7 +56905,7 @@
   </programme>
 <programme start="20260725110000 +0000" stop="20260725112200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&lt;br&gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&lt;br&gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&lt;br&gt;更會邀請神秘嘉賓一齊試菜傾計！&lt;br&gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&lt;br&gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&amp;lt;br&amp;gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&amp;lt;br&amp;gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&amp;lt;br&amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;lt;br&amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;lt;br&amp;gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260725112200 +0000" stop="20260725113000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">鈷彩凝珍</title>
@@ -57018,7 +56952,7 @@
   </programme>
 <programme start="20260725154000 +0000" stop="20260725164000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&lt;br&gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&lt;br&gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&lt;br&gt;更會邀請神秘嘉賓一齊試菜傾計！&lt;br&gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&lt;br&gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮、邊食、邊CHILL？&amp;lt;br&amp;gt; 澳廣視全新烹飪節目《教煮CHILL好玩》幫到你！&amp;lt;br&amp;gt;由靚女主持馬思霖、Vanessa 帶你每集解鎖唔同菜式，&amp;lt;br&amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;lt;br&amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;lt;br&amp;gt;鎖定《教煮CHILL好玩》，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260725170000 +0000" stop="20260725180000 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">RTPi Directo</title>
