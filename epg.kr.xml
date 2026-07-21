@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260720164603 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
+<tv date="20260721035356 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -23936,6 +23936,11 @@
     <desc>아파트 속 숨겨진 돈을 접수하기 위해 입대의회장 선거에 출마한 오아시스파 전직 보스 박해강이 주민들과 함께 비리를 타파해 가는 이야기</desc>
     <category>드라마 / 미스터리/스릴러</category>
   </programme>
+<programme start="20260726150000 +0000" stop="20260726164000 +0000" channel="skylife.jtbc">
+    <title>냉장고를 부탁해 since 2014</title>
+    <desc>최고의 셰프들이 스타들의 냉장고 속 재료를 활용해 요리 대결을 펼치는 요리 토크쇼</desc>
+    <category>연예/오락 / 일반</category>
+  </programme>
 <programme start="20260725153000 +0000" stop="20260725170000 +0000" channel="skylife.sbs">
     <title>아니 근데 진짜!</title>
     <category>연예/오락 / 버라이어티</category>
@@ -24458,6 +24463,11 @@
     <desc>홈스, 코난처럼 대한민국에도 탐정이 있다? 집계된 탐정 수만 약 2만 명! 베일에 싸여있던 탐정들의 영업비밀 공개</desc>
     <category>연예/오락 / 일반</category>
   </programme>
+<programme start="20260726150000 +0000" stop="20260726160000 +0000" channel="skylife.채널a">
+    <title>채널A 시청자 마당</title>
+    <desc>채널A와 시청자가 소통하는 장으로서, 프로그램에 대한 시청자들의 비판을 겸허히 수용하고 대안을 모색, 한 주간 방송된 프로그램 중 시청자들이 인상 깊게 본 장면들을 소개한다.</desc>
+    <category>교양/정보 / 방송/언론</category>
+  </programme>
 <programme start="20260725151000 +0000" stop="20260725154000 +0000" channel="skylife.mbn">
     <title>속풀이쇼 동치미 2부</title>
     <desc>답답한 속을 동치미처럼 속시원하게 풀어주는 힐링 속풀이쇼.</desc>
@@ -24636,6 +24646,10 @@
     <title>조선의 사랑꾼</title>
     <desc>순도 100% 리얼 다큐예능 &apos;조선의 사랑꾼&apos;으로 결혼 과정 전격 공개!</desc>
     <category>연예/오락 / 일반</category>
+  </programme>
+<programme start="20260726150000 +0000" stop="20260726155000 +0000" channel="skylife.tv조선">
+    <title>역전의 한방</title>
+    <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260725172000 +0000" stop="20260725185000 +0000" channel="skylife.tvn">
     <title>내일도 출근!</title>
@@ -24993,6 +25007,10 @@
     <desc>최고의 셰프들이 스타들의 냉장고 속 재료를 활용해 요리 대결을 펼치는 요리 토크쇼</desc>
     <category>연예/오락 / 일반</category>
   </programme>
+<programme start="20260726150000 +0000" stop="20260726154000 +0000" channel="skylife.jtbc2">
+    <title>밥은영</title>
+    <category>연예/오락 / 일반</category>
+  </programme>
 <programme start="20260725164000 +0000" stop="20260725182000 +0000" channel="skylife.tvn.show">
     <title>꽃보다 청춘-아프리카 편</title>
     <desc>응팔 브라더스. 개정팔 &apos;준열&apos;, 봉블리 &apos;재홍&apos;, 엄친아 &apos;경표&apos;, 심장어택 &apos;보검&apos;. 포상휴가지 푸켓에서 아프리카로 납치되다.  지구에서 가장 오래된 사막, 나미비아에서 세계 3대 폭포인 빅토리아 폭포까지! 쉴 틈 없이 달리는 10일간의 아프리카 종단여행.</desc>
@@ -25137,6 +25155,11 @@
 <programme start="20260726135000 +0000" stop="20260726150000 +0000" channel="skylife.라이프타임">
     <title>공감세포</title>
     <category>드라마 / 로맨틱코메디</category>
+  </programme>
+<programme start="20260726150000 +0000" stop="20260726164000 +0000" channel="skylife.라이프타임">
+    <title>냉장고를 부탁해 since 2014</title>
+    <desc>최고의 셰프들이 스타들의 냉장고 속 재료를 활용해 요리 대결을 펼치는 요리 토크쇼</desc>
+    <category>연예/오락 / 일반</category>
   </programme>
 <programme start="20260725164000 +0000" stop="20260725182000 +0000" channel="skylife.jtbc4">
     <title>[한국사 4대 천왕] 강연배틀쇼 사기꾼들</title>
@@ -25296,6 +25319,11 @@
     <title>[방금 놓친] 이제 만나러 갑니다</title>
     <desc>무수한 죽을 고비를 넘겨 대한민국의 국민이 된 탈북미녀들이 들려주는 진솔한 이야기.</desc>
     <category>연예/오락 / 토크쇼</category>
+  </programme>
+<programme start="20260726150000 +0000" stop="20260726162000 +0000" channel="skylife.채널a플러스">
+    <title>걸리버 여행기</title>
+    <desc>최홍만의 국내외 여행기</desc>
+    <category>교양/정보 / 풍물</category>
   </programme>
 <programme start="20260725160000 +0000" stop="20260725173000 +0000" channel="skylife.mbn플러스">
     <title>니돈내산 독박투어</title>
@@ -25477,6 +25505,11 @@
 <programme start="20260726140000 +0000" stop="20260726150000 +0000" channel="skylife.중화tv">
     <title>이가인지명</title>
     <category>드라마 / 로맨틱코메디</category>
+  </programme>
+<programme start="20260726150000 +0000" stop="20260726160000 +0000" channel="skylife.중화tv">
+    <title>술맛 나는 여행 : 주유천하</title>
+    <desc>음식과 술을 좋아하며, 여행을 꿈꾸는 사람들을 위한 취중방송 프로그램</desc>
+    <category>연예/오락 / 버라이어티</category>
   </programme>
 <programme start="20260725151000 +0000" stop="20260725155000 +0000" channel="skylife.ytn">
     <title>시청자 비평 플러스</title>
@@ -25692,6 +25725,10 @@
   </programme>
 <programme start="20260726140000 +0000" stop="20260726150000 +0000" channel="skylife.연합뉴스tv">
     <title>뉴스 23</title>
+    <category>뉴스 / 뉴스</category>
+  </programme>
+<programme start="20260726150000 +0000" stop="20260726153000 +0000" channel="skylife.연합뉴스tv">
+    <title>뉴스 24</title>
     <category>뉴스 / 뉴스</category>
   </programme>
 <programme start="20260725153000 +0000" stop="20260725163000 +0000" channel="skylife.sbs.biz">
@@ -25927,6 +25964,10 @@
 <programme start="20260726140000 +0000" stop="20260726150000 +0000" channel="skylife.한국경제tv">
     <title>경제전쟁 &apos;꾼&apos; 시즌3</title>
     <category>교양/정보 / 경제(산업)</category>
+  </programme>
+<programme start="20260726150000 +0000" stop="20260726160000 +0000" channel="skylife.한국경제tv">
+    <title>송재호 - 부의 황금공식</title>
+    <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260725160000 +0000" stop="20260725180000 +0000" channel="skylife.매일경제tv">
     <title>친절한 종목상담 4989</title>
@@ -26326,6 +26367,10 @@
     <title>버스타go 효도하go 국민사위 유랑단</title>
     <category>연예/오락 / 일반</category>
   </programme>
+<programme start="20260726150000 +0000" stop="20260726153000 +0000" channel="skylife.ytn2">
+    <title>컬처인사이드</title>
+    <category>뉴스 / 일반</category>
+  </programme>
 <programme start="20260725160000 +0000" stop="20260725170000 +0000" channel="skylife.히스토리">
     <title>세상의 모든 미스터리</title>
     <category>시사/다큐 / 일반</category>
@@ -26412,6 +26457,10 @@
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260726140000 +0000" stop="20260726150000 +0000" channel="skylife.히스토리">
+    <title>WORLD WAR II 톰 행크스 전쟁을 말하다</title>
+    <category>시사/다큐 / 일반</category>
+  </programme>
+<programme start="20260726150000 +0000" stop="20260726160000 +0000" channel="skylife.히스토리">
     <title>WORLD WAR II 톰 행크스 전쟁을 말하다</title>
     <category>시사/다큐 / 일반</category>
   </programme>
@@ -26556,6 +26605,10 @@
     <title>이게 왠 날리지</title>
     <category>시사/다큐 / 일반</category>
   </programme>
+<programme start="20260726150000 +0000" stop="20260726160000 +0000" channel="skylife.ytn사이언스">
+    <title>진실탐사대 세계의 불가사의</title>
+    <category>시사/다큐 / 일반</category>
+  </programme>
 <programme start="20260725160000 +0000" stop="20260725170000 +0000" channel="skylife.국회방송">
     <title>하늘과 땅 사이의 산티아고 길</title>
     <category>시사/다큐 / 일반</category>
@@ -26669,6 +26722,10 @@
     <title>역사를 바꾼 세계의 혁명</title>
     <category>시사/다큐 / 역사</category>
   </programme>
+<programme start="20260726150000 +0000" stop="20260726160000 +0000" channel="skylife.국회방송">
+    <title>지구 최고의 해양낙원</title>
+    <category>시사/다큐 / 자연</category>
+  </programme>
 <programme start="20260725153000 +0000" stop="20260725160000 +0000" channel="skylife.애니플러스">
     <title>[동시방영작]유녀전기 2</title>
     <category>만화 / 액션/무협</category>
@@ -26765,6 +26822,10 @@
   </programme>
 <programme start="20260726143000 +0000" stop="20260726150000 +0000" channel="skylife.애니플러스">
     <title>[동시방영작]못 미더운 악녀입니다만</title>
+    <category>만화 / 순정</category>
+  </programme>
+<programme start="20260726150000 +0000" stop="20260726153000 +0000" channel="skylife.애니플러스">
+    <title>[동시방영작]너를 너무너무너무너무 좋아하는 100명의 그녀 3기</title>
     <category>만화 / 순정</category>
   </programme>
 <programme start="20260725153000 +0000" stop="20260725160000 +0000" channel="skylife.애니맥스">
@@ -26965,6 +27026,10 @@
 <programme start="20260726143000 +0000" stop="20260726150000 +0000" channel="skylife.애니맥스">
     <title>귀멸의 칼날(한국어 더빙)</title>
     <category>만화 / 모험(adventure)</category>
+  </programme>
+<programme start="20260726150000 +0000" stop="20260726153000 +0000" channel="skylife.애니맥스">
+    <title>정반대의 너와 나2</title>
+    <category>만화 / 순정</category>
   </programme>
 <programme start="20260725153000 +0000" stop="20260725160000 +0000" channel="skylife.애니박스">
     <title>[자막] 블리치-천년혈전 편 : 화진담</title>
@@ -27176,6 +27241,10 @@
     <title>[자막] &apos;널 사랑할 생각은 없어&apos;라던 차기 공작님이 어째선지 제게 푹 빠졌어요</title>
     <category>만화 / 순정</category>
   </programme>
+<programme start="20260726150000 +0000" stop="20260726153000 +0000" channel="skylife.애니박스">
+    <title>[자막] 아름다운 그대에게 2기</title>
+    <category>만화 / 순정</category>
+  </programme>
 <programme start="20260725160000 +0000" stop="20260725170000 +0000" channel="skylife.투니버스">
     <title>GO! GO! 다섯 쌍둥이 2</title>
     <desc>아동용 코메디 드라마 작품으로 실제로 존재하는 도쿄 시나가와의 도코시긴자를 배경으로 하고 있는 일종의 생활 애니메이션이다. 한날 한시에 태어난 쌍둥이건만 성격은 제각각인 5남매가 벌이는 소동이 주된 에피소드이다.</desc>
@@ -27269,6 +27338,10 @@
 <programme start="20260726140000 +0000" stop="20260726150000 +0000" channel="skylife.투니버스">
     <title>명탐정 코난2 Part1</title>
     <category>만화 / 탐정</category>
+  </programme>
+<programme start="20260726150000 +0000" stop="20260726160000 +0000" channel="skylife.투니버스">
+    <title>푸른 미부로 (자막)</title>
+    <category>만화 / 명랑</category>
   </programme>
 <programme start="20260725160000 +0000" stop="20260725170000 +0000" channel="skylife.cj.온스타일">
     <title>Replay Best</title>
