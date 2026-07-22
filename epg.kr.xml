@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260722170758 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
+<tv date="20260722175455 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -23301,21 +23301,21 @@
     <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260726210000 +0000" stop="20260726211500 +0000" channel="skylife.애니맥스">
-    <title>로보카 폴리2</title>
+    <title>로보카 폴리 3</title>
     <desc>로봇으로 변신하는 용감한 자동자 구조대 &apos;로보카 폴리&apos;의 이야기</desc>
     <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260726211500 +0000" stop="20260726213000 +0000" channel="skylife.애니맥스">
-    <title>로보카 폴리2</title>
+    <title>로보카 폴리 3</title>
     <desc>로봇으로 변신하는 용감한 자동자 구조대 &apos;로보카 폴리&apos;의 이야기</desc>
     <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260726213000 +0000" stop="20260726214500 +0000" channel="skylife.애니맥스">
-    <title>슈퍼트론</title>
+    <title>레고 드림즈 part2</title>
     <category>만화 / 액션/무협</category>
   </programme>
 <programme start="20260726214500 +0000" stop="20260726220000 +0000" channel="skylife.애니맥스">
-    <title>슈퍼트론</title>
+    <title>레고 드림즈 part2</title>
     <category>만화 / 액션/무협</category>
   </programme>
 <programme start="20260726220000 +0000" stop="20260726223000 +0000" channel="skylife.애니맥스">
@@ -23359,28 +23359,36 @@
     <category>만화 / 명랑</category>
   </programme>
 <programme start="20260727030000 +0000" stop="20260727033000 +0000" channel="skylife.애니맥스">
-    <title>뚜식이 9</title>
+    <title>뚜식이10</title>
     <category>만화 / 코믹</category>
   </programme>
 <programme start="20260727033000 +0000" stop="20260727040000 +0000" channel="skylife.애니맥스">
-    <title>뚜식이 9</title>
+    <title>뚜식이10</title>
     <category>만화 / 코믹</category>
   </programme>
 <programme start="20260727040000 +0000" stop="20260727043000 +0000" channel="skylife.애니맥스">
-    <title>뚜식이 9</title>
-    <category>만화 / 코믹</category>
+    <title>백앤아: 고고프렌즈5</title>
+    <category>연예/오락 / 일반</category>
   </programme>
 <programme start="20260727043000 +0000" stop="20260727050000 +0000" channel="skylife.애니맥스">
-    <title>백앤아: 고고프렌즈4</title>
+    <title>백앤아: 고고프렌즈5</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260727050000 +0000" stop="20260727053000 +0000" channel="skylife.애니맥스">
-    <title>백앤아: 고고프렌즈4</title>
-    <category>연예/오락 / 일반</category>
+<programme start="20260727050000 +0000" stop="20260727051500 +0000" channel="skylife.애니맥스">
+    <title>짐승육아</title>
+    <category>만화 / 코믹</category>
   </programme>
-<programme start="20260727053000 +0000" stop="20260727060000 +0000" channel="skylife.애니맥스">
-    <title>백앤아: 고고프렌즈4</title>
-    <category>연예/오락 / 일반</category>
+<programme start="20260727051500 +0000" stop="20260727053000 +0000" channel="skylife.애니맥스">
+    <title>짐승육아</title>
+    <category>만화 / 코믹</category>
+  </programme>
+<programme start="20260727053000 +0000" stop="20260727054500 +0000" channel="skylife.애니맥스">
+    <title>짐승육아</title>
+    <category>만화 / 코믹</category>
+  </programme>
+<programme start="20260727054500 +0000" stop="20260727060000 +0000" channel="skylife.애니맥스">
+    <title>짐승육아</title>
+    <category>만화 / 코믹</category>
   </programme>
 <programme start="20260727060000 +0000" stop="20260727063000 +0000" channel="skylife.애니맥스">
     <title>명탐정 코난11</title>
@@ -23437,35 +23445,35 @@
     <category>만화 / 취미</category>
   </programme>
 <programme start="20260727110000 +0000" stop="20260727113000 +0000" channel="skylife.애니맥스">
-    <title>백앤아: 고고프렌즈4</title>
+    <title>백앤아: 고고프렌즈5</title>
     <category>연예/오락 / 일반</category>
   </programme>
 <programme start="20260727113000 +0000" stop="20260727120000 +0000" channel="skylife.애니맥스">
-    <title>백앤아: 고고프렌즈4</title>
+    <title>백앤아: 고고프렌즈5</title>
     <category>연예/오락 / 일반</category>
   </programme>
 <programme start="20260727120000 +0000" stop="20260727123000 +0000" channel="skylife.애니맥스">
-    <title>명탐정 코난: 어린이 탐정단의 대모험</title>
+    <title>명탐정 코난 스페셜: 잠자는 명탐정 보라!</title>
     <category>만화 / 탐정</category>
   </programme>
 <programme start="20260727123000 +0000" stop="20260727130000 +0000" channel="skylife.애니맥스">
-    <title>명탐정 코난: 어린이 탐정단의 대모험</title>
+    <title>명탐정 코난 스페셜: 잠자는 명탐정 보라!</title>
     <category>만화 / 탐정</category>
   </programme>
 <programme start="20260727130000 +0000" stop="20260727133000 +0000" channel="skylife.애니맥스">
-    <title>귀멸의 칼날: 도공 마을 편(더빙)</title>
+    <title>귀멸의 칼날(한국어 더빙)</title>
     <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260727133000 +0000" stop="20260727140000 +0000" channel="skylife.애니맥스">
-    <title>귀멸의 칼날: 도공 마을 편(더빙)</title>
+    <title>귀멸의 칼날(한국어 더빙)</title>
     <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260727140000 +0000" stop="20260727143000 +0000" channel="skylife.애니맥스">
-    <title>귀멸의 칼날: 도공 마을 편(더빙)</title>
+    <title>귀멸의 칼날(한국어 더빙)</title>
     <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260727143000 +0000" stop="20260727150000 +0000" channel="skylife.애니맥스">
-    <title>귀멸의 칼날: 도공 마을 편(더빙)</title>
+    <title>귀멸의 칼날(한국어 더빙)</title>
     <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260727150000 +0000" stop="20260727153000 +0000" channel="skylife.애니맥스">
@@ -24588,6 +24596,10 @@
     <desc>하늘과 가장 가까운 곳에 닿아있는 땅, 바로 &apos;산!&apos; 전문산악인이 아니어도 누구나 쉽게 오를 수 있는 국내외의 명산을 찾아 자연이 주는 아름다움을 느껴보고, 산과 더불어 살아가는 사람들의 다양한 모습을 볼 수 있다.</desc>
     <category>시사/다큐 / 자연</category>
   </programme>
+<programme start="20260728150000 +0000" stop="20260728155000 +0000" channel="skylife.kbs1">
+    <title>네트워크 공동기획 문화스케치</title>
+    <category>교양/정보 / 예술/문화</category>
+  </programme>
 <programme start="20260727152000 +0000" stop="20260727154000 +0000" channel="skylife.mbc">
     <title>MBC 뉴스 25</title>
     <category>뉴스 / 뉴스</category>
@@ -25609,6 +25621,11 @@
     <desc>대한민국 강연계 레전드들이 펼치는 &apos;강연배틀쇼 사기꾼들&apos;!   하나의 주제, 각기 다른 이야기로 벌이는 한 판 승부! 과연 최고의 사기꾼은 누가 될 것인가!</desc>
     <category>교양/정보 / 일반</category>
   </programme>
+<programme start="20260728150000 +0000" stop="20260728164000 +0000" channel="skylife.jtbc4">
+    <title>[스포츠 전쟁] 강연배틀쇼 사기꾼들</title>
+    <desc>대한민국 강연계 레전드들이 펼치는 &apos;강연배틀쇼 사기꾼들&apos;!   하나의 주제, 각기 다른 이야기로 벌이는 한 판 승부! 과연 최고의 사기꾼은 누가 될 것인가!</desc>
+    <category>교양/정보 / 일반</category>
+  </programme>
 <programme start="20260727171000 +0000" stop="20260727180000 +0000" channel="skylife.채널a플러스">
     <title>신랑수업 2 장가특집</title>
     <desc>1등 신랑감 스타들의 연애 성장기를 보여주는 리얼리티 예능 프로그램</desc>
@@ -26229,6 +26246,10 @@
     <title>주식, 알아야번다 2부</title>
     <category>교양/정보 / 일반</category>
   </programme>
+<programme start="20260728150000 +0000" stop="20260728160000 +0000" channel="skylife.한국경제tv">
+    <title>판도라 (판을 읽는 도파민 라이브)</title>
+    <category>교양/정보 / 일반</category>
+  </programme>
 <programme start="20260727162000 +0000" stop="20260727182000 +0000" channel="skylife.매일경제tv">
     <title>친절한 종목상담 4989</title>
     <category>교양/정보 / 증권</category>
@@ -26621,6 +26642,11 @@
     <title>순정시대</title>
     <category>시사/다큐 / 일반</category>
   </programme>
+<programme start="20260728150000 +0000" stop="20260728153000 +0000" channel="skylife.ytn2">
+    <title>글로벌 코리안</title>
+    <desc>해외 동포들의 삶과 현안들을 현지통신원을 통해 알아본다.</desc>
+    <category>교양/정보 / 일반</category>
+  </programme>
 <programme start="20260727160000 +0000" stop="20260727170000 +0000" channel="skylife.히스토리">
     <title>세상의 모든 미스터리</title>
     <category>시사/다큐 / 일반</category>
@@ -26706,6 +26732,10 @@
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260728140000 +0000" stop="20260728150000 +0000" channel="skylife.히스토리">
+    <title>미스터리 팩트체크</title>
+    <category>시사/다큐 / 일반</category>
+  </programme>
+<programme start="20260728150000 +0000" stop="20260728160000 +0000" channel="skylife.히스토리">
     <title>미스터리 팩트체크</title>
     <category>시사/다큐 / 일반</category>
   </programme>
@@ -26873,6 +26903,10 @@
     <title>이게 왠 날리지</title>
     <category>시사/다큐 / 일반</category>
   </programme>
+<programme start="20260728150000 +0000" stop="20260728160000 +0000" channel="skylife.ytn사이언스">
+    <title>진실탐사대 세계의 불가사의</title>
+    <category>시사/다큐 / 일반</category>
+  </programme>
 <programme start="20260727153000 +0000" stop="20260727160000 +0000" channel="skylife.국회방송">
     <title>음악 여행자</title>
     <category>교양/정보 / 일반</category>
@@ -26983,6 +27017,10 @@
     <title>음악 여행자</title>
     <category>교양/정보 / 일반</category>
   </programme>
+<programme start="20260728150000 +0000" stop="20260728160000 +0000" channel="skylife.국회방송">
+    <title>하늘과 땅 사이의 산티아고 길</title>
+    <category>시사/다큐 / 일반</category>
+  </programme>
 <programme start="20260727153000 +0000" stop="20260727160000 +0000" channel="skylife.애니플러스">
     <title>[동시방영작]고양이와 용</title>
     <category>만화 / SF</category>
@@ -27063,6 +27101,10 @@
     <title>극장판 귀멸의 칼날: 아사쿠사 편</title>
     <category>영화 / 애니메이션</category>
   </programme>
+<programme start="20260728150000 +0000" stop="20260728153000 +0000" channel="skylife.애니플러스">
+    <title>[동시방영작]여기는 내게 맡기고 먼저 가라고 말한 지 10년이 지났더니 전설이 되어 있었다</title>
+    <category>만화 / 액션/무협</category>
+  </programme>
 <programme start="20260727153000 +0000" stop="20260727160000 +0000" channel="skylife.애니맥스">
     <title>여기는 내게 맡기고 먼저 가라고 말한 지 10년이 지났더니 전설이 되어 있었다</title>
     <category>만화 / 액션/무협</category>
@@ -27076,19 +27118,19 @@
     <category>만화 / 액션/무협</category>
   </programme>
 <programme start="20260727170000 +0000" stop="20260727173000 +0000" channel="skylife.애니맥스">
-    <title>전생 악녀의 흑역사</title>
+    <title>던전에서 만남을 추구하면 안 되는 걸까5 풍요의 여신편</title>
     <category>만화 / 순정</category>
   </programme>
 <programme start="20260727173000 +0000" stop="20260727180000 +0000" channel="skylife.애니맥스">
-    <title>전생 악녀의 흑역사</title>
+    <title>던전에서 만남을 추구하면 안 되는 걸까5 풍요의 여신편</title>
     <category>만화 / 순정</category>
   </programme>
 <programme start="20260727180000 +0000" stop="20260727183000 +0000" channel="skylife.애니맥스">
-    <title>전생 악녀의 흑역사</title>
+    <title>던전에서 만남을 추구하면 안 되는 걸까5 풍요의 여신편</title>
     <category>만화 / 순정</category>
   </programme>
 <programme start="20260727183000 +0000" stop="20260727190000 +0000" channel="skylife.애니맥스">
-    <title>전생 악녀의 흑역사</title>
+    <title>던전에서 만남을 추구하면 안 되는 걸까5 풍요의 여신편</title>
     <category>만화 / 순정</category>
   </programme>
 <programme start="20260727190000 +0000" stop="20260727192500 +0000" channel="skylife.애니맥스">
@@ -27122,12 +27164,12 @@
     <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260727213000 +0000" stop="20260727214500 +0000" channel="skylife.애니맥스">
-    <title>슈퍼윙스8 일렉트릭 히어로즈</title>
-    <category>만화 / 모험(adventure)</category>
+    <title>레고 드림즈 part2</title>
+    <category>만화 / 액션/무협</category>
   </programme>
 <programme start="20260727214500 +0000" stop="20260727220000 +0000" channel="skylife.애니맥스">
-    <title>슈퍼윙스8 일렉트릭 히어로즈</title>
-    <category>만화 / 모험(adventure)</category>
+    <title>레고 드림즈 part2</title>
+    <category>만화 / 액션/무협</category>
   </programme>
 <programme start="20260727220000 +0000" stop="20260727221500 +0000" channel="skylife.애니맥스">
     <title>슈크림 토끼 슈야</title>
@@ -27186,27 +27228,35 @@
     <category>만화 / 명랑</category>
   </programme>
 <programme start="20260728030000 +0000" stop="20260728033000 +0000" channel="skylife.애니맥스">
-    <title>백앤아: 고고프렌즈4</title>
+    <title>백앤아: 고고프렌즈5</title>
     <category>연예/오락 / 일반</category>
   </programme>
 <programme start="20260728033000 +0000" stop="20260728040000 +0000" channel="skylife.애니맥스">
-    <title>백앤아: 고고프렌즈4</title>
+    <title>백앤아: 고고프렌즈5</title>
     <category>연예/오락 / 일반</category>
   </programme>
 <programme start="20260728040000 +0000" stop="20260728043000 +0000" channel="skylife.애니맥스">
-    <title>백앤아: 고고프렌즈4</title>
-    <category>연예/오락 / 일반</category>
+    <title>뚜식이10</title>
+    <category>만화 / 코믹</category>
   </programme>
 <programme start="20260728043000 +0000" stop="20260728050000 +0000" channel="skylife.애니맥스">
-    <title>뚜식이 9</title>
+    <title>뚜식이10</title>
     <category>만화 / 코믹</category>
   </programme>
-<programme start="20260728050000 +0000" stop="20260728053000 +0000" channel="skylife.애니맥스">
-    <title>뚜식이 9</title>
+<programme start="20260728050000 +0000" stop="20260728051500 +0000" channel="skylife.애니맥스">
+    <title>키에커: 세라의 먹방</title>
     <category>만화 / 코믹</category>
   </programme>
-<programme start="20260728053000 +0000" stop="20260728060000 +0000" channel="skylife.애니맥스">
-    <title>뚜식이 9</title>
+<programme start="20260728051500 +0000" stop="20260728053000 +0000" channel="skylife.애니맥스">
+    <title>키에커: 세라의 먹방</title>
+    <category>만화 / 코믹</category>
+  </programme>
+<programme start="20260728053000 +0000" stop="20260728054500 +0000" channel="skylife.애니맥스">
+    <title>키에커: 세라의 먹방</title>
+    <category>만화 / 코믹</category>
+  </programme>
+<programme start="20260728054500 +0000" stop="20260728060000 +0000" channel="skylife.애니맥스">
+    <title>키에커: 세라의 먹방</title>
     <category>만화 / 코믹</category>
   </programme>
 <programme start="20260728060000 +0000" stop="20260728063000 +0000" channel="skylife.애니맥스">
@@ -27257,28 +27307,36 @@
     <title>집사TV2</title>
     <category>취미/레저 / 일반</category>
   </programme>
-<programme start="20260728110000 +0000" stop="20260728113000 +0000" channel="skylife.애니맥스">
-    <title>뚜식이 번외편: 지옥 시리즈</title>
-    <category>만화 / 코믹</category>
-  </programme>
-<programme start="20260728113000 +0000" stop="20260728120000 +0000" channel="skylife.애니맥스">
-    <title>뚜식이 번외편: 지옥 시리즈</title>
+<programme start="20260728110000 +0000" stop="20260728120000 +0000" channel="skylife.애니맥스">
+    <title>뚜식이 특별편: 뽕짜작 뽕짝</title>
     <category>만화 / 코믹</category>
   </programme>
 <programme start="20260728120000 +0000" stop="20260728123000 +0000" channel="skylife.애니맥스">
-    <title>명탐정 코난: 어린이 탐정단의 대모험</title>
+    <title>명탐정 코난 스페셜: 잠자는 명탐정 보라!</title>
     <category>만화 / 탐정</category>
   </programme>
 <programme start="20260728123000 +0000" stop="20260728130000 +0000" channel="skylife.애니맥스">
-    <title>명탐정 코난: 어린이 탐정단의 대모험</title>
+    <title>명탐정 코난 스페셜: 잠자는 명탐정 보라!</title>
     <category>만화 / 탐정</category>
   </programme>
-<programme start="20260728130000 +0000" stop="20260728140000 +0000" channel="skylife.애니맥스">
-    <title>귀멸의 칼날: 도공 마을 편(더빙)</title>
+<programme start="20260728130000 +0000" stop="20260728133000 +0000" channel="skylife.애니맥스">
+    <title>귀멸의 칼날(한국어 더빙)</title>
     <category>만화 / 모험(adventure)</category>
   </programme>
-<programme start="20260728140000 +0000" stop="20260728150000 +0000" channel="skylife.애니맥스">
-    <title>귀멸의 칼날: 합동 강화 훈련 편(더빙)</title>
+<programme start="20260728133000 +0000" stop="20260728140000 +0000" channel="skylife.애니맥스">
+    <title>귀멸의 칼날(한국어 더빙)</title>
+    <category>만화 / 모험(adventure)</category>
+  </programme>
+<programme start="20260728140000 +0000" stop="20260728143000 +0000" channel="skylife.애니맥스">
+    <title>귀멸의 칼날(한국어 더빙)</title>
+    <category>만화 / 모험(adventure)</category>
+  </programme>
+<programme start="20260728143000 +0000" stop="20260728150000 +0000" channel="skylife.애니맥스">
+    <title>귀멸의 칼날(한국어 더빙)</title>
+    <category>만화 / 모험(adventure)</category>
+  </programme>
+<programme start="20260728150000 +0000" stop="20260728153000 +0000" channel="skylife.애니맥스">
+    <title>안녕, 라라</title>
     <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260727153000 +0000" stop="20260727160000 +0000" channel="skylife.애니박스">
@@ -27473,6 +27531,10 @@
     <title>[자막] 월드 이즈 댄싱</title>
     <category>만화 / 명랑</category>
   </programme>
+<programme start="20260728150000 +0000" stop="20260728153000 +0000" channel="skylife.애니박스">
+    <title>[자막] 천막의 자두가르</title>
+    <category>만화 / 역사</category>
+  </programme>
 <programme start="20260727160000 +0000" stop="20260727163000 +0000" channel="skylife.투니버스">
     <title>명탐정 코난 14</title>
     <category>만화 / 탐정</category>
@@ -27583,6 +27645,10 @@
 <programme start="20260728140000 +0000" stop="20260728150000 +0000" channel="skylife.투니버스">
     <title>메이드 양은 먹기만 할 뿐(자막)</title>
     <category>만화 / 명랑</category>
+  </programme>
+<programme start="20260728150000 +0000" stop="20260728160000 +0000" channel="skylife.투니버스">
+    <title>짱구는 못말려 25</title>
+    <category>만화 / 코믹</category>
   </programme>
 <programme start="20260727160000 +0000" stop="20260727163000 +0000" channel="skylife.cj.온스타일">
     <title>1촌1명품/1사1명품(수화)</title>
