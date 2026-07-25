@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260725091616 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="TW-EPG-Multi-Merger">
+<tv date="20260725111605 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="TW-EPG-Multi-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -699,18 +699,18 @@
 <channel id="homeplus.CartoonNetwork"><display-name lang="TW">243 靖天卡通台</display-name><icon src="https://myeth-epg.github.io/icons2/t5243.png" /></channel>
 <channel id="homeplus.好消息二台"><display-name lang="TW">900 好消息2台</display-name><icon src="https://myeth-epg.github.io/icons2/t5900.png" /></channel>
 
-<channel id="homeplus.BBCEarth"><display-name lang="TW">001 BBC EARTH</display-name><icon src="https://myeth-epg.github.io/icons/bbcearth.png" /></channel>
-<channel id="hami.ETTVNews"><display-name lang="TW">003 東森新聞</display-name><icon src="https://myeth-epg.github.io/icons/東森新聞.png" /></channel>
-<channel id="homeplus.東森財經新聞台"><display-name lang="TW">005 東森財經新聞</display-name><icon src="https://myeth-epg.github.io/icons/t1563.png" /></channel>
-<channel id="hami.FTVNews"><display-name lang="TW">006 民視新聞</display-name><icon src="https://myeth-epg.github.io/icons2/t4053.png" /></channel>
-<channel id="homeplus.BBCLifestyle"><display-name lang="TW">007 BBC Lifestyle</display-name><icon src="https://myeth-epg.github.io/icons/now502.png" /></channel>
-<channel id="hami.FTTaiwan"><display-name lang="TW">009 民視</display-name><icon src="https://myeth-epg.github.io/icons/t45.png" /></channel>
-<channel id="0"><display-name lang="TW">010 DAZN</display-name><icon src="https://myeth-epg.github.io/icons2/0.png" /></channel>
-<channel id="homeplus.Cbeebies"><display-name lang="TW">011 BBC CBeebies</display-name><icon src="https://myeth-epg.github.io/icons/cbeebies.png" /></channel>
-<channel id="0"><display-name lang="TW">012 MyVideo體育台</display-name><icon src="https://myeth-epg.github.io/icons2/0.png" /></channel>
-<channel id="homeplus.博斯高球一台"><display-name lang="TW">014 博斯高球</display-name><icon src="https://myeth-epg.github.io/icons/t1846.png" /></channel>
-<channel id="hami.博斯運動一台"><display-name lang="TW">015 博斯運動一台</display-name><icon src="https://myeth-epg.github.io/icons/t1845.png" /></channel>
-<channel id="homeplus.博斯網球台"><display-name lang="TW">030 博斯網球</display-name><icon src="https://myeth-epg.github.io/icons/t1903.png" /></channel>
+<channel id="myvideo.BBCEARTH"><display-name lang="TW">001 BBC EARTH</display-name><icon src="https://myeth-epg.github.io/icons/bbcearth.png" /></channel>
+<channel id="myvideo.東森新聞"><display-name lang="TW">003 東森新聞</display-name><icon src="https://myeth-epg.github.io/icons/東森新聞.png" /></channel>
+<channel id="myvideo.東森財經新聞"><display-name lang="TW">005 東森財經新聞</display-name><icon src="https://myeth-epg.github.io/icons/t1563.png" /></channel>
+<channel id="myvideo.民視新聞"><display-name lang="TW">006 民視新聞</display-name><icon src="https://myeth-epg.github.io/icons2/t4053.png" /></channel>
+<channel id="myvideo.BBCLifestyle"><display-name lang="TW">007 BBC Lifestyle</display-name><icon src="https://myeth-epg.github.io/icons/now502.png" /></channel>
+<channel id="myvideo.民視"><display-name lang="TW">009 民視</display-name><icon src="https://myeth-epg.github.io/icons/t45.png" /></channel>
+<channel id="myvideo.dazn"><display-name lang="TW">010 DAZN</display-name><icon src="https://myeth-epg.github.io/icons2/0.png" /></channel>
+<channel id="myvideo.BBCCBeebies"><display-name lang="TW">011 BBC CBeebies</display-name><icon src="https://myeth-epg.github.io/icons/cbeebies.png" /></channel>
+<channel id="myvideo.sports"><display-name lang="TW">012 MyVideo體育台</display-name><icon src="https://myeth-epg.github.io/icons2/0.png" /></channel>
+<channel id="myvideo.博斯高球"><display-name lang="TW">014 博斯高球</display-name><icon src="https://myeth-epg.github.io/icons/t1846.png" /></channel>
+<channel id="myvideo.博斯運動一台"><display-name lang="TW">015 博斯運動一台</display-name><icon src="https://myeth-epg.github.io/icons/t1845.png" /></channel>
+<channel id="myvideo.博斯網球"><display-name lang="TW">030 博斯網球</display-name><icon src="https://myeth-epg.github.io/icons/t1903.png" /></channel>
 
 
 
@@ -160068,7 +160068,280 @@ Try科學以放大生活中各種有趣現象為誘因，以主持人科學機�
     </rating>
   </programme>
 
-<!-- Programme9 -->
+<!-- Programme9 --><programme start="20260725110000 +0000" stop="20260725113000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(7/5/26)#27</title>
+  </programme>
+<programme start="20260725113000 +0000" stop="20260725120000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(6/21/26)#25</title>
+  </programme>
+<programme start="20260725120000 +0000" stop="20260725123000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(6/14/26)#24</title>
+  </programme>
+<programme start="20260725123000 +0000" stop="20260725130000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(5/24/26)#21</title>
+  </programme>
+<programme start="20260725130000 +0000" stop="20260725140000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026中華職棒37年統一主場-富邦VS統一(7/22/26)#215</title>
+  </programme>
+<programme start="20260725160000 +0000" stop="20260725163000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(5/10/26)#19</title>
+  </programme>
+<programme start="20260725163000 +0000" stop="20260725170000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(4/26/26)#17</title>
+  </programme>
+<programme start="20260725170000 +0000" stop="20260725173000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(4/12/26)#15</title>
+  </programme>
+<programme start="20260725173000 +0000" stop="20260725180000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(1/18/26)#3</title>
+  </programme>
+<programme start="20260725180000 +0000" stop="20260725210000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026中華職棒37年統一主場-富邦VS統一(7/22/26)#215</title>
+  </programme>
+<programme start="20260725210000 +0000" stop="20260725213000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(3/15/26)#11</title>
+  </programme>
+<programme start="20260725213000 +0000" stop="20260725220000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(3/1/26)#9</title>
+  </programme>
+<programme start="20260725220000 +0000" stop="20260725223000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(2/15/26)#7</title>
+  </programme>
+<programme start="20260725223000 +0000" stop="20260725230000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(2/1/26)#5</title>
+  </programme>
+<programme start="20260725230000 +0000" stop="20260725233000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(5/10/26)#19</title>
+  </programme>
+<programme start="20260725233000 +0000" stop="20260726000000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(5/3/26)#18</title>
+  </programme>
+<programme start="20260726000000 +0000" stop="20260726003000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(4/26/26)#17</title>
+  </programme>
+<programme start="20260726003000 +0000" stop="20260726010000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(2/15/26)#7</title>
+  </programme>
+<programme start="20260726010000 +0000" stop="20260726013000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(4/12/26)#15</title>
+  </programme>
+<programme start="20260726013000 +0000" stop="20260726020000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(4/5/26)#14</title>
+  </programme>
+<programme start="20260726020000 +0000" stop="20260726023000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(3/29/26)#13</title>
+  </programme>
+<programme start="20260726023000 +0000" stop="20260726030000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(3/15/26)#11</title>
+  </programme>
+<programme start="20260726030000 +0000" stop="20260726060000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026中華職棒37年統一主場-富邦VS統一(7/22/26)#215</title>
+  </programme>
+<programme start="20260726060000 +0000" stop="20260726063000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(4/19/26)#16</title>
+  </programme>
+<programme start="20260726063000 +0000" stop="20260726070000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(2/22/26)#8</title>
+  </programme>
+<programme start="20260726070000 +0000" stop="20260726073000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(3/1/26)#9</title>
+  </programme>
+<programme start="20260726073000 +0000" stop="20260726080000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(3/7/26)#10</title>
+  </programme>
+<programme start="20260726080000 +0000" stop="20260726110000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026中華職棒37年味全主場-樂天VS味全(7/21/26)#212</title>
+  </programme>
+<programme start="20260726110000 +0000" stop="20260726120000 +0000" channel="myvideo.sports">
+    <title lang="zh">2025 WRC世界拉力賽分站精華(9/18/25)#7</title>
+  </programme>
+<programme start="20260726120000 +0000" stop="20260726123000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(1/4/26)#1</title>
+  </programme>
+<programme start="20260726123000 +0000" stop="20260726130000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(2/8/26)#6</title>
+  </programme>
+<programme start="20260726130000 +0000" stop="20260726140000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026中華職棒37年味全主場-樂天VS味全(7/22/26)#214</title>
+  </programme>
+<programme start="20260726160000 +0000" stop="20260726163000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(2/1/26)#5</title>
+  </programme>
+<programme start="20260726163000 +0000" stop="20260726170000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(7/5/26)#27</title>
+  </programme>
+<programme start="20260726170000 +0000" stop="20260726173000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(5/17/26)#20</title>
+  </programme>
+<programme start="20260726173000 +0000" stop="20260726180000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(6/28/26)#26</title>
+  </programme>
+<programme start="20260726180000 +0000" stop="20260726210000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026中華職棒37年統一主場-富邦VS統一(7/23/26)#216</title>
+  </programme>
+<programme start="20260726210000 +0000" stop="20260726213000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(5/24/26)#21</title>
+  </programme>
+<programme start="20260726213000 +0000" stop="20260726220000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(6/21/26)#25</title>
+  </programme>
+<programme start="20260726220000 +0000" stop="20260726223000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(5/31/26)#22</title>
+  </programme>
+<programme start="20260726223000 +0000" stop="20260726230000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(6/14/26)#24</title>
+  </programme>
+<programme start="20260726230000 +0000" stop="20260726233000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(7/12/26)#28</title>
+  </programme>
+<programme start="20260726233000 +0000" stop="20260727000000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(6/28/26)#26</title>
+  </programme>
+<programme start="20260727000000 +0000" stop="20260727003000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(6/14/26)#24</title>
+  </programme>
+<programme start="20260727003000 +0000" stop="20260727033000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026中華職棒37年統一主場-味全VS統一(7/12/26)#202</title>
+  </programme>
+<programme start="20260727033000 +0000" stop="20260727040000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(6/21/26)#25</title>
+  </programme>
+<programme start="20260727040000 +0000" stop="20260727043000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(5/31/26)#22</title>
+  </programme>
+<programme start="20260727043000 +0000" stop="20260727050000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(5/24/26)#21</title>
+  </programme>
+<programme start="20260727050000 +0000" stop="20260727053000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(7/5/26)#27</title>
+  </programme>
+<programme start="20260727053000 +0000" stop="20260727083000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026中華職棒37年味全主場-台鋼VS味全(7/9/26)#195</title>
+  </programme>
+<programme start="20260727083000 +0000" stop="20260727090000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(6/28/26)#26</title>
+  </programme>
+<programme start="20260727090000 +0000" stop="20260727093000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(7/12/26)#28</title>
+  </programme>
+<programme start="20260727093000 +0000" stop="20260727100000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026緯來運動STUDIO第三季(7/26/26)#26</title>
+  </programme>
+<programme start="20260727100000 +0000" stop="20260727103000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(6/21/26)#25</title>
+  </programme>
+<programme start="20260727103000 +0000" stop="20260727133000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026中華職棒37年統一主場-兄弟VS統一(7/7/26)#191</title>
+  </programme>
+<programme start="20260727133000 +0000" stop="20260727140000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(6/14/26)#24</title>
+  </programme>
+<programme start="20260727140000 +0000" stop="20260727143000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026棒球週報(5/24/26)#21</title>
+  </programme>
+<programme start="20260727143000 +0000" stop="20260727153000 +0000" channel="myvideo.sports">
+    <title lang="zh">2025 WRC世界拉力賽分站精華(9/18/25)#7</title>
+  </programme>
+<programme start="20260727153000 +0000" stop="20260727163000 +0000" channel="myvideo.sports">
+    <title lang="zh">2026中華職棒37年統一主場-味全VS統一(7/10/26)#198</title>
+  </programme>
+<programme start="20260725090000 +0000" stop="20260725120000 +0000" channel="myvideo.dazn">
+    <title lang="zh">LIVE 2026中華職棒 富邦 vs 樂天 (7/25/26)</title>
+  </programme>
+<programme start="20260725120000 +0000" stop="20260725150000 +0000" channel="myvideo.dazn">
+    <title lang="zh">(首)2026日本職棒 火腿 vs 樂天(7/25/26)</title>
+  </programme>
+<programme start="20260725150000 +0000" stop="20260725160000 +0000" channel="myvideo.dazn">
+    <title lang="zh">2025/26 格鬥特區 EP6</title>
+  </programme>
+<programme start="20260725160000 +0000" stop="20260725170000 +0000" channel="myvideo.dazn">
+    <title lang="zh">麻將大師 第七季 EP51</title>
+  </programme>
+<programme start="20260725170000 +0000" stop="20260725190000 +0000" channel="myvideo.dazn">
+    <title lang="zh">2025 第四屆 Universal 台北職業撞球公開賽 冠軍賽 (1/11/26)</title>
+  </programme>
+<programme start="20260725190000 +0000" stop="20260725220000 +0000" channel="myvideo.dazn">
+    <title lang="zh">2026日本職棒 西武 vs 軟銀(7/25/26)</title>
+  </programme>
+<programme start="20260725220000 +0000" stop="20260725230000 +0000" channel="myvideo.dazn">
+    <title lang="zh">麻將大師 第八季 EP2</title>
+  </programme>
+<programme start="20260725230000 +0000" stop="20260726010000 +0000" channel="myvideo.dazn">
+    <title lang="zh">西甲 馬德里競技 vs 比利亞雷亞爾 (9/14/25)</title>
+  </programme>
+<programme start="20260726010000 +0000" stop="20260726035700 +0000" channel="myvideo.dazn">
+    <title lang="zh">2026中華職棒 富邦 vs 樂天 (7/25/26)</title>
+  </programme>
+<programme start="20260726035700 +0000" stop="20260726070000 +0000" channel="myvideo.dazn">
+    <title lang="zh">LIVE 2026日本職棒 火腿 vs 樂天(7/26/26)</title>
+  </programme>
+<programme start="20260726070000 +0000" stop="20260726073000 +0000" channel="myvideo.dazn">
+    <title lang="zh">野球名人房 S2 EP186</title>
+  </programme>
+<programme start="20260726073000 +0000" stop="20260726075000 +0000" channel="myvideo.dazn">
+    <title lang="zh">2026 好球特區 EP7</title>
+  </programme>
+<programme start="20260726075000 +0000" stop="20260726080000 +0000" channel="myvideo.dazn">
+    <title lang="zh">LIVE 中職賽前報 (7/26/26)</title>
+  </programme>
+<programme start="20260726080000 +0000" stop="20260726110000 +0000" channel="myvideo.dazn">
+    <title lang="zh">LIVE 2026中華職棒 富邦 vs 樂天 (7/26/26)</title>
+  </programme>
+<programme start="20260726110000 +0000" stop="20260726113000 +0000" channel="myvideo.dazn">
+    <title lang="zh">鍵盤球探 EP112 暴力熊隊長生涯回顧 潘忠韋專訪 上</title>
+  </programme>
+<programme start="20260726113000 +0000" stop="20260726120000 +0000" channel="myvideo.dazn">
+    <title lang="zh">鍵盤球探 EP113 暴力熊隊長生涯回顧 潘忠韋專訪 下</title>
+  </programme>
+<programme start="20260726120000 +0000" stop="20260726150000 +0000" channel="myvideo.dazn">
+    <title lang="zh">(首)2026日本職棒 西武 vs 軟銀(7/26/26)</title>
+  </programme>
+<programme start="20260726150000 +0000" stop="20260726160000 +0000" channel="myvideo.dazn">
+    <title lang="zh">2025/26 格鬥特區 EP7</title>
+  </programme>
+<programme start="20260726160000 +0000" stop="20260726170000 +0000" channel="myvideo.dazn">
+    <title lang="zh">麻將大師 第七季 EP52</title>
+  </programme>
+<programme start="20260726170000 +0000" stop="20260726190000 +0000" channel="myvideo.dazn">
+    <title lang="zh">企業排球聯賽 新北中纖 vs 義力營造 (11/1/25)</title>
+  </programme>
+<programme start="20260726190000 +0000" stop="20260726220000 +0000" channel="myvideo.dazn">
+    <title lang="zh">2026日本職棒 軟銀 vs 歐力士(7/22/26)</title>
+  </programme>
+<programme start="20260726220000 +0000" stop="20260726230000 +0000" channel="myvideo.dazn">
+    <title lang="zh">麻將大師 第八季 EP3</title>
+  </programme>
+<programme start="20260726230000 +0000" stop="20260727010000 +0000" channel="myvideo.dazn">
+    <title lang="zh">西甲 皇家奧維耶多  vs 皇家馬德里 (8/25/25)</title>
+  </programme>
+<programme start="20260727010000 +0000" stop="20260727040000 +0000" channel="myvideo.dazn">
+    <title lang="zh">2026中華職棒 富邦 vs 樂天 (7/26/26)</title>
+  </programme>
+<programme start="20260727040000 +0000" stop="20260727050000 +0000" channel="myvideo.dazn">
+    <title lang="zh">麻將大師 第八季 EP7</title>
+  </programme>
+<programme start="20260727050000 +0000" stop="20260727070000 +0000" channel="myvideo.dazn">
+    <title lang="zh">2026中華企業射箭聯賽 新北凱撒 vs 寒舍集團 (5/30/26)</title>
+  </programme>
+<programme start="20260727070000 +0000" stop="20260727090000 +0000" channel="myvideo.dazn">
+    <title lang="zh">2025 第四屆 Universal 台北職業撞球公開賽 冠軍賽 (1/11/26)</title>
+  </programme>
+<programme start="20260727090000 +0000" stop="20260727120000 +0000" channel="myvideo.dazn">
+    <title lang="zh">2026日本職棒 樂天 vs 西武 (7/19/26)</title>
+  </programme>
+<programme start="20260727120000 +0000" stop="20260727123000 +0000" channel="myvideo.dazn">
+    <title lang="zh">野球名人房 S2 EP185</title>
+  </programme>
+<programme start="20260727123000 +0000" stop="20260727133000 +0000" channel="myvideo.dazn">
+    <title lang="zh">世界最強壯的男人 S5 EP4</title>
+  </programme>
+<programme start="20260727133000 +0000" stop="20260727140000 +0000" channel="myvideo.dazn">
+    <title lang="zh">球來就講 世界盃足球特輯SP2 上集</title>
+  </programme>
+<programme start="20260727140000 +0000" stop="20260727150000 +0000" channel="myvideo.dazn">
+    <title lang="zh">西甲 巴塞隆納 vs 比利亞雷亞爾(2/28/26)</title>
+  </programme>
+
 <!-- Programme10 -->
 <!-- Programme11 -->
 <!-- Programme12 -->
