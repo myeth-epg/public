@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260727163410 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="SG-EPG-Merger">
+<tv date="20260728035013 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="SG-EPG-Merger">
 
 <!-- Channels -->
 
@@ -21,18 +21,20 @@
 <channel id="mewatch.cna"><display-name>[SG] 106 CNA</display-name><icon src="https://myeth-epg.github.io/icons/cna.png"/></channel>
 <channel id="mewatch.spl01"><display-name>[SG] 107 SPL01</display-name><icon src="https://myeth-epg.github.io/icons3/sg107.png"/></channel>
 <channel id="mewatch.spl02"><display-name>[SG] 108 SPL02</display-name><icon src="https://myeth-epg.github.io/icons3/sg108.png"/></channel>
-
 <channel id="starhub.hubsports1"><display-name>[SG] 201 Hub Sports 1 HD</display-name><icon src="https://myeth-epg.github.io/icons3/sg201.png"/></channel>
 <channel id="starhub.hubsports2"><display-name>[SG] 202 Hub Sports 2 HD</display-name><icon src="https://myeth-epg.github.io/icons3/sg202.png"/></channel>
 <channel id="starhub.hubsports3"><display-name>[SG] 203 Hub Sports 3 HD</display-name><icon src="https://myeth-epg.github.io/icons3/sg203.png"/></channel>
 <channel id="starhub.hubpremier1"><display-name>[SG] 221 Hub Premier 1</display-name><icon src="https://myeth-epg.github.io/icons3/sg221.png"/></channel>
 <channel id="starhub.hubpremier2"><display-name>[SG] 222 Hub Premier 2</display-name><icon src="https://myeth-epg.github.io/icons3/sg222.png"/></channel>
-
 <channel id="singtel.ele"><display-name>[SG] 501 e-Le</display-name><icon src="https://myeth-epg.github.io/icons3/sg501.png"/></channel>
 <channel id="mewatch.jiale"><display-name>[SG] 502 Jia Le Channel</display-name><icon src="https://myeth-epg.github.io/icons3/sg502.png"/></channel>
 <channel id="singtel.julecool"><display-name>[SG] 503 Ju Le Cool</display-name><icon src="https://myeth-epg.github.io/icons3/sg503.png"/></channel>
 <channel id="singtel.cm"><display-name>[SG] 571 CM+</display-name><icon src="https://myeth-epg.github.io/icons/cm+.png"/></channel>
 <channel id="starhub.celestialmovies"><display-name>[SG] 585 Celestial Movies(HD)</display-name><icon src="https://myeth-epg.github.io/icons/天映頻道.png"/></channel>
+<channel id="starhub.hubecity"><display-name>[SG] 825 Hub E City</display-name><icon src="https://myeth-epg.github.io/icons3/sg111a.png"></icon></channel>
+<channel id="starhub.hubruyi"><display-name>[SG] 852 Hub Ruyi</display-name><icon src="https://myeth-epg.github.io/icons3/sg852.png"></icon></channel>
+<channel id="starhub.hubvvdrama"><display-name>[SG] 855 Hub VV Drama</display-name><icon src="https://myeth-epg.github.io/icons3/sg855.png"></icon></channel>
+
 
 
 <channel id="starhub.previewchannel"><display-name>101 Preview Channel</display-name><icon src="https://myeth-epg.github.io/icons3/sg101a.png"/></channel>
@@ -149,8 +151,8 @@
 <channel id="starhub.beinsports2"><display-name>127 beIN SPORTS 2 (HD)</display-name><icon src="https://myeth-epg.github.io/icons3/sg.png"/></channel>
 <channel id="starhub.beinsports3"><display-name>128 beIN SPORTS 3 (HD)</display-name><icon src="https://myeth-epg.github.io/icons3/sg.png"/></channel>
 
-<channel id="0"><display-name>141 FIFA World Cup CH01</display-name><icon src="https://myeth-epg.github.io/icons3/sg.png"/></channel>
-<channel id="0"><display-name>142 FIFA World Cup CH02</display-name><icon src="https://myeth-epg.github.io/icons3/sg.png"/></channel>
+<channel id="starhub.fifaworldcupch01"><display-name>141 FIFA World Cup CH01</display-name><icon src="https://myeth-epg.github.io/icons3/sg.png"/></channel>
+<channel id="starhub.fifaworldcupch02"><display-name>142 FIFA World Cup CH02</display-name><icon src="https://myeth-epg.github.io/icons3/sg.png"/></channel>
 <channel id="starhub.skynews"><display-name>151 Sky News HD</display-name><icon src="https://myeth-epg.github.io/icons3/sg.png"/></channel>
 <channel id="starhub.cgtn"><display-name>155 CGTN (HD)</display-name><icon src="https://myeth-epg.github.io/icons3/sg.png"/></channel>
 <channel id="starhub.nhkworld"><display-name>157 NHK World - Japan</display-name><icon src="https://myeth-epg.github.io/icons3/sg.png"/></channel>
@@ -72430,6 +72432,30 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 <programme start="20260728153000 +0000" stop="20260728160000 +0000" channel="starhub.cgtn">
     <title lang="en">The Vibe</title>
     <desc lang="en">The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.</desc>
+  </programme>
+<programme start="20260726160000 +0000" stop="20260726220000 +0000" channel="starhub.fifaworldcupch01">
+    <title lang="en">No Transmission</title>
+  </programme>
+<programme start="20260726220000 +0000" stop="20260727040000 +0000" channel="starhub.fifaworldcupch01">
+    <title lang="en">No Transmission</title>
+  </programme>
+<programme start="20260727040000 +0000" stop="20260727100000 +0000" channel="starhub.fifaworldcupch01">
+    <title lang="en">No Transmission</title>
+  </programme>
+<programme start="20260727100000 +0000" stop="20260727160000 +0000" channel="starhub.fifaworldcupch01">
+    <title lang="en">No Transmission</title>
+  </programme>
+<programme start="20260727160000 +0000" stop="20260727220000 +0000" channel="starhub.fifaworldcupch01">
+    <title lang="en">No Transmission</title>
+  </programme>
+<programme start="20260727220000 +0000" stop="20260728040000 +0000" channel="starhub.fifaworldcupch01">
+    <title lang="en">No Transmission</title>
+  </programme>
+<programme start="20260728040000 +0000" stop="20260728100000 +0000" channel="starhub.fifaworldcupch01">
+    <title lang="en">No Transmission</title>
+  </programme>
+<programme start="20260728100000 +0000" stop="20260728160000 +0000" channel="starhub.fifaworldcupch01">
+    <title lang="en">No Transmission</title>
   </programme>
 <programme start="20260727150000 +0000" stop="20260727170000 +0000" channel="starhub.cinemaoneglobal">
     <title lang="en">My Ex And Whys</title>
