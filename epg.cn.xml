@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260728164140 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="CN-EPG-Merger">
+<tv date="20260729163944 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="CN-EPG-Merger">
 
 <!-- Channels -->
 
@@ -214,633 +214,6 @@
 
 
 <!-- Programmes -->
-<programme start="20260722160000 +0000" stop="20260722221000 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">喜羊羊与灰太狼之勇闯四季城</title>
-  </programme>
-<programme start="20260722160000 +0000" stop="20260722165000 +0000" channel="gdtv.广东少儿">
-    <title lang="zh">午夜剧场</title>
-  </programme>
-<programme start="20260722160000 +0000" stop="20260722163000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">专题</title>
-  </programme>
-<programme start="20260722161500 +0000" stop="20260722170300 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">地雷战</title>
-  </programme>
-<programme start="20260722161500 +0000" stop="20260722170500 +0000" channel="gdtv.广东影视">
-    <title lang="zh">午夜剧场</title>
-  </programme>
-<programme start="20260722161600 +0000" stop="20260722164800 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛法国vs瑞典</title>
-  </programme>
-<programme start="20260722163000 +0000" stop="20260722170000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日焦点</title>
-  </programme>
-<programme start="20260722164800 +0000" stop="20260722171400 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮西班牙vs佛得角</title>
-  </programme>
-<programme start="20260722165000 +0000" stop="20260722220000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">电视剧:隐形的翅膀</title>
-  </programme>
-<programme start="20260722170000 +0000" stop="20260722220000 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">风雅潮韵:玉堂春名段精选(3)</title>
-  </programme>
-<programme start="20260722170000 +0000" stop="20260722174500 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日一线</title>
-  </programme>
-<programme start="20260722170300 +0000" stop="20260722210000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">纪录片</title>
-  </programme>
-<programme start="20260722171400 +0000" stop="20260722174000 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮西班牙vs沙特阿拉伯</title>
-  </programme>
-<programme start="20260722174000 +0000" stop="20260722180600 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第3轮乌拉圭vs西班牙</title>
-  </programme>
-<programme start="20260722174500 +0000" stop="20260722180500 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">老广的味道</title>
-  </programme>
-<programme start="20260722180500 +0000" stop="20260722214000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日关注</title>
-  </programme>
-<programme start="20260722180600 +0000" stop="20260722183600 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播劲速天地(202622)</title>
-  </programme>
-<programme start="20260722183600 +0000" stop="20260722190200 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮阿根廷vs阿尔及利亚</title>
-  </programme>
-<programme start="20260722190200 +0000" stop="20260722192800 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮阿根廷vs奥地利</title>
-  </programme>
-<programme start="20260722192800 +0000" stop="20260722195400 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第3轮约旦vs阿根廷</title>
-  </programme>
-<programme start="20260722195400 +0000" stop="20260722202000 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播2026年广东省城市足球超级联赛常规赛(东区)第8轮补赛深圳vs汕头</title>
-  </programme>
-<programme start="20260722202000 +0000" stop="20260722204600 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播2026年广东省城市足球超级联赛常规赛(西区)第8轮云浮vs中山</title>
-  </programme>
-<programme start="20260722204600 +0000" stop="20260722211200 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯三四名决赛法国vs英格兰</title>
-  </programme>
-<programme start="20260722210000 +0000" stop="20260722214400 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">莲花楼(21)</title>
-  </programme>
-<programme start="20260722211200 +0000" stop="20260722214300 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯决赛西班牙vs阿根廷</title>
-  </programme>
-<programme start="20260722214000 +0000" stop="20260722220000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">社会纵横</title>
-  </programme>
-<programme start="20260722214300 +0000" stop="20260722220900 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮法国vs塞内加尔</title>
-  </programme>
-<programme start="20260722214400 +0000" stop="20260722223000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">莲花楼(22)</title>
-  </programme>
-<programme start="20260722220000 +0000" stop="20260722235200 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">剧场连线:血沃共和花(2)</title>
-  </programme>
-<programme start="20260722220000 +0000" stop="20260723000000 +0000" channel="gdtv.广东少儿">
-    <title lang="zh">早间卡通剧场海底小纵队</title>
-  </programme>
-<programme start="20260722220000 +0000" stop="20260722223000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">直播广东</title>
-  </programme>
-<programme start="20260722220000 +0000" stop="20260722230000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">系列短剧:外来媳妇本地郎</title>
-  </programme>
-<programme start="20260722220900 +0000" stop="20260722223700 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第3轮挪威vs法国</title>
-  </programme>
-<programme start="20260722221000 +0000" stop="20260723000100 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">猪猪侠之竞速小英雄(七)</title>
-  </programme>
-<programme start="20260722221000 +0000" stop="20260723004500 +0000" channel="gdtv.广东影视">
-    <title lang="zh">醒晨剧场一:热血芳华(33-36)</title>
-  </programme>
-<programme start="20260722223000 +0000" stop="20260722225700 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">广东新闻联播重播</title>
-  </programme>
-<programme start="20260722223000 +0000" stop="20260722230100 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260722223700 +0000" stop="20260722230300 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛法国vs瑞典</title>
-  </programme>
-<programme start="20260722225700 +0000" stop="20260722230000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">早间天气预报</title>
-  </programme>
-<programme start="20260722230000 +0000" stop="20260722233000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">大美南粤</title>
-  </programme>
-<programme start="20260722230000 +0000" stop="20260723001500 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">今日关注(重播)</title>
-  </programme>
-<programme start="20260722230100 +0000" stop="20260723000000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日关注</title>
-  </programme>
-<programme start="20260722230300 +0000" stop="20260722233300 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮西班牙vs佛得角</title>
-  </programme>
-<programme start="20260722230500 +0000" stop="20260723001500 +0000" channel="gdtv.广东民生">
-    <title lang="zh">DV现场</title>
-  </programme>
-<programme start="20260722233000 +0000" stop="20260722234300 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">动画:海底小纵队</title>
-  </programme>
-<programme start="20260722233300 +0000" stop="20260723000800 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮西班牙vs沙特阿拉伯</title>
-  </programme>
-<programme start="20260722234300 +0000" stop="20260723004900 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">十三省(29)</title>
-  </programme>
-<programme start="20260722235200 +0000" stop="20260722235600 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">戏人戏语(357)</title>
-  </programme>
-<programme start="20260722235600 +0000" stop="20260723000100 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(909)</title>
-  </programme>
-<programme start="20260723000000 +0000" stop="20260723090000 +0000" channel="gdtv.广东少儿">
-    <title lang="zh">熊出没</title>
-  </programme>
-<programme start="20260723000000 +0000" stop="20260723003000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广东新闻联播</title>
-  </programme>
-<programme start="20260723000100 +0000" stop="20260723004600 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">超级飞侠(十九)</title>
-  </programme>
-<programme start="20260723000100 +0000" stop="20260723000600 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">趣谈广州话(1950)</title>
-  </programme>
-<programme start="20260723000600 +0000" stop="20260723011600 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">风雅潮韵:玉堂春名段精选(3)</title>
-  </programme>
-<programme start="20260723000800 +0000" stop="20260723004300 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第3轮乌拉圭vs西班牙</title>
-  </programme>
-<programme start="20260723001500 +0000" stop="20260723015000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">黄雀</title>
-  </programme>
-<programme start="20260723001500 +0000" stop="20260723011500 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">传奇剧场:薛平贵与王宝钏</title>
-  </programme>
-<programme start="20260723003000 +0000" stop="20260723010000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">专题</title>
-  </programme>
-<programme start="20260723004300 +0000" stop="20260723011900 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮阿根廷vs奥地利</title>
-  </programme>
-<programme start="20260723004500 +0000" stop="20260723025000 +0000" channel="gdtv.广东影视">
-    <title lang="zh">醒晨剧场二:双刺(16-17)</title>
-  </programme>
-<programme start="20260723004600 +0000" stop="20260723052500 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">奶龙搞怪大作战(二)</title>
-  </programme>
-<programme start="20260723004900 +0000" stop="20260723013300 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">十三省(30)</title>
-  </programme>
-<programme start="20260723010000 +0000" stop="20260723020000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日一线</title>
-  </programme>
-<programme start="20260723011500 +0000" stop="20260723090000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">传奇剧场:决战风铃渡</title>
-  </programme>
-<programme start="20260723011600 +0000" stop="20260723022500 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">老倌学堂:曾慧祭塔母子会</title>
-  </programme>
-<programme start="20260723011900 +0000" stop="20260723022900 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播2026年广东省城市篮球联赛总决赛第一场深圳vs东莞</title>
-  </programme>
-<programme start="20260723013300 +0000" stop="20260723022700 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">十三省(31)</title>
-  </programme>
-<programme start="20260723015000 +0000" stop="20260723030000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">外来媳妇本地郎</title>
-  </programme>
-<programme start="20260723020000 +0000" stop="20260723023000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260723022500 +0000" stop="20260723040600 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">剧场连线:血沃共和花(2)</title>
-  </programme>
-<programme start="20260723022700 +0000" stop="20260723032100 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">十三省(32)</title>
-  </programme>
-<programme start="20260723022900 +0000" stop="20260723024700 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播十分好球(世界杯版)</title>
-  </programme>
-<programme start="20260723023000 +0000" stop="20260723030000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">专题</title>
-  </programme>
-<programme start="20260723024700 +0000" stop="20260723032500 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播2026年广东省城市足球超级联赛常规赛(西区)第8轮云浮vs中山</title>
-  </programme>
-<programme start="20260723025000 +0000" stop="20260723080000 +0000" channel="gdtv.广东影视">
-    <title lang="zh">午间大强档:太行英雄传(48-52)</title>
-  </programme>
-<programme start="20260723030000 +0000" stop="20260723033000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260723030000 +0000" stop="20260723040000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">热搜榜中榜</title>
-  </programme>
-<programme start="20260723032100 +0000" stop="20260723041500 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">十三省(33)</title>
-  </programme>
-<programme start="20260723032500 +0000" stop="20260723040000 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯决赛西班牙vs阿根廷</title>
-  </programme>
-<programme start="20260723033000 +0000" stop="20260723040000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">专题</title>
-  </programme>
-<programme start="20260723040000 +0000" stop="20260723043000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">午间30分</title>
-  </programme>
-<programme start="20260723040000 +0000" stop="20260723051500 +0000" channel="gdtv.广东民生">
-    <title lang="zh">DV现场</title>
-  </programme>
-<programme start="20260723040030 +0000" stop="20260723051600 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播出奇智胜(908)</title>
-  </programme>
-<programme start="20260723040600 +0000" stop="20260723041000 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">戏人戏语(357)</title>
-  </programme>
-<programme start="20260723041000 +0000" stop="20260723041500 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(909)</title>
-  </programme>
-<programme start="20260723041500 +0000" stop="20260723041900 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">趣谈广州话(1950)</title>
-  </programme>
-<programme start="20260723041500 +0000" stop="20260723051000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">决战风铃渡(21)</title>
-  </programme>
-<programme start="20260723041900 +0000" stop="20260723053900 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">第二届高手在民间风腔粤曲演唱大赛(4)</title>
-  </programme>
-<programme start="20260723043000 +0000" stop="20260723050000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">专题</title>
-  </programme>
-<programme start="20260723050000 +0000" stop="20260723053000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260723051000 +0000" stop="20260723060500 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">决战风铃渡(22)</title>
-  </programme>
-<programme start="20260723051500 +0000" stop="20260723070500 +0000" channel="gdtv.广东民生">
-    <title lang="zh">黄雀</title>
-  </programme>
-<programme start="20260723051600 +0000" stop="20260723055100 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛法国vs瑞典</title>
-  </programme>
-<programme start="20260723052500 +0000" stop="20260723072500 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">巴啦啦小魔仙之曜星守护者(二)</title>
-  </programme>
-<programme start="20260723053000 +0000" stop="20260723060000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">专题</title>
-  </programme>
-<programme start="20260723053900 +0000" stop="20260723062500 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">粤剧有我地:马友民</title>
-  </programme>
-<programme start="20260723055100 +0000" stop="20260723062300 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/8决赛巴拉圭vs法国</title>
-  </programme>
-<programme start="20260723060000 +0000" stop="20260723064000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260723060500 +0000" stop="20260723065500 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">决战风铃渡(23)</title>
-  </programme>
-<programme start="20260723062300 +0000" stop="20260723065500 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛阿根廷vs佛得角</title>
-  </programme>
-<programme start="20260723062500 +0000" stop="20260723062900 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">戏人戏语(357)</title>
-  </programme>
-<programme start="20260723062900 +0000" stop="20260723063400 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(909)</title>
-  </programme>
-<programme start="20260723063400 +0000" stop="20260723063800 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">趣谈广州话(1950)</title>
-  </programme>
-<programme start="20260723063800 +0000" stop="20260723081900 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">剧场连线:血沃共和花(2)</title>
-  </programme>
-<programme start="20260723064000 +0000" stop="20260723070000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260723065500 +0000" stop="20260723075500 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/8决赛阿根廷vs埃及</title>
-  </programme>
-<programme start="20260723065500 +0000" stop="20260723074500 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">决战风铃渡(24)</title>
-  </programme>
-<programme start="20260723070000 +0000" stop="20260723073000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260723070500 +0000" stop="20260723082500 +0000" channel="gdtv.广东民生">
-    <title lang="zh">外来媳妇本地郎</title>
-  </programme>
-<programme start="20260723072500 +0000" stop="20260723080000 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">迷你特工队之最强恐龙</title>
-  </programme>
-<programme start="20260723073000 +0000" stop="20260723080000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260723074500 +0000" stop="20260723084000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">决战风铃渡(25)</title>
-  </programme>
-<programme start="20260723075500 +0000" stop="20260723090200 +0000" channel="gdtv.广东体育">
-    <title lang="zh">首播2026年广东省城市篮球联赛3-4名决赛首回合中山vs广州</title>
-  </programme>
-<programme start="20260723080000 +0000" stop="20260723082300 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">嘿，托玛</title>
-  </programme>
-<programme start="20260723080000 +0000" stop="20260723103500 +0000" channel="gdtv.广东影视">
-    <title lang="zh">剧无霸前战剧场:战火中青春之血染风采(8-10)</title>
-  </programme>
-<programme start="20260723080000 +0000" stop="20260723083000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260723081900 +0000" stop="20260723082300 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">戏人戏语(357)</title>
-  </programme>
-<programme start="20260723082300 +0000" stop="20260723091200 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">薇薇猫的日常</title>
-  </programme>
-<programme start="20260723082300 +0000" stop="20260723082800 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(909)</title>
-  </programme>
-<programme start="20260723082500 +0000" stop="20260723090500 +0000" channel="gdtv.广东民生">
-    <title lang="zh">唐朝诡事录</title>
-  </programme>
-<programme start="20260723082800 +0000" stop="20260723083400 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">趣谈广州话(1950)</title>
-  </programme>
-<programme start="20260723083000 +0000" stop="20260723090000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260723083400 +0000" stop="20260723094400 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">老倌学堂:曾慧祭塔母子会</title>
-  </programme>
-<programme start="20260723084000 +0000" stop="20260723094300 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">决战风铃渡(26)</title>
-  </programme>
-<programme start="20260723090000 +0000" stop="20260723100000 +0000" channel="gdtv.广东少儿">
-    <title lang="zh">奶龙</title>
-  </programme>
-<programme start="20260723090000 +0000" stop="20260723093000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260723090000 +0000" stop="20260723091000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">人生一万年</title>
-  </programme>
-<programme start="20260723090230 +0000" stop="20260723093000 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛英格兰vs刚果(金)</title>
-  </programme>
-<programme start="20260723090500 +0000" stop="20260723100000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">前夜</title>
-  </programme>
-<programme start="20260723091000 +0000" stop="20260723095000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">粤韵风华</title>
-  </programme>
-<programme start="20260723091200 +0000" stop="20260723110300 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">奶龙之奇妙冒险</title>
-  </programme>
-<programme start="20260723093000 +0000" stop="20260723100000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">专题</title>
-  </programme>
-<programme start="20260723093030 +0000" stop="20260723100200 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/8决赛墨西哥vs英格兰</title>
-  </programme>
-<programme start="20260723094300 +0000" stop="20260723103000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">决战风铃渡(27)</title>
-  </programme>
-<programme start="20260723094400 +0000" stop="20260723104600 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">风雅潮韵:恩仇记名段精选(1)</title>
-  </programme>
-<programme start="20260723095000 +0000" stop="20260723100000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">今日财经</title>
-  </programme>
-<programme start="20260723100000 +0000" stop="20260723111000 +0000" channel="gdtv.广东少儿">
-    <title lang="zh">羊村守护者</title>
-  </programme>
-<programme start="20260723100000 +0000" stop="20260723103000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260723100000 +0000" stop="20260723104500 +0000" channel="gdtv.广东民生">
-    <title lang="zh">外来媳妇本地郎</title>
-  </programme>
-<programme start="20260723100000 +0000" stop="20260723110000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">珠江新闻</title>
-  </programme>
-<programme start="20260723100230 +0000" stop="20260723104000 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/4决赛法国vs摩洛哥</title>
-  </programme>
-<programme start="20260723103000 +0000" stop="20260723105600 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">广东新闻联播</title>
-  </programme>
-<programme start="20260723103000 +0000" stop="20260723110000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">专题</title>
-  </programme>
-<programme start="20260723103500 +0000" stop="20260723105000 +0000" channel="gdtv.广东影视">
-    <title lang="zh">闪闪小红星</title>
-  </programme>
-<programme start="20260723104030 +0000" stop="20260723110000 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播(可删减长度)十分好球(干净版)</title>
-  </programme>
-<programme start="20260723104500 +0000" stop="20260723110000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">DV严选</title>
-  </programme>
-<programme start="20260723104600 +0000" stop="20260723105000 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">戏人戏语(357)</title>
-  </programme>
-<programme start="20260723105000 +0000" stop="20260723105500 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(910)</title>
-  </programme>
-<programme start="20260723105000 +0000" stop="20260723142000 +0000" channel="gdtv.广东影视">
-    <title lang="zh">剧无霸剧场:飞哥战队(20-24)</title>
-  </programme>
-<programme start="20260723105500 +0000" stop="20260723110000 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">趣谈广州话(1950)</title>
-  </programme>
-<programme start="20260723105600 +0000" stop="20260723110000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">天气预报</title>
-  </programme>
-<programme start="20260723110000 +0000" stop="20260723123900 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">剧场连线:烽火慈萱(1)</title>
-  </programme>
-<programme start="20260723110000 +0000" stop="20260723112100 +0000" channel="gdtv.广东体育">
-    <title lang="zh">直播体育世界</title>
-  </programme>
-<programme start="20260723110000 +0000" stop="20260723113300 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">转播中央台新闻联播</title>
-  </programme>
-<programme start="20260723110000 +0000" stop="20260723112500 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">正点播报</title>
-  </programme>
-<programme start="20260723110000 +0000" stop="20260723122200 +0000" channel="gdtv.广东民生">
-    <title lang="zh">DV现场(5502)</title>
-  </programme>
-<programme start="20260723110000 +0000" stop="20260723120000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">珠江剧场:寒山令10</title>
-  </programme>
-<programme start="20260723110300 +0000" stop="20260723112900 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">哈小浪之决战星未来</title>
-  </programme>
-<programme start="20260723111000 +0000" stop="20260723160000 +0000" channel="gdtv.广东少儿">
-    <title lang="zh">23号牛乃唐</title>
-  </programme>
-<programme start="20260723112100 +0000" stop="20260723114500 +0000" channel="gdtv.广东体育">
-    <title lang="zh">首播足球星视界(202618)</title>
-  </programme>
-<programme start="20260723112500 +0000" stop="20260723113000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">天气预报</title>
-  </programme>
-<programme start="20260723112900 +0000" stop="20260723114100 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">爆裂飞车之晶码迷踪</title>
-  </programme>
-<programme start="20260723113000 +0000" stop="20260723120000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广东新闻联播</title>
-  </programme>
-<programme start="20260723113300 +0000" stop="20260723123000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">蜜语纪(32)</title>
-  </programme>
-<programme start="20260723114100 +0000" stop="20260723115400 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">咖宝车神之超能救援</title>
-  </programme>
-<programme start="20260723114500 +0000" stop="20260723121500 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第3轮挪威vs法国</title>
-  </programme>
-<programme start="20260723115400 +0000" stop="20260723122300 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">奇妙萌可之闪耀流星</title>
-  </programme>
-<programme start="20260723120000 +0000" stop="20260723123000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">直播广东</title>
-  </programme>
-<programme start="20260723120000 +0000" stop="20260723130000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">珠江剧场:寒山令11</title>
-  </programme>
-<programme start="20260723121500 +0000" stop="20260723124500 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛法国vs瑞典</title>
-  </programme>
-<programme start="20260723122200 +0000" stop="20260723124000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">全民帮帮忙(1327)</title>
-  </programme>
-<programme start="20260723122300 +0000" stop="20260723160000 +0000" channel="gdtv.嘉佳卡通">
-    <title lang="zh">喜羊羊与灰太狼之心世界奇遇</title>
-  </programme>
-<programme start="20260723123000 +0000" stop="20260723132000 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">蜜语纪(33)</title>
-  </programme>
-<programme start="20260723123000 +0000" stop="20260723130000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日焦点</title>
-  </programme>
-<programme start="20260723123900 +0000" stop="20260723124300 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">戏人戏语(357)</title>
-  </programme>
-<programme start="20260723124000 +0000" stop="20260723130500 +0000" channel="gdtv.广东民生">
-    <title lang="zh">热搜榜中榜(692)</title>
-  </programme>
-<programme start="20260723124300 +0000" stop="20260723124800 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(910)</title>
-  </programme>
-<programme start="20260723124500 +0000" stop="20260723131300 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/8决赛巴拉圭vs法国</title>
-  </programme>
-<programme start="20260723124800 +0000" stop="20260723125200 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">趣谈广州话(1950)</title>
-  </programme>
-<programme start="20260723125200 +0000" stop="20260723141000 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">第二届高手在民间风腔粤曲演唱大赛(4)</title>
-  </programme>
-<programme start="20260723130000 +0000" stop="20260723131000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">社会纵横</title>
-  </programme>
-<programme start="20260723130000 +0000" stop="20260723140000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">今日关注</title>
-  </programme>
-<programme start="20260723130500 +0000" stop="20260723132000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">宜居大湾区平日版(309)</title>
-  </programme>
-<programme start="20260723131000 +0000" stop="20260723133000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">广粤甄选</title>
-  </programme>
-<programme start="20260723131300 +0000" stop="20260723135300 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/4决赛阿根廷vs瑞士</title>
-  </programme>
-<programme start="20260723132000 +0000" stop="20260723134500 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">晚间新闻</title>
-  </programme>
-<programme start="20260723132000 +0000" stop="20260723150000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">民生休闲剧场:黄雀(9-10)</title>
-  </programme>
-<programme start="20260723133000 +0000" stop="20260723142000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日一线</title>
-  </programme>
-<programme start="20260723134500 +0000" stop="20260723141500 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">健康有道</title>
-  </programme>
-<programme start="20260723135300 +0000" stop="20260723145400 +0000" channel="gdtv.广东体育">
-    <title lang="zh">首播出奇智胜(909)</title>
-  </programme>
-<programme start="20260723140000 +0000" stop="20260723150000 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">王牌剧场:地雷战41</title>
-  </programme>
-<programme start="20260723141000 +0000" stop="20260723151000 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">老倌学堂:曾慧祭塔母子会</title>
-  </programme>
-<programme start="20260723141500 +0000" stop="20260723150200 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">乌蒙深处(19)</title>
-  </programme>
-<programme start="20260723142000 +0000" stop="20260723143500 +0000" channel="gdtv.广东影视">
-    <title lang="zh">广东电影报道</title>
-  </programme>
-<programme start="20260723142000 +0000" stop="20260723143000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">社会纵横</title>
-  </programme>
-<programme start="20260723143000 +0000" stop="20260723150000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">新闻夜线</title>
-  </programme>
-<programme start="20260723143500 +0000" stop="20260723161500 +0000" channel="gdtv.广东影视">
-    <title lang="zh">剧无霸经典剧场:冬日惊雷(22-24)</title>
-  </programme>
-<programme start="20260723145400 +0000" stop="20260723152400 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮阿根廷vs奥地利</title>
-  </programme>
-<programme start="20260723150000 +0000" stop="20260723155000 +0000" channel="gdtv.广东新闻">
-    <title lang="zh">今日关注</title>
-  </programme>
-<programme start="20260723150000 +0000" stop="20260723155000 +0000" channel="gdtv.广东民生">
-    <title lang="zh">DV现场</title>
-  </programme>
-<programme start="20260723150000 +0000" stop="20260723155500 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">王牌剧场:地雷战42完</title>
-  </programme>
-<programme start="20260723150200 +0000" stop="20260723154500 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">乌蒙深处(20)</title>
-  </programme>
-<programme start="20260723151000 +0000" stop="20260723151500 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">岭南大舞台:资讯(910)</title>
-  </programme>
-<programme start="20260723151500 +0000" stop="20260723151900 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">趣谈广州话(1950)</title>
-  </programme>
-<programme start="20260723151900 +0000" stop="20260723160900 +0000" channel="gdtv.岭南戏曲">
-    <title lang="zh">剧场连线:烽火慈萱(1)</title>
-  </programme>
-<programme start="20260723152400 +0000" stop="20260723155000 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第3轮约旦vs阿根廷</title>
-  </programme>
-<programme start="20260723154500 +0000" stop="20260723163500 +0000" channel="gdtv.广东卫视">
-    <title lang="zh">南粤4K画卷</title>
-  </programme>
-<programme start="20260723155000 +0000" stop="20260723164000 +0000" channel="gdtv.广东体育">
-    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮西班牙vs佛得角</title>
-  </programme>
-<programme start="20260723155500 +0000" stop="20260723164500 +0000" channel="gdtv.广东珠江">
-    <title lang="zh">今日关注(重播)</title>
-  </programme>
 <programme start="20260723160000 +0000" stop="20260723220800 +0000" channel="gdtv.嘉佳卡通">
     <title lang="zh">喜羊羊与灰太狼之勇闯四季城</title>
   </programme>
@@ -4579,6 +3952,9 @@
 <programme start="20260729165000 +0000" stop="20260729220000 +0000" channel="gdtv.广东珠江">
     <title lang="zh">电视剧:诚忠堂</title>
   </programme>
+<programme start="20260729170000 +0000" stop="20260729220000 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">风雅潮韵:沙家浜(1)</title>
+  </programme>
 <programme start="20260729170000 +0000" stop="20260729174500 +0000" channel="gdtv.广东新闻">
     <title lang="zh">今日一线</title>
   </programme>
@@ -4623,6 +3999,9 @@
   </programme>
 <programme start="20260729214400 +0000" stop="20260729223000 +0000" channel="gdtv.广东卫视">
     <title lang="zh">莲花楼(36)</title>
+  </programme>
+<programme start="20260729220000 +0000" stop="20260729235100 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">剧场连线:独立团长(2)</title>
   </programme>
 <programme start="20260729220000 +0000" stop="20260730000000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">早间卡通剧场海底小纵队</title>
@@ -4675,11 +4054,23 @@
 <programme start="20260729233100 +0000" stop="20260730003500 +0000" channel="gdtv.广东卫视">
     <title lang="zh">生死线(20)</title>
   </programme>
+<programme start="20260729235100 +0000" stop="20260729235500 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">戏人戏语(362)</title>
+  </programme>
+<programme start="20260729235500 +0000" stop="20260730000000 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(912)</title>
+  </programme>
+<programme start="20260730000000 +0000" stop="20260730000500 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">趣谈广州话(1955)</title>
+  </programme>
 <programme start="20260730000000 +0000" stop="20260730100000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">23号牛乃唐</title>
   </programme>
 <programme start="20260730000000 +0000" stop="20260730003000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广东新闻联播</title>
+  </programme>
+<programme start="20260730000500 +0000" stop="20260730011500 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">风雅潮韵:沙家浜(1)</title>
   </programme>
 <programme start="20260730000500 +0000" stop="20260730004000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮比利时vs伊朗</title>
@@ -4711,6 +4102,9 @@
 <programme start="20260730011300 +0000" stop="20260730020200 +0000" channel="gdtv.广东卫视">
     <title lang="zh">生死线(22)</title>
   </programme>
+<programme start="20260730011500 +0000" stop="20260730022300 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">老倌学堂:冯刚毅驼哥的旗</title>
+  </programme>
 <programme start="20260730011700 +0000" stop="20260730024000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播2026年广东省城市篮球联赛总决赛第一场深圳vs东莞</title>
   </programme>
@@ -4722,6 +4116,9 @@
   </programme>
 <programme start="20260730020200 +0000" stop="20260730025400 +0000" channel="gdtv.广东卫视">
     <title lang="zh">生死线(23)</title>
+  </programme>
+<programme start="20260730022300 +0000" stop="20260730040500 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">剧场连线:独立团长(2)</title>
   </programme>
 <programme start="20260730023000 +0000" stop="20260730030000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">专题</title>
@@ -4762,6 +4159,18 @@
 <programme start="20260730040000 +0000" stop="20260730051500 +0000" channel="gdtv.广东民生">
     <title lang="zh">DV现场</title>
   </programme>
+<programme start="20260730040500 +0000" stop="20260730040900 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">戏人戏语(362)</title>
+  </programme>
+<programme start="20260730040900 +0000" stop="20260730041400 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(912)</title>
+  </programme>
+<programme start="20260730041400 +0000" stop="20260730041800 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">趣谈广州话(1955)</title>
+  </programme>
+<programme start="20260730041800 +0000" stop="20260730053700 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">第二届高手在民间风腔粤曲演唱大赛(5)</title>
+  </programme>
 <programme start="20260730042000 +0000" stop="20260730051000 +0000" channel="gdtv.广东卫视">
     <title lang="zh">手枪队(42)</title>
   </programme>
@@ -4786,6 +4195,9 @@
 <programme start="20260730053000 +0000" stop="20260730060000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">专题</title>
   </programme>
+<programme start="20260730053700 +0000" stop="20260730062400 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">粤剧有我地:黄春强</title>
+  </programme>
 <programme start="20260730055300 +0000" stop="20260730062700 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮德国vs科特迪瓦</title>
   </programme>
@@ -4795,8 +4207,20 @@
 <programme start="20260730060200 +0000" stop="20260730065500 +0000" channel="gdtv.广东卫视">
     <title lang="zh">手枪队(44)</title>
   </programme>
+<programme start="20260730062400 +0000" stop="20260730062800 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">戏人戏语(362)</title>
+  </programme>
 <programme start="20260730062700 +0000" stop="20260730070100 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第3轮厄瓜多尔vs德国</title>
+  </programme>
+<programme start="20260730062800 +0000" stop="20260730063300 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(912)</title>
+  </programme>
+<programme start="20260730063300 +0000" stop="20260730063800 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">趣谈广州话(1955)</title>
+  </programme>
+<programme start="20260730063800 +0000" stop="20260730081800 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">剧场连线:独立团长(2)</title>
   </programme>
 <programme start="20260730064000 +0000" stop="20260730070000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
@@ -4834,14 +4258,26 @@
 <programme start="20260730080000 +0000" stop="20260730083000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">正点播报</title>
   </programme>
+<programme start="20260730081800 +0000" stop="20260730082200 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">戏人戏语(362)</title>
+  </programme>
+<programme start="20260730082200 +0000" stop="20260730082700 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(912)</title>
+  </programme>
 <programme start="20260730082500 +0000" stop="20260730110300 +0000" channel="gdtv.嘉佳卡通">
     <title lang="zh">奶龙之搞怪大作战</title>
   </programme>
 <programme start="20260730082500 +0000" stop="20260730100000 +0000" channel="gdtv.广东民生">
     <title lang="zh">前夜</title>
   </programme>
+<programme start="20260730082700 +0000" stop="20260730083300 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">趣谈广州话(1955)</title>
+  </programme>
 <programme start="20260730083000 +0000" stop="20260730090000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
+  </programme>
+<programme start="20260730083300 +0000" stop="20260730094200 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">老倌学堂:冯刚毅驼哥的旗</title>
   </programme>
 <programme start="20260730084300 +0000" stop="20260730094200 +0000" channel="gdtv.广东卫视">
     <title lang="zh">苍狼(1)</title>
@@ -4863,6 +4299,9 @@
   </programme>
 <programme start="20260730093730 +0000" stop="20260730110000 +0000" channel="gdtv.广东体育">
     <title lang="zh">首播羽乐无限:2026世界羽联世界巡回赛日本公开赛精选(2)</title>
+  </programme>
+<programme start="20260730094200 +0000" stop="20260730104700 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">风雅潮韵:沙家浜(2)</title>
   </programme>
 <programme start="20260730094200 +0000" stop="20260730103000 +0000" channel="gdtv.广东卫视">
     <title lang="zh">苍狼(2)</title>
@@ -4889,16 +4328,28 @@
     <title lang="zh">专题</title>
   </programme>
 <programme start="20260730103500 +0000" stop="20260730105000 +0000" channel="gdtv.广东影视">
-    <title lang="zh">闪闪小红星</title>
+    <title lang="zh">发现广东之美：只此清远</title>
   </programme>
 <programme start="20260730104500 +0000" stop="20260730110000 +0000" channel="gdtv.广东民生">
     <title lang="zh">DV严选</title>
   </programme>
+<programme start="20260730104700 +0000" stop="20260730105100 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">戏人戏语(362)</title>
+  </programme>
 <programme start="20260730105000 +0000" stop="20260730142000 +0000" channel="gdtv.广东影视">
     <title lang="zh">剧无霸剧场:飞哥战队(55-59)</title>
   </programme>
+<programme start="20260730105100 +0000" stop="20260730105600 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(913)</title>
+  </programme>
+<programme start="20260730105600 +0000" stop="20260730110000 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">趣谈广州话(1955)</title>
+  </programme>
 <programme start="20260730105600 +0000" stop="20260730110000 +0000" channel="gdtv.广东卫视">
     <title lang="zh">天气预报</title>
+  </programme>
+<programme start="20260730110000 +0000" stop="20260730123800 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">剧场连线:山乡风云(1)</title>
   </programme>
 <programme start="20260730110000 +0000" stop="20260730112300 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播体育世界</title>
@@ -4960,11 +4411,23 @@
 <programme start="20260730123000 +0000" stop="20260730130000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">今日焦点</title>
   </programme>
+<programme start="20260730123800 +0000" stop="20260730124200 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">戏人戏语(362)</title>
+  </programme>
 <programme start="20260730124000 +0000" stop="20260730131100 +0000" channel="gdtv.嘉佳卡通">
     <title lang="zh">喜羊羊与灰太狼之嘻哈闯世界四跨时空救兵</title>
   </programme>
 <programme start="20260730124000 +0000" stop="20260730130500 +0000" channel="gdtv.广东民生">
     <title lang="zh">热搜榜中榜(697)</title>
+  </programme>
+<programme start="20260730124200 +0000" stop="20260730124700 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(913)</title>
+  </programme>
+<programme start="20260730124700 +0000" stop="20260730125100 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">趣谈广州话(1955)</title>
+  </programme>
+<programme start="20260730125100 +0000" stop="20260730140900 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">第二届高手在民间风腔粤曲演唱大赛(5)</title>
   </programme>
 <programme start="20260730125530 +0000" stop="20260730132600 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛荷兰vs摩洛哥</title>
@@ -5011,6 +4474,9 @@
 <programme start="20260730140500 +0000" stop="20260730142000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
   </programme>
+<programme start="20260730140900 +0000" stop="20260730150800 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">老倌学堂:冯刚毅驼哥的旗</title>
+  </programme>
 <programme start="20260730142000 +0000" stop="20260730150500 +0000" channel="gdtv.广东卫视">
     <title lang="zh">秋蝉(5)</title>
   </programme>
@@ -5037,6 +4503,15 @@
   </programme>
 <programme start="20260730150500 +0000" stop="20260730155000 +0000" channel="gdtv.广东卫视">
     <title lang="zh">秋蝉(6)</title>
+  </programme>
+<programme start="20260730150800 +0000" stop="20260730151300 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(913)</title>
+  </programme>
+<programme start="20260730151300 +0000" stop="20260730151700 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">趣谈广州话(1955)</title>
+  </programme>
+<programme start="20260730151700 +0000" stop="20260730160700 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">剧场连线:山乡风云(1)</title>
   </programme>
 <programme start="20260730152100 +0000" stop="20260730155000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播2026年广东省城市足球超级联赛第5轮精编版东莞vs潮州</title>
@@ -5074,6 +4549,9 @@
 <programme start="20260730165000 +0000" stop="20260730220000 +0000" channel="gdtv.广东珠江">
     <title lang="zh">电视剧:诚忠堂</title>
   </programme>
+<programme start="20260730165800 +0000" stop="20260730220000 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">风雅潮韵:沙家浜(2)</title>
+  </programme>
 <programme start="20260730170000 +0000" stop="20260730174500 +0000" channel="gdtv.广东新闻">
     <title lang="zh">今日一线</title>
   </programme>
@@ -5109,6 +4587,9 @@
   </programme>
 <programme start="20260730214300 +0000" stop="20260730220900 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮巴西vs摩洛哥</title>
+  </programme>
+<programme start="20260730220000 +0000" stop="20260730233600 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">剧场连线:山乡风云(1)</title>
   </programme>
 <programme start="20260730220000 +0000" stop="20260731000000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">早间卡通剧场海底小纵队</title>
@@ -5149,6 +4630,18 @@
 <programme start="20260730233300 +0000" stop="20260731000700 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮奥地利vs约旦</title>
   </programme>
+<programme start="20260730233600 +0000" stop="20260730234000 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">戏人戏语(363)</title>
+  </programme>
+<programme start="20260730234000 +0000" stop="20260730234500 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(913)</title>
+  </programme>
+<programme start="20260730234500 +0000" stop="20260730235000 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">趣谈广州话(1956)</title>
+  </programme>
+<programme start="20260730235000 +0000" stop="20260731010200 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">风雅潮韵:沙家浜(2)</title>
+  </programme>
 <programme start="20260731000000 +0000" stop="20260731100000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">奶龙</title>
   </programme>
@@ -5176,6 +4669,9 @@
 <programme start="20260731010000 +0000" stop="20260731020000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">今日焦点</title>
   </programme>
+<programme start="20260731010200 +0000" stop="20260731023400 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">第二届高手在民间风腔粤曲演唱大赛(5)</title>
+  </programme>
 <programme start="20260731011000 +0000" stop="20260731030700 +0000" channel="gdtv.嘉佳卡通">
     <title lang="zh">巴啦啦小魔仙之曜星守护者一</title>
   </programme>
@@ -5196,6 +4692,9 @@
   </programme>
 <programme start="20260731023000 +0000" stop="20260731030000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">专题</title>
+  </programme>
+<programme start="20260731023400 +0000" stop="20260731040900 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">剧场连线:山乡风云(1)</title>
   </programme>
 <programme start="20260731024330 +0000" stop="20260731032500 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮瑞士vs波黑</title>
@@ -5227,6 +4726,18 @@
 <programme start="20260731040000 +0000" stop="20260731051500 +0000" channel="gdtv.广东民生">
     <title lang="zh">DV现场</title>
   </programme>
+<programme start="20260731040900 +0000" stop="20260731041300 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">戏人戏语(363)</title>
+  </programme>
+<programme start="20260731041300 +0000" stop="20260731041800 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(913)</title>
+  </programme>
+<programme start="20260731041800 +0000" stop="20260731042300 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">趣谈广州话(1956)</title>
+  </programme>
+<programme start="20260731042300 +0000" stop="20260731053000 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">锦绣梨园:扬帆凯旋誉满梨园(2)</title>
+  </programme>
 <programme start="20260731043000 +0000" stop="20260731050000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">专题</title>
   </programme>
@@ -5242,6 +4753,9 @@
 <programme start="20260731051700 +0000" stop="20260731055300 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮巴西vs摩洛哥</title>
   </programme>
+<programme start="20260731053000 +0000" stop="20260731060700 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">红梅飘香:杨春荣</title>
+  </programme>
 <programme start="20260731053000 +0000" stop="20260731060000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">专题</title>
   </programme>
@@ -5250,6 +4764,18 @@
   </programme>
 <programme start="20260731060000 +0000" stop="20260731064000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">正点播报</title>
+  </programme>
+<programme start="20260731060700 +0000" stop="20260731061100 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">戏人戏语(363)</title>
+  </programme>
+<programme start="20260731061100 +0000" stop="20260731061600 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(913)</title>
+  </programme>
+<programme start="20260731061600 +0000" stop="20260731061900 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">趣谈广州话(1956)</title>
+  </programme>
+<programme start="20260731061900 +0000" stop="20260731075400 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">剧场连线:山乡风云(1)</title>
   </programme>
 <programme start="20260731062700 +0000" stop="20260731070100 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮韩国vs捷克</title>
@@ -5272,8 +4798,14 @@
 <programme start="20260731073000 +0000" stop="20260731080000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
   </programme>
+<programme start="20260731075400 +0000" stop="20260731075900 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(913)</title>
+  </programme>
 <programme start="20260731075430 +0000" stop="20260731090200 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播2026年广东省城市篮球联赛3-4名决赛次回合广州vs中山</title>
+  </programme>
+<programme start="20260731075900 +0000" stop="20260731080300 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">趣谈广州话(1956)</title>
   </programme>
 <programme start="20260731080000 +0000" stop="20260731110600 +0000" channel="gdtv.嘉佳卡通">
     <title lang="zh">奶龙与小七大战暴暴龙</title>
@@ -5284,11 +4816,17 @@
 <programme start="20260731080000 +0000" stop="20260731083000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">正点播报</title>
   </programme>
+<programme start="20260731080300 +0000" stop="20260731084600 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">粤剧有我地第三季:黄嘉裕</title>
+  </programme>
 <programme start="20260731082500 +0000" stop="20260731100000 +0000" channel="gdtv.广东民生">
     <title lang="zh">前夜</title>
   </programme>
 <programme start="20260731083000 +0000" stop="20260731090000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
+  </programme>
+<programme start="20260731084600 +0000" stop="20260731094200 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">老倌学堂:陈韵红梦会太湖</title>
   </programme>
 <programme start="20260731090000 +0000" stop="20260731093000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">正点播报</title>
@@ -5307,6 +4845,9 @@
   </programme>
 <programme start="20260731093830 +0000" stop="20260731110000 +0000" channel="gdtv.广东体育">
     <title lang="zh">首播羽乐无限:2026世界羽联世界巡回赛日本公开赛精选(3)</title>
+  </programme>
+<programme start="20260731094200 +0000" stop="20260731104700 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">风雅潮韵:沙家浜(3)</title>
   </programme>
 <programme start="20260731095000 +0000" stop="20260731100000 +0000" channel="gdtv.广东珠江">
     <title lang="zh">今日财经</title>
@@ -5327,13 +4868,25 @@
     <title lang="zh">专题</title>
   </programme>
 <programme start="20260731103500 +0000" stop="20260731105000 +0000" channel="gdtv.广东影视">
-    <title lang="zh">闪闪小红星</title>
+    <title lang="zh">发现广东之美：只此清远</title>
   </programme>
 <programme start="20260731104500 +0000" stop="20260731110000 +0000" channel="gdtv.广东民生">
     <title lang="zh">DV严选</title>
   </programme>
+<programme start="20260731104700 +0000" stop="20260731105100 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">戏人戏语(363)</title>
+  </programme>
 <programme start="20260731105000 +0000" stop="20260731142000 +0000" channel="gdtv.广东影视">
     <title lang="zh">剧无霸剧场:飞哥战队(60-64)</title>
+  </programme>
+<programme start="20260731105100 +0000" stop="20260731105600 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(913)</title>
+  </programme>
+<programme start="20260731105600 +0000" stop="20260731110000 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">趣谈广州话(1956)</title>
+  </programme>
+<programme start="20260731110000 +0000" stop="20260731123900 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">剧场连线:山乡风云(2)</title>
   </programme>
 <programme start="20260731110000 +0000" stop="20260731112300 +0000" channel="gdtv.广东体育">
     <title lang="zh">直播体育世界</title>
@@ -5392,8 +4945,20 @@
 <programme start="20260731123000 +0000" stop="20260731130000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">今日焦点</title>
   </programme>
+<programme start="20260731123900 +0000" stop="20260731124300 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">戏人戏语(363)</title>
+  </programme>
 <programme start="20260731124000 +0000" stop="20260731130500 +0000" channel="gdtv.广东民生">
     <title lang="zh">热搜榜中榜(698)</title>
+  </programme>
+<programme start="20260731124300 +0000" stop="20260731124800 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(913)</title>
+  </programme>
+<programme start="20260731124800 +0000" stop="20260731125300 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">趣谈广州话(1956)</title>
+  </programme>
+<programme start="20260731125300 +0000" stop="20260731134800 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">老倌学堂:陈韵红梦会太湖</title>
   </programme>
 <programme start="20260731125500 +0000" stop="20260731132600 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮巴西vs摩洛哥</title>
@@ -5425,6 +4990,9 @@
 <programme start="20260731133000 +0000" stop="20260731140500 +0000" channel="gdtv.广东新闻">
     <title lang="zh">今日一线</title>
   </programme>
+<programme start="20260731134800 +0000" stop="20260731150600 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">第二届高手在民间风腔粤曲演唱大赛(5)</title>
+  </programme>
 <programme start="20260731135800 +0000" stop="20260731152100 +0000" channel="gdtv.广东体育">
     <title lang="zh">首播出奇智胜(915)</title>
   </programme>
@@ -5454,6 +5022,15 @@
   </programme>
 <programme start="20260731150000 +0000" stop="20260731155500 +0000" channel="gdtv.广东珠江">
     <title lang="zh">王牌剧场:玉海棠18</title>
+  </programme>
+<programme start="20260731150600 +0000" stop="20260731151100 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">岭南大舞台:资讯(913)</title>
+  </programme>
+<programme start="20260731151100 +0000" stop="20260731151600 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">趣谈广州话(1956)</title>
+  </programme>
+<programme start="20260731151600 +0000" stop="20260731160600 +0000" channel="gdtv.岭南戏曲">
+    <title lang="zh">剧场连线:山乡风云(2)</title>
   </programme>
 <programme start="20260731152130 +0000" stop="20260731155000 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播2026年广东省城市足球超级联赛第7轮精编版清远vs揭阳</title>
@@ -5706,6 +5283,252 @@
   </programme>
 <programme start="20260801154600 +0000" stop="20260801163600 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮墨西哥vs南非</title>
+  </programme>
+<programme start="20260801160000 +0000" stop="20260801165000 +0000" channel="gdtv.广东少儿">
+    <title lang="zh">午夜剧场</title>
+  </programme>
+<programme start="20260801161200 +0000" stop="20260801163800 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第3轮南非vs韩国</title>
+  </programme>
+<programme start="20260801161500 +0000" stop="20260801170500 +0000" channel="gdtv.广东影视">
+    <title lang="zh">午夜剧场</title>
+  </programme>
+<programme start="20260801162500 +0000" stop="20260801170000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">今日关注(重播)</title>
+  </programme>
+<programme start="20260801163800 +0000" stop="20260801170400 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮葡萄牙vs刚果(金)</title>
+  </programme>
+<programme start="20260801170000 +0000" stop="20260801220000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">电视剧:海上嫁女记</title>
+  </programme>
+<programme start="20260801170400 +0000" stop="20260801173000 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮哥伦比亚vs刚果(金)</title>
+  </programme>
+<programme start="20260801173000 +0000" stop="20260801175600 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯半决赛法国vs西班牙</title>
+  </programme>
+<programme start="20260801175600 +0000" stop="20260801182200 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯半决赛英格兰vs阿根廷</title>
+  </programme>
+<programme start="20260801182200 +0000" stop="20260801184800 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮伊拉克vs挪威</title>
+  </programme>
+<programme start="20260801184800 +0000" stop="20260801191400 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮挪威vs塞内加尔</title>
+  </programme>
+<programme start="20260801191400 +0000" stop="20260801194000 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第3轮挪威vs法国</title>
+  </programme>
+<programme start="20260801194000 +0000" stop="20260801200600 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮乌拉圭vs佛得角</title>
+  </programme>
+<programme start="20260801200600 +0000" stop="20260801201600 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播十分好球(世界杯版)</title>
+  </programme>
+<programme start="20260801201600 +0000" stop="20260801204800 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播劲速天地(202623)</title>
+  </programme>
+<programme start="20260801204800 +0000" stop="20260801214300 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播2026年广东省城市篮球联赛3-4名决赛首回合中山vs广州</title>
+  </programme>
+<programme start="20260801214300 +0000" stop="20260801220900 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮荷兰vs日本</title>
+  </programme>
+<programme start="20260801220000 +0000" stop="20260802000000 +0000" channel="gdtv.广东少儿">
+    <title lang="zh">早间卡通剧场海底小纵队</title>
+  </programme>
+<programme start="20260801220000 +0000" stop="20260801230000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">系列短剧:外来媳妇本地郎</title>
+  </programme>
+<programme start="20260801220900 +0000" stop="20260801223700 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮荷兰vs瑞典</title>
+  </programme>
+<programme start="20260801221000 +0000" stop="20260802004500 +0000" channel="gdtv.广东影视">
+    <title lang="zh">醒晨剧场一:骑士的手套(15-18)</title>
+  </programme>
+<programme start="20260801223700 +0000" stop="20260801230300 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮美国vs巴拉圭</title>
+  </programme>
+<programme start="20260801230000 +0000" stop="20260801235500 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">今日关注(重播)</title>
+  </programme>
+<programme start="20260801230300 +0000" stop="20260801233100 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮美国vs澳大利亚</title>
+  </programme>
+<programme start="20260801230500 +0000" stop="20260802001500 +0000" channel="gdtv.广东民生">
+    <title lang="zh">DV现场</title>
+  </programme>
+<programme start="20260801233100 +0000" stop="20260802000500 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮英格兰vs克罗地亚</title>
+  </programme>
+<programme start="20260801235500 +0000" stop="20260802090500 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">传奇剧场:打狗棍</title>
+  </programme>
+<programme start="20260802000000 +0000" stop="20260802090000 +0000" channel="gdtv.广东少儿">
+    <title lang="zh">开心超人</title>
+  </programme>
+<programme start="20260802000500 +0000" stop="20260802004000 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮英格兰vs加纳</title>
+  </programme>
+<programme start="20260802001500 +0000" stop="20260802015000 +0000" channel="gdtv.广东民生">
+    <title lang="zh">宜居大湾区</title>
+  </programme>
+<programme start="20260802004030 +0000" stop="20260802011300 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/8决赛加拿大vs摩洛哥</title>
+  </programme>
+<programme start="20260802004500 +0000" stop="20260802025000 +0000" channel="gdtv.广东影视">
+    <title lang="zh">醒晨剧场二:双刺(36-37)</title>
+  </programme>
+<programme start="20260802011300 +0000" stop="20260802014100 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播珠江少年派(30)</title>
+  </programme>
+<programme start="20260802014130 +0000" stop="20260802022200 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/8决赛巴拉圭vs法国</title>
+  </programme>
+<programme start="20260802015000 +0000" stop="20260802030000 +0000" channel="gdtv.广东民生">
+    <title lang="zh">小巷人家</title>
+  </programme>
+<programme start="20260802022200 +0000" stop="20260802024000 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播十分好球(世界杯版)</title>
+  </programme>
+<programme start="20260802024000 +0000" stop="20260802032500 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛法国vs瑞典</title>
+  </programme>
+<programme start="20260802025000 +0000" stop="20260802080000 +0000" channel="gdtv.广东影视">
+    <title lang="zh">午间大强档:区小队(35-39)</title>
+  </programme>
+<programme start="20260802030000 +0000" stop="20260802040000 +0000" channel="gdtv.广东民生">
+    <title lang="zh">外来媳妇本地郎</title>
+  </programme>
+<programme start="20260802032530 +0000" stop="20260802040000 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播2026年广东省城市足球超级联赛第4轮精编版中山vs珠海</title>
+  </programme>
+<programme start="20260802040000 +0000" stop="20260802051700 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播出奇智胜(916)</title>
+  </programme>
+<programme start="20260802040000 +0000" stop="20260802051500 +0000" channel="gdtv.广东民生">
+    <title lang="zh">DV现场</title>
+  </programme>
+<programme start="20260802051500 +0000" stop="20260802070500 +0000" channel="gdtv.广东民生">
+    <title lang="zh">小巷人家</title>
+  </programme>
+<programme start="20260802051700 +0000" stop="20260802055300 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/8决赛巴西vs挪威</title>
+  </programme>
+<programme start="20260802055300 +0000" stop="20260802062700 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/8决赛墨西哥vs英格兰</title>
+  </programme>
+<programme start="20260802062700 +0000" stop="20260802070100 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/8决赛葡萄牙vs西班牙</title>
+  </programme>
+<programme start="20260802070130 +0000" stop="20260802075400 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播2026年广东省城市足球超级联赛第5轮精编版东莞vs潮州</title>
+  </programme>
+<programme start="20260802070500 +0000" stop="20260802082500 +0000" channel="gdtv.广东民生">
+    <title lang="zh">外来媳妇本地郎</title>
+  </programme>
+<programme start="20260802075430 +0000" stop="20260802082600 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/8决赛阿根廷vs埃及</title>
+  </programme>
+<programme start="20260802080000 +0000" stop="20260802103500 +0000" channel="gdtv.广东影视">
+    <title lang="zh">剧无霸前战剧场:战火中青春之血染风采(38-40)</title>
+  </programme>
+<programme start="20260802082400 +0000" stop="20260802090300 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/8决赛瑞士vs哥伦比亚</title>
+  </programme>
+<programme start="20260802082500 +0000" stop="20260802100000 +0000" channel="gdtv.广东民生">
+    <title lang="zh">前夜</title>
+  </programme>
+<programme start="20260802090000 +0000" stop="20260802123000 +0000" channel="gdtv.广东少儿">
+    <title lang="zh">巴啦啦小魔仙</title>
+  </programme>
+<programme start="20260802090300 +0000" stop="20260802093600 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯1/16决赛荷兰vs摩洛哥</title>
+  </programme>
+<programme start="20260802090500 +0000" stop="20260802091500 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">人生一万年</title>
+  </programme>
+<programme start="20260802091500 +0000" stop="20260802100000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">粤韵风华</title>
+  </programme>
+<programme start="20260802093600 +0000" stop="20260802105100 +0000" channel="gdtv.广东体育">
+    <title lang="zh">首播羽乐无限:2026世界羽联世界巡回赛日本公开赛精选(4)5</title>
+  </programme>
+<programme start="20260802100000 +0000" stop="20260802104500 +0000" channel="gdtv.广东民生">
+    <title lang="zh">外来媳妇本地郎</title>
+  </programme>
+<programme start="20260802100000 +0000" stop="20260802110000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">珠江新闻</title>
+  </programme>
+<programme start="20260802103500 +0000" stop="20260802105000 +0000" channel="gdtv.广东影视">
+    <title lang="zh">微短剧</title>
+  </programme>
+<programme start="20260802104500 +0000" stop="20260802110000 +0000" channel="gdtv.广东民生">
+    <title lang="zh">DV严选</title>
+  </programme>
+<programme start="20260802105000 +0000" stop="20260802143500 +0000" channel="gdtv.广东影视">
+    <title lang="zh">剧无霸剧场:利箭纵横(5-9)</title>
+  </programme>
+<programme start="20260802105100 +0000" stop="20260802112000 +0000" channel="gdtv.广东体育">
+    <title lang="zh">首播2026年广东省城市足球超级联赛常规赛(西区)第9轮湛江vs广州</title>
+  </programme>
+<programme start="20260802110000 +0000" stop="20260802121200 +0000" channel="gdtv.广东民生">
+    <title lang="zh">DV现场(5512)</title>
+  </programme>
+<programme start="20260802110000 +0000" stop="20260802120000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">系列短剧:外来媳妇本地郎</title>
+  </programme>
+<programme start="20260802112000 +0000" stop="20260802132000 +0000" channel="gdtv.广东体育">
+    <title lang="zh">直播2026年亚洲大学生篮球联赛小组赛(19:30清华大学vs悉尼大学)</title>
+  </programme>
+<programme start="20260802120000 +0000" stop="20260802130000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">珠江剧场:寒山令29</title>
+  </programme>
+<programme start="20260802121200 +0000" stop="20260802123500 +0000" channel="gdtv.广东民生">
+    <title lang="zh">最紧要健康(1887)</title>
+  </programme>
+<programme start="20260802123000 +0000" stop="20260802124000 +0000" channel="gdtv.广东少儿">
+    <title lang="zh">广府叻少年</title>
+  </programme>
+<programme start="20260802123500 +0000" stop="20260802131100 +0000" channel="gdtv.广东民生">
+    <title lang="zh">宜居大湾区(228)</title>
+  </programme>
+<programme start="20260802124000 +0000" stop="20260802160000 +0000" channel="gdtv.广东少儿">
+    <title lang="zh">巴啦啦小魔仙</title>
+  </programme>
+<programme start="20260802130000 +0000" stop="20260802134000 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">今日关注</title>
+  </programme>
+<programme start="20260802131100 +0000" stop="20260802132000 +0000" channel="gdtv.广东民生">
+    <title lang="zh">快乐长门人</title>
+  </programme>
+<programme start="20260802132000 +0000" stop="20260802135400 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮葡萄牙vs乌兹别克斯</title>
+  </programme>
+<programme start="20260802132000 +0000" stop="20260802145600 +0000" channel="gdtv.广东民生">
+    <title lang="zh">民生休闲剧场:小巷人家(5-6)</title>
+  </programme>
+<programme start="20260802134000 +0000" stop="20260802144500 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">王牌剧场:玉海棠22</title>
+  </programme>
+<programme start="20260802135430 +0000" stop="20260802151500 +0000" channel="gdtv.广东体育">
+    <title lang="zh">重播出奇智胜(915)</title>
+  </programme>
+<programme start="20260802143500 +0000" stop="20260802161500 +0000" channel="gdtv.广东影视">
+    <title lang="zh">剧无霸经典剧场:终极对决(14-16)</title>
+  </programme>
+<programme start="20260802144500 +0000" stop="20260802153500 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">王牌剧场:玉海棠23</title>
+  </programme>
+<programme start="20260802145600 +0000" stop="20260802154600 +0000" channel="gdtv.广东民生">
+    <title lang="zh">DV现场</title>
+  </programme>
+<programme start="20260802151530 +0000" stop="20260802160530 +0000" channel="gdtv.广东体育">
+    <title lang="zh">首播2026年广东省城市篮球联赛总决赛第二场东莞vs深圳</title>
+  </programme>
+<programme start="20260802153500 +0000" stop="20260802162500 +0000" channel="gdtv.广东珠江">
+    <title lang="zh">王牌剧场:玉海棠24</title>
   </programme>
 <programme start="20260727160500 +0000" stop="20260727182600 +0000" channel="tvmao.CCTVPAYFEE-CCTVPAYFEE20">
     <title lang="zh">戏曲</title>
@@ -60739,566 +60562,6 @@
 <programme start="20260803061300 +0000" stop="20260803071300 +0000" channel="tvmao.GDTV-GDTV7">
     <title lang="zh">动画片</title>
   </programme>
-<programme start="20260727160200 +0000" stop="20260727163000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">葡文節目重溫 - 這片土地的人們</title>
-  </programme>
-<programme start="20260727163000 +0000" stop="20260727170000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">藍海同行</title>
-  </programme>
-<programme start="20260727170000 +0000" stop="20260727173000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">馬交遊澳門Chill 好玩</title>
-  </programme>
-<programme start="20260727173000 +0000" stop="20260727180000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">英語新聞</title>
-  </programme>
-<programme start="20260727180000 +0000" stop="20260727184000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">葡語新聞</title>
-  </programme>
-<programme start="20260727184000 +0000" stop="20260727185000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">家家有餸煮</title>
-  </programme>
-<programme start="20260727185000 +0000" stop="20260727191000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">澳門早晨精華錄</title>
-  </programme>
-<programme start="20260727191000 +0000" stop="20260727194000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">唐西豐味</title>
-  </programme>
-<programme start="20260727194000 +0000" stop="20260727202000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">中國式現代化之路</title>
-  </programme>
-<programme start="20260727202000 +0000" stop="20260727203000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">鈷彩凝珍</title>
-  </programme>
-<programme start="20260727203000 +0000" stop="20260727204000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">好書分享</title>
-  </programme>
-<programme start="20260727204000 +0000" stop="20260727212000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">葡語新聞</title>
-  </programme>
-<programme start="20260727212000 +0000" stop="20260727213000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">國寶時刻</title>
-  </programme>
-<programme start="20260727213000 +0000" stop="20260727220000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">馬交遊澳門Chill 好玩</title>
-  </programme>
-<programme start="20260727220000 +0000" stop="20260727223000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">葡文節目重溫 - 這片土地的人們</title>
-  </programme>
-<programme start="20260727223000 +0000" stop="20260727230000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">藍海同行</title>
-  </programme>
-<programme start="20260727225900 +0000" stop="20260727230000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">開台</title>
-  </programme>
-<programme start="20260727230000 +0000" stop="20260727235700 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">早晨新聞</title>
-  </programme>
-<programme start="20260727230000 +0000" stop="20260728000000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">早晨新聞</title>
-  </programme>
-<programme start="20260727230000 +0000" stop="20260727233000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">葡出個味蕾</title>
-  </programme>
-<programme start="20260727233000 +0000" stop="20260728000000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">英語新聞</title>
-  </programme>
-<programme start="20260727235700 +0000" stop="20260728000000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">健康天天問</title>
-  </programme>
-<programme start="20260728000000 +0000" stop="20260728010000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">澳門早晨</title>
-  </programme>
-<programme start="20260728000000 +0000" stop="20260728010000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">澳門早晨</title>
-  </programme>
-<programme start="20260728000000 +0000" stop="20260728003000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">唐西豐味</title>
-  </programme>
-<programme start="20260728003000 +0000" stop="20260728005200 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
-  </programme>
-<programme start="20260728005200 +0000" stop="20260728012000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">灣區全媒睇</title>
-  </programme>
-<programme start="20260728010000 +0000" stop="20260728010200 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">TDM 新視點</title>
-  </programme>
-<programme start="20260728010000 +0000" stop="20260728013000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">重播早晨新聞</title>
-  </programme>
-<programme start="20260728010200 +0000" stop="20260728012500 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">家家有本事</title>
-    <desc lang="zh-hant">家家有本事為一個綜合性生活資訊的家庭類節目，邀請相關人士就相關主題提供專業知識，包括日常生活健康資訊等元素</desc>
-  </programme>
-<programme start="20260728012000 +0000" stop="20260728015000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">風火台</title>
-  </programme>
-<programme start="20260728012500 +0000" stop="20260728013000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">趣談唐詩</title>
-    <desc lang="zh-hant">俗語說：熟讀唐詩三百首，不會吟時也會偷 無論是求學時期，或者在日常生活裡，我們都會接觸到唐詩有見及此，本台製作了一個名為趣談唐詩的節目，以有趣和深入淺出的手法，結合現代人的生活趣聞，帶大家去瞭解每一首唐詩背後的歷史淵源和故事</desc>
-  </programme>
-<programme start="20260728013000 +0000" stop="20260728020000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">人類的記憶  中國的世界遺產 瑤池黃龍</title>
-  </programme>
-<programme start="20260728013000 +0000" stop="20260728020000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">灣區全媒睇</title>
-  </programme>
-<programme start="20260728015000 +0000" stop="20260728020000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">家家有餸煮</title>
-  </programme>
-<programme start="20260728015900 +0000" stop="20260728020000 +0000" channel="tdm.93.mo">
-    <title lang="zh-hant">開台</title>
-  </programme>
-<programme start="20260728015900 +0000" stop="20260728020000 +0000" channel="tdm.95.mo">
-    <title lang="zh-hant">開台</title>
-  </programme>
-<programme start="20260728020000 +0000" stop="20260728023000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">新聞報道</title>
-  </programme>
-<programme start="20260728020000 +0000" stop="20260728032500 +0000" channel="tdm.93.mo">
-    <title lang="zh-hant">2026新加坡羽毛球公開賽：男雙決賽</title>
-  </programme>
-<programme start="20260728020000 +0000" stop="20260728023000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">新聞報道</title>
-  </programme>
-<programme start="20260728020000 +0000" stop="20260728050600 +0000" channel="tdm.95.mo">
-    <title lang="zh-hant">好劇連場: 獵心者</title>
-  </programme>
-<programme start="20260728020000 +0000" stop="20260728023000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">粵語新聞</title>
-  </programme>
-<programme start="20260728023000 +0000" stop="20260728030000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">重播風火台</title>
-  </programme>
-<programme start="20260728023000 +0000" stop="20260728030000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">新聞報道</title>
-  </programme>
-<programme start="20260728023000 +0000" stop="20260728031000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">中國式現代化之路</title>
-  </programme>
-<programme start="20260728030000 +0000" stop="20260728031000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">你問我答粵澳法律直播間</title>
-  </programme>
-<programme start="20260728030000 +0000" stop="20260728031200 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">新聞報道</title>
-  </programme>
-<programme start="20260728031000 +0000" stop="20260728044500 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">七夜雪</title>
-    <desc lang="zh-hant">李沁曾舜晞王弘毅陳昊森曾可妮主演，不羈劍客霍展白（曾舜晞飾）為友人之子求藥，結識藥師谷谷主薛紫夜（李沁飾）八年時間，二人在日日相處之中，從彼此各有執念，到默契加深，互相救贖，並約定來年梅樹下共飲卻因各自背負的責任而難言愛意，最終只留下天人永隔的遺憾</desc>
-  </programme>
-<programme start="20260728031000 +0000" stop="20260728032000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">鈷彩凝珍</title>
-  </programme>
-<programme start="20260728031200 +0000" stop="20260728032000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">宇宙更強</title>
-  </programme>
-<programme start="20260728032000 +0000" stop="20260728035000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">重播風火台</title>
-  </programme>
-<programme start="20260728032000 +0000" stop="20260728035000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">馬交遊澳門Chill 好玩</title>
-  </programme>
-<programme start="20260728032500 +0000" stop="20260728045000 +0000" channel="tdm.93.mo">
-    <title lang="zh-hant">2026新加坡羽毛球公開賽：男單決賽</title>
-  </programme>
-<programme start="20260728035000 +0000" stop="20260728040000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">海派百工2</title>
-  </programme>
-<programme start="20260728035000 +0000" stop="20260728042000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">唐西豐味</title>
-  </programme>
-<programme start="20260728040000 +0000" stop="20260728042000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">新聞報道</title>
-  </programme>
-<programme start="20260728042000 +0000" stop="20260728042700 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">宇宙更強</title>
-  </programme>
-<programme start="20260728042000 +0000" stop="20260728045000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">風火台</title>
-  </programme>
-<programme start="20260728042700 +0000" stop="20260728043000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">街市情報</title>
-  </programme>
-<programme start="20260728043000 +0000" stop="20260728045000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">新聞報道</title>
-  </programme>
-<programme start="20260728044500 +0000" stop="20260728050000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">去桃花盛開的地方2</title>
-    <desc lang="zh-hant">去桃花盛開的地方2由徐馳執導，黃日瑩李蒲赫領銜主演，該短劇在第一部的基礎上，將繼續呈現西藏持續深入推進穩定發展生態強邊四件大事落實的生動故事故事以桃花村創建國家級旅遊休閒示範區為主線，講述了當地植物學博士梅朵民宿老闆紮西美食大廚吉美網紅博主娜娜種菜能手老劉等一群新時代追夢人，在桃花村努力奮進團結互助，創造美好生活實現自我價值的故事本節目由&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;西藏未及文化傳媒有限公司&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;贈播</desc>
-  </programme>
-<programme start="20260728045000 +0000" stop="20260728050000 +0000" channel="tdm.93.mo">
-    <title lang="zh-hant">澳門經典車小百科</title>
-  </programme>
-<programme start="20260728045000 +0000" stop="20260728050000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">四川非遺100（第三季）</title>
-  </programme>
-<programme start="20260728045000 +0000" stop="20260728050000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">好書分享</title>
-  </programme>
-<programme start="20260728050000 +0000" stop="20260728051000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">生於斯 長於斯</title>
-  </programme>
-<programme start="20260728050000 +0000" stop="20260728051500 +0000" channel="tdm.93.mo">
-    <title lang="zh-hant">體育新聞</title>
-  </programme>
-<programme start="20260728050000 +0000" stop="20260728051700 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">新聞報道</title>
-  </programme>
-<programme start="20260728050000 +0000" stop="20260728053000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">葡出個味蕾</title>
-  </programme>
-<programme start="20260728050600 +0000" stop="20260728080800 +0000" channel="tdm.95.mo">
-    <title lang="zh-hant">好劇連場: 沉默的榮耀</title>
-  </programme>
-<programme start="20260728051000 +0000" stop="20260728051200 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">TDM 新視點</title>
-  </programme>
-<programme start="20260728051200 +0000" stop="20260728051700 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">趣談唐詩</title>
-    <desc lang="zh-hant">俗語說：熟讀唐詩三百首，不會吟時也會偷 無論是求學時期，或者在日常生活裡，我們都會接觸到唐詩有見及此，本台製作了一個名為趣談唐詩的節目，以有趣和深入淺出的手法，結合現代人的生活趣聞，帶大家去瞭解每一首唐詩背後的歷史淵源和故事</desc>
-  </programme>
-<programme start="20260728051500 +0000" stop="20260728062500 +0000" channel="tdm.93.mo">
-    <title lang="zh-hant">2026新加坡羽毛球公開賽：混雙決賽</title>
-  </programme>
-<programme start="20260728051700 +0000" stop="20260728052400 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">宇宙更強</title>
-  </programme>
-<programme start="20260728051700 +0000" stop="20260728052400 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">宇宙更強</title>
-  </programme>
-<programme start="20260728052400 +0000" stop="20260728053000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">午間天氣報告</title>
-  </programme>
-<programme start="20260728052400 +0000" stop="20260728053000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">午間天氣報告</title>
-  </programme>
-<programme start="20260728053000 +0000" stop="20260728060000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">午間新聞</title>
-  </programme>
-<programme start="20260728053000 +0000" stop="20260728063000 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Telejornal RTPi (Diferido)</title>
-  </programme>
-<programme start="20260728053000 +0000" stop="20260728060000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">午間新聞</title>
-  </programme>
-<programme start="20260728053000 +0000" stop="20260728055200 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
-  </programme>
-<programme start="20260728055200 +0000" stop="20260728060000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">家家有餸煮</title>
-  </programme>
-<programme start="20260728060000 +0000" stop="20260728070000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">每日財經</title>
-  </programme>
-<programme start="20260728060000 +0000" stop="20260728070000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">每日財經</title>
-  </programme>
-<programme start="20260728060000 +0000" stop="20260728063000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">粵語新聞</title>
-  </programme>
-<programme start="20260728062500 +0000" stop="20260728083000 +0000" channel="tdm.93.mo">
-    <title lang="zh-hant">2025美國網球公開賽：男單8強</title>
-  </programme>
-<programme start="20260728063000 +0000" stop="20260728065000 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Superstore T4</title>
-  </programme>
-<programme start="20260728063000 +0000" stop="20260728070000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">馬交遊澳門Chill 好玩</title>
-  </programme>
-<programme start="20260728065000 +0000" stop="20260728073500 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Queridos Paps</title>
-  </programme>
-<programme start="20260728070000 +0000" stop="20260728073000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">重播風火台</title>
-  </programme>
-<programme start="20260728070000 +0000" stop="20260728072500 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">新聞報道</title>
-  </programme>
-<programme start="20260728070000 +0000" stop="20260728074000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">葡語新聞</title>
-  </programme>
-<programme start="20260728072500 +0000" stop="20260728073000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">街市情報</title>
-  </programme>
-<programme start="20260728073000 +0000" stop="20260728074000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">你問我答粵澳法律直播間</title>
-  </programme>
-<programme start="20260728073000 +0000" stop="20260728080000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">新聞報道</title>
-  </programme>
-<programme start="20260728073500 +0000" stop="20260728075000 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">O Carrinho Poli T1</title>
-  </programme>
-<programme start="20260728074000 +0000" stop="20260728080000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">澳門早晨精華錄</title>
-  </programme>
-<programme start="20260728074000 +0000" stop="20260728075500 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">天天成長記 第一至四季</title>
-  </programme>
-<programme start="20260728075000 +0000" stop="20260728081500 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Os Smurfs</title>
-  </programme>
-<programme start="20260728075500 +0000" stop="20260728084000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">中國式現代化之路</title>
-  </programme>
-<programme start="20260728080000 +0000" stop="20260728080500 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">趣談唐詩</title>
-    <desc lang="zh-hant">俗語說：熟讀唐詩三百首，不會吟時也會偷 無論是求學時期，或者在日常生活裡，我們都會接觸到唐詩有見及此，本台製作了一個名為趣談唐詩的節目，以有趣和深入淺出的手法，結合現代人的生活趣聞，帶大家去瞭解每一首唐詩背後的歷史淵源和故事</desc>
-  </programme>
-<programme start="20260728080000 +0000" stop="20260728083000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">新聞報道</title>
-  </programme>
-<programme start="20260728080500 +0000" stop="20260728081000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">健康天天問</title>
-  </programme>
-<programme start="20260728080800 +0000" stop="20260728093000 +0000" channel="tdm.95.mo">
-    <title lang="zh-hant">越戰越勇</title>
-    <desc lang="zh-hant">越戰越勇為有著歌唱夢想的觀眾開放，關注他們築夢追夢圓夢的心路歷程，主打真人真故事，所有創作皆以真實為核心每個登場選手沒有任何劇本，他們只需做到盡情歌唱和實話實說每期有6位來自全國各地各行各業的參賽者登上舞台，通過演唱環節及點評投票對決環節，增加節目的刺激性</desc>
-  </programme>
-<programme start="20260728081000 +0000" stop="20260728083000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">兒童節目開心超人聯盟之平行時空大冒險 (第十八季)</title>
-    <desc lang="zh-hant">本季延續系列世界觀，講述五超人與伽羅受潮博士委託，前往平行時空對抗統治者黑煞並拯救星星球眾人為獲取對抗黑煞的關鍵武器開天闢地斧，開啟多元宇宙尋器冒險，經歷異時空團隊協作與黑暗勢力周旋的考驗劇情通過平行時空設定拓展敘事維度，聚焦超人聯盟跨越時空界限的正義使命與勇氣主題</desc>
-  </programme>
-<programme start="20260728081500 +0000" stop="20260728084000 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">O Gato da Cartola</title>
-  </programme>
-<programme start="20260728083000 +0000" stop="20260728090000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">兒童節目天才小魯班</title>
-    <desc lang="zh-hant">動畫片以傳承匠人文化弘揚匠人精神為核心，聚焦中國榫卯技術，借助木匠鼻祖魯班的影響力打造南康小魯班IP，通過傳播力親和力強的動漫形式，詮釋中國匠人故事</desc>
-  </programme>
-<programme start="20260728083000 +0000" stop="20260728090000 +0000" channel="tdm.93.mo">
-    <title lang="zh-hant">2025勒芒盃雜誌第三集  勒芒站</title>
-  </programme>
-<programme start="20260728083000 +0000" stop="20260728090000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">新聞報道</title>
-  </programme>
-<programme start="20260728084000 +0000" stop="20260728085500 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Caillou T1</title>
-  </programme>
-<programme start="20260728084000 +0000" stop="20260728091000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">葡文節目重溫 - 這片土地的人們</title>
-  </programme>
-<programme start="20260728085500 +0000" stop="20260728094500 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Renascer (Repetio)</title>
-  </programme>
-<programme start="20260728090000 +0000" stop="20260728095000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">兒童節目正義紅師</title>
-    <desc lang="zh-hant">故事講述為了維護家園，國家成立以雷鳴桑傑孫勝男杜小龍及巴圖五位精英為首的世界維持和平保衛隊，配合一級的機械裝甲裝備御武甲，為了保護地球，與黑盔甲兵團展開連場激戰</desc>
-  </programme>
-<programme start="20260728090000 +0000" stop="20260728124000 +0000" channel="tdm.93.mo">
-    <title lang="zh-hant">2025蘇迪曼盃羽毛球賽：日本 對  法國 - 小組賽</title>
-  </programme>
-<programme start="20260728090000 +0000" stop="20260728092700 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">新聞報道</title>
-  </programme>
-<programme start="20260728091000 +0000" stop="20260728094000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">藍海同行</title>
-  </programme>
-<programme start="20260728092700 +0000" stop="20260728093000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">健康天天問</title>
-  </programme>
-<programme start="20260728093000 +0000" stop="20260728095000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">新聞報道</title>
-  </programme>
-<programme start="20260728093000 +0000" stop="20260728095800 +0000" channel="tdm.95.mo">
-    <title lang="zh-hant">澳門早晨精華錄</title>
-  </programme>
-<programme start="20260728094000 +0000" stop="20260728101000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">唐西豐味</title>
-  </programme>
-<programme start="20260728094500 +0000" stop="20260728101500 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Personaliza a Tua Casa T1</title>
-  </programme>
-<programme start="20260728095000 +0000" stop="20260728095800 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">兒童節目青田小田魚第一季</title>
-  </programme>
-<programme start="20260728095000 +0000" stop="20260728100000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">宇宙更強</title>
-  </programme>
-<programme start="20260728095800 +0000" stop="20260728103800 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">重播動感教菁</title>
-  </programme>
-<programme start="20260728095800 +0000" stop="20260728100000 +0000" channel="tdm.95.mo">
-    <title lang="zh-hant">TDM 新視點</title>
-  </programme>
-<programme start="20260728100000 +0000" stop="20260728100500 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">新聞報道</title>
-  </programme>
-<programme start="20260728100000 +0000" stop="20260728102500 +0000" channel="tdm.95.mo">
-    <title lang="zh-hant">錫蘭王子東行記</title>
-  </programme>
-<programme start="20260728100500 +0000" stop="20260728100700 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">TDM 新視點</title>
-  </programme>
-<programme start="20260728100700 +0000" stop="20260728103000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">澳門早晨精華錄</title>
-  </programme>
-<programme start="20260728101000 +0000" stop="20260728104000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">葡出個味蕾</title>
-  </programme>
-<programme start="20260728101500 +0000" stop="20260728110500 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Parenthood - Uma Histria de Famlia T1</title>
-  </programme>
-<programme start="20260728102500 +0000" stop="20260728120000 +0000" channel="tdm.95.mo">
-    <title lang="zh-hant">深潛</title>
-    <desc lang="zh-hant">在抗日戰爭期間，為了順利佔領長沙，日軍啟用了潛伏在中國長達15年的特工黑執事，開始實施早已謀劃的戰略欺騙計劃中共地下黨成員雲慕之在調查黑執事的期間慘遭殺害他的兒子雲弘深（成毅飾）是一位數學天才，但對父親的真實身份一無所知，為了追查父親的死因和殺手，他回到了故鄉長沙，卻即刻陷入了黑執事早早設下的圈套當雲弘深感到茫然無措之際，父親生前的摯友中共地下黨黨員楊梓銘大力支持與保護他，雲弘深最終識破了敵人的詭計在共產黨的指導下，雲弘深與愛國青年聞夜鳴（穎兒飾）攜手合作，精心謀劃，以智慧取勝，巧妙佈局，在國家仇恨面前，他們決定放下個人恩怨，甘願將自己置於險境之中，最後成功破獲潛伏在國軍內部的日本特工黑執事，改變了長沙的戰局，為第一次長沙會戰作出了重要貢獻，進而取得勝利</desc>
-  </programme>
-<programme start="20260728103000 +0000" stop="20260728110000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">大灣區經濟新聞</title>
-  </programme>
-<programme start="20260728103800 +0000" stop="20260728104300 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">趣談唐詩</title>
-    <desc lang="zh-hant">俗語說：熟讀唐詩三百首，不會吟時也會偷 無論是求學時期，或者在日常生活裡，我們都會接觸到唐詩有見及此，本台製作了一個名為趣談唐詩的節目，以有趣和深入淺出的手法，結合現代人的生活趣聞，帶大家去瞭解每一首唐詩背後的歷史淵源和故事</desc>
-  </programme>
-<programme start="20260728104000 +0000" stop="20260728110000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">澳門早晨精華錄</title>
-  </programme>
-<programme start="20260728104300 +0000" stop="20260728105000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">宇宙更強</title>
-  </programme>
-<programme start="20260728105000 +0000" stop="20260728110000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">新聞提要</title>
-  </programme>
-<programme start="20260728110000 +0000" stop="20260728115500 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">澳視新聞</title>
-  </programme>
-<programme start="20260728110000 +0000" stop="20260728115500 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">澳視新聞</title>
-  </programme>
-<programme start="20260728110000 +0000" stop="20260728112500 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
-  </programme>
-<programme start="20260728110500 +0000" stop="20260728120000 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">A Fazenda</title>
-  </programme>
-<programme start="20260728112500 +0000" stop="20260728120000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">風火台</title>
-  </programme>
-<programme start="20260728115500 +0000" stop="20260728120000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">天氣報告</title>
-  </programme>
-<programme start="20260728115500 +0000" stop="20260728115800 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">天氣報告</title>
-  </programme>
-<programme start="20260728115800 +0000" stop="20260728120000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">TDM 新視點</title>
-  </programme>
-<programme start="20260728120000 +0000" stop="20260728133300 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">七夜雪</title>
-    <desc lang="zh-hant">李沁曾舜晞王弘毅陳昊森曾可妮主演，不羈劍客霍展白（曾舜晞飾）為友人之子求藥，結識藥師谷谷主薛紫夜（李沁飾）八年時間，二人在日日相處之中，從彼此各有執念，到默契加深，互相救贖，並約定來年梅樹下共飲卻因各自背負的責任而難言愛意，最終只留下天人永隔的遺憾</desc>
-  </programme>
-<programme start="20260728120000 +0000" stop="20260728124500 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Telejornal</title>
-  </programme>
-<programme start="20260728120000 +0000" stop="20260728130000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">錄播澳視新聞</title>
-  </programme>
-<programme start="20260728120000 +0000" stop="20260728130000 +0000" channel="tdm.95.mo">
-    <title lang="zh-hant">一城煙火 一城詩</title>
-    <desc lang="zh-hant">節目邀請不同領域知名人士，以citywalk方式，於大灣區城市遊走，打卡每個人文勝景，開啟別具一格的詩詞美食與文化探尋之旅本節目由&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;廣州市廣播電視台&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;贈播</desc>
-  </programme>
-<programme start="20260728120000 +0000" stop="20260728130000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">粵語新聞</title>
-  </programme>
-<programme start="20260728124000 +0000" stop="20260728124500 +0000" channel="tdm.93.mo">
-    <title lang="zh-hant">體育新聞</title>
-  </programme>
-<programme start="20260728124500 +0000" stop="20260728131000 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Monglia Para o Infinito e Mais Alm</title>
-  </programme>
-<programme start="20260728124500 +0000" stop="20260728145500 +0000" channel="tdm.93.mo">
-    <title lang="zh-hant">2026 FIFA世界盃：法國 對 塞內加爾</title>
-  </programme>
-<programme start="20260728130000 +0000" stop="20260728140000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">錄播澳視新聞</title>
-  </programme>
-<programme start="20260728130000 +0000" stop="20260728132500 +0000" channel="tdm.95.mo">
-    <title lang="zh-hant">趨記茶餐廳</title>
-    <desc lang="zh-hant">一部以澳門茶餐廳為背景的輕鬆幽默連續劇，故事圍繞茶餐廳的日常營運展開，當中穿插生活熱話，搞笑得來又有共鳴，歡迎大家光臨！</desc>
-  </programme>
-<programme start="20260728130000 +0000" stop="20260728133000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">灣區全媒睇</title>
-  </programme>
-<programme start="20260728131000 +0000" stop="20260728134000 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Mundo  Vista T3</title>
-  </programme>
-<programme start="20260728132500 +0000" stop="20260728133500 +0000" channel="tdm.95.mo">
-    <title lang="zh-hant">四川非遺100 - 第五季</title>
-    <desc lang="zh-hant">四川非遺100第五季是一部具有深刻文化內涵和藝術價值的紀錄片它通過精湛的視聽呈現生動的人物故事深入的文化溯源以及對時代發展的積極回應，全方位地展示四川非遺的獨特魅力和傳承價值它不僅是對四川非遺的一次深情禮贊，更是對所有非遺傳承人的致敬，也為觀眾提供一次了解非遺感受文化魅力的難得機會</desc>
-  </programme>
-<programme start="20260728133000 +0000" stop="20260728140000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">馬交遊澳門Chill 好玩</title>
-  </programme>
-<programme start="20260728133300 +0000" stop="20260728140000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
-  </programme>
-<programme start="20260728133500 +0000" stop="20260728151000 +0000" channel="tdm.95.mo">
-    <title lang="zh-hant">深潛</title>
-    <desc lang="zh-hant">在抗日戰爭期間，為了順利佔領長沙，日軍啟用了潛伏在中國長達15年的特工黑執事，開始實施早已謀劃的戰略欺騙計劃中共地下黨成員雲慕之在調查黑執事的期間慘遭殺害他的兒子雲弘深（成毅飾）是一位數學天才，但對父親的真實身份一無所知，為了追查父親的死因和殺手，他回到了故鄉長沙，卻即刻陷入了黑執事早早設下的圈套當雲弘深感到茫然無措之際，父親生前的摯友中共地下黨黨員楊梓銘大力支持與保護他，雲弘深最終識破了敵人的詭計在共產黨的指導下，雲弘深與愛國青年聞夜鳴（穎兒飾）攜手合作，精心謀劃，以智慧取勝，巧妙佈局，在國家仇恨面前，他們決定放下個人恩怨，甘願將自己置於險境之中，最後成功破獲潛伏在國軍內部的日本特工黑執事，改變了長沙的戰局，為第一次長沙會戰作出了重要貢獻，進而取得勝利</desc>
-  </programme>
-<programme start="20260728134000 +0000" stop="20260728143000 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Renascer</title>
-  </programme>
-<programme start="20260728140000 +0000" stop="20260728143000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">普通話新聞</title>
-  </programme>
-<programme start="20260728140000 +0000" stop="20260728143000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">普通話新聞</title>
-  </programme>
-<programme start="20260728140000 +0000" stop="20260728145000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">粵語新聞</title>
-  </programme>
-<programme start="20260728143000 +0000" stop="20260728151500 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">十點半澳視縱橫競健群英 2026</title>
-  </programme>
-<programme start="20260728143000 +0000" stop="20260728150500 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">TDM News</title>
-  </programme>
-<programme start="20260728143000 +0000" stop="20260728151500 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">十點半澳視縱橫：競健群英 2026</title>
-  </programme>
-<programme start="20260728145000 +0000" stop="20260728150000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">國寶時刻</title>
-  </programme>
-<programme start="20260728145500 +0000" stop="20260728150000 +0000" channel="tdm.93.mo">
-    <title lang="zh-hant">體育新聞</title>
-  </programme>
-<programme start="20260728150000 +0000" stop="20260728170000 +0000" channel="tdm.93.mo">
-    <title lang="zh-hant">2026 FIFA世界盃：阿根廷 對 阿爾及利亞</title>
-  </programme>
-<programme start="20260728150000 +0000" stop="20260728154000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">葡語新聞</title>
-  </programme>
-<programme start="20260728150500 +0000" stop="20260728155500 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Portugal  Vista T2</title>
-  </programme>
-<programme start="20260728151000 +0000" stop="20260728160100 +0000" channel="tdm.95.mo">
-    <title lang="zh-hant">長白山</title>
-    <desc lang="zh-hant">本片全面反映了長白山美麗迷人的自然風光物種豐富的生態資源和源遠流長的歷史文化，該片除運用實拍手法外，還採用真人情景再現和三維動畫還原等方式，真實再現了與吉林省長白山相關的歷史事件古代民俗自然現象等場景本節目由吉林廣播電視台贈播</desc>
-  </programme>
-<programme start="20260728151500 +0000" stop="20260728155000 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">晚間新聞</title>
-  </programme>
-<programme start="20260728151500 +0000" stop="20260728155000 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">晚間新聞</title>
-  </programme>
-<programme start="20260728154000 +0000" stop="20260728164000 +0000" channel="tdm.96.mo">
-    <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
-  </programme>
-<programme start="20260728155000 +0000" stop="20260728160100 +0000" channel="tdm.91.mo">
-    <title lang="zh-hant">體育新聞</title>
-  </programme>
-<programme start="20260728155000 +0000" stop="20260728160100 +0000" channel="tdm.94.mo">
-    <title lang="zh-hant">體育新聞</title>
-  </programme>
-<programme start="20260728155500 +0000" stop="20260728165500 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">RTPi Directo</title>
-  </programme>
 <programme start="20260728160100 +0000" stop="20260728162700 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">灣區全媒睇</title>
   </programme>
@@ -61313,7 +60576,7 @@
   </programme>
 <programme start="20260728162700 +0000" stop="20260728164900 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260728163300 +0000" stop="20260728164500 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">海派百工2</title>
@@ -61363,7 +60626,7 @@
   </programme>
 <programme start="20260728191000 +0000" stop="20260728194000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260728192500 +0000" stop="20260728200000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">錄播晚間新聞</title>
@@ -61373,7 +60636,7 @@
   </programme>
 <programme start="20260728200000 +0000" stop="20260728202500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260728202000 +0000" stop="20260728203000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">鈷彩凝珍</title>
@@ -61414,7 +60677,7 @@
   </programme>
 <programme start="20260729000000 +0000" stop="20260729003100 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260729003100 +0000" stop="20260729005300 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">家家有本事</title>
@@ -61440,7 +60703,7 @@
   </programme>
 <programme start="20260729035000 +0000" stop="20260729042000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260729042000 +0000" stop="20260729050000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">競健群英 2026</title>
@@ -61505,7 +60768,7 @@
   </programme>
 <programme start="20260729094000 +0000" stop="20260729101000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260729095500 +0000" stop="20260729102000 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">Personaliza a Tua Casa T1</title>
@@ -61595,7 +60858,7 @@
   </programme>
 <programme start="20260729191000 +0000" stop="20260729194000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260729194000 +0000" stop="20260729202000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">中國式現代化之路</title>
@@ -61647,11 +60910,11 @@
   </programme>
 <programme start="20260730000000 +0000" stop="20260730003000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260730003000 +0000" stop="20260730005500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260730005500 +0000" stop="20260730012500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -61744,7 +61007,7 @@
   </programme>
 <programme start="20260730035000 +0000" stop="20260730042000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260730040000 +0000" stop="20260730042000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">新聞報道</title>
@@ -61766,7 +61029,7 @@
   </programme>
 <programme start="20260730044500 +0000" stop="20260730050300 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">去桃花盛開的地方2</title>
-    <desc lang="zh-hant">去桃花盛開的地方2由徐馳執導，黃日瑩李蒲赫領銜主演，該短劇在第一部的基礎上，將繼續呈現西藏持續深入推進穩定發展生態強邊四件大事落實的生動故事故事以桃花村創建國家級旅遊休閒示範區為主線，講述了當地植物學博士梅朵民宿老闆紮西美食大廚吉美網紅博主娜娜種菜能手老劉等一群新時代追夢人，在桃花村努力奮進團結互助，創造美好生活實現自我價值的故事本節目由&amp;amp;amp;amp;amp;amp;amp;amp;lt;西藏未及文化傳媒有限公司&amp;amp;amp;amp;amp;amp;amp;amp;gt;贈播</desc>
+    <desc lang="zh-hant">去桃花盛開的地方2由徐馳執導，黃日瑩李蒲赫領銜主演，該短劇在第一部的基礎上，將繼續呈現西藏持續深入推進穩定發展生態強邊四件大事落實的生動故事故事以桃花村創建國家級旅遊休閒示範區為主線，講述了當地植物學博士梅朵民宿老闆紮西美食大廚吉美網紅博主娜娜種菜能手老劉等一群新時代追夢人，在桃花村努力奮進團結互助，創造美好生活實現自我價值的故事本節目由&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;西藏未及文化傳媒有限公司&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;贈播</desc>
   </programme>
 <programme start="20260730045000 +0000" stop="20260730050000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">四川非遺100（第三季）</title>
@@ -61818,7 +61081,7 @@
   </programme>
 <programme start="20260730053600 +0000" stop="20260730060000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260730060000 +0000" stop="20260730070000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">每日財經</title>
@@ -61915,7 +61178,7 @@
   </programme>
 <programme start="20260730094000 +0000" stop="20260730101000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260730095000 +0000" stop="20260730095800 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">兒童節目青田小田魚第一季</title>
@@ -61978,7 +61241,7 @@
   </programme>
 <programme start="20260730110000 +0000" stop="20260730112500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260730112000 +0000" stop="20260730123000 +0000" channel="tdm.93.mo">
     <title lang="zh-hant">2026 WTT 新加坡乒乓球大滿貫：女單8強</title>
@@ -62006,7 +61269,7 @@
   </programme>
 <programme start="20260730120000 +0000" stop="20260730123000 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">香港故事 師傅來了2</title>
-    <desc lang="zh-hant">香港故事-師傅來了2，每一集帶領觀眾感受香港的一種工匠精神該節目從人物故事出發，帶領觀眾透過鏡頭感受匠人對極致的追求，圍繞著細節之美來講述香港故事本節目由&amp;amp;amp;amp;amp;amp;amp;amp;lt;香港電台&amp;amp;amp;amp;amp;amp;amp;amp;gt;贈播</desc>
+    <desc lang="zh-hant">香港故事-師傅來了2，每一集帶領觀眾感受香港的一種工匠精神該節目從人物故事出發，帶領觀眾透過鏡頭感受匠人對極致的追求，圍繞著細節之美來講述香港故事本節目由&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;香港電台&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;贈播</desc>
   </programme>
 <programme start="20260730120000 +0000" stop="20260730130000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">粵語新聞</title>
@@ -62039,7 +61302,7 @@
   </programme>
 <programme start="20260730133300 +0000" stop="20260730140000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260730133500 +0000" stop="20260730151000 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">鯤鵬擊浪</title>
@@ -62086,7 +61349,7 @@
   </programme>
 <programme start="20260730154000 +0000" stop="20260730164000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260730155000 +0000" stop="20260730160100 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">體育新聞</title>
@@ -62108,7 +61371,7 @@
   </programme>
 <programme start="20260730162700 +0000" stop="20260730164900 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260730163300 +0000" stop="20260730164500 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">海派百工2</title>
@@ -62154,7 +61417,7 @@
   </programme>
 <programme start="20260730191000 +0000" stop="20260730194000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260730192500 +0000" stop="20260730200000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">錄播晚間新聞</title>
@@ -62164,7 +61427,7 @@
   </programme>
 <programme start="20260730200000 +0000" stop="20260730202500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260730202000 +0000" stop="20260730203000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">鈷彩凝珍</title>
@@ -62201,7 +61464,7 @@
   </programme>
 <programme start="20260731000000 +0000" stop="20260731002500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260731002500 +0000" stop="20260731005000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">家家有本事</title>
@@ -62227,7 +61490,7 @@
   </programme>
 <programme start="20260731035000 +0000" stop="20260731042000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260731042000 +0000" stop="20260731050000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">風火台</title>
@@ -62286,7 +61549,7 @@
   </programme>
 <programme start="20260731094000 +0000" stop="20260731101000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260731095500 +0000" stop="20260731102000 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">Personaliza a Tua Casa T1</title>
@@ -62320,7 +61583,7 @@
     <title lang="zh-hant">China 360</title>
   </programme>
 <programme start="20260731131500 +0000" stop="20260731134000 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Happy&amp;amp;amp;amp;amp;apos;s Place T1</title>
+    <title lang="zh-hant">Happy&amp;amp;amp;amp;amp;amp;apos;s Place T1</title>
   </programme>
 <programme start="20260731134000 +0000" stop="20260731143000 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">Renascer</title>
@@ -62367,7 +61630,7 @@
   </programme>
 <programme start="20260731191000 +0000" stop="20260731194100 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260731194100 +0000" stop="20260731203000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">星星的故鄉</title>
@@ -62413,11 +61676,11 @@
   </programme>
 <programme start="20260801000000 +0000" stop="20260801003000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260801003000 +0000" stop="20260801005200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260801005200 +0000" stop="20260801012000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -62430,7 +61693,7 @@
   </programme>
 <programme start="20260801010200 +0000" stop="20260801013500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">綠色長城</title>
-    <desc lang="zh-hant">四集大型生態紀錄片綠色長城分為水潤澤林蒼翠草繁茂沙生機，深刻闡釋了習近平生態文明思想在祖國北疆大地上的生動實踐，向世界展示了中國北方生態治理的卓越成果攝製組歷時兩年半，行程數萬公里，以超長待機狀態捕捉到難得一見的珍貴畫面，呈現了內蒙古如何讓湖泊潤澤森林蒼翠草原繁茂沙漠重煥生機，生動描繪內蒙古山水林田湖草沙的美麗畫卷，深情講述了北疆人民以強烈歷史使命感和責任感築牢我國北方重要生態安全屏障本片由&amp;amp;amp;amp;lt;內蒙古廣播電視台&amp;amp;amp;amp;gt;贈播</desc>
+    <desc lang="zh-hant">四集大型生態紀錄片綠色長城分為水潤澤林蒼翠草繁茂沙生機，深刻闡釋了習近平生態文明思想在祖國北疆大地上的生動實踐，向世界展示了中國北方生態治理的卓越成果攝製組歷時兩年半，行程數萬公里，以超長待機狀態捕捉到難得一見的珍貴畫面，呈現了內蒙古如何讓湖泊潤澤森林蒼翠草原繁茂沙漠重煥生機，生動描繪內蒙古山水林田湖草沙的美麗畫卷，深情講述了北疆人民以強烈歷史使命感和責任感築牢我國北方重要生態安全屏障本片由&amp;amp;amp;amp;amp;lt;內蒙古廣播電視台&amp;amp;amp;amp;amp;gt;贈播</desc>
   </programme>
 <programme start="20260801012000 +0000" stop="20260801015000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳視新聞檔案</title>
@@ -62506,7 +61769,7 @@
   </programme>
 <programme start="20260801035000 +0000" stop="20260801042000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260801035300 +0000" stop="20260801040000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">育才成長 築新未來：活力動起來</title>
@@ -62546,7 +61809,7 @@
   </programme>
 <programme start="20260801045900 +0000" stop="20260801080100 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">好劇連場: 沉默的榮耀</title>
-    <desc lang="zh-hant">諜戰劇沉默的榮耀，真實歷史的震撼再現！劇集首次以真實姓名真實事件，將一段幾乎被時代塵埃掩埋的壯烈史詩以電視劇形式再度呈現，劇情跌宕起伏，扣人心弦&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;當所有人享受著革命勝利的果實見證新中國成立的時候，有一群人，放棄了安逸的生活，在白色恐怖的籠罩下，以丹心為炬，照亮了歷史的漫漫長夜39集電視連續劇沉默的榮耀以前所未有的視角，將鏡頭對準了這些在台灣隱蔽戰線上的無名英雄，以深沉細膩的敍事手法，在語言風俗及生活場景中融合閩台文化元素，呈現台灣島在上世紀五十年代的面貌，讓觀眾彷彿穿越回到那個動盪的年代&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;沉默的榮耀根據真實歷史人物吳石朱楓陳寶倉聶曦等烈士的事蹟改編，創作歷時七年，講述1949年至1950年，中共代號｢密使一號｣的台灣國防部中將參謀次長吳石，與中共華東局女情報員朱楓國防部中將陳寶倉副官聶曦等人緊密配合，多次將機密軍情傳遞給共軍，之後遭出賣而被捕吳石在牢房中用鮮血寫下台灣必歸四個大字，四人最終以為中共從事間諜活動被判死刑伏法&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;此劇集結了國劇一線的實力派演員與經驗豐富的幕後團隊由盧敏為總編劇，楊亞洲執導，于和偉吳越魏晨曾黎等領銜主演憑藉強勁的製作班底，頂級演員的精湛演繹，此劇在國內開播後引發廣泛關注9月30日於央視8套開播，首日收視率破3，還曾連續18天創大陸收視第一官方宣傳該劇為獻禮國慶大劇，是新中國成立以來首部反映台灣隱蔽戰線鬥爭的重大主題影視作品</desc>
+    <desc lang="zh-hant">諜戰劇沉默的榮耀，真實歷史的震撼再現！劇集首次以真實姓名真實事件，將一段幾乎被時代塵埃掩埋的壯烈史詩以電視劇形式再度呈現，劇情跌宕起伏，扣人心弦&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;當所有人享受著革命勝利的果實見證新中國成立的時候，有一群人，放棄了安逸的生活，在白色恐怖的籠罩下，以丹心為炬，照亮了歷史的漫漫長夜39集電視連續劇沉默的榮耀以前所未有的視角，將鏡頭對準了這些在台灣隱蔽戰線上的無名英雄，以深沉細膩的敍事手法，在語言風俗及生活場景中融合閩台文化元素，呈現台灣島在上世紀五十年代的面貌，讓觀眾彷彿穿越回到那個動盪的年代&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;沉默的榮耀根據真實歷史人物吳石朱楓陳寶倉聶曦等烈士的事蹟改編，創作歷時七年，講述1949年至1950年，中共代號｢密使一號｣的台灣國防部中將參謀次長吳石，與中共華東局女情報員朱楓國防部中將陳寶倉副官聶曦等人緊密配合，多次將機密軍情傳遞給共軍，之後遭出賣而被捕吳石在牢房中用鮮血寫下台灣必歸四個大字，四人最終以為中共從事間諜活動被判死刑伏法&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;此劇集結了國劇一線的實力派演員與經驗豐富的幕後團隊由盧敏為總編劇，楊亞洲執導，于和偉吳越魏晨曾黎等領銜主演憑藉強勁的製作班底，頂級演員的精湛演繹，此劇在國內開播後引發廣泛關注9月30日於央視8套開播，首日收視率破3，還曾連續18天創大陸收視第一官方宣傳該劇為獻禮國慶大劇，是新中國成立以來首部反映台灣隱蔽戰線鬥爭的重大主題影視作品</desc>
   </programme>
 <programme start="20260801050000 +0000" stop="20260801051500 +0000" channel="tdm.93.mo">
     <title lang="zh-hant">體育新聞</title>
@@ -62594,7 +61857,7 @@
   </programme>
 <programme start="20260801053000 +0000" stop="20260801055200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260801055200 +0000" stop="20260801060000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">時局綜觀-英文字幕版</title>
@@ -62726,7 +61989,7 @@
   </programme>
 <programme start="20260801094500 +0000" stop="20260801101000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260801095000 +0000" stop="20260801095800 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">兒童節目青田小田魚第一季</title>
@@ -62800,7 +62063,7 @@
   </programme>
 <programme start="20260801110800 +0000" stop="20260801113000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260801113000 +0000" stop="20260801121500 +0000" channel="tdm.93.mo">
     <title lang="zh-hant">2026 WTT 新加坡乒乓球大滿貫：男單8強</title>
@@ -62820,7 +62083,7 @@
   </programme>
 <programme start="20260801120000 +0000" stop="20260801125500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">林則徐 虎門銷煙以外</title>
-    <desc lang="zh-hant">2025年，適逢民族英雄林則徐誕辰二百四十周年國家主席習近平在福州任職期間，保育了林則徐出生地的一系列遺跡他先後多次引用林則徐苟利國家生死以，豈因禍福避趨之的名句，號召國人把林則徐的民族精神和優秀品格繼承發揚下去&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;林則徐：虎門銷煙以外是一部由香港電台出品的五集歷史人文紀錄片影片以香港視角出發，跨越三萬公里深入中國多省市（包括澳門廣東湖南福建浙江河南陝西甘肅新疆），更東渡日本，探尋虎門銷煙之外那個更為真實立體的林則徐&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;林則徐虎門銷煙的壯舉固然永載史冊，但其光輝遠不止於此本紀錄片突破傳統敘事框架，不僅回顧林則徐虎門銷煙的功績，更深入挖掘他作為治水能臣嚴謹學者流放者與思想家的多面人生透過實地探訪專家訪談，並結合AI技術生成動畫重現歷史場景，影片呈現林則徐在禁煙海防水利邊疆開發等方面的卓越貢獻，並揭示其開眼看世界的深遠影響節目以細膩的鏡頭語言和情感敘述，串聯歷史與當下，展現林則徐精神的當代意義，值此民族英雄誕辰二百四十周年之際，向他獻上最誠摯的敬意本片由&amp;amp;amp;amp;lt;香港電台&amp;amp;amp;amp;gt;贈播</desc>
+    <desc lang="zh-hant">2025年，適逢民族英雄林則徐誕辰二百四十周年國家主席習近平在福州任職期間，保育了林則徐出生地的一系列遺跡他先後多次引用林則徐苟利國家生死以，豈因禍福避趨之的名句，號召國人把林則徐的民族精神和優秀品格繼承發揚下去&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;林則徐：虎門銷煙以外是一部由香港電台出品的五集歷史人文紀錄片影片以香港視角出發，跨越三萬公里深入中國多省市（包括澳門廣東湖南福建浙江河南陝西甘肅新疆），更東渡日本，探尋虎門銷煙之外那個更為真實立體的林則徐&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;林則徐虎門銷煙的壯舉固然永載史冊，但其光輝遠不止於此本紀錄片突破傳統敘事框架，不僅回顧林則徐虎門銷煙的功績，更深入挖掘他作為治水能臣嚴謹學者流放者與思想家的多面人生透過實地探訪專家訪談，並結合AI技術生成動畫重現歷史場景，影片呈現林則徐在禁煙海防水利邊疆開發等方面的卓越貢獻，並揭示其開眼看世界的深遠影響節目以細膩的鏡頭語言和情感敘述，串聯歷史與當下，展現林則徐精神的當代意義，值此民族英雄誕辰二百四十周年之際，向他獻上最誠摯的敬意本片由&amp;amp;amp;amp;amp;lt;香港電台&amp;amp;amp;amp;amp;gt;贈播</desc>
   </programme>
 <programme start="20260801120000 +0000" stop="20260801124500 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">Telejornal</title>
@@ -62862,7 +62125,7 @@
   </programme>
 <programme start="20260801130000 +0000" stop="20260801135000 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">鄖縣人3號</title>
-    <desc lang="zh-hant">鄖縣人3號共三集，分別為啟封領隊遠方，聚焦于東方人類起源演化的重大里程碑成果，用伴隨式的鏡頭，從考古發掘工作與考古人兩條脈絡出發，全景式記錄鄖縣人3號頭骨發掘提取工作，借助對考古隊生活化情境和細節描摹，傳播考古人的文化傳承精神，詮釋中國人的文明源流與精神底色在古今鄖縣人跨越百萬年的時空對話中，探索人類起源之路，追尋過去的歷史，也不斷思索未來，叩問全人類發展的方向本片由&amp;amp;amp;amp;lt;湖北廣播電視台&amp;amp;amp;amp;gt;贈播</desc>
+    <desc lang="zh-hant">鄖縣人3號共三集，分別為啟封領隊遠方，聚焦于東方人類起源演化的重大里程碑成果，用伴隨式的鏡頭，從考古發掘工作與考古人兩條脈絡出發，全景式記錄鄖縣人3號頭骨發掘提取工作，借助對考古隊生活化情境和細節描摹，傳播考古人的文化傳承精神，詮釋中國人的文明源流與精神底色在古今鄖縣人跨越百萬年的時空對話中，探索人類起源之路，追尋過去的歷史，也不斷思索未來，叩問全人類發展的方向本片由&amp;amp;amp;amp;amp;lt;湖北廣播電視台&amp;amp;amp;amp;amp;gt;贈播</desc>
   </programme>
 <programme start="20260801130000 +0000" stop="20260801133000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -62894,7 +62157,7 @@
   </programme>
 <programme start="20260801140000 +0000" stop="20260801150000 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">一城煙火 一城詩</title>
-    <desc lang="zh-hant">節目邀請不同領域知名人士，以citywalk方式，於大灣區城市遊走，打卡每個人文勝景，開啟別具一格的詩詞美食與文化探尋之旅本節目由&amp;amp;amp;amp;lt;廣州市廣播電視台&amp;amp;amp;amp;gt;贈播</desc>
+    <desc lang="zh-hant">節目邀請不同領域知名人士，以citywalk方式，於大灣區城市遊走，打卡每個人文勝景，開啟別具一格的詩詞美食與文化探尋之旅本節目由&amp;amp;amp;amp;amp;lt;廣州市廣播電視台&amp;amp;amp;amp;amp;gt;贈播</desc>
   </programme>
 <programme start="20260801140000 +0000" stop="20260801145000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">粵語新聞</title>
@@ -62935,7 +62198,7 @@
   </programme>
 <programme start="20260801154000 +0000" stop="20260801164000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260801155000 +0000" stop="20260801160100 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">體育新聞</title>
@@ -62991,7 +62254,7 @@
   </programme>
 <programme start="20260801180000 +0000" stop="20260801185500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">林則徐 虎門銷煙以外</title>
-    <desc lang="zh-hant">2025年，適逢民族英雄林則徐誕辰二百四十周年國家主席習近平在福州任職期間，保育了林則徐出生地的一系列遺跡他先後多次引用林則徐苟利國家生死以，豈因禍福避趨之的名句，號召國人把林則徐的民族精神和優秀品格繼承發揚下去&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;林則徐：虎門銷煙以外是一部由香港電台出品的五集歷史人文紀錄片影片以香港視角出發，跨越三萬公里深入中國多省市（包括澳門廣東湖南福建浙江河南陝西甘肅新疆），更東渡日本，探尋虎門銷煙之外那個更為真實立體的林則徐&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;林則徐虎門銷煙的壯舉固然永載史冊，但其光輝遠不止於此本紀錄片突破傳統敘事框架，不僅回顧林則徐虎門銷煙的功績，更深入挖掘他作為治水能臣嚴謹學者流放者與思想家的多面人生透過實地探訪專家訪談，並結合AI技術生成動畫重現歷史場景，影片呈現林則徐在禁煙海防水利邊疆開發等方面的卓越貢獻，並揭示其開眼看世界的深遠影響節目以細膩的鏡頭語言和情感敘述，串聯歷史與當下，展現林則徐精神的當代意義，值此民族英雄誕辰二百四十周年之際，向他獻上最誠摯的敬意本片由&amp;amp;amp;amp;lt;香港電台&amp;amp;amp;amp;gt;贈播</desc>
+    <desc lang="zh-hant">2025年，適逢民族英雄林則徐誕辰二百四十周年國家主席習近平在福州任職期間，保育了林則徐出生地的一系列遺跡他先後多次引用林則徐苟利國家生死以，豈因禍福避趨之的名句，號召國人把林則徐的民族精神和優秀品格繼承發揚下去&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;林則徐：虎門銷煙以外是一部由香港電台出品的五集歷史人文紀錄片影片以香港視角出發，跨越三萬公里深入中國多省市（包括澳門廣東湖南福建浙江河南陝西甘肅新疆），更東渡日本，探尋虎門銷煙之外那個更為真實立體的林則徐&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;林則徐虎門銷煙的壯舉固然永載史冊，但其光輝遠不止於此本紀錄片突破傳統敘事框架，不僅回顧林則徐虎門銷煙的功績，更深入挖掘他作為治水能臣嚴謹學者流放者與思想家的多面人生透過實地探訪專家訪談，並結合AI技術生成動畫重現歷史場景，影片呈現林則徐在禁煙海防水利邊疆開發等方面的卓越貢獻，並揭示其開眼看世界的深遠影響節目以細膩的鏡頭語言和情感敘述，串聯歷史與當下，展現林則徐精神的當代意義，值此民族英雄誕辰二百四十周年之際，向他獻上最誠摯的敬意本片由&amp;amp;amp;amp;amp;lt;香港電台&amp;amp;amp;amp;amp;gt;贈播</desc>
   </programme>
 <programme start="20260801180000 +0000" stop="20260801190000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">收台</title>
@@ -63013,7 +62276,7 @@
   </programme>
 <programme start="20260801191000 +0000" stop="20260801194100 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;lt;br&amp;amp;gt;&amp;amp;lt;br&amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;lt;br&amp;amp;amp;gt;&amp;amp;amp;lt;br&amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260801192500 +0000" stop="20260801200000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">錄播晚間新聞</title>
@@ -63023,7 +62286,7 @@
   </programme>
 <programme start="20260801200000 +0000" stop="20260801203500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">綠色長城</title>
-    <desc lang="zh-hant">四集大型生態紀錄片綠色長城分為水潤澤林蒼翠草繁茂沙生機，深刻闡釋了習近平生態文明思想在祖國北疆大地上的生動實踐，向世界展示了中國北方生態治理的卓越成果攝製組歷時兩年半，行程數萬公里，以超長待機狀態捕捉到難得一見的珍貴畫面，呈現了內蒙古如何讓湖泊潤澤森林蒼翠草原繁茂沙漠重煥生機，生動描繪內蒙古山水林田湖草沙的美麗畫卷，深情講述了北疆人民以強烈歷史使命感和責任感築牢我國北方重要生態安全屏障本片由&amp;amp;amp;amp;lt;內蒙古廣播電視台&amp;amp;amp;amp;gt;贈播</desc>
+    <desc lang="zh-hant">四集大型生態紀錄片綠色長城分為水潤澤林蒼翠草繁茂沙生機，深刻闡釋了習近平生態文明思想在祖國北疆大地上的生動實踐，向世界展示了中國北方生態治理的卓越成果攝製組歷時兩年半，行程數萬公里，以超長待機狀態捕捉到難得一見的珍貴畫面，呈現了內蒙古如何讓湖泊潤澤森林蒼翠草原繁茂沙漠重煥生機，生動描繪內蒙古山水林田湖草沙的美麗畫卷，深情講述了北疆人民以強烈歷史使命感和責任感築牢我國北方重要生態安全屏障本片由&amp;amp;amp;amp;amp;lt;內蒙古廣播電視台&amp;amp;amp;amp;amp;gt;贈播</desc>
   </programme>
 <programme start="20260801203000 +0000" stop="20260801204000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">鈷彩凝珍</title>
@@ -63064,7 +62327,7 @@
   </programme>
 <programme start="20260802001000 +0000" stop="20260802004000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;lt;br&amp;amp;gt;&amp;amp;lt;br&amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;lt;br&amp;amp;amp;gt;&amp;amp;amp;lt;br&amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260802004000 +0000" stop="20260802010200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">家家有本事</title>
@@ -63084,11 +62347,11 @@
   </programme>
 <programme start="20260802032500 +0000" stop="20260802035000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">重回長江的麋鹿</title>
-    <desc lang="zh-hant">中國湖北省石首市天鵝洲濕地，國家麋鹿自然保護區的工作人員們焦急不已，從小被人類收養的麋鹿孤兒團圓已然到了談婚論嫁的年齡，但傲嬌的麋鹿公主一直與人類生活在一起，對人類無比依戀的她卻對自己的族群一無所知過去的四年裡，工作人員們一直在研究和嘗試各種方案讓團圓重返野生麋鹿族群，然而這條回歸之路卻並不順利年富力強的鹿王一條一刻不敢鬆懈，以黑娃為首的年輕公鹿們窺視皇位已久，王權爭奪一觸即發，為了維繫自己族群的繁衍，它必須不斷擊退挑戰者&amp;amp;lt;br&amp;amp;gt;攝製組歷時三年，先後深入湖北湖南北京江蘇等地，並且結合遠距離遙控四季延時貼近航拍等技術手段，第一次系統生動的呈現了麋鹿：這一古老生物的隱秘生活本節目由&amp;amp;lt;湖北廣播電視台&amp;amp;gt;贈播</desc>
+    <desc lang="zh-hant">中國湖北省石首市天鵝洲濕地，國家麋鹿自然保護區的工作人員們焦急不已，從小被人類收養的麋鹿孤兒團圓已然到了談婚論嫁的年齡，但傲嬌的麋鹿公主一直與人類生活在一起，對人類無比依戀的她卻對自己的族群一無所知過去的四年裡，工作人員們一直在研究和嘗試各種方案讓團圓重返野生麋鹿族群，然而這條回歸之路卻並不順利年富力強的鹿王一條一刻不敢鬆懈，以黑娃為首的年輕公鹿們窺視皇位已久，王權爭奪一觸即發，為了維繫自己族群的繁衍，它必須不斷擊退挑戰者&amp;amp;amp;lt;br&amp;amp;amp;gt;攝製組歷時三年，先後深入湖北湖南北京江蘇等地，並且結合遠距離遙控四季延時貼近航拍等技術手段，第一次系統生動的呈現了麋鹿：這一古老生物的隱秘生活本節目由&amp;amp;amp;lt;湖北廣播電視台&amp;amp;amp;gt;贈播</desc>
   </programme>
 <programme start="20260802035000 +0000" stop="20260802042000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;lt;br&amp;amp;gt;&amp;amp;lt;br&amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;lt;br&amp;amp;amp;gt;&amp;amp;amp;lt;br&amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260802042000 +0000" stop="20260802050000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">財經雜誌</title>
@@ -63108,7 +62371,7 @@
   </programme>
 <programme start="20260802063000 +0000" stop="20260802070000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">重回長江的麋鹿</title>
-    <desc lang="zh-hant">中國湖北省石首市天鵝洲濕地，國家麋鹿自然保護區的工作人員們焦急不已，從小被人類收養的麋鹿孤兒團圓已然到了談婚論嫁的年齡，但傲嬌的麋鹿公主一直與人類生活在一起，對人類無比依戀的她卻對自己的族群一無所知過去的四年裡，工作人員們一直在研究和嘗試各種方案讓團圓重返野生麋鹿族群，然而這條回歸之路卻並不順利年富力強的鹿王一條一刻不敢鬆懈，以黑娃為首的年輕公鹿們窺視皇位已久，王權爭奪一觸即發，為了維繫自己族群的繁衍，它必須不斷擊退挑戰者&amp;amp;lt;br&amp;amp;gt;攝製組歷時三年，先後深入湖北湖南北京江蘇等地，並且結合遠距離遙控四季延時貼近航拍等技術手段，第一次系統生動的呈現了麋鹿：這一古老生物的隱秘生活本節目由&amp;amp;lt;湖北廣播電視台&amp;amp;gt;贈播</desc>
+    <desc lang="zh-hant">中國湖北省石首市天鵝洲濕地，國家麋鹿自然保護區的工作人員們焦急不已，從小被人類收養的麋鹿孤兒團圓已然到了談婚論嫁的年齡，但傲嬌的麋鹿公主一直與人類生活在一起，對人類無比依戀的她卻對自己的族群一無所知過去的四年裡，工作人員們一直在研究和嘗試各種方案讓團圓重返野生麋鹿族群，然而這條回歸之路卻並不順利年富力強的鹿王一條一刻不敢鬆懈，以黑娃為首的年輕公鹿們窺視皇位已久，王權爭奪一觸即發，為了維繫自己族群的繁衍，它必須不斷擊退挑戰者&amp;amp;amp;lt;br&amp;amp;amp;gt;攝製組歷時三年，先後深入湖北湖南北京江蘇等地，並且結合遠距離遙控四季延時貼近航拍等技術手段，第一次系統生動的呈現了麋鹿：這一古老生物的隱秘生活本節目由&amp;amp;amp;lt;湖北廣播電視台&amp;amp;amp;gt;贈播</desc>
   </programme>
 <programme start="20260802070000 +0000" stop="20260802074000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">葡語新聞</title>
@@ -63124,7 +62387,7 @@
   </programme>
 <programme start="20260802091500 +0000" stop="20260802094500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;lt;br&amp;amp;gt;&amp;amp;lt;br&amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;lt;br&amp;amp;amp;gt;&amp;amp;amp;lt;br&amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260802094500 +0000" stop="20260802101500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">美味緣是您</title>
@@ -63150,7 +62413,7 @@
   </programme>
 <programme start="20260802130000 +0000" stop="20260802133000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">重回長江的麋鹿</title>
-    <desc lang="zh-hant">中國湖北省石首市天鵝洲濕地，國家麋鹿自然保護區的工作人員們焦急不已，從小被人類收養的麋鹿孤兒團圓已然到了談婚論嫁的年齡，但傲嬌的麋鹿公主一直與人類生活在一起，對人類無比依戀的她卻對自己的族群一無所知過去的四年裡，工作人員們一直在研究和嘗試各種方案讓團圓重返野生麋鹿族群，然而這條回歸之路卻並不順利年富力強的鹿王一條一刻不敢鬆懈，以黑娃為首的年輕公鹿們窺視皇位已久，王權爭奪一觸即發，為了維繫自己族群的繁衍，它必須不斷擊退挑戰者&amp;amp;lt;br&amp;amp;gt;攝製組歷時三年，先後深入湖北湖南北京江蘇等地，並且結合遠距離遙控四季延時貼近航拍等技術手段，第一次系統生動的呈現了麋鹿：這一古老生物的隱秘生活本節目由&amp;amp;lt;湖北廣播電視台&amp;amp;gt;贈播</desc>
+    <desc lang="zh-hant">中國湖北省石首市天鵝洲濕地，國家麋鹿自然保護區的工作人員們焦急不已，從小被人類收養的麋鹿孤兒團圓已然到了談婚論嫁的年齡，但傲嬌的麋鹿公主一直與人類生活在一起，對人類無比依戀的她卻對自己的族群一無所知過去的四年裡，工作人員們一直在研究和嘗試各種方案讓團圓重返野生麋鹿族群，然而這條回歸之路卻並不順利年富力強的鹿王一條一刻不敢鬆懈，以黑娃為首的年輕公鹿們窺視皇位已久，王權爭奪一觸即發，為了維繫自己族群的繁衍，它必須不斷擊退挑戰者&amp;amp;amp;lt;br&amp;amp;amp;gt;攝製組歷時三年，先後深入湖北湖南北京江蘇等地，並且結合遠距離遙控四季延時貼近航拍等技術手段，第一次系統生動的呈現了麋鹿：這一古老生物的隱秘生活本節目由&amp;amp;amp;lt;湖北廣播電視台&amp;amp;amp;gt;贈播</desc>
   </programme>
 <programme start="20260802133000 +0000" stop="20260802140000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">馬交遊澳門Chill 好玩</title>
@@ -63233,7 +62496,7 @@
   </programme>
 <programme start="20260803003000 +0000" stop="20260803005500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&lt;br&gt;&lt;澳門人．澳門事&gt;,&lt;br&gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;lt;br&amp;gt;&amp;lt;澳門人．澳門事&amp;gt;,&amp;lt;br&amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260803005500 +0000" stop="20260803012000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">家家有本事</title>
@@ -63258,7 +62521,7 @@
   </programme>
 <programme start="20260803013000 +0000" stop="20260803015700 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">香港故事 師傅來了2</title>
-    <desc lang="zh-hant">香港故事-師傅來了2，每一集帶領觀眾感受香港的一種工匠精神該節目從人物故事出發，帶領觀眾透過鏡頭感受匠人對極致的追求，圍繞著細節之美來講述香港故事本節目由&lt;香港電台&gt;贈播</desc>
+    <desc lang="zh-hant">香港故事-師傅來了2，每一集帶領觀眾感受香港的一種工匠精神該節目從人物故事出發，帶領觀眾透過鏡頭感受匠人對極致的追求，圍繞著細節之美來講述香港故事本節目由&amp;lt;香港電台&amp;gt;贈播</desc>
   </programme>
 <programme start="20260803013000 +0000" stop="20260803020000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -63301,7 +62564,7 @@
   </programme>
 <programme start="20260803031000 +0000" stop="20260803044500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">如果奔跑是我的人生</title>
-    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&lt;br&gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
+    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;lt;br&amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
   </programme>
 <programme start="20260803031200 +0000" stop="20260803032000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">啟航十五五</title>
@@ -63387,7 +62650,7 @@
   </programme>
 <programme start="20260803053000 +0000" stop="20260803055200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&lt;br&gt;&lt;澳門人．澳門事&gt;,&lt;br&gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;lt;br&amp;gt;&amp;lt;澳門人．澳門事&amp;gt;,&amp;lt;br&amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260803055200 +0000" stop="20260803060000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">鈷彩凝珍</title>
@@ -63534,7 +62797,7 @@
   </programme>
 <programme start="20260803101500 +0000" stop="20260803104000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&lt;br&gt;&lt;br&gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260803102000 +0000" stop="20260803110500 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">Parenthood - Uma Histria de Famlia T1</title>
@@ -63591,7 +62854,7 @@
   </programme>
 <programme start="20260803120000 +0000" stop="20260803133300 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">如果奔跑是我的人生</title>
-    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&lt;br&gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
+    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;lt;br&amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
   </programme>
 <programme start="20260803120000 +0000" stop="20260803124500 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">Telejornal</title>
@@ -63628,7 +62891,7 @@
   </programme>
 <programme start="20260803130000 +0000" stop="20260803132200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&lt;br&gt;&lt;澳門人．澳門事&gt;,&lt;br&gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;lt;br&amp;gt;&amp;lt;澳門人．澳門事&amp;gt;,&amp;lt;br&amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260803132200 +0000" stop="20260803133000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">家家有餸煮</title>
@@ -63722,6 +62985,9 @@
 <programme start="20260803160100 +0000" stop="20260803170100 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">收台</title>
   </programme>
+<programme start="20260803160200 +0000" stop="20260803170000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">莫桑比克的魅力</title>
+  </programme>
 <programme start="20260803162700 +0000" stop="20260803164900 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">家家有本事</title>
     <desc lang="zh-hant">家家有本事為一個綜合性生活資訊的家庭類節目，邀請相關人士就相關主題提供專業知識，包括日常生活健康資訊等元素</desc>
@@ -63738,6 +63004,9 @@
 <programme start="20260803170000 +0000" stop="20260803180000 +0000" channel="tdm.93.mo">
     <title lang="zh-hant">收台</title>
   </programme>
+<programme start="20260803170000 +0000" stop="20260803173000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">馬交遊澳門Chill 好玩</title>
+  </programme>
 <programme start="20260803171500 +0000" stop="20260803175000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">錄播晚間新聞</title>
   </programme>
@@ -63746,7 +63015,10 @@
   </programme>
 <programme start="20260803172700 +0000" stop="20260803190000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">如果奔跑是我的人生</title>
-    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&lt;br&gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
+    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;lt;br&amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
+  </programme>
+<programme start="20260803173000 +0000" stop="20260803180000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">英語新聞</title>
   </programme>
 <programme start="20260803175000 +0000" stop="20260803180000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">重播體育新聞</title>
@@ -63754,11 +63026,26 @@
 <programme start="20260803180000 +0000" stop="20260803190000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">收台</title>
   </programme>
+<programme start="20260803180000 +0000" stop="20260803184000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">葡語新聞</title>
+  </programme>
+<programme start="20260803184000 +0000" stop="20260803185000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">家家有餸煮</title>
+  </programme>
+<programme start="20260803185000 +0000" stop="20260803191000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">澳門早晨精華錄</title>
+  </programme>
 <programme start="20260803190000 +0000" stop="20260803192500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">錄播普通話新聞</title>
   </programme>
+<programme start="20260803191000 +0000" stop="20260803194100 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">拳心</title>
+  </programme>
 <programme start="20260803192500 +0000" stop="20260803200000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">錄播晚間新聞</title>
+  </programme>
+<programme start="20260803194100 +0000" stop="20260803203000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">星星的故鄉</title>
   </programme>
 <programme start="20260803200000 +0000" stop="20260803202500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">家家有本事</title>
@@ -63767,13 +63054,188 @@
 <programme start="20260803202500 +0000" stop="20260803204700 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">澳門早晨精華錄</title>
   </programme>
+<programme start="20260803203000 +0000" stop="20260803204000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">好書分享</title>
+  </programme>
+<programme start="20260803204000 +0000" stop="20260803212000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">葡語新聞</title>
+  </programme>
 <programme start="20260803204700 +0000" stop="20260803211700 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">重播風火台</title>
   </programme>
 <programme start="20260803211700 +0000" stop="20260803212500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">你問我答粵澳法律直播間</title>
   </programme>
+<programme start="20260803212000 +0000" stop="20260803213000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">國寶時刻</title>
+  </programme>
 <programme start="20260803212500 +0000" stop="20260803222500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">對手</title>
+  </programme>
+<programme start="20260803213000 +0000" stop="20260803220000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">馬交遊澳門Chill 好玩</title>
+  </programme>
+<programme start="20260803220000 +0000" stop="20260803230000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">莫桑比克的魅力</title>
+  </programme>
+<programme start="20260803230000 +0000" stop="20260803233000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">唐西豐味</title>
+  </programme>
+<programme start="20260803233000 +0000" stop="20260804000000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">英語新聞</title>
+  </programme>
+<programme start="20260804000000 +0000" stop="20260804003000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">拳心</title>
+  </programme>
+<programme start="20260804003000 +0000" stop="20260804005200 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">教煮CHILL 好玩</title>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&lt;br&gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&lt;br&gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&lt;br&gt;更會邀請神秘嘉賓一齊試菜傾計！&lt;br&gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&lt;br&gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+  </programme>
+<programme start="20260804005200 +0000" stop="20260804012000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">灣區全媒睇</title>
+  </programme>
+<programme start="20260804012000 +0000" stop="20260804015000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">風火台</title>
+  </programme>
+<programme start="20260804015000 +0000" stop="20260804020000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">鈷彩凝珍</title>
+  </programme>
+<programme start="20260804020000 +0000" stop="20260804023100 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">粵語新聞</title>
+  </programme>
+<programme start="20260804023100 +0000" stop="20260804032000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">星星的故鄉</title>
+  </programme>
+<programme start="20260804032000 +0000" stop="20260804035000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">馬交遊澳門Chill 好玩</title>
+  </programme>
+<programme start="20260804035000 +0000" stop="20260804042000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">拳心</title>
+  </programme>
+<programme start="20260804042000 +0000" stop="20260804045000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">風火台</title>
+  </programme>
+<programme start="20260804045000 +0000" stop="20260804050000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">家家有餸煮</title>
+  </programme>
+<programme start="20260804050000 +0000" stop="20260804053000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">唐西豐味</title>
+  </programme>
+<programme start="20260804053000 +0000" stop="20260804063000 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">Telejornal RTPi (Diferido)</title>
+  </programme>
+<programme start="20260804053000 +0000" stop="20260804055200 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">教煮CHILL 好玩</title>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&lt;br&gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&lt;br&gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&lt;br&gt;更會邀請神秘嘉賓一齊試菜傾計！&lt;br&gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&lt;br&gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+  </programme>
+<programme start="20260804055200 +0000" stop="20260804060000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">好書分享</title>
+  </programme>
+<programme start="20260804060000 +0000" stop="20260804063000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">粵語新聞</title>
+  </programme>
+<programme start="20260804063000 +0000" stop="20260804065000 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">Superstore T4</title>
+  </programme>
+<programme start="20260804063000 +0000" stop="20260804070000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">馬交遊澳門Chill 好玩</title>
+  </programme>
+<programme start="20260804065000 +0000" stop="20260804073500 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">Queridos Paps</title>
+  </programme>
+<programme start="20260804070000 +0000" stop="20260804074000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">葡語新聞</title>
+  </programme>
+<programme start="20260804073500 +0000" stop="20260804075000 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">O Carrinho Poli T1</title>
+  </programme>
+<programme start="20260804074000 +0000" stop="20260804075600 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">天天成長記 第一至四季</title>
+  </programme>
+<programme start="20260804075000 +0000" stop="20260804081500 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">Adivinha o Quanto Eu Gosto de Ti T1</title>
+  </programme>
+<programme start="20260804075600 +0000" stop="20260804084500 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">星星的故鄉</title>
+  </programme>
+<programme start="20260804081500 +0000" stop="20260804084000 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">O Gato da Cartola</title>
+  </programme>
+<programme start="20260804084000 +0000" stop="20260804090500 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">Caillou T1</title>
+  </programme>
+<programme start="20260804084500 +0000" stop="20260804094000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">莫桑比克的魅力</title>
+  </programme>
+<programme start="20260804090500 +0000" stop="20260804095500 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">Renascer (Repetio)</title>
+  </programme>
+<programme start="20260804094000 +0000" stop="20260804101000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">拳心</title>
+  </programme>
+<programme start="20260804095500 +0000" stop="20260804102000 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">Personaliza a Tua Casa T1</title>
+  </programme>
+<programme start="20260804101000 +0000" stop="20260804104000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">唐西豐味</title>
+  </programme>
+<programme start="20260804102000 +0000" stop="20260804110500 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">Parenthood - Uma Histria de Famlia T1</title>
+  </programme>
+<programme start="20260804104000 +0000" stop="20260804110000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">澳門早晨精華錄</title>
+  </programme>
+<programme start="20260804110000 +0000" stop="20260804112500 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">教煮CHILL 好玩</title>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&lt;br&gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&lt;br&gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&lt;br&gt;更會邀請神秘嘉賓一齊試菜傾計！&lt;br&gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&lt;br&gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+  </programme>
+<programme start="20260804110500 +0000" stop="20260804120000 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">A Fazenda</title>
+  </programme>
+<programme start="20260804112500 +0000" stop="20260804120000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">風火台</title>
+  </programme>
+<programme start="20260804120000 +0000" stop="20260804124500 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">Telejornal</title>
+  </programme>
+<programme start="20260804120000 +0000" stop="20260804130000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">粵語新聞</title>
+  </programme>
+<programme start="20260804124500 +0000" stop="20260804132000 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">Primeira Pessoa</title>
+  </programme>
+<programme start="20260804130000 +0000" stop="20260804133000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">灣區全媒睇</title>
+  </programme>
+<programme start="20260804132000 +0000" stop="20260804134000 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">Mundo  Vista T3</title>
+  </programme>
+<programme start="20260804133000 +0000" stop="20260804140000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">拳心</title>
+  </programme>
+<programme start="20260804134000 +0000" stop="20260804143000 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">Renascer</title>
+  </programme>
+<programme start="20260804140000 +0000" stop="20260804145000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">粵語新聞</title>
+  </programme>
+<programme start="20260804143000 +0000" stop="20260804150500 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">TDM News</title>
+  </programme>
+<programme start="20260804145000 +0000" stop="20260804150000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">國寶時刻</title>
+  </programme>
+<programme start="20260804150000 +0000" stop="20260804154000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">葡語新聞</title>
+  </programme>
+<programme start="20260804150500 +0000" stop="20260804155500 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">Portugal  Vista T2</title>
+  </programme>
+<programme start="20260804154000 +0000" stop="20260804164000 +0000" channel="tdm.96.mo">
+    <title lang="zh-hant">教煮CHILL 好玩</title>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&lt;br&gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&lt;br&gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&lt;br&gt;更會邀請神秘嘉賓一齊試菜傾計！&lt;br&gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&lt;br&gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+  </programme>
+<programme start="20260804155500 +0000" stop="20260804165500 +0000" channel="tdm.92.mo">
+    <title lang="zh-hant">RTPi Directo</title>
   </programme>
 </tv>
