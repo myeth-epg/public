@@ -23,7 +23,7 @@ async sortAndCombine(){if(this.playlistChannels){this.playlistChannels.forEach(c
 channel.programList=programs});this.channels=this.playlistChannels;delete this.playlistChannels}else{this.channels.forEach(channel=>{var programs=this.programs.filter(prog=>prog.tvgId===channel.tvgId);if(programs.length==0){programs=null}else{programs.sort((a,b)=>a.startDate-b.startDate);programs=programs.filter((program,index,self)=>{return index===0||program.startDate!==self[index-1].startDate})}
 channel.programList=programs})}
 let allPrograms=this.channels.map(item=>item.programList).flat();allPrograms=allPrograms.filter(program=>program&&program.startDate);this.earliestStartDate=this.getEarliestDate(allPrograms).startDate;this.latestStopDate=this.getLatestStopDate(allPrograms).stopDate;this.timelineLength=this.getDurationInMinutes(this.earliestStartDate,this.latestStopDate);delete this.programs}
-async setTimelineNeedle(){var currentRedLinePosition=200+(this.getDurationInMinutes(this.earliestStartDate,new Date())*this.oneUnit);const redLine=document.getElementById('vertical-red-line');redLine.style.left=`${currentRedLinePosition}px`;const fullPageHeight=this.epgContainer.scrollHeight;redLine.style.height=`${fullPageHeight}px`;const currentTime=new Date();const elements=document.querySelectorAll('.cell');elements.forEach(el=>{el.style.backgroundColor='';el.classList.remove('now')});elements.forEach(el=>{const startDate=new Date(el.getAttribute('start'));const stopDate=new Date(el.getAttribute('stop'));if(currentTime>=startDate&&currentTime<stopDate){el.classList.add('now');el.style.backgroundColor='#5a93a3'}})}
+async setTimelineNeedle(){let now=new Date();if(now>this.latestStopDate)now=this.latestStopDate;else if(now<this.earliestStartDate)now=this.earliestStartDate;var currentRedLinePosition=200+(this.getDurationInMinutes(this.earliestStartDate,now)*this.oneUnit);const redLine=document.getElementById('vertical-red-line');if(redLine){redLine.style.left=`${currentRedLinePosition}px`;const fullPageHeight=this.epgContainer.scrollHeight;redLine.style.height=`${fullPageHeight}px`;}const currentTime=new Date();const elements=document.querySelectorAll('.cell');elements.forEach(el=>{el.style.backgroundColor='';el.classList.remove('now')});elements.forEach(el=>{const startDate=new Date(el.getAttribute('start'));const stopDate=new Date(el.getAttribute('stop'));if(currentTime>=startDate&&currentTime<stopDate){el.classList.add('now');el.style.backgroundColor='#5a93a3'}})}
 convert24to12(time){let[hours,minutes]=time.split(':');hours=parseInt(hours,10)+8;if(hours>=24){hours-=24}
 const period=hours>=12?'PM':'AM';hours=hours%12||12;return'${hours}:${minutes} ${period}'}
 getMinutesSinceEarliestStartDate(earliestStartDate,date){if(!date){date=new Date()}
@@ -70,9 +70,10 @@ cronjobDateTime(date,minutesToAdd){const newDate=new Date(date.getTime());newDat
 async displayAllPrograms(containerId,xmlepgInstanceName){if(this.urls==null||this.urls.length==0){if(this.playlistChannels&&this.channels==null){this.channels=this.playlistChannels;delete this.playlistChannels}
 return}
 this.epgContainer=document.getElementById(containerId);const container=this.epgContainer;let sb=new StringBuilder();let allPrograms=this.channels.map(item=>item.programList).flat();var earliestStartDate=this.earliestStartDate;var latestStopDate=this.latestStopDate;const timelineLength=this.timelineLength;const oneUnitWidth=this.oneUnit*this.timelineBlockDuration;sb.append('<div id="vertical-red-line-container">');sb.append(`<div class="table"><div class="thead"><div class="row"><div class="cell channelBox pinned-timeline"></div>`);const numOfBlocks=timelineLength/this.timelineBlockDuration;for(let i=0;i<numOfBlocks;++i){let daytimeInfo=this.getDayAndTimeOfNextBlock(earliestStartDate,i);let day=daytimeInfo.day;let time=daytimeInfo.time;let date=daytimeInfo.date;sb.append(`<div class="cell pinned-timeline" style="width:${this.oneUnit * this.timelineBlockDuration}px;"><div class="timelineDay">${date}, ${day}</div><div class="timelineTime">${time}</div></div>`)}
-sb.append(`</div></div>`);var channelIndex=0;this.channels.forEach(channel=>{sb.append('<div class="row"><div class="cell pinned-channel-box channelBox">');sb.append('<span><img src="'+channel.tvgLogo+'" alt="'+channel.channelName+' tvgLogo" class="channelBoxImage" /></span>');sb.append('<br/>');sb.append('<span class="channelBoxName">'+channel.channelName+'</span>');sb.append('</div>');let programs=channel.programList;if(programs){try{var firstStartDate=programs[0].startDate;var firstWidth=this.oneUnit*this.getMinutesSinceEarliestStartDate(earliestStartDate,firstStartDate);if(firstWidth>0){sb.append(`<div class="cell" style="width: ${firstWidth}px"></div>`)}
-var programIndex=0;programs.forEach(program=>{var width=this.oneUnit*program.duration;const startDate=program.startDate.toISOString();const stopDate=program.stopDate.toISOString();if(width>0){let icon=program.icon.replace(/'/g,"\\'").replace(/"/g,'&quot;');let title=program.title.replace(/'/g,"\\'").replace(/"/g,'&quot;');let desc=program.desc.replace(/'/g,"\\'").replace(/"/g,'&quot;');let formattedStartTime=program.formattedStartTime.replace(/'/g,"\\'").replace(/"/g,'&quot;');sb.append(`<div class="cell" style="width: ${width}px" onmouseover="${xmlepgInstanceName}.displayDetails(event, ${channelIndex}, '${programIndex}')" onmouseout="${xmlepgInstanceName}.hideTooltip()" start="${startDate}" stop="${stopDate}">`);sb.append('<div class="start-time">');sb.append(program.formattedStartTime.split(' ').slice(1).join(' '));sb.append('</div>');sb.append('<div class="program-title">‎ ');sb.append(program.title);sb.append(' </div>');sb.append('</div>')}
-++programIndex})}catch(error){console.warn(`Assigned tvg-id ${channel.tvgId} for ${channel.channelName} has empty programme list`)}}
+sb.append(`</div></div>`);var channelIndex=0;this.channels.forEach(channel=>{sb.append('<div class="row"><div class="cell pinned-channel-box channelBox">');sb.append('<span><img src="'+channel.tvgLogo+'" alt="'+channel.channelName+' tvgLogo" class="channelBoxImage" /></span>');sb.append('<br/>');sb.append('<span class="channelBoxName">'+channel.channelName+'</span>');sb.append('</div>');let programs=channel.programList;if(programs){try{let lastStopDate = earliestStartDate;
+var programIndex=0;programs.forEach(program=>{var gap=this.getDurationInMinutes(lastStopDate,program.startDate);if(program.startDate>lastStopDate&&gap>0){sb.append(`<div class="cell" style="width: ${this.oneUnit*gap}px"></div>`)}
+var width=this.oneUnit*program.duration;const startDate=program.startDate.toISOString();const stopDate=program.stopDate.toISOString();if(width>0){let icon=program.icon.replace(/'/g,"\\'").replace(/"/g,'&quot;');let title=program.title.replace(/'/g,"\\'").replace(/"/g,'&quot;');let desc=program.desc.replace(/'/g,"\\'").replace(/"/g,'&quot;');let formattedStartTime=program.formattedStartTime.replace(/'/g,"\\'").replace(/"/g,'&quot;');sb.append(`<div class="cell" style="width: ${width}px" onmouseover="${xmlepgInstanceName}.displayDetails(event, ${channelIndex}, '${programIndex}')" onmouseout="${xmlepgInstanceName}.hideTooltip()" start="${startDate}" stop="${stopDate}">`);sb.append('<div class="start-time">');sb.append(program.formattedStartTime.split(' ').slice(1).join(' '));sb.append('</div>');sb.append('<div class="program-title">‎ ');sb.append(program.title);sb.append(' </div>');sb.append('</div>')}
+lastStopDate=program.stopDate;++programIndex})}catch(error){console.warn(`Assigned tvg-id ${channel.tvgId} for ${channel.channelName} has empty programme list`)}}
 sb.append('</div>');++channelIndex});sb.append('</div>');sb.append('<div id="tooltip" style="display:none;position: absolute; color: #FFFFFF; background-color: #333333; padding: 10px; width: 40%; flex-direction: column; z-index: 2000"><div><h2></h2> <p></p> </div> <div style="float:right; white-space: nowrap;"></div> </div>');sb.append('<div id="vertical-red-line"></div>');sb.append('</div>');sb.append(`<button id="close-button" onclick="${xmlepgInstanceName}.toggleEpgView()">Enter Favourite</button>`);container.innerHTML=sb.toString()}
 async timelineNeedleRender(){this.setTimelineNeedle();const redLine=document.getElementById('vertical-red-line');redLine.scrollIntoView({behavior:'smooth',block:'start',inline:'center'});this.timelineTimer=setInterval(()=>{this.setTimelineNeedle()},30000)}
 async clearTimelineNeedle(){clearInterval(this.timelineTimer)}
@@ -123,4 +124,111 @@ append(text){this.parts.push(text);return this}
 toString(){return this.parts.join('')}
 clear(){this.parts=[]}}
 
+// --- Floating Region Selector UI ---
+document.addEventListener('DOMContentLoaded', () => {
+  const regions = [
+    { name: 'Main', url: 'index.html' },
+    { name: 'Main 2', url: 'index-2t.html' },
+    { name: 'Main 2 (Full)', url: 'index-2.html' },
+    { name: 'Hong Kong', url: 'index-hk.html' },
+    { name: 'Taiwan', url: 'index-tw.html' },
+    { name: 'Malaysia', url: 'index-my.html' },
+    { name: 'Singapore', url: 'index-sg.html' },
+    { name: 'China', url: 'index-cn.html' },
+    { name: 'South Korea', url: 'index-kr.html' },
+    { name: 'United Kingdom', url: 'index-uk.html' },
+    { name: 'New Zealand', url: 'index-nz.html' },
+    { name: 'Indonesia', url: 'index-id.html' },
+    { name: 'Adult', url: 'index-x.html' }
+  ];
 
+  const currentPath = window.location.pathname.split('/').pop() || 'index.html';
+
+  const menu = document.createElement('div');
+  menu.style.position = 'fixed';
+  menu.style.bottom = '30px';
+  menu.style.right = '30px';
+  menu.style.backgroundColor = 'rgba(30, 34, 39, 0.85)';
+  menu.style.backdropFilter = 'blur(10px)';
+  menu.style.border = '1px solid rgba(255,255,255,0.1)';
+  menu.style.borderRadius = '12px';
+  menu.style.padding = '10px 15px';
+  menu.style.zIndex = '9999';
+  menu.style.boxShadow = '0 8px 32px rgba(0,0,0,0.5)';
+  menu.style.display = 'flex';
+  menu.style.flexDirection = 'column';
+  menu.style.maxHeight = '42px'; 
+  menu.style.overflow = 'hidden';
+  menu.style.transition = 'max-height 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275)';
+  menu.style.fontFamily = 'Arial, sans-serif';
+
+  const header = document.createElement('div');
+  header.innerHTML = '🌍 <span style="margin-left:8px;">Switch Region</span>';
+  header.style.color = '#61dafb';
+  header.style.fontWeight = 'bold';
+  header.style.cursor = 'pointer';
+  header.style.display = 'flex';
+  header.style.alignItems = 'center';
+  header.style.justifyContent = 'space-between';
+  header.style.height = '22px';
+  header.style.userSelect = 'none';
+  
+  const arrow = document.createElement('span');
+  arrow.textContent = '⏶';
+  arrow.style.marginLeft = '15px';
+  arrow.style.transition = 'transform 0.3s ease';
+  header.appendChild(arrow);
+
+  header.onclick = () => {
+    if (menu.style.maxHeight === '42px') {
+      menu.style.maxHeight = '500px';
+      arrow.style.transform = 'rotate(180deg)';
+    } else {
+      menu.style.maxHeight = '42px';
+      arrow.style.transform = 'rotate(0deg)';
+    }
+  };
+  menu.appendChild(header);
+
+  const linksContainer = document.createElement('div');
+  linksContainer.style.display = 'flex';
+  linksContainer.style.flexDirection = 'column';
+  linksContainer.style.gap = '6px';
+  linksContainer.style.marginTop = '15px';
+  linksContainer.style.paddingBottom = '10px';
+  linksContainer.style.overflowY = 'auto';
+
+  regions.forEach(r => {
+    const link = document.createElement('a');
+    link.href = r.url;
+    link.textContent = r.name;
+    link.style.color = '#fff';
+    link.style.textDecoration = 'none';
+    link.style.padding = '8px 12px';
+    link.style.borderRadius = '6px';
+    link.style.fontSize = '0.9em';
+    link.style.transition = 'all 0.2s ease';
+    link.style.display = 'block';
+    
+    const isCurrent = (currentPath === r.url) || (currentPath === '' && r.url === 'index.html');
+    
+    if (isCurrent) {
+      link.style.backgroundColor = '#61dafb';
+      link.style.color = '#000';
+      link.style.fontWeight = 'bold';
+    } else {
+      link.addEventListener('mouseover', () => {
+        link.style.backgroundColor = 'rgba(97, 218, 251, 0.2)';
+        link.style.transform = 'translateX(5px)';
+      });
+      link.addEventListener('mouseout', () => {
+        link.style.backgroundColor = 'transparent';
+        link.style.transform = 'translateX(0)';
+      });
+    }
+    linksContainer.appendChild(link);
+  });
+
+  menu.appendChild(linksContainer);
+  document.body.appendChild(menu);
+});
