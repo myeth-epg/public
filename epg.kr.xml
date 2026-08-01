@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260731224457 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
+<tv date="20260801124714 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -5258,11 +5258,11 @@
     <title>언니네 산지직송3</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260801085000 +0000" stop="20260801103000 +0000" channel="skylife.tvn">
+<programme start="20260801085000 +0000" stop="20260801103500 +0000" channel="skylife.tvn">
     <title>우주떡집</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260801103000 +0000" stop="20260801121000 +0000" channel="skylife.tvn">
+<programme start="20260801103500 +0000" stop="20260801121000 +0000" channel="skylife.tvn">
     <title>놀라운 토요일</title>
     <desc>토요일 저녁! 가족이 모여 함께 즐길 수 있는 예능 프로그램</desc>
     <category>연예/오락 / 일반</category>
@@ -9210,35 +9210,40 @@
     <desc>You Quiz On The Block.  Step by step    보통날을 살아가는 당신 앞에 나타난 유재석x조세호.  두 사람이 건넨 한마디.  quot;You Quiz...?quot;    평범한 사람들의 인생 무대인 &apos;길거리&apos;를 &apos;세트&apos;로 빌리고 세상 누구에게나 공평한 &apos;태양&apos;을 &apos;조명&apos; 삼아 여러분을 주인공으로 모시는 유쾌한 서프라이즈!</desc>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260801170000 +0000" stop="20260801204000 +0000" channel="skylife.tvn">
+<programme start="20260801170000 +0000" stop="20260801204500 +0000" channel="skylife.tvn">
     <title>UFC FIGHT NIGHT</title>
     <category>스포츠 / 격투기</category>
   </programme>
-<programme start="20260801204000 +0000" stop="20260801211000 +0000" channel="skylife.tvn">
+<programme start="20260801204500 +0000" stop="20260801211000 +0000" channel="skylife.tvn">
     <title>스트릿 레스토랑 파이터 - 장사의 기술</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260801211000 +0000" stop="20260801221000 +0000" channel="skylife.tvn">
+<programme start="20260801211000 +0000" stop="20260801221500 +0000" channel="skylife.tvn">
     <title>70억의 선택</title>
     <desc>70억 세계인의 건강 비법을 공유하는 시간 세계인이 보내는 건강 시그널!</desc>
     <category>연예/오락 / 인포테인먼트</category>
   </programme>
-<programme start="20260801221000 +0000" stop="20260801232000 +0000" channel="skylife.tvn">
+<programme start="20260801221500 +0000" stop="20260801232500 +0000" channel="skylife.tvn">
     <title>슈퍼푸드의 힘</title>
     <desc>100세를 넘기는 장수 인류 센테네리언! 지금은 평균 기대수명 100세 시대, 인류의 수명을 끌어올린 생명 연장의 원동력을 찾아서 당신의 몸 속 장수 세포를 깨울 세계 각국 무병장수 건강법! 그 속에 감춰진 놀라운 슈퍼 푸드의 힘을 만나본다.</desc>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260801232000 +0000" stop="20260802002000 +0000" channel="skylife.tvn">
+<programme start="20260801232500 +0000" stop="20260802002500 +0000" channel="skylife.tvn">
     <title>너의 몸소리가 들려</title>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260802002000 +0000" stop="20260802012000 +0000" channel="skylife.tvn">
+<programme start="20260802002500 +0000" stop="20260802012000 +0000" channel="skylife.tvn">
     <title>시간관찰자, 더 시크릿</title>
     <category>연예/오락 / 인포테인먼트</category>
   </programme>
-<programme start="20260802012000 +0000" stop="20260802015000 +0000" channel="skylife.tvn">
+<programme start="20260802012000 +0000" stop="20260802012500 +0000" channel="skylife.tvn">
     <title>시간 관찰자, 더 시크릿 하이라이트</title>
     <category>연예/오락 / 인포테인먼트</category>
+  </programme>
+<programme start="20260802012500 +0000" stop="20260802015000 +0000" channel="skylife.tvn">
+    <title>유 퀴즈 온 더 블럭 특별판 - 스타 자기님을 찾아서</title>
+    <desc>You Quiz On The Block.  Step by step    보통날을 살아가는 당신 앞에 나타난 유재석x조세호.  두 사람이 건넨 한마디.  quot;You Quiz...?quot;    평범한 사람들의 인생 무대인 &apos;길거리&apos;를 &apos;세트&apos;로 빌리고 세상 누구에게나 공평한 &apos;태양&apos;을 &apos;조명&apos; 삼아 여러분을 주인공으로 모시는 유쾌한 서프라이즈!</desc>
+    <category>연예/오락 / 일반</category>
   </programme>
 <programme start="20260802015000 +0000" stop="20260802033000 +0000" channel="skylife.tvn">
     <title>우주떡집</title>
@@ -15202,25 +15207,21 @@
     <title>인생낭독: 인</title>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260802220000 +0000" stop="20260802230000 +0000" channel="skylife.국회방송">
-    <title>엄홍길의 산악버스</title>
-    <category>연예/오락 / 일반</category>
-  </programme>
-<programme start="20260802230000 +0000" stop="20260803000000 +0000" channel="skylife.국회방송">
-    <title>움직이는 예산과 경제</title>
-    <category>교양/정보 / 일반</category>
+<programme start="20260802220000 +0000" stop="20260803000000 +0000" channel="skylife.국회방송">
+    <title>의정중계 하이라이트</title>
+    <category>시사/다큐 / 토론/대담</category>
   </programme>
 <programme start="20260803000000 +0000" stop="20260803010000 +0000" channel="skylife.국회방송">
     <title>국회 책마당</title>
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260803010000 +0000" stop="20260803020000 +0000" channel="skylife.국회방송">
-    <title>움직이는 예산과 경제</title>
-    <category>교양/정보 / 일반</category>
-  </programme>
-<programme start="20260803020000 +0000" stop="20260803030000 +0000" channel="skylife.국회방송">
     <title>엄홍길의 산악버스</title>
     <category>연예/오락 / 일반</category>
+  </programme>
+<programme start="20260803020000 +0000" stop="20260803030000 +0000" channel="skylife.국회방송">
+    <title>움직이는 예산과 경제</title>
+    <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260803030000 +0000" stop="20260803031000 +0000" channel="skylife.국회방송">
     <title>헌법을 만나다 내 인생의 1조 1항</title>
@@ -15240,20 +15241,16 @@
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260803050000 +0000" stop="20260803060000 +0000" channel="skylife.국회방송">
-    <title>세계의 극한환경</title>
-    <category>교양/정보 / 일반</category>
+    <title>지구 최고의 해양낙원</title>
+    <category>시사/다큐 / 자연</category>
   </programme>
-<programme start="20260803060000 +0000" stop="20260803063000 +0000" channel="skylife.국회방송">
-    <title>산업실록 대한민국 산업 비사</title>
-    <category>시사/다큐 / 일반</category>
+<programme start="20260803060000 +0000" stop="20260803070000 +0000" channel="skylife.국회방송">
+    <title>지구를 살리는 첨단 녹색기술의 세계</title>
+    <category>시사/다큐 / 환경(문제)</category>
   </programme>
-<programme start="20260803063000 +0000" stop="20260803073000 +0000" channel="skylife.국회방송">
+<programme start="20260803070000 +0000" stop="20260803080000 +0000" channel="skylife.국회방송">
     <title>지식의 정석</title>
     <category>교양/정보 / 일반</category>
-  </programme>
-<programme start="20260803073000 +0000" stop="20260803080000 +0000" channel="skylife.국회방송">
-    <title>산업실록 대한민국 산업 비사</title>
-    <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260803080000 +0000" stop="20260803083000 +0000" channel="skylife.국회방송">
     <title>대한민국을 바꾼 법의 탄생 : 헌법을 말하다</title>
@@ -15329,65 +15326,61 @@
     <title>레고 프렌즈: 새로운 시작3</title>
     <category>만화 / 명랑</category>
   </programme>
-<programme start="20260802200000 +0000" stop="20260802210000 +0000" channel="skylife.애니플러스">
+<programme start="20260802200000 +0000" stop="20260802205500 +0000" channel="skylife.애니플러스">
     <title>버블호텔</title>
     <category>만화 / 명랑</category>
   </programme>
-<programme start="20260802210000 +0000" stop="20260802223000 +0000" channel="skylife.애니플러스">
+<programme start="20260802205500 +0000" stop="20260802222900 +0000" channel="skylife.애니플러스">
     <title>라바 시즌1</title>
     <category>만화 / 명랑</category>
   </programme>
-<programme start="20260802223000 +0000" stop="20260802233000 +0000" channel="skylife.애니플러스">
+<programme start="20260802222900 +0000" stop="20260802233100 +0000" channel="skylife.애니플러스">
     <title>라바 시즌2</title>
     <category>만화 / 명랑</category>
   </programme>
-<programme start="20260802233000 +0000" stop="20260803000000 +0000" channel="skylife.애니플러스">
+<programme start="20260802233100 +0000" stop="20260803000100 +0000" channel="skylife.애니플러스">
     <title>파워레인저 애니멀포스 친구들</title>
     <category>만화 / 코믹</category>
   </programme>
-<programme start="20260803000000 +0000" stop="20260803013000 +0000" channel="skylife.애니플러스">
+<programme start="20260803000100 +0000" stop="20260803012700 +0000" channel="skylife.애니플러스">
     <title>백앤아: 고고프렌즈2</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260803013000 +0000" stop="20260803030000 +0000" channel="skylife.애니플러스">
+<programme start="20260803012700 +0000" stop="20260803030000 +0000" channel="skylife.애니플러스">
     <title>라바 시즌1</title>
     <category>만화 / 명랑</category>
   </programme>
-<programme start="20260803030000 +0000" stop="20260803040000 +0000" channel="skylife.애니플러스">
+<programme start="20260803030000 +0000" stop="20260803034700 +0000" channel="skylife.애니플러스">
     <title>잔망루피 먹방</title>
     <category>만화 / 명랑</category>
   </programme>
-<programme start="20260803040000 +0000" stop="20260803053000 +0000" channel="skylife.애니플러스">
+<programme start="20260803034700 +0000" stop="20260803052800 +0000" channel="skylife.애니플러스">
     <title>스파이 패밀리 Season 2 (한국어 더빙)</title>
     <category>만화 / 코믹</category>
   </programme>
-<programme start="20260803053000 +0000" stop="20260803070000 +0000" channel="skylife.애니플러스">
+<programme start="20260803052800 +0000" stop="20260803065600 +0000" channel="skylife.애니플러스">
     <title>나 혼자만 레벨업 -ARISE FROM THE SHADOW-(더빙)</title>
     <category>만화 / 모험(adventure)</category>
   </programme>
-<programme start="20260803070000 +0000" stop="20260803083000 +0000" channel="skylife.애니플러스">
+<programme start="20260803065600 +0000" stop="20260803081900 +0000" channel="skylife.애니플러스">
     <title>[동시방영작]도굴왕 (한국어 더빙)</title>
     <category>만화 / 모험(adventure)</category>
   </programme>
-<programme start="20260803083000 +0000" stop="20260803100000 +0000" channel="skylife.애니플러스">
+<programme start="20260803081900 +0000" stop="20260803095500 +0000" channel="skylife.애니플러스">
     <title>귀환자의 마법은 특별해야 합니다 (한국어더빙)</title>
     <category>만화 / 액션/무협</category>
   </programme>
-<programme start="20260803100000 +0000" stop="20260803113000 +0000" channel="skylife.애니플러스">
+<programme start="20260803095500 +0000" stop="20260803112200 +0000" channel="skylife.애니플러스">
     <title>괴수 8호 (한국어 더빙)</title>
     <category>만화 / 액션/무협</category>
   </programme>
-<programme start="20260803113000 +0000" stop="20260803130000 +0000" channel="skylife.애니플러스">
+<programme start="20260803112200 +0000" stop="20260803124800 +0000" channel="skylife.애니플러스">
     <title>[동시방영작]BLACK TORCH</title>
     <category>만화 / 액션/무협</category>
   </programme>
-<programme start="20260803130000 +0000" stop="20260803150000 +0000" channel="skylife.애니플러스">
+<programme start="20260803124800 +0000" stop="20260803150100 +0000" channel="skylife.애니플러스">
     <title>귀멸의 칼날:환락의 거리 잠입편</title>
     <category>영화 / 애니메이션</category>
-  </programme>
-<programme start="20260803150000 +0000" stop="20260803153000 +0000" channel="skylife.애니플러스">
-    <title>[동시방영작]하나오리 양은 전생해서도 싸움이 하고 싶어</title>
-    <category>만화 / 순정</category>
   </programme>
 <programme start="20260802153000 +0000" stop="20260802160000 +0000" channel="skylife.애니맥스">
     <title>황천의 츠가이</title>
@@ -19276,8 +19269,8 @@
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260804133000 +0000" stop="20260804143000 +0000" channel="skylife.국회방송">
-    <title>아틀란티스 잃어버린 고대 도시의 발견</title>
-    <category>시사/다큐 / 일반</category>
+    <title>인류의 미래, 공존하는 지구</title>
+    <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260804143000 +0000" stop="20260804150000 +0000" channel="skylife.국회방송">
     <title>음악 여행자</title>
@@ -19287,31 +19280,35 @@
     <title>하늘과 땅 사이의 산티아고 길</title>
     <category>시사/다큐 / 일반</category>
   </programme>
-<programme start="20260803153000 +0000" stop="20260803160000 +0000" channel="skylife.애니플러스">
+<programme start="20260803150100 +0000" stop="20260803152900 +0000" channel="skylife.애니플러스">
+    <title>[동시방영작]하나오리 양은 전생해서도 싸움이 하고 싶어</title>
+    <category>만화 / 순정</category>
+  </programme>
+<programme start="20260803152900 +0000" stop="20260803160000 +0000" channel="skylife.애니플러스">
     <title>[동시방영작]고양이와 용</title>
     <category>만화 / SF</category>
   </programme>
-<programme start="20260803160000 +0000" stop="20260803163000 +0000" channel="skylife.애니플러스">
+<programme start="20260803160000 +0000" stop="20260803162800 +0000" channel="skylife.애니플러스">
     <title>[동시방영작]아가씨 돌보기 -영애들이 다니는 명문 학교에서 제일가는 아가씨(생활력 없음)를 남몰래 돕...</title>
     <category>만화 / 순정</category>
   </programme>
-<programme start="20260803163000 +0000" stop="20260803170000 +0000" channel="skylife.애니플러스">
+<programme start="20260803162800 +0000" stop="20260803170000 +0000" channel="skylife.애니플러스">
     <title>[동시방영작]그로우 업 쇼 -해바라기 서커스단-</title>
     <category>만화 / 취미</category>
   </programme>
-<programme start="20260803170000 +0000" stop="20260803173000 +0000" channel="skylife.애니플러스">
+<programme start="20260803170000 +0000" stop="20260803172800 +0000" channel="skylife.애니플러스">
     <title>[동시방영작]오니의 신부</title>
     <category>만화 / 순정</category>
   </programme>
-<programme start="20260803173000 +0000" stop="20260803180000 +0000" channel="skylife.애니플러스">
+<programme start="20260803172800 +0000" stop="20260803175700 +0000" channel="skylife.애니플러스">
     <title>마왕학원의 부적합자 2 -사상 최강의 마왕인 시조, 전생해서 자손들의 학교에 다니다-</title>
     <category>만화 / SF</category>
   </programme>
-<programme start="20260803180000 +0000" stop="20260803190000 +0000" channel="skylife.애니플러스">
+<programme start="20260803175700 +0000" stop="20260803185700 +0000" channel="skylife.애니플러스">
     <title>바쿠만 2기</title>
     <category>만화 / 순정</category>
   </programme>
-<programme start="20260803190000 +0000" stop="20260803200000 +0000" channel="skylife.애니플러스">
+<programme start="20260803185700 +0000" stop="20260803200000 +0000" channel="skylife.애니플러스">
     <title>퍼핀즈 시즌1</title>
     <category>만화 / 명랑</category>
   </programme>
@@ -20035,81 +20032,81 @@
     <title>페어라이어/베네통스포츠 의류</title>
     <category>홈쇼핑 / 기타</category>
   </programme>
-<programme start="20260803210000 +0000" stop="20260803211500 +0000" channel="skylife.cj.온스타일">
-    <title>건강식품</title>
-    <category>홈쇼핑 / 식품</category>
+<programme start="20260803210000 +0000" stop="20260803210500 +0000" channel="skylife.cj.온스타일">
+    <title>온스타일 베스트 2부</title>
+    <category>홈쇼핑 / 기타</category>
+  </programme>
+<programme start="20260803210500 +0000" stop="20260803211500 +0000" channel="skylife.cj.온스타일">
+    <title>10분 숏딜</title>
+    <category>홈쇼핑 / 기타</category>
   </programme>
 <programme start="20260803211500 +0000" stop="20260803221500 +0000" channel="skylife.cj.온스타일">
-    <title>건강이 오네</title>
-    <category>홈쇼핑 / 건강/레포츠</category>
+    <title>건강식품 1부</title>
+    <category>홈쇼핑 / 식품</category>
   </programme>
 <programme start="20260803221500 +0000" stop="20260803231500 +0000" channel="skylife.cj.온스타일">
-    <title>생활용품 1부</title>
-    <category>홈쇼핑 / 가정/주방/생활용품</category>
+    <title>Weekly Best 1부</title>
+    <category>홈쇼핑 / 기타</category>
   </programme>
 <programme start="20260803231500 +0000" stop="20260804002000 +0000" channel="skylife.cj.온스타일">
-    <title>잇솔지</title>
-    <category>홈쇼핑 / 기타</category>
+    <title>건강식품 2부</title>
+    <category>홈쇼핑 / 식품</category>
   </programme>
 <programme start="20260804002000 +0000" stop="20260804012500 +0000" channel="skylife.cj.온스타일">
     <title>Weekly Best 2부</title>
     <category>홈쇼핑 / 기타</category>
   </programme>
 <programme start="20260804012500 +0000" stop="20260804023500 +0000" channel="skylife.cj.온스타일">
-    <title>건강식품 2부</title>
-    <category>홈쇼핑 / 식품</category>
-  </programme>
-<programme start="20260804023500 +0000" stop="20260804033500 +0000" channel="skylife.cj.온스타일">
-    <title>이미용품 1부</title>
-    <category>홈쇼핑 / 뷰티</category>
-  </programme>
-<programme start="20260804033500 +0000" stop="20260804043500 +0000" channel="skylife.cj.온스타일">
-    <title>Weekly Best 4부</title>
-    <category>홈쇼핑 / 기타</category>
-  </programme>
-<programme start="20260804043500 +0000" stop="20260804053500 +0000" channel="skylife.cj.온스타일">
     <title>건강식품 3부</title>
     <category>홈쇼핑 / 식품</category>
   </programme>
-<programme start="20260804053500 +0000" stop="20260804063000 +0000" channel="skylife.cj.온스타일">
-    <title>레포츠의류 1부</title>
-    <category>홈쇼핑 / 패션/의류</category>
+<programme start="20260804023500 +0000" stop="20260804033500 +0000" channel="skylife.cj.온스타일">
+    <title>Weekly Best 3부</title>
+    <category>홈쇼핑 / 기타</category>
   </programme>
-<programme start="20260804063000 +0000" stop="20260804073000 +0000" channel="skylife.cj.온스타일">
+<programme start="20260804033500 +0000" stop="20260804043500 +0000" channel="skylife.cj.온스타일">
     <title>건강식품 4부</title>
     <category>홈쇼핑 / 식품</category>
   </programme>
-<programme start="20260804073000 +0000" stop="20260804083000 +0000" channel="skylife.cj.온스타일">
-    <title>침구/커튼 1부</title>
-    <category>홈쇼핑 / 침구</category>
-  </programme>
-<programme start="20260804083000 +0000" stop="20260804093000 +0000" channel="skylife.cj.온스타일">
-    <title>렌탈서비스 1부</title>
-    <category>홈쇼핑 / 기타</category>
-  </programme>
-<programme start="20260804093000 +0000" stop="20260804103500 +0000" channel="skylife.cj.온스타일">
-    <title>화장품 1부</title>
-    <category>홈쇼핑 / 뷰티</category>
-  </programme>
-<programme start="20260804103500 +0000" stop="20260804114500 +0000" channel="skylife.cj.온스타일">
-    <title>이미용품 2부</title>
-    <category>홈쇼핑 / 뷰티</category>
-  </programme>
-<programme start="20260804114500 +0000" stop="20260804124500 +0000" channel="skylife.cj.온스타일">
+<programme start="20260804043500 +0000" stop="20260804053500 +0000" channel="skylife.cj.온스타일">
     <title>건강식품 5부</title>
     <category>홈쇼핑 / 식품</category>
   </programme>
-<programme start="20260804124500 +0000" stop="20260804135500 +0000" channel="skylife.cj.온스타일">
-    <title>화장품 2부</title>
+<programme start="20260804053500 +0000" stop="20260804063000 +0000" channel="skylife.cj.온스타일">
+    <title>생활가전 1부</title>
+    <category>홈쇼핑 / 가전</category>
+  </programme>
+<programme start="20260804063000 +0000" stop="20260804073000 +0000" channel="skylife.cj.온스타일">
+    <title>식품 1부</title>
+    <category>홈쇼핑 / 식품</category>
+  </programme>
+<programme start="20260804073000 +0000" stop="20260804083000 +0000" channel="skylife.cj.온스타일">
+    <title>건강식품 6부</title>
+    <category>홈쇼핑 / 식품</category>
+  </programme>
+<programme start="20260804083000 +0000" stop="20260804093000 +0000" channel="skylife.cj.온스타일">
+    <title>건강식품 7부</title>
+    <category>홈쇼핑 / 식품</category>
+  </programme>
+<programme start="20260804093000 +0000" stop="20260804103500 +0000" channel="skylife.cj.온스타일">
+    <title>이미용품 1부</title>
     <category>홈쇼핑 / 뷰티</category>
   </programme>
+<programme start="20260804103500 +0000" stop="20260804124500 +0000" channel="skylife.cj.온스타일">
+    <title>더 김창옥 라이브</title>
+    <category>교양/정보 / 일반</category>
+  </programme>
+<programme start="20260804124500 +0000" stop="20260804135500 +0000" channel="skylife.cj.온스타일">
+    <title>금융서비스</title>
+    <category>홈쇼핑 / 금융/보험/상조</category>
+  </programme>
 <programme start="20260804135500 +0000" stop="20260804145500 +0000" channel="skylife.cj.온스타일">
-    <title>팝혜진 스토어</title>
+    <title>Replay Best 1부</title>
     <category>홈쇼핑 / 기타</category>
   </programme>
 <programme start="20260804145500 +0000" stop="20260804160000 +0000" channel="skylife.cj.온스타일">
-    <title>Weekly Best 3부</title>
-    <category>홈쇼핑 / 기타</category>
+    <title>생활용품 1부</title>
+    <category>홈쇼핑 / 가정/주방/생활용품</category>
   </programme>
 <programme start="20260804150500 +0000" stop="20260804152000 +0000" channel="skylife.ebs">
     <title>AI 고전 역사를 바꾼 100책</title>
@@ -21038,17 +21035,18 @@
     <category>뉴스 / 일반</category>
   </programme>
 <programme start="20260805024000 +0000" stop="20260805031000 +0000" channel="skylife.mbn">
-    <title>오늘도 튼튼 - 우리 가족 건강센터</title>
-    <category>교양/정보 / 의료건강</category>
+    <title>꼬마캐리 탐구생활 심화학습</title>
+    <category>교육 / 유아</category>
   </programme>
-<programme start="20260805031000 +0000" stop="20260805034000 +0000" channel="skylife.mbn">
-    <title>오늘도 튼튼 - 우리 가족 건강센터</title>
-    <category>교양/정보 / 의료건강</category>
-  </programme>
-<programme start="20260805034000 +0000" stop="20260805052000 +0000" channel="skylife.mbn">
+<programme start="20260805031000 +0000" stop="20260805045000 +0000" channel="skylife.mbn">
     <title>속풀이쇼 동치미</title>
     <desc>답답한 속을 동치미처럼 속시원하게 풀어주는 힐링 속풀이쇼.</desc>
     <category>연예/오락 / 토크쇼</category>
+  </programme>
+<programme start="20260805045000 +0000" stop="20260805052000 +0000" channel="skylife.mbn">
+    <title>특종세상</title>
+    <desc>세상곳곳의 놀라운 이야기, 소문 속의 진실, 휴먼 스토리 등 살아 숨쉬는 특종 현장을 보여준다.</desc>
+    <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260805052000 +0000" stop="20260805070000 +0000" channel="skylife.mbn">
     <title>전설의 사내</title>
@@ -21075,20 +21073,25 @@
     <title>무명에서 전설까지</title>
     <category>연예/오락 / 선발대회</category>
   </programme>
-<programme start="20260805124000 +0000" stop="20260805131000 +0000" channel="skylife.mbn">
+<programme start="20260805124000 +0000" stop="20260805132000 +0000" channel="skylife.mbn">
     <title>전설의 사내 1부</title>
     <desc>&apos;무명전설&apos; TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260805131000 +0000" stop="20260805143000 +0000" channel="skylife.mbn">
+<programme start="20260805132000 +0000" stop="20260805141000 +0000" channel="skylife.mbn">
     <title>전설의 사내 2부</title>
     <desc>&apos;무명전설&apos; TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260805143000 +0000" stop="20260805151000 +0000" channel="skylife.mbn">
+<programme start="20260805141000 +0000" stop="20260805145000 +0000" channel="skylife.mbn">
     <title>전설의 사내 3부</title>
     <desc>&apos;무명전설&apos; TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
     <category>연예/오락 / 일반</category>
+  </programme>
+<programme start="20260805145000 +0000" stop="20260805154000 +0000" channel="skylife.mbn">
+    <title>휴먼다큐 사노라면</title>
+    <desc>서민들의 소소하지만 위대한 일상을 통해 삶의 비법을 풀어가는 보통 사람들의 특별한 이야기.</desc>
+    <category>시사/다큐 / 라이프/휴먼</category>
   </programme>
 <programme start="20260804155000 +0000" stop="20260804164000 +0000" channel="skylife.tv조선">
     <title>장수상회 특별판</title>
@@ -23875,64 +23878,64 @@
     <title>Replay Best</title>
     <category>홈쇼핑 / 기타</category>
   </programme>
-<programme start="20260804170000 +0000" stop="20260804193000 +0000" channel="skylife.cj.온스타일">
+<programme start="20260804170000 +0000" stop="20260804194500 +0000" channel="skylife.cj.온스타일">
     <title>심야재방 베스트</title>
     <category>홈쇼핑 / 종합</category>
   </programme>
-<programme start="20260804193000 +0000" stop="20260804200000 +0000" channel="skylife.cj.온스타일">
+<programme start="20260804194500 +0000" stop="20260804201500 +0000" channel="skylife.cj.온스타일">
     <title>1촌1명품/1사1명품(수화)</title>
     <category>홈쇼핑 / 종합</category>
   </programme>
-<programme start="20260804200000 +0000" stop="20260804205000 +0000" channel="skylife.cj.온스타일">
-    <title>Weekly Best</title>
+<programme start="20260804201500 +0000" stop="20260804210000 +0000" channel="skylife.cj.온스타일">
+    <title>온스타일 베스트 3부</title>
     <category>홈쇼핑 / 기타</category>
   </programme>
-<programme start="20260804205000 +0000" stop="20260804210000 +0000" channel="skylife.cj.온스타일">
-    <title>10분 숏딜</title>
+<programme start="20260804210000 +0000" stop="20260804211500 +0000" channel="skylife.cj.온스타일">
+    <title>온스타일 베스트 3부</title>
     <category>홈쇼핑 / 기타</category>
   </programme>
-<programme start="20260804210000 +0000" stop="20260804221500 +0000" channel="skylife.cj.온스타일">
-    <title>Weekly Best 2부</title>
-    <category>홈쇼핑 / 기타</category>
-  </programme>
-<programme start="20260804221500 +0000" stop="20260804231500 +0000" channel="skylife.cj.온스타일">
-    <title>패션의류 1부</title>
+<programme start="20260804211500 +0000" stop="20260804221500 +0000" channel="skylife.cj.온스타일">
+    <title>언더웨어 1부</title>
     <category>홈쇼핑 / 패션/의류</category>
   </programme>
+<programme start="20260804221500 +0000" stop="20260804231500 +0000" channel="skylife.cj.온스타일">
+    <title>Weekly Best 3부</title>
+    <category>홈쇼핑 / 기타</category>
+  </programme>
 <programme start="20260804231500 +0000" stop="20260805002000 +0000" channel="skylife.cj.온스타일">
-    <title>건강식품 1부</title>
-    <category>홈쇼핑 / 식품</category>
+    <title>화장품 2부</title>
+    <category>홈쇼핑 / 뷰티</category>
   </programme>
 <programme start="20260805002000 +0000" stop="20260805012500 +0000" channel="skylife.cj.온스타일">
-    <title>Weekly Best 1부</title>
+    <title>Replay Best 1부</title>
     <category>홈쇼핑 / 기타</category>
   </programme>
 <programme start="20260805012500 +0000" stop="20260805023500 +0000" channel="skylife.cj.온스타일">
-    <title>건강식품 2부</title>
-    <category>홈쇼핑 / 식품</category>
+    <title>생활용품 1부</title>
+    <category>홈쇼핑 / 가정/주방/생활용품</category>
   </programme>
 <programme start="20260805023500 +0000" stop="20260805033500 +0000" channel="skylife.cj.온스타일">
-    <title>올펫 1부</title>
+    <title>Weekly Best 1부</title>
     <category>홈쇼핑 / 기타</category>
   </programme>
 <programme start="20260805033500 +0000" stop="20260805043500 +0000" channel="skylife.cj.온스타일">
-    <title>건강식품 3부</title>
-    <category>홈쇼핑 / 식품</category>
+    <title>Weekly Best 5부</title>
+    <category>홈쇼핑 / 기타</category>
   </programme>
 <programme start="20260805043500 +0000" stop="20260805053500 +0000" channel="skylife.cj.온스타일">
-    <title>건강식품 4부</title>
-    <category>홈쇼핑 / 식품</category>
+    <title>침구/커튼</title>
+    <category>홈쇼핑 / 침구</category>
   </programme>
 <programme start="20260805053500 +0000" stop="20260805063000 +0000" channel="skylife.cj.온스타일">
-    <title>건강식품 5부</title>
+    <title>건강식품 1부</title>
     <category>홈쇼핑 / 식품</category>
   </programme>
 <programme start="20260805063000 +0000" stop="20260805073000 +0000" channel="skylife.cj.온스타일">
-    <title>이미용품 1부</title>
-    <category>홈쇼핑 / 뷰티</category>
+    <title>생활용품 2부</title>
+    <category>홈쇼핑 / 가정/주방/생활용품</category>
   </programme>
 <programme start="20260805073000 +0000" stop="20260805083000 +0000" channel="skylife.cj.온스타일">
-    <title>식품 1부</title>
+    <title>건강식품 2부</title>
     <category>홈쇼핑 / 식품</category>
   </programme>
 <programme start="20260805083000 +0000" stop="20260805084000 +0000" channel="skylife.cj.온스타일">
@@ -23940,24 +23943,24 @@
     <category>홈쇼핑 / 기타</category>
   </programme>
 <programme start="20260805084000 +0000" stop="20260805103500 +0000" channel="skylife.cj.온스타일">
-    <title>패션의류 2부</title>
-    <category>홈쇼핑 / 패션/의류</category>
-  </programme>
-<programme start="20260805103500 +0000" stop="20260805114500 +0000" channel="skylife.cj.온스타일">
-    <title>금융서비스 1부</title>
-    <category>홈쇼핑 / 금융/보험/상조</category>
-  </programme>
-<programme start="20260805114500 +0000" stop="20260805135500 +0000" channel="skylife.cj.온스타일">
-    <title>화장품 2부</title>
-    <category>홈쇼핑 / 뷰티</category>
-  </programme>
-<programme start="20260805135500 +0000" stop="20260805145500 +0000" channel="skylife.cj.온스타일">
-    <title>화장품 3부</title>
-    <category>홈쇼핑 / 뷰티</category>
-  </programme>
-<programme start="20260805145500 +0000" stop="20260805160000 +0000" channel="skylife.cj.온스타일">
     <title>Weekly Best 4부</title>
     <category>홈쇼핑 / 기타</category>
+  </programme>
+<programme start="20260805103500 +0000" stop="20260805114500 +0000" channel="skylife.cj.온스타일">
+    <title>건강식품 3부</title>
+    <category>홈쇼핑 / 식품</category>
+  </programme>
+<programme start="20260805114500 +0000" stop="20260805135500 +0000" channel="skylife.cj.온스타일">
+    <title>최화정쇼</title>
+    <category>홈쇼핑 / 기타</category>
+  </programme>
+<programme start="20260805135500 +0000" stop="20260805145500 +0000" channel="skylife.cj.온스타일">
+    <title>Replay Best 2부</title>
+    <category>홈쇼핑 / 기타</category>
+  </programme>
+<programme start="20260805145500 +0000" stop="20260805160000 +0000" channel="skylife.cj.온스타일">
+    <title>화장품 3부</title>
+    <category>홈쇼핑 / 뷰티</category>
   </programme>
 <programme start="20260805150500 +0000" stop="20260805152000 +0000" channel="skylife.ebs">
     <title>AI 고전 역사를 바꾼 100책</title>
@@ -24624,8 +24627,8 @@
     <title>이슈 픽 쌤과 함께 스페셜</title>
     <category>교양/정보 / 강좌</category>
   </programme>
-<programme start="20260806150000 +0000" stop="20260806155500 +0000" channel="skylife.kbs1">
-    <title>KBS 중계석</title>
+<programme start="20260806150000 +0000" stop="20260806163000 +0000" channel="skylife.kbs1">
+    <title>KBS 중계석 2부</title>
     <desc>문화예술 공연실황과 함께 연주자들과 해설자의 인터뷰를 함께 방송한다.</desc>
     <category>교양/정보 / 일반</category>
   </programme>
@@ -24840,25 +24843,20 @@
     <desc>시간을 건너 정사와 야사의 간극을 파헤치는 역사 드라마타이즈 프로그램</desc>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260805151000 +0000" stop="20260805154000 +0000" channel="skylife.mbn">
-    <title>내가 만난 사이코패스</title>
-    <desc>사이코패스, 소시오패스, 나르시시스트 등 우리 주변에 숨어있는 반사회적 인격들과 마주한 실제 경험담을 다루는 실화 기반 스릴러 토크 프로그램</desc>
-    <category>연예/오락 / 토크쇼</category>
-  </programme>
 <programme start="20260805154000 +0000" stop="20260805164000 +0000" channel="skylife.mbn">
     <title>소나무</title>
     <desc>우리 이웃들이 치열하게 살아가는 진솔한 이야기.</desc>
     <category>시사/다큐 / 라이프/휴먼</category>
   </programme>
 <programme start="20260805164000 +0000" stop="20260805185000 +0000" channel="skylife.mbn">
-    <title>[MBN 스페셜 무비]도그맨</title>
-    <category>영화 / 드라마</category>
+    <title>[MBN 스페셜 무비]드라이</title>
+    <category>영화 / 미스터리/스릴러</category>
   </programme>
-<programme start="20260805185000 +0000" stop="20260805195000 +0000" channel="skylife.mbn">
-    <title>[MBN 스페셜 다큐]젊은 그대! 나이야 가라 시즌3</title>
+<programme start="20260805185000 +0000" stop="20260805194000 +0000" channel="skylife.mbn">
+    <title>[MBN 스페셜 다큐]리모델링의 여왕 in 텍사스</title>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260805195000 +0000" stop="20260805200000 +0000" channel="skylife.mbn">
+<programme start="20260805194000 +0000" stop="20260805200000 +0000" channel="skylife.mbn">
     <title>매일아침 스페셜 맛집베스트</title>
     <category>교양/정보 / 일반</category>
   </programme>
@@ -24866,10 +24864,14 @@
     <title>생존 공식 보물 원정대</title>
     <category>교양/정보 / 의료건강</category>
   </programme>
-<programme start="20260805210000 +0000" stop="20260805220000 +0000" channel="skylife.mbn">
-    <title>바디인사이트</title>
-    <desc>AI가 밝혀내는, 우리가 몰랐던 진짜 건강! AI 기반 건강 인사이트 쇼</desc>
-    <category>교양/정보 / 의료건강</category>
+<programme start="20260805210000 +0000" stop="20260805215000 +0000" channel="skylife.mbn">
+    <title>엄지의 제왕</title>
+    <desc>생활 속 다양한 고수들이 자신만의 비법으로 고수 감정단의 날카로운 평가를 받는다.</desc>
+    <category>연예/오락 / 인포테인먼트</category>
+  </programme>
+<programme start="20260805215000 +0000" stop="20260805220000 +0000" channel="skylife.mbn">
+    <title>매일아침 스페셜 맛집베스트</title>
+    <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260805220000 +0000" stop="20260805230000 +0000" channel="skylife.mbn">
     <title>굿모닝 MBN</title>
@@ -24895,7 +24897,11 @@
     <title>꼬마캐리 탐구생활 심화학습</title>
     <category>교육 / 유아</category>
   </programme>
-<programme start="20260806031000 +0000" stop="20260806053000 +0000" channel="skylife.mbn">
+<programme start="20260806031000 +0000" stop="20260806041000 +0000" channel="skylife.mbn">
+    <title>전현무계획 4</title>
+    <category>연예/오락 / 일반</category>
+  </programme>
+<programme start="20260806041000 +0000" stop="20260806053000 +0000" channel="skylife.mbn">
     <title>전설의 사내</title>
     <desc>&apos;무명전설&apos; TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
     <category>연예/오락 / 일반</category>
@@ -25671,7 +25677,7 @@
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260806150000 +0000" stop="20260806164000 +0000" channel="skylife.jtbc4">
-    <title>[세기의 부자] 강연배틀쇼 사기꾼들</title>
+    <title>[한국사부터 세계사까지] 강연배틀쇼 사기꾼들</title>
     <desc>대한민국 강연계 레전드들이 펼치는 &apos;강연배틀쇼 사기꾼들&apos;!   하나의 주제, 각기 다른 이야기로 벌이는 한 판 승부! 과연 최고의 사기꾼은 누가 될 것인가!</desc>
     <category>교양/정보 / 일반</category>
   </programme>
@@ -27696,13 +27702,13 @@
     <title>1촌1명품/1사1명품(수화)</title>
     <category>홈쇼핑 / 종합</category>
   </programme>
-<programme start="20260805163000 +0000" stop="20260805200000 +0000" channel="skylife.cj.온스타일">
+<programme start="20260805163000 +0000" stop="20260805201500 +0000" channel="skylife.cj.온스타일">
     <title>심야재방 베스트</title>
     <category>홈쇼핑 / 종합</category>
   </programme>
-<programme start="20260805200000 +0000" stop="20260805210000 +0000" channel="skylife.cj.온스타일">
-    <title>건강식품</title>
-    <category>홈쇼핑 / 식품</category>
+<programme start="20260805201500 +0000" stop="20260805210000 +0000" channel="skylife.cj.온스타일">
+    <title>Replay Best 3부</title>
+    <category>홈쇼핑 / 기타</category>
   </programme>
 <programme start="20260805210000 +0000" stop="20260805211000 +0000" channel="skylife.cj.온스타일">
     <title>건강식품</title>
