@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260803230545 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="CN-EPG-Merger">
+<tv date="20260804085139 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="CN-EPG-Merger">
 
 <!-- Channels -->
 
@@ -4468,11 +4468,17 @@
 <programme start="20260804155500 +0000" stop="20260804164500 +0000" channel="gdtv.广东珠江">
     <title lang="zh">今日关注(重播)</title>
   </programme>
+<programme start="20260804160000 +0000" stop="20260804161100 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">喜羊羊与灰太狼之发明大作战</title>
+  </programme>
 <programme start="20260804160000 +0000" stop="20260804165000 +0000" channel="gdtv.广东少儿">
     <title lang="zh">午夜剧场</title>
   </programme>
 <programme start="20260804160000 +0000" stop="20260804163000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">专题</title>
+  </programme>
+<programme start="20260804161100 +0000" stop="20260804195200 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">超级飞侠十八</title>
   </programme>
 <programme start="20260804161500 +0000" stop="20260804170500 +0000" channel="gdtv.广东影视">
     <title lang="zh">午夜剧场</title>
@@ -4516,6 +4522,9 @@
 <programme start="20260804195100 +0000" stop="20260804201700 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮比利时vs埃及</title>
   </programme>
+<programme start="20260804195200 +0000" stop="20260804221200 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">超级飞侠十七</title>
+  </programme>
 <programme start="20260804201700 +0000" stop="20260804204300 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第2轮比利时vs伊朗</title>
   </programme>
@@ -4551,6 +4560,9 @@
   </programme>
 <programme start="20260804221000 +0000" stop="20260805004500 +0000" channel="gdtv.广东影视">
     <title lang="zh">醒晨剧场一:骑士的手套(27-30)</title>
+  </programme>
+<programme start="20260804221200 +0000" stop="20260805011400 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">喜羊羊与灰太狼之羊村守护者九</title>
   </programme>
 <programme start="20260804223000 +0000" stop="20260804225700 +0000" channel="gdtv.广东卫视">
     <title lang="zh">广东新闻联播重播</title>
@@ -4624,6 +4636,9 @@
 <programme start="20260805010000 +0000" stop="20260805020000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">今日焦点</title>
   </programme>
+<programme start="20260805011400 +0000" stop="20260805023000 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">巴啦啦与小魔仙之曜星守护者二</title>
+  </programme>
 <programme start="20260805011500 +0000" stop="20260805020800 +0000" channel="gdtv.广东卫视">
     <title lang="zh">上海滩生死较量(4)</title>
   </programme>
@@ -4641,6 +4656,9 @@
   </programme>
 <programme start="20260805020800 +0000" stop="20260805025800 +0000" channel="gdtv.广东卫视">
     <title lang="zh">上海滩生死较量(5)</title>
+  </programme>
+<programme start="20260805023000 +0000" stop="20260805051600 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">喜羊羊与灰太狼之羊村守护者四</title>
   </programme>
 <programme start="20260805023000 +0000" stop="20260805030000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">专题</title>
@@ -4708,6 +4726,9 @@
 <programme start="20260805051500 +0000" stop="20260805070500 +0000" channel="gdtv.广东民生">
     <title lang="zh">哈尔滨1944</title>
   </programme>
+<programme start="20260805051600 +0000" stop="20260805061200 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">奶龙搞怪大作战</title>
+  </programme>
 <programme start="20260805051700 +0000" stop="20260805055300 +0000" channel="gdtv.广东体育">
     <title lang="zh">重播美加墨赛场:2026年美加墨世界杯小组赛第1轮墨西哥vs南非</title>
   </programme>
@@ -4725,6 +4746,9 @@
   </programme>
 <programme start="20260805060500 +0000" stop="20260805065800 +0000" channel="gdtv.广东卫视">
     <title lang="zh">苍狼(40)</title>
+  </programme>
+<programme start="20260805061200 +0000" stop="20260805070200 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">超级飞侠二十</title>
   </programme>
 <programme start="20260805062000 +0000" stop="20260805062500 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">岭南大舞台:资讯(915)</title>
@@ -4747,11 +4771,17 @@
 <programme start="20260805070000 +0000" stop="20260805073000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">正点播报</title>
   </programme>
+<programme start="20260805070200 +0000" stop="20260805074000 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">奇妙萌可之闪耀流星</title>
+  </programme>
 <programme start="20260805070500 +0000" stop="20260805082500 +0000" channel="gdtv.广东民生">
     <title lang="zh">外来媳妇本地郎</title>
   </programme>
 <programme start="20260805073000 +0000" stop="20260805080000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
+  </programme>
+<programme start="20260805074000 +0000" stop="20260805081100 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">哈小浪之决战星未来</title>
   </programme>
 <programme start="20260805075000 +0000" stop="20260805084000 +0000" channel="gdtv.广东卫视">
     <title lang="zh">苍狼(42)</title>
@@ -4767,6 +4797,9 @@
   </programme>
 <programme start="20260805080800 +0000" stop="20260805081200 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">戏人戏语(367)</title>
+  </programme>
+<programme start="20260805081100 +0000" stop="20260805083700 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">嗨！小喇叭-超飞20季</title>
   </programme>
 <programme start="20260805081200 +0000" stop="20260805081700 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">岭南大舞台:资讯(915)</title>
@@ -4785,6 +4818,9 @@
   </programme>
 <programme start="20260805083000 +0000" stop="20260805090000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
+  </programme>
+<programme start="20260805083700 +0000" stop="20260805105900 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">哈小浪之决战星未来</title>
   </programme>
 <programme start="20260805084000 +0000" stop="20260805094000 +0000" channel="gdtv.广东卫视">
     <title lang="zh">苍狼(43)</title>
@@ -4858,6 +4894,9 @@
 <programme start="20260805105700 +0000" stop="20260805110000 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">趣谈广州话(1966)</title>
   </programme>
+<programme start="20260805105900 +0000" stop="20260805115900 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">超级飞侠二十</title>
+  </programme>
 <programme start="20260805110000 +0000" stop="20260805124300 +0000" channel="gdtv.岭南戏曲">
     <title lang="zh">剧场连线:春花秋月何时了(1)</title>
   </programme>
@@ -4893,6 +4932,9 @@
   </programme>
 <programme start="20260805113300 +0000" stop="20260805123000 +0000" channel="gdtv.广东卫视">
     <title lang="zh">冰雪尖刀连(23)</title>
+  </programme>
+<programme start="20260805115900 +0000" stop="20260805130900 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">喜羊羊与灰太狼之发明大作战</title>
   </programme>
 <programme start="20260805120000 +0000" stop="20260805123000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">直播广东</title>
@@ -4939,8 +4981,14 @@
 <programme start="20260805130500 +0000" stop="20260805132000 +0000" channel="gdtv.广东民生">
     <title lang="zh">宜居大湾区平日版(318)</title>
   </programme>
+<programme start="20260805130900 +0000" stop="20260805131500 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">嗨！小喇叭-中华故事小课堂</title>
+  </programme>
 <programme start="20260805131000 +0000" stop="20260805133000 +0000" channel="gdtv.广东新闻">
     <title lang="zh">广粤甄选</title>
+  </programme>
+<programme start="20260805131500 +0000" stop="20260805140500 +0000" channel="gdtv.嘉佳卡通">
+    <title lang="zh">喜羊羊与灰太狼之发明大作战</title>
   </programme>
 <programme start="20260805132000 +0000" stop="20260805134000 +0000" channel="gdtv.广东卫视">
     <title lang="zh">晚间新闻</title>
@@ -63082,7 +63130,7 @@
   </programme>
 <programme start="20260803003000 +0000" stop="20260803005500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260803005500 +0000" stop="20260803012000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">家家有本事</title>
@@ -63107,7 +63155,7 @@
   </programme>
 <programme start="20260803013000 +0000" stop="20260803015700 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">香港故事 師傅來了2</title>
-    <desc lang="zh-hant">香港故事-師傅來了2，每一集帶領觀眾感受香港的一種工匠精神該節目從人物故事出發，帶領觀眾透過鏡頭感受匠人對極致的追求，圍繞著細節之美來講述香港故事本節目由&amp;amp;amp;amp;amp;amp;amp;amp;lt;香港電台&amp;amp;amp;amp;amp;amp;amp;amp;gt;贈播</desc>
+    <desc lang="zh-hant">香港故事-師傅來了2，每一集帶領觀眾感受香港的一種工匠精神該節目從人物故事出發，帶領觀眾透過鏡頭感受匠人對極致的追求，圍繞著細節之美來講述香港故事本節目由&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;香港電台&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;贈播</desc>
   </programme>
 <programme start="20260803013000 +0000" stop="20260803020000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -63150,7 +63198,7 @@
   </programme>
 <programme start="20260803031000 +0000" stop="20260803044500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">如果奔跑是我的人生</title>
-    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
+    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
   </programme>
 <programme start="20260803031200 +0000" stop="20260803032000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">啟航十五五</title>
@@ -63236,7 +63284,7 @@
   </programme>
 <programme start="20260803053000 +0000" stop="20260803055200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260803055200 +0000" stop="20260803060000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">鈷彩凝珍</title>
@@ -63383,7 +63431,7 @@
   </programme>
 <programme start="20260803101500 +0000" stop="20260803104000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260803102000 +0000" stop="20260803110500 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">Parenthood - Uma Histria de Famlia T1</title>
@@ -63440,7 +63488,7 @@
   </programme>
 <programme start="20260803120000 +0000" stop="20260803133300 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">如果奔跑是我的人生</title>
-    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
+    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
   </programme>
 <programme start="20260803120000 +0000" stop="20260803124500 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">Telejornal</title>
@@ -63477,7 +63525,7 @@
   </programme>
 <programme start="20260803130000 +0000" stop="20260803132200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260803132200 +0000" stop="20260803133000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">家家有餸煮</title>
@@ -63601,7 +63649,7 @@
   </programme>
 <programme start="20260803172700 +0000" stop="20260803190000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">如果奔跑是我的人生</title>
-    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
+    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
   </programme>
 <programme start="20260803173000 +0000" stop="20260803180000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">英語新聞</title>
@@ -63675,7 +63723,7 @@
   </programme>
 <programme start="20260804003000 +0000" stop="20260804005200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260804005200 +0000" stop="20260804012000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -63712,7 +63760,7 @@
   </programme>
 <programme start="20260804053000 +0000" stop="20260804055200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260804055200 +0000" stop="20260804060000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">好書分享</title>
@@ -63773,7 +63821,7 @@
   </programme>
 <programme start="20260804110000 +0000" stop="20260804112500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260804110500 +0000" stop="20260804120000 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">A Fazenda</title>
@@ -63819,7 +63867,7 @@
   </programme>
 <programme start="20260804154000 +0000" stop="20260804164000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260804155500 +0000" stop="20260804165500 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">RTPi Directo</title>
@@ -63914,7 +63962,7 @@
   </programme>
 <programme start="20260805010200 +0000" stop="20260805012500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260805012000 +0000" stop="20260805020000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">競健群英 2026</title>
@@ -63967,7 +64015,7 @@
   </programme>
 <programme start="20260805031000 +0000" stop="20260805044500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">如果奔跑是我的人生</title>
-    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
+    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
   </programme>
 <programme start="20260805031200 +0000" stop="20260805032000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">營商創新研究所</title>
@@ -64267,7 +64315,7 @@
   </programme>
 <programme start="20260805120000 +0000" stop="20260805133300 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">如果奔跑是我的人生</title>
-    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
+    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
   </programme>
 <programme start="20260805120000 +0000" stop="20260805124500 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">Telejornal</title>
@@ -64302,7 +64350,7 @@
   </programme>
 <programme start="20260805130000 +0000" stop="20260805133500 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">龍舟</title>
-    <desc lang="zh-hant">從端午節習俗切入，分為千古歸途萬物繁花心靈造像盛裝凡塵與子同行和歲月晨光6集，每集30分鐘全片以龍舟這個世界符號提煉中華優秀傳統文化元素，用中國故事，國際表達的方式，向全球傳遞底蘊深厚的中國智慧&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;主創團隊介紹，龍舟將傳統與現代東方與西方進行連結，實現了五個首次呈現：首次從基因考古視野探究三皇五帝神話等中華民族的上古起源和根脈；首次呈現楚辭中描述的世界上最後一片野生紅花玉蘭的真容；首次展現臺灣地區與湖北秭歸一脈同源的屈氏後裔端午祭祀活動；首次披露誕生於中國的世界上第一張體育郵票龍舟競渡；首次以文獻證實中國龍舟競渡在國外的流播&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;紀錄片創作歷時兩年多，主創團隊外拍行程跨越五大洲，先後在英國德國澳大利亞土耳其埃及日本墨西哥等12個國家實地拍攝，累計查閱文獻和資料約500萬字，採訪了國內外近30位各行業頂尖專家為呈現最優質的畫面，該片還充分利用AI3D掃描等前沿技術，將龍舟置身於廣博的大歷史空間，建立起歷史與當代的視覺知覺聯繫，傳承和弘揚中華民族特有的精神內涵本片由&amp;amp;amp;amp;amp;lt;湖北廣播電視台&amp;amp;amp;amp;amp;gt;贈播</desc>
+    <desc lang="zh-hant">從端午節習俗切入，分為千古歸途萬物繁花心靈造像盛裝凡塵與子同行和歲月晨光6集，每集30分鐘全片以龍舟這個世界符號提煉中華優秀傳統文化元素，用中國故事，國際表達的方式，向全球傳遞底蘊深厚的中國智慧&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;主創團隊介紹，龍舟將傳統與現代東方與西方進行連結，實現了五個首次呈現：首次從基因考古視野探究三皇五帝神話等中華民族的上古起源和根脈；首次呈現楚辭中描述的世界上最後一片野生紅花玉蘭的真容；首次展現臺灣地區與湖北秭歸一脈同源的屈氏後裔端午祭祀活動；首次披露誕生於中國的世界上第一張體育郵票龍舟競渡；首次以文獻證實中國龍舟競渡在國外的流播&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;紀錄片創作歷時兩年多，主創團隊外拍行程跨越五大洲，先後在英國德國澳大利亞土耳其埃及日本墨西哥等12個國家實地拍攝，累計查閱文獻和資料約500萬字，採訪了國內外近30位各行業頂尖專家為呈現最優質的畫面，該片還充分利用AI3D掃描等前沿技術，將龍舟置身於廣博的大歷史空間，建立起歷史與當代的視覺知覺聯繫，傳承和弘揚中華民族特有的精神內涵本片由&amp;amp;amp;amp;amp;amp;lt;湖北廣播電視台&amp;amp;amp;amp;amp;amp;gt;贈播</desc>
   </programme>
 <programme start="20260805130000 +0000" stop="20260805133000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -64437,7 +64485,7 @@
   </programme>
 <programme start="20260805172700 +0000" stop="20260805190000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">如果奔跑是我的人生</title>
-    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
+    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
   </programme>
 <programme start="20260805173000 +0000" stop="20260805180000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">英語新聞</title>
@@ -64514,7 +64562,7 @@
   </programme>
 <programme start="20260806003000 +0000" stop="20260806005500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;gt;,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260806005500 +0000" stop="20260806012500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -64551,7 +64599,7 @@
   </programme>
 <programme start="20260806053600 +0000" stop="20260806060000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;gt;,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260806060000 +0000" stop="20260806063000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">粵語新聞</title>
@@ -64582,7 +64630,7 @@
   </programme>
 <programme start="20260806110000 +0000" stop="20260806112500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;gt;,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260806112500 +0000" stop="20260806114500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">放眼世界</title>
@@ -64610,7 +64658,7 @@
   </programme>
 <programme start="20260806154000 +0000" stop="20260806164000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;gt;,&amp;amp;amp;amp;lt;br&amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;澳門人．澳門事&amp;amp;amp;amp;amp;gt;,&amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260806160200 +0000" stop="20260806170200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">莫桑比克的魅力</title>
@@ -64693,7 +64741,7 @@
   </programme>
 <programme start="20260807010200 +0000" stop="20260807012500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;lt;br&amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;lt;br&amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;lt;br&amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;lt;br&amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;lt;br&amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;amp;lt;br&amp;amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;amp;lt;br&amp;amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;amp;lt;br&amp;amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;amp;lt;br&amp;amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;amp;lt;br&amp;amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260807012000 +0000" stop="20260807020000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">風火台</title>
@@ -64728,7 +64776,7 @@
   </programme>
 <programme start="20260807020000 +0000" stop="20260807045600 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">好劇連場: 賴貓的獅子倒影</title>
-    <desc lang="zh-hant">賴貓的獅子倒影是由朱亞文楊子姍賀軍翔李媛主演的都市情感劇 該劇根據傲無常的小說老婆愛上我改編，講述了女總裁慕晚晴與無業遊民劉青這對歡喜冤家先婚後愛的故事&amp;amp;lt;br&amp;amp;gt;    一個是身家過億的女總裁，一個是身無分文的無業遊民，慕晚晴和劉青的第一次見面就在兩個人的婚禮現場從毫無感情互相敵對，到彼此扶持互生情愫，劉青一邊暗中幫助慕晚晴解決公司遇到的重重危機，一邊機智對抗著橫空出現的慕晚晴前任男友馮聰就在兩人的感情經歷重重考驗之際，一股背後的黑暗勢力也漸漸浮出水面為了完成老一輩的遺願，慕晚晴和劉青踏上了去泰國的行程，與黑暗勢力正面交鋒並取得了勝利，二人也認定對方是自己的唯一所愛兩人回國過上幸福圓滿的生活</desc>
+    <desc lang="zh-hant">賴貓的獅子倒影是由朱亞文楊子姍賀軍翔李媛主演的都市情感劇 該劇根據傲無常的小說老婆愛上我改編，講述了女總裁慕晚晴與無業遊民劉青這對歡喜冤家先婚後愛的故事&amp;amp;amp;lt;br&amp;amp;amp;gt;    一個是身家過億的女總裁，一個是身無分文的無業遊民，慕晚晴和劉青的第一次見面就在兩個人的婚禮現場從毫無感情互相敵對，到彼此扶持互生情愫，劉青一邊暗中幫助慕晚晴解決公司遇到的重重危機，一邊機智對抗著橫空出現的慕晚晴前任男友馮聰就在兩人的感情經歷重重考驗之際，一股背後的黑暗勢力也漸漸浮出水面為了完成老一輩的遺願，慕晚晴和劉青踏上了去泰國的行程，與黑暗勢力正面交鋒並取得了勝利，二人也認定對方是自己的唯一所愛兩人回國過上幸福圓滿的生活</desc>
   </programme>
 <programme start="20260807020000 +0000" stop="20260807023100 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">粵語新聞</title>
@@ -64747,7 +64795,7 @@
   </programme>
 <programme start="20260807031000 +0000" stop="20260807044500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">如果奔跑是我的人生</title>
-    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;lt;br&amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
+    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;lt;br&amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
   </programme>
 <programme start="20260807031200 +0000" stop="20260807032000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">神州追蹤</title>
@@ -64766,7 +64814,7 @@
   </programme>
 <programme start="20260807035000 +0000" stop="20260807042000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳門老店傳承</title>
-    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;lt;br&amp;amp;gt;&amp;amp;lt;br&amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
+    <desc lang="zh-hant">為慶祝澳門回歸25周年，本次將製作澳門老店傳承節目，以在澳門經營最少25年的店舖或老店，一同見證澳門一起成長的故事&amp;amp;amp;lt;br&amp;amp;amp;gt;&amp;amp;amp;lt;br&amp;amp;amp;gt;我們會走訪不同區份的老店，一起細味熟悉的味道，當中還包括店鋪的經營方式承傳故事及周邊民生的情形，重溫幾代人見證澳門發展的點滴，並且分享回歸後到現在的改變訴說眼中的澳門，心中的家國情懷</desc>
   </programme>
 <programme start="20260807040000 +0000" stop="20260807042000 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">新聞報道</title>
@@ -65031,7 +65079,7 @@
   </programme>
 <programme start="20260807120000 +0000" stop="20260807133300 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">如果奔跑是我的人生</title>
-    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;lt;br&amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
+    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;lt;br&amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
   </programme>
 <programme start="20260807120000 +0000" stop="20260807124500 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">Telejornal</title>
@@ -65048,7 +65096,7 @@
   </programme>
 <programme start="20260807123000 +0000" stop="20260807133000 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">林則徐 虎門銷煙以外</title>
-    <desc lang="zh-hant">2025年，適逢民族英雄林則徐誕辰二百四十周年國家主席習近平在福州任職期間，保育了林則徐出生地的一系列遺跡他先後多次引用林則徐苟利國家生死以，豈因禍福避趨之的名句，號召國人把林則徐的民族精神和優秀品格繼承發揚下去&amp;amp;lt;br&amp;amp;gt;林則徐：虎門銷煙以外是一部由香港電台出品的五集歷史人文紀錄片影片以香港視角出發，跨越三萬公里深入中國多省市（包括澳門廣東湖南福建浙江河南陝西甘肅新疆），更東渡日本，探尋虎門銷煙之外那個更為真實立體的林則徐&amp;amp;lt;br&amp;amp;gt;林則徐虎門銷煙的壯舉固然永載史冊，但其光輝遠不止於此本紀錄片突破傳統敘事框架，不僅回顧林則徐虎門銷煙的功績，更深入挖掘他作為治水能臣嚴謹學者流放者與思想家的多面人生透過實地探訪專家訪談，並結合AI技術生成動畫重現歷史場景，影片呈現林則徐在禁煙海防水利邊疆開發等方面的卓越貢獻，並揭示其開眼看世界的深遠影響節目以細膩的鏡頭語言和情感敘述，串聯歷史與當下，展現林則徐精神的當代意義，值此民族英雄誕辰二百四十周年之際，向他獻上最誠摯的敬意本片由&amp;amp;lt;香港電台&amp;amp;gt;贈播</desc>
+    <desc lang="zh-hant">2025年，適逢民族英雄林則徐誕辰二百四十周年國家主席習近平在福州任職期間，保育了林則徐出生地的一系列遺跡他先後多次引用林則徐苟利國家生死以，豈因禍福避趨之的名句，號召國人把林則徐的民族精神和優秀品格繼承發揚下去&amp;amp;amp;lt;br&amp;amp;amp;gt;林則徐：虎門銷煙以外是一部由香港電台出品的五集歷史人文紀錄片影片以香港視角出發，跨越三萬公里深入中國多省市（包括澳門廣東湖南福建浙江河南陝西甘肅新疆），更東渡日本，探尋虎門銷煙之外那個更為真實立體的林則徐&amp;amp;amp;lt;br&amp;amp;amp;gt;林則徐虎門銷煙的壯舉固然永載史冊，但其光輝遠不止於此本紀錄片突破傳統敘事框架，不僅回顧林則徐虎門銷煙的功績，更深入挖掘他作為治水能臣嚴謹學者流放者與思想家的多面人生透過實地探訪專家訪談，並結合AI技術生成動畫重現歷史場景，影片呈現林則徐在禁煙海防水利邊疆開發等方面的卓越貢獻，並揭示其開眼看世界的深遠影響節目以細膩的鏡頭語言和情感敘述，串聯歷史與當下，展現林則徐精神的當代意義，值此民族英雄誕辰二百四十周年之際，向他獻上最誠摯的敬意本片由&amp;amp;amp;lt;香港電台&amp;amp;amp;gt;贈播</desc>
   </programme>
 <programme start="20260807124500 +0000" stop="20260807131500 +0000" channel="tdm.92.mo">
     <title lang="zh-hant">China 360</title>
@@ -65069,7 +65117,7 @@
     <title lang="zh-hant">灣區全媒睇</title>
   </programme>
 <programme start="20260807131500 +0000" stop="20260807134000 +0000" channel="tdm.92.mo">
-    <title lang="zh-hant">Happy&amp;amp;apos;s Place T1</title>
+    <title lang="zh-hant">Happy&amp;amp;amp;apos;s Place T1</title>
   </programme>
 <programme start="20260807133000 +0000" stop="20260807140000 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">石家河</title>
@@ -65196,7 +65244,7 @@
   </programme>
 <programme start="20260807172700 +0000" stop="20260807190000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">如果奔跑是我的人生</title>
-    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;lt;br&amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
+    <desc lang="zh-hant">劇集改編自紀靜蓉的小說如果奔跑是我的宿命，由鍾楚曦楊超越許娣陳小藝侯雯元領銜主演 該劇透過一場車禍，講述了兩個家庭如何在人生的逆境中展現出不同的生活態度和勇氣&amp;amp;amp;lt;br&amp;amp;amp;gt;一次喜慶的壽宴後，一場意外的車禍對趙秀麗（陳小藝飾）和趙秀芳（許娣飾）的家庭造成了破壞性的打擊趙秀麗的兒子是一名成績優異的高中生，但在這場事故中不幸喪生，大女兒陳若華（楊超越飾）逃過一劫；而趙秀芳的女兒程安心（鍾楚曦飾）是一位年輕的舞蹈教師，也在這次事故中重傷失去了雙腿陳若華為了幫助母親趙秀麗從悲痛中恢復過來，將她帶到了自己的學生宿舍然而，陳若華在照顧心碎的母親和處理與周凱澤（王宥鈞飾）的戀情之間，感到極大的壓力另一方面，趙秀芳為了振奮失望的女兒程安心和逃避現實的女婿秦峰（宋洋飾），決定開始之前從未成功過的減肥隨著時間的推移，陳若華在與母親的關係中逐漸找回平衡，解開了母女之間的矛盾趙秀芳也最終成功地減掉了體重，幫助程安心重新勇敢面對生活</desc>
   </programme>
 <programme start="20260807173000 +0000" stop="20260807180000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">英語新聞</title>
@@ -65278,7 +65326,7 @@
   </programme>
 <programme start="20260808003000 +0000" stop="20260808005200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;lt;br&amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;lt;br&amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;lt;br&amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;lt;br&amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;lt;br&amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;lt;br&amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;lt;br&amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;lt;br&amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;lt;br&amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;lt;br&amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260808005200 +0000" stop="20260808012000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">灣區全媒睇</title>
@@ -65301,7 +65349,7 @@
   </programme>
 <programme start="20260808035000 +0000" stop="20260808042000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">咁, 得唔得?</title>
-    <desc lang="zh-hant">三個星途黯淡嘅藝人，唔可以唔得嘅一次!&amp;lt;br&amp;gt;12月14日晚九點半, 一齊俾個機會佢地，睇下今次咁，得唔得!</desc>
+    <desc lang="zh-hant">三個星途黯淡嘅藝人，唔可以唔得嘅一次!&amp;amp;lt;br&amp;amp;gt;12月14日晚九點半, 一齊俾個機會佢地，睇下今次咁，得唔得!</desc>
   </programme>
 <programme start="20260808042000 +0000" stop="20260808045000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳視新聞檔案</title>
@@ -65318,7 +65366,7 @@
   </programme>
 <programme start="20260808053000 +0000" stop="20260808055200 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;lt;br&amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;lt;br&amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;lt;br&amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;lt;br&amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;lt;br&amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;lt;br&amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;lt;br&amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;lt;br&amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;lt;br&amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;lt;br&amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260808055200 +0000" stop="20260808060000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">時局綜觀-英文字幕版</title>
@@ -65382,7 +65430,7 @@
   </programme>
 <programme start="20260808110800 +0000" stop="20260808113000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;lt;br&amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;lt;br&amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;lt;br&amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;lt;br&amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;lt;br&amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;lt;br&amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;lt;br&amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;lt;br&amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;lt;br&amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;lt;br&amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260808113000 +0000" stop="20260808120000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">澳視新聞檔案</title>
@@ -65429,7 +65477,7 @@
   </programme>
 <programme start="20260808154000 +0000" stop="20260808164000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">教煮CHILL 好玩</title>
-    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;lt;br&amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;lt;br&amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;lt;br&amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;lt;br&amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;lt;br&amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
+    <desc lang="zh-hant">想知邊度可以邊煮邊食邊CHILL？&amp;amp;lt;br&amp;amp;gt; 澳廣視全新烹飪節目教煮CHILL好玩幫到你！&amp;amp;lt;br&amp;amp;gt;由靚女主持馬思霖Vanessa 帶你每集解鎖唔同菜式，&amp;amp;lt;br&amp;amp;gt;更會邀請神秘嘉賓一齊試菜傾計！&amp;amp;lt;br&amp;amp;gt;記住逢星期四晚上九點三十三分，91台澳視澳門，&amp;amp;lt;br&amp;amp;gt;鎖定教煮CHILL好玩，同你一齊 CHILL 住開爐！</desc>
   </programme>
 <programme start="20260808160200 +0000" stop="20260808163300 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">中國360</title>
@@ -65457,7 +65505,7 @@
   </programme>
 <programme start="20260808191000 +0000" stop="20260808194100 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">咁, 得唔得?</title>
-    <desc lang="zh-hant">三個星途黯淡嘅藝人，唔可以唔得嘅一次!&lt;br&gt;12月14日晚九點半, 一齊俾個機會佢地，睇下今次咁，得唔得!</desc>
+    <desc lang="zh-hant">三個星途黯淡嘅藝人，唔可以唔得嘅一次!&amp;lt;br&amp;gt;12月14日晚九點半, 一齊俾個機會佢地，睇下今次咁，得唔得!</desc>
   </programme>
 <programme start="20260808194100 +0000" stop="20260808203000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">星星的故鄉</title>
@@ -65513,14 +65561,14 @@
   </programme>
 <programme start="20260809001000 +0000" stop="20260809004000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">咁, 得唔得?</title>
-    <desc lang="zh-hant">三個星途黯淡嘅藝人，唔可以唔得嘅一次!&lt;br&gt;12月14日晚九點半, 一齊俾個機會佢地，睇下今次咁，得唔得!</desc>
+    <desc lang="zh-hant">三個星途黯淡嘅藝人，唔可以唔得嘅一次!&amp;lt;br&amp;gt;12月14日晚九點半, 一齊俾個機會佢地，睇下今次咁，得唔得!</desc>
   </programme>
 <programme start="20260809003000 +0000" stop="20260809003500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">巧手時光</title>
   </programme>
 <programme start="20260809003000 +0000" stop="20260809005500 +0000" channel="tdm.94.mo">
     <title lang="zh-hant">澳門人澳門事</title>
-    <desc lang="zh-hant">活在澳門, 感受生活,&lt;br&gt;&lt;澳門人．澳門事&gt;,&lt;br&gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
+    <desc lang="zh-hant">活在澳門, 感受生活,&amp;lt;br&amp;gt;&amp;lt;澳門人．澳門事&amp;gt;,&amp;lt;br&amp;gt;探索城市每個角落關注民生議題繁華背後發掘一個又一個澳門人的故事欣賞各地藝術風采推廣本土文化藝術重溫舊城舊事，翻開當中的歷史記憶走過不同地方，感受人民風情緊貼你的生活資訊節目</desc>
   </programme>
 <programme start="20260809003500 +0000" stop="20260809010000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">趨記茶餐廳</title>
@@ -65610,7 +65658,7 @@
   </programme>
 <programme start="20260809035500 +0000" stop="20260809042000 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">咁, 得唔得?</title>
-    <desc lang="zh-hant">三個星途黯淡嘅藝人，唔可以唔得嘅一次!&lt;br&gt;12月14日晚九點半, 一齊俾個機會佢地，睇下今次咁，得唔得!</desc>
+    <desc lang="zh-hant">三個星途黯淡嘅藝人，唔可以唔得嘅一次!&amp;lt;br&amp;gt;12月14日晚九點半, 一齊俾個機會佢地，睇下今次咁，得唔得!</desc>
   </programme>
 <programme start="20260809040000 +0000" stop="20260809044500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">過江新娘</title>
@@ -65715,7 +65763,7 @@
   </programme>
 <programme start="20260809073500 +0000" stop="20260809080500 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">龍舟</title>
-    <desc lang="zh-hant">從端午節習俗切入，分為千古歸途萬物繁花心靈造像盛裝凡塵與子同行和歲月晨光6集，每集30分鐘全片以龍舟這個世界符號提煉中華優秀傳統文化元素，用中國故事，國際表達的方式，向全球傳遞底蘊深厚的中國智慧&lt;br&gt;主創團隊介紹，龍舟將傳統與現代東方與西方進行連結，實現了五個首次呈現：首次從基因考古視野探究三皇五帝神話等中華民族的上古起源和根脈；首次呈現楚辭中描述的世界上最後一片野生紅花玉蘭的真容；首次展現臺灣地區與湖北秭歸一脈同源的屈氏後裔端午祭祀活動；首次披露誕生於中國的世界上第一張體育郵票龍舟競渡；首次以文獻證實中國龍舟競渡在國外的流播&lt;br&gt;紀錄片創作歷時兩年多，主創團隊外拍行程跨越五大洲，先後在英國德國澳大利亞土耳其埃及日本墨西哥等12個國家實地拍攝，累計查閱文獻和資料約500萬字，採訪了國內外近30位各行業頂尖專家為呈現最優質的畫面，該片還充分利用AI3D掃描等前沿技術，將龍舟置身於廣博的大歷史空間，建立起歷史與當代的視覺知覺聯繫，傳承和弘揚中華民族特有的精神內涵本片由&lt;湖北廣播電視台&gt;贈播</desc>
+    <desc lang="zh-hant">從端午節習俗切入，分為千古歸途萬物繁花心靈造像盛裝凡塵與子同行和歲月晨光6集，每集30分鐘全片以龍舟這個世界符號提煉中華優秀傳統文化元素，用中國故事，國際表達的方式，向全球傳遞底蘊深厚的中國智慧&amp;lt;br&amp;gt;主創團隊介紹，龍舟將傳統與現代東方與西方進行連結，實現了五個首次呈現：首次從基因考古視野探究三皇五帝神話等中華民族的上古起源和根脈；首次呈現楚辭中描述的世界上最後一片野生紅花玉蘭的真容；首次展現臺灣地區與湖北秭歸一脈同源的屈氏後裔端午祭祀活動；首次披露誕生於中國的世界上第一張體育郵票龍舟競渡；首次以文獻證實中國龍舟競渡在國外的流播&amp;lt;br&amp;gt;紀錄片創作歷時兩年多，主創團隊外拍行程跨越五大洲，先後在英國德國澳大利亞土耳其埃及日本墨西哥等12個國家實地拍攝，累計查閱文獻和資料約500萬字，採訪了國內外近30位各行業頂尖專家為呈現最優質的畫面，該片還充分利用AI3D掃描等前沿技術，將龍舟置身於廣博的大歷史空間，建立起歷史與當代的視覺知覺聯繫，傳承和弘揚中華民族特有的精神內涵本片由&amp;lt;湖北廣播電視台&amp;gt;贈播</desc>
   </programme>
 <programme start="20260809074000 +0000" stop="20260809091500 +0000" channel="tdm.93.mo">
     <title lang="zh-hant">第25屆冬季奧運會：冰壺混雙銅牌賽</title>
@@ -65767,7 +65815,7 @@
   </programme>
 <programme start="20260809091500 +0000" stop="20260809094500 +0000" channel="tdm.96.mo">
     <title lang="zh-hant">咁, 得唔得?</title>
-    <desc lang="zh-hant">三個星途黯淡嘅藝人，唔可以唔得嘅一次!&lt;br&gt;12月14日晚九點半, 一齊俾個機會佢地，睇下今次咁，得唔得!</desc>
+    <desc lang="zh-hant">三個星途黯淡嘅藝人，唔可以唔得嘅一次!&amp;lt;br&amp;gt;12月14日晚九點半, 一齊俾個機會佢地，睇下今次咁，得唔得!</desc>
   </programme>
 <programme start="20260809092500 +0000" stop="20260809120000 +0000" channel="tdm.93.mo">
     <title lang="zh-hant">直播2026 WTT橫濱乒乓球冠軍賽 ：女單男單 - 決賽</title>
@@ -65892,7 +65940,7 @@
   </programme>
 <programme start="20260809133000 +0000" stop="20260809140000 +0000" channel="tdm.91.mo">
     <title lang="zh-hant">香港故事 師傅來了2</title>
-    <desc lang="zh-hant">香港故事-師傅來了2，每一集帶領觀眾感受香港的一種工匠精神該節目從人物故事出發，帶領觀眾透過鏡頭感受匠人對極致的追求，圍繞著細節之美來講述香港故事本節目由&lt;香港電台&gt;贈播</desc>
+    <desc lang="zh-hant">香港故事-師傅來了2，每一集帶領觀眾感受香港的一種工匠精神該節目從人物故事出發，帶領觀眾透過鏡頭感受匠人對極致的追求，圍繞著細節之美來講述香港故事本節目由&amp;lt;香港電台&amp;gt;贈播</desc>
   </programme>
 <programme start="20260809133000 +0000" stop="20260809134000 +0000" channel="tdm.95.mo">
     <title lang="zh-hant">世遺City Walk</title>
