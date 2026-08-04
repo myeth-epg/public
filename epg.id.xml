@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260804085140 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="ID-EPG-Merger">
+<tv date="20260804141007 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="ID-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -1805,11 +1805,11 @@
 <programme start="20260805030000 +0000" stop="20260805045500 +0000" channel="cubmu.cnbcindonesia">
     <title lang="id">Profit - Live</title>
   </programme>
-<programme start="20260805045500 +0000" stop="20260805070000 +0000" channel="cubmu.cnbcindonesia">
+<programme start="20260805045500 +0000" stop="20260805053000 +0000" channel="cubmu.cnbcindonesia">
     <title lang="id">Power Lunch - Live</title>
   </programme>
-<programme start="20260805070000 +0000" stop="20260805073000 +0000" channel="cubmu.cnbcindonesia">
-    <title lang="id">Economic Update 2026</title>
+<programme start="20260805053000 +0000" stop="20260805073000 +0000" channel="cubmu.cnbcindonesia">
+    <title lang="id">Regional Bank Summit 2026 - Live</title>
   </programme>
 <programme start="20260805073000 +0000" stop="20260805080000 +0000" channel="cubmu.cnbcindonesia">
     <title lang="id">Number&apos;s Bite</title>
@@ -1829,11 +1829,11 @@
 <programme start="20260805140000 +0000" stop="20260805160000 +0000" channel="cubmu.cnbcindonesia">
     <title lang="id">Profit</title>
   </programme>
-<programme start="20260805160000 +0000" stop="20260805180000 +0000" channel="cubmu.cnbcindonesia">
+<programme start="20260805160000 +0000" stop="20260805163000 +0000" channel="cubmu.cnbcindonesia">
     <title lang="id">Power Lunch</title>
   </programme>
-<programme start="20260805180000 +0000" stop="20260805183000 +0000" channel="cubmu.cnbcindonesia">
-    <title lang="id">Economic Update 2026</title>
+<programme start="20260805163000 +0000" stop="20260805183000 +0000" channel="cubmu.cnbcindonesia">
+    <title lang="id">Regional Bank Summit 2026</title>
   </programme>
 <programme start="20260805183000 +0000" stop="20260805190000 +0000" channel="cubmu.cnbcindonesia">
     <title lang="id">Number&apos;s Bite</title>
@@ -6152,10 +6152,7 @@
 <programme start="20260804230000 +0000" stop="20260804230300 +0000" channel="cubmu.btv">
     <title lang="id">Indonesia Raya</title>
   </programme>
-<programme start="20260804230300 +0000" stop="20260804233000 +0000" channel="cubmu.btv">
-    <title lang="id">30 Minutes With</title>
-  </programme>
-<programme start="20260804233000 +0000" stop="20260805003000 +0000" channel="cubmu.btv">
+<programme start="20260804230300 +0000" stop="20260805003000 +0000" channel="cubmu.btv">
     <title lang="id">Jalan Dakwah</title>
   </programme>
 <programme start="20260805003000 +0000" stop="20260805010000 +0000" channel="cubmu.btv">
