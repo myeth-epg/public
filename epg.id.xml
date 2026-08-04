@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260803230547 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="ID-EPG-Merger">
+<tv date="20260804085140 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="ID-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -8313,10 +8313,13 @@
     <title lang="id">CoComelon</title>
   </programme>
 <programme start="20260803231500 +0000" stop="20260804000000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Kiko</title>
-  </programme>
-<programme start="20260804000000 +0000" stop="20260804004500 +0000" channel="cubmu.mnctv">
     <title lang="id">Dora &amp; Sahabat</title>
+  </programme>
+<programme start="20260804000000 +0000" stop="20260804003000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+<programme start="20260804003000 +0000" stop="20260804004500 +0000" channel="cubmu.mnctv">
+    <title lang="id">Pada Zaman Dahulu</title>
   </programme>
 <programme start="20260804004500 +0000" stop="20260804010000 +0000" channel="cubmu.mnctv">
     <title lang="id">Pada Zaman Dahulu</title>
@@ -8325,15 +8328,27 @@
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
 <programme start="20260804041500 +0000" stop="20260804044500 +0000" channel="cubmu.mnctv">
-    <title lang="id">Lintas iNews Siang</title>
+    <title lang="id">Kiko</title>
   </programme>
-<programme start="20260804044500 +0000" stop="20260804051500 +0000" channel="cubmu.mnctv">
+<programme start="20260804044500 +0000" stop="20260804050000 +0000" channel="cubmu.mnctv">
     <title lang="id">Seleb On News</title>
   </programme>
-<programme start="20260804051500 +0000" stop="20260804070000 +0000" channel="cubmu.mnctv">
+<programme start="20260804050000 +0000" stop="20260804051500 +0000" channel="cubmu.mnctv">
+    <title lang="id">Lintas iNews Siang</title>
+  </programme>
+<programme start="20260804051500 +0000" stop="20260804053000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-<programme start="20260804070000 +0000" stop="20260804090000 +0000" channel="cubmu.mnctv">
+<programme start="20260804053000 +0000" stop="20260804060000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Seleb On News</title>
+  </programme>
+<programme start="20260804060000 +0000" stop="20260804070000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+<programme start="20260804070000 +0000" stop="20260804073000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+<programme start="20260804073000 +0000" stop="20260804090000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
 <programme start="20260804090000 +0000" stop="20260804110000 +0000" channel="cubmu.mnctv">
@@ -8349,7 +8364,7 @@
     <title lang="id">DMD Panggung Rezeki</title>
   </programme>
 <programme start="20260804160000 +0000" stop="20260804170000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Montir Cantik</title>
+    <title lang="id">Disconnected</title>
   </programme>
 <programme start="20260804170000 +0000" stop="20260804190000 +0000" channel="cubmu.mnctv">
     <title lang="id">Suparman Reborn</title>
@@ -8364,27 +8379,30 @@
     <title lang="id">CoComelon</title>
   </programme>
 <programme start="20260804231500 +0000" stop="20260805000000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Kiko</title>
-  </programme>
-<programme start="20260805000000 +0000" stop="20260805004500 +0000" channel="cubmu.mnctv">
     <title lang="id">Dora &amp; Sahabat</title>
   </programme>
-<programme start="20260805004500 +0000" stop="20260805010000 +0000" channel="cubmu.mnctv">
+<programme start="20260805000000 +0000" stop="20260805003000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+<programme start="20260805003000 +0000" stop="20260805010000 +0000" channel="cubmu.mnctv">
     <title lang="id">Pada Zaman Dahulu</title>
   </programme>
 <programme start="20260805010000 +0000" stop="20260805041500 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-<programme start="20260805041500 +0000" stop="20260805044500 +0000" channel="cubmu.mnctv">
+<programme start="20260805041500 +0000" stop="20260805050000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Kiko</title>
+  </programme>
+<programme start="20260805050000 +0000" stop="20260805053000 +0000" channel="cubmu.mnctv">
     <title lang="id">Lintas iNews Siang</title>
   </programme>
-<programme start="20260805044500 +0000" stop="20260805051500 +0000" channel="cubmu.mnctv">
+<programme start="20260805053000 +0000" stop="20260805060000 +0000" channel="cubmu.mnctv">
     <title lang="id">Seleb On News</title>
   </programme>
-<programme start="20260805051500 +0000" stop="20260805070000 +0000" channel="cubmu.mnctv">
+<programme start="20260805060000 +0000" stop="20260805073000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-<programme start="20260805070000 +0000" stop="20260805090000 +0000" channel="cubmu.mnctv">
+<programme start="20260805073000 +0000" stop="20260805090000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
 <programme start="20260805090000 +0000" stop="20260805110000 +0000" channel="cubmu.mnctv">
@@ -8399,7 +8417,10 @@
 <programme start="20260805130000 +0000" stop="20260805160000 +0000" channel="cubmu.mnctv">
     <title lang="id">DMD Panggung Rezeki</title>
   </programme>
-<programme start="20260805160000 +0000" stop="20260805190000 +0000" channel="cubmu.mnctv">
+<programme start="20260805160000 +0000" stop="20260805170000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Suparman Reborn</title>
+  </programme>
+<programme start="20260805170000 +0000" stop="20260805190000 +0000" channel="cubmu.mnctv">
     <title lang="id">Suparman Reborn</title>
   </programme>
 <programme start="20260805190000 +0000" stop="20260805220000 +0000" channel="cubmu.mnctv">
@@ -8412,27 +8433,30 @@
     <title lang="id">CoComelon</title>
   </programme>
 <programme start="20260805231500 +0000" stop="20260806000000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Kiko</title>
-  </programme>
-<programme start="20260806000000 +0000" stop="20260806004500 +0000" channel="cubmu.mnctv">
     <title lang="id">Dora &amp; Sahabat</title>
   </programme>
-<programme start="20260806004500 +0000" stop="20260806010000 +0000" channel="cubmu.mnctv">
+<programme start="20260806000000 +0000" stop="20260806003000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+<programme start="20260806003000 +0000" stop="20260806010000 +0000" channel="cubmu.mnctv">
     <title lang="id">Pada Zaman Dahulu</title>
   </programme>
 <programme start="20260806010000 +0000" stop="20260806041500 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-<programme start="20260806041500 +0000" stop="20260806044500 +0000" channel="cubmu.mnctv">
+<programme start="20260806041500 +0000" stop="20260806050000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Kiko</title>
+  </programme>
+<programme start="20260806050000 +0000" stop="20260806053000 +0000" channel="cubmu.mnctv">
     <title lang="id">Lintas iNews Siang</title>
   </programme>
-<programme start="20260806044500 +0000" stop="20260806051500 +0000" channel="cubmu.mnctv">
+<programme start="20260806053000 +0000" stop="20260806060000 +0000" channel="cubmu.mnctv">
     <title lang="id">Seleb On News</title>
   </programme>
-<programme start="20260806051500 +0000" stop="20260806070000 +0000" channel="cubmu.mnctv">
+<programme start="20260806060000 +0000" stop="20260806073000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-<programme start="20260806070000 +0000" stop="20260806090000 +0000" channel="cubmu.mnctv">
+<programme start="20260806073000 +0000" stop="20260806090000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
 <programme start="20260806090000 +0000" stop="20260806110000 +0000" channel="cubmu.mnctv">
@@ -8460,27 +8484,30 @@
     <title lang="id">CoComelon</title>
   </programme>
 <programme start="20260806231500 +0000" stop="20260807000000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Kiko</title>
-  </programme>
-<programme start="20260807000000 +0000" stop="20260807004500 +0000" channel="cubmu.mnctv">
     <title lang="id">Dora &amp; Sahabat</title>
   </programme>
-<programme start="20260807004500 +0000" stop="20260807010000 +0000" channel="cubmu.mnctv">
+<programme start="20260807000000 +0000" stop="20260807003000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+<programme start="20260807003000 +0000" stop="20260807010000 +0000" channel="cubmu.mnctv">
     <title lang="id">Pada Zaman Dahulu</title>
   </programme>
 <programme start="20260807010000 +0000" stop="20260807041500 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-<programme start="20260807041500 +0000" stop="20260807044500 +0000" channel="cubmu.mnctv">
+<programme start="20260807041500 +0000" stop="20260807050000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Kiko</title>
+  </programme>
+<programme start="20260807050000 +0000" stop="20260807053000 +0000" channel="cubmu.mnctv">
     <title lang="id">Lintas iNews Siang</title>
   </programme>
-<programme start="20260807044500 +0000" stop="20260807051500 +0000" channel="cubmu.mnctv">
+<programme start="20260807053000 +0000" stop="20260807060000 +0000" channel="cubmu.mnctv">
     <title lang="id">Seleb On News</title>
   </programme>
-<programme start="20260807051500 +0000" stop="20260807070000 +0000" channel="cubmu.mnctv">
+<programme start="20260807060000 +0000" stop="20260807073000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-<programme start="20260807070000 +0000" stop="20260807090000 +0000" channel="cubmu.mnctv">
+<programme start="20260807073000 +0000" stop="20260807090000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
 <programme start="20260807090000 +0000" stop="20260807110000 +0000" channel="cubmu.mnctv">
@@ -8495,34 +8522,34 @@
 <programme start="20260807123000 +0000" stop="20260807160000 +0000" channel="cubmu.mnctv">
     <title lang="id">Liga DMD Panggung Rezeki</title>
   </programme>
-<programme start="20260807160000 +0000" stop="20260807190000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Montir Cantik</title>
+<programme start="20260807160000 +0000" stop="20260807170000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Disconnected</title>
   </programme>
-<programme start="20260807190000 +0000" stop="20260807220000 +0000" channel="cubmu.mnctv">
+<programme start="20260807170000 +0000" stop="20260807190000 +0000" channel="cubmu.mnctv">
     <title lang="id">Suparman Reborn</title>
   </programme>
-<programme start="20260807220000 +0000" stop="20260807230000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Siraman Qolbu</title>
+<programme start="20260807190000 +0000" stop="20260807230000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Suparman Reborn</title>
   </programme>
-<programme start="20260807230000 +0000" stop="20260807231500 +0000" channel="cubmu.mnctv">
-    <title lang="id">CoComelon</title>
+<programme start="20260807230000 +0000" stop="20260807233000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Zak Storm</title>
   </programme>
-<programme start="20260807231500 +0000" stop="20260808000000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Kiko</title>
-  </programme>
-<programme start="20260808000000 +0000" stop="20260808004500 +0000" channel="cubmu.mnctv">
+<programme start="20260807233000 +0000" stop="20260808000000 +0000" channel="cubmu.mnctv">
     <title lang="id">Dora &amp; Sahabat</title>
   </programme>
-<programme start="20260808004500 +0000" stop="20260808010000 +0000" channel="cubmu.mnctv">
+<programme start="20260808000000 +0000" stop="20260808001500 +0000" channel="cubmu.mnctv">
+    <title lang="id">Pada Zaman Dahulu</title>
+  </programme>
+<programme start="20260808001500 +0000" stop="20260808010000 +0000" channel="cubmu.mnctv">
     <title lang="id">Pada Zaman Dahulu</title>
   </programme>
 <programme start="20260808010000 +0000" stop="20260808043000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-<programme start="20260808043000 +0000" stop="20260808070000 +0000" channel="cubmu.mnctv">
+<programme start="20260808043000 +0000" stop="20260808073000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-<programme start="20260808070000 +0000" stop="20260808090000 +0000" channel="cubmu.mnctv">
+<programme start="20260808073000 +0000" stop="20260808090000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
 <programme start="20260808090000 +0000" stop="20260808110000 +0000" channel="cubmu.mnctv">
@@ -8535,10 +8562,10 @@
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
 <programme start="20260808123000 +0000" stop="20260808160000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Road To Kilau Raya</title>
+    <title lang="id">Liga DMD Panggung Rezeki</title>
   </programme>
 <programme start="20260808160000 +0000" stop="20260808170000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Montir Cantik</title>
+    <title lang="id">Disconnected</title>
   </programme>
 <programme start="20260808170000 +0000" stop="20260808190000 +0000" channel="cubmu.mnctv">
     <title lang="id">Suparman Reborn</title>
@@ -8547,30 +8574,27 @@
     <title lang="id">Suparman Reborn</title>
   </programme>
 <programme start="20260808200000 +0000" stop="20260808203000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Bimbingan Rohani Budha</title>
+    <title lang="id">Bimbingan Rohani Katolik</title>
   </programme>
 <programme start="20260808203000 +0000" stop="20260808230000 +0000" channel="cubmu.mnctv">
     <title lang="id">Suparman Reborn</title>
   </programme>
-<programme start="20260808230000 +0000" stop="20260808231500 +0000" channel="cubmu.mnctv">
-    <title lang="id">CoComelon</title>
-  </programme>
-<programme start="20260808231500 +0000" stop="20260808234500 +0000" channel="cubmu.mnctv">
+<programme start="20260808230000 +0000" stop="20260808233000 +0000" channel="cubmu.mnctv">
     <title lang="id">Bima S</title>
   </programme>
-<programme start="20260808234500 +0000" stop="20260809001500 +0000" channel="cubmu.mnctv">
+<programme start="20260808233000 +0000" stop="20260809000000 +0000" channel="cubmu.mnctv">
     <title lang="id">Titus The Detective</title>
   </programme>
-<programme start="20260809001500 +0000" stop="20260809010000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Dora &amp; Sahabat</title>
+<programme start="20260809000000 +0000" stop="20260809010000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Pada Zaman Dahulu</title>
   </programme>
 <programme start="20260809010000 +0000" stop="20260809043000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-<programme start="20260809043000 +0000" stop="20260809070000 +0000" channel="cubmu.mnctv">
+<programme start="20260809043000 +0000" stop="20260809073000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-<programme start="20260809070000 +0000" stop="20260809090000 +0000" channel="cubmu.mnctv">
+<programme start="20260809073000 +0000" stop="20260809090000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
 <programme start="20260809090000 +0000" stop="20260809110000 +0000" channel="cubmu.mnctv">
@@ -8586,7 +8610,7 @@
     <title lang="id">DMD Panggung Rezeki</title>
   </programme>
 <programme start="20260809160000 +0000" stop="20260809170000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Montir Cantik</title>
+    <title lang="id">Disconnected</title>
   </programme>
 <programme start="20260809170000 +0000" stop="20260809190000 +0000" channel="cubmu.mnctv">
     <title lang="id">Suparman Reborn</title>
@@ -8601,27 +8625,30 @@
     <title lang="id">CoComelon</title>
   </programme>
 <programme start="20260809231500 +0000" stop="20260810000000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Kiko</title>
-  </programme>
-<programme start="20260810000000 +0000" stop="20260810004500 +0000" channel="cubmu.mnctv">
     <title lang="id">Dora &amp; Sahabat</title>
   </programme>
-<programme start="20260810004500 +0000" stop="20260810010000 +0000" channel="cubmu.mnctv">
+<programme start="20260810000000 +0000" stop="20260810003000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+<programme start="20260810003000 +0000" stop="20260810010000 +0000" channel="cubmu.mnctv">
     <title lang="id">Pada Zaman Dahulu</title>
   </programme>
 <programme start="20260810010000 +0000" stop="20260810041500 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-<programme start="20260810041500 +0000" stop="20260810044500 +0000" channel="cubmu.mnctv">
+<programme start="20260810041500 +0000" stop="20260810050000 +0000" channel="cubmu.mnctv">
+    <title lang="id">Kiko</title>
+  </programme>
+<programme start="20260810050000 +0000" stop="20260810053000 +0000" channel="cubmu.mnctv">
     <title lang="id">Lintas iNews Siang</title>
   </programme>
-<programme start="20260810044500 +0000" stop="20260810051500 +0000" channel="cubmu.mnctv">
+<programme start="20260810053000 +0000" stop="20260810060000 +0000" channel="cubmu.mnctv">
     <title lang="id">Seleb On News</title>
   </programme>
-<programme start="20260810051500 +0000" stop="20260810070000 +0000" channel="cubmu.mnctv">
+<programme start="20260810060000 +0000" stop="20260810073000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
-<programme start="20260810070000 +0000" stop="20260810090000 +0000" channel="cubmu.mnctv">
+<programme start="20260810073000 +0000" stop="20260810090000 +0000" channel="cubmu.mnctv">
     <title lang="id">Upin &amp; Ipin</title>
   </programme>
 <programme start="20260810090000 +0000" stop="20260810110000 +0000" channel="cubmu.mnctv">
@@ -8637,7 +8664,7 @@
     <title lang="id">DMD Panggung Rezeki</title>
   </programme>
 <programme start="20260810160000 +0000" stop="20260810170000 +0000" channel="cubmu.mnctv">
-    <title lang="id">Montir Cantik</title>
+    <title lang="id">Disconnected</title>
   </programme>
 <programme start="20260803170000 +0000" stop="20260803173000 +0000" channel="cubmu.tvri">
     <title lang="id">Klik Indonesia Malam</title>
@@ -11288,20 +11315,14 @@
 <programme start="20260804110000 +0000" stop="20260804120000 +0000" channel="cubmu.garudatv">
     <title lang="id">Laporan 8 Petang</title>
   </programme>
-<programme start="20260804120000 +0000" stop="20260804123000 +0000" channel="cubmu.garudatv">
-    <title lang="id">Indonesia Kini</title>
-  </programme>
-<programme start="20260804123000 +0000" stop="20260804130000 +0000" channel="cubmu.garudatv">
-    <title lang="id">BT Kementrans</title>
-  </programme>
-<programme start="20260804130000 +0000" stop="20260804140000 +0000" channel="cubmu.garudatv">
+<programme start="20260804120000 +0000" stop="20260804133000 +0000" channel="cubmu.garudatv">
     <title lang="id">Indonesia Kita</title>
   </programme>
-<programme start="20260804140000 +0000" stop="20260804143000 +0000" channel="cubmu.garudatv">
+<programme start="20260804133000 +0000" stop="20260804140000 +0000" channel="cubmu.garudatv">
     <title lang="id">Garda Jalan Raya</title>
   </programme>
-<programme start="20260804143000 +0000" stop="20260804150000 +0000" channel="cubmu.garudatv">
-    <title lang="id">Garda Dunia</title>
+<programme start="20260804140000 +0000" stop="20260804150000 +0000" channel="cubmu.garudatv">
+    <title lang="id">Kriminal +62 Weekend</title>
   </programme>
 <programme start="20260804150000 +0000" stop="20260804160000 +0000" channel="cubmu.garudatv">
     <title lang="id">Laporan 8 Malam</title>
@@ -11576,11 +11597,11 @@
 <programme start="20260807110000 +0000" stop="20260807120000 +0000" channel="cubmu.garudatv">
     <title lang="id">Laporan 8 Petang</title>
   </programme>
-<programme start="20260807120000 +0000" stop="20260807133000 +0000" channel="cubmu.garudatv">
+<programme start="20260807120000 +0000" stop="20260807130000 +0000" channel="cubmu.garudatv">
     <title lang="id">Indonesia Kita</title>
   </programme>
-<programme start="20260807133000 +0000" stop="20260807140000 +0000" channel="cubmu.garudatv">
-    <title lang="id">Garda Jalan Raya</title>
+<programme start="20260807130000 +0000" stop="20260807140000 +0000" channel="cubmu.garudatv">
+    <title lang="id">BT Antara</title>
   </programme>
 <programme start="20260807140000 +0000" stop="20260807150000 +0000" channel="cubmu.garudatv">
     <title lang="id">Orang Penting</title>
@@ -20630,22 +20651,19 @@
 <programme start="20260805131500 +0000" stop="20260805143000 +0000" channel="cubmu.tvn">
     <title lang="id">The Legend of Kitchen Soldier</title>
   </programme>
-<programme start="20260805143000 +0000" stop="20260805162000 +0000" channel="cubmu.tvn">
+<programme start="20260805143000 +0000" stop="20260805163000 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
-<programme start="20260805162000 +0000" stop="20260805173500 +0000" channel="cubmu.tvn">
+<programme start="20260805163000 +0000" stop="20260805174000 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260805173500 +0000" stop="20260805185000 +0000" channel="cubmu.tvn">
+<programme start="20260805174000 +0000" stop="20260805185000 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260805185000 +0000" stop="20260805190000 +0000" channel="cubmu.tvn">
-    <title lang="id">You Can Cook With Sam Kim</title>
-  </programme>
-<programme start="20260805190000 +0000" stop="20260805201000 +0000" channel="cubmu.tvn">
+<programme start="20260805185000 +0000" stop="20260805200000 +0000" channel="cubmu.tvn">
     <title lang="id">The Legend of Kitchen Soldier</title>
   </programme>
-<programme start="20260805201000 +0000" stop="20260805220000 +0000" channel="cubmu.tvn">
+<programme start="20260805200000 +0000" stop="20260805220000 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
 <programme start="20260805220000 +0000" stop="20260805231500 +0000" channel="cubmu.tvn">
@@ -20666,50 +20684,50 @@
 <programme start="20260806053000 +0000" stop="20260806073000 +0000" channel="cubmu.tvn">
     <title lang="id">Sixth Sense: City Tour</title>
   </programme>
-<programme start="20260806073000 +0000" stop="20260806094000 +0000" channel="cubmu.tvn">
+<programme start="20260806073000 +0000" stop="20260806092000 +0000" channel="cubmu.tvn">
     <title lang="id">KILL IT: Style Creator Showdown</title>
   </programme>
-<programme start="20260806094000 +0000" stop="20260806095000 +0000" channel="cubmu.tvn">
+<programme start="20260806092000 +0000" stop="20260806094000 +0000" channel="cubmu.tvn">
     <title lang="id">You Can Cook With Sam Kim</title>
   </programme>
-<programme start="20260806095000 +0000" stop="20260806112000 +0000" channel="cubmu.tvn">
+<programme start="20260806094000 +0000" stop="20260806111000 +0000" channel="cubmu.tvn">
     <title lang="id">Guardian 10th Anniversary</title>
   </programme>
-<programme start="20260806112000 +0000" stop="20260806131000 +0000" channel="cubmu.tvn">
+<programme start="20260806111000 +0000" stop="20260806131000 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
 <programme start="20260806131000 +0000" stop="20260806143000 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260806143000 +0000" stop="20260806162000 +0000" channel="cubmu.tvn">
+<programme start="20260806143000 +0000" stop="20260806160000 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
-<programme start="20260806162000 +0000" stop="20260806173000 +0000" channel="cubmu.tvn">
+<programme start="20260806160000 +0000" stop="20260806171000 +0000" channel="cubmu.tvn">
     <title lang="id">The Legend of Kitchen Soldier</title>
   </programme>
-<programme start="20260806173000 +0000" stop="20260806184000 +0000" channel="cubmu.tvn">
+<programme start="20260806171000 +0000" stop="20260806182000 +0000" channel="cubmu.tvn">
     <title lang="id">The Legend of Kitchen Soldier</title>
   </programme>
-<programme start="20260806184000 +0000" stop="20260806185000 +0000" channel="cubmu.tvn">
+<programme start="20260806182000 +0000" stop="20260806184000 +0000" channel="cubmu.tvn">
     <title lang="id">You Can Cook With Sam Kim</title>
   </programme>
-<programme start="20260806185000 +0000" stop="20260806201000 +0000" channel="cubmu.tvn">
+<programme start="20260806184000 +0000" stop="20260806191000 +0000" channel="cubmu.tvn">
+    <title lang="id">Chansung&apos;s Cooking</title>
+  </programme>
+<programme start="20260806191000 +0000" stop="20260806203000 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260806201000 +0000" stop="20260806220000 +0000" channel="cubmu.tvn">
+<programme start="20260806203000 +0000" stop="20260806220000 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
-<programme start="20260806220000 +0000" stop="20260806222000 +0000" channel="cubmu.tvn">
-    <title lang="id">You Can Cook With Sam Kim</title>
-  </programme>
-<programme start="20260806222000 +0000" stop="20260807003000 +0000" channel="cubmu.tvn">
-    <title lang="id">KILL IT: Style Creator Showdown</title>
-  </programme>
-<programme start="20260807003000 +0000" stop="20260807013000 +0000" channel="cubmu.tvn">
-    <title lang="id">Walking Through The Village</title>
-  </programme>
-<programme start="20260807013000 +0000" stop="20260807030000 +0000" channel="cubmu.tvn">
+<programme start="20260806220000 +0000" stop="20260806233500 +0000" channel="cubmu.tvn">
     <title lang="id">Guardian 10th Anniversary</title>
+  </programme>
+<programme start="20260806233500 +0000" stop="20260807011000 +0000" channel="cubmu.tvn">
+    <title lang="id">Guardian 10th Anniversary</title>
+  </programme>
+<programme start="20260807011000 +0000" stop="20260807030000 +0000" channel="cubmu.tvn">
+    <title lang="id">KILL IT: Style Creator Showdown</title>
   </programme>
 <programme start="20260807030000 +0000" stop="20260807042000 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
@@ -20720,16 +20738,16 @@
 <programme start="20260807053000 +0000" stop="20260807064000 +0000" channel="cubmu.tvn">
     <title lang="id">The Legend of Kitchen Soldier</title>
   </programme>
-<programme start="20260807064000 +0000" stop="20260807083000 +0000" channel="cubmu.tvn">
+<programme start="20260807064000 +0000" stop="20260807084000 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
-<programme start="20260807083000 +0000" stop="20260807094500 +0000" channel="cubmu.tvn">
+<programme start="20260807084000 +0000" stop="20260807091000 +0000" channel="cubmu.tvn">
+    <title lang="id">Chansung&apos;s Cooking</title>
+  </programme>
+<programme start="20260807091000 +0000" stop="20260807102000 +0000" channel="cubmu.tvn">
     <title lang="id">Go Go With Mr. Paik</title>
   </programme>
-<programme start="20260807094500 +0000" stop="20260807100000 +0000" channel="cubmu.tvn">
-    <title lang="id">You Can Cook With Sam Kim</title>
-  </programme>
-<programme start="20260807100000 +0000" stop="20260807115000 +0000" channel="cubmu.tvn">
+<programme start="20260807102000 +0000" stop="20260807115000 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
 <programme start="20260807115000 +0000" stop="20260807131000 +0000" channel="cubmu.tvn">
@@ -20738,19 +20756,19 @@
 <programme start="20260807131000 +0000" stop="20260807143000 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260807143000 +0000" stop="20260807164000 +0000" channel="cubmu.tvn">
+<programme start="20260807143000 +0000" stop="20260807162000 +0000" channel="cubmu.tvn">
     <title lang="id">KILL IT: Style Creator Showdown</title>
   </programme>
-<programme start="20260807164000 +0000" stop="20260807180000 +0000" channel="cubmu.tvn">
+<programme start="20260807162000 +0000" stop="20260807173500 +0000" channel="cubmu.tvn">
     <title lang="id">Mr. Eo&apos;s Food World Tour</title>
   </programme>
-<programme start="20260807180000 +0000" stop="20260807183000 +0000" channel="cubmu.tvn">
-    <title lang="id">Chansung&apos;s Cooking</title>
+<programme start="20260807173500 +0000" stop="20260807185000 +0000" channel="cubmu.tvn">
+    <title lang="id">Mr. Eo&apos;s Food World Tour</title>
   </programme>
-<programme start="20260807183000 +0000" stop="20260807195000 +0000" channel="cubmu.tvn">
+<programme start="20260807185000 +0000" stop="20260807200500 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260807195000 +0000" stop="20260807220000 +0000" channel="cubmu.tvn">
+<programme start="20260807200500 +0000" stop="20260807220000 +0000" channel="cubmu.tvn">
     <title lang="id">KILL IT: Style Creator Showdown</title>
   </programme>
 <programme start="20260807220000 +0000" stop="20260808000000 +0000" channel="cubmu.tvn">
@@ -20771,41 +20789,35 @@
 <programme start="20260808030000 +0000" stop="20260808041500 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260808041500 +0000" stop="20260808060500 +0000" channel="cubmu.tvn">
+<programme start="20260808041500 +0000" stop="20260808054500 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
-<programme start="20260808060500 +0000" stop="20260808072000 +0000" channel="cubmu.tvn">
+<programme start="20260808054500 +0000" stop="20260808065500 +0000" channel="cubmu.tvn">
     <title lang="id">Mr. Eo&apos;s Food World Tour</title>
   </programme>
-<programme start="20260808072000 +0000" stop="20260808093000 +0000" channel="cubmu.tvn">
+<programme start="20260808065500 +0000" stop="20260808081000 +0000" channel="cubmu.tvn">
+    <title lang="id">Mr. Eo&apos;s Food World Tour</title>
+  </programme>
+<programme start="20260808081000 +0000" stop="20260808100000 +0000" channel="cubmu.tvn">
     <title lang="id">KILL IT: Style Creator Showdown</title>
   </programme>
-<programme start="20260808093000 +0000" stop="20260808100000 +0000" channel="cubmu.tvn">
-    <title lang="id">Chansung&apos;s Cooking</title>
-  </programme>
-<programme start="20260808100000 +0000" stop="20260808115500 +0000" channel="cubmu.tvn">
+<programme start="20260808100000 +0000" stop="20260808120000 +0000" channel="cubmu.tvn">
     <title lang="id">Sixth Sense: City Tour</title>
   </programme>
-<programme start="20260808115500 +0000" stop="20260808131000 +0000" channel="cubmu.tvn">
+<programme start="20260808120000 +0000" stop="20260808131500 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260808131000 +0000" stop="20260808150000 +0000" channel="cubmu.tvn">
+<programme start="20260808131500 +0000" stop="20260808151500 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
-<programme start="20260808150000 +0000" stop="20260808165000 +0000" channel="cubmu.tvn">
+<programme start="20260808151500 +0000" stop="20260808164500 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
-<programme start="20260808165000 +0000" stop="20260808190000 +0000" channel="cubmu.tvn">
+<programme start="20260808164500 +0000" stop="20260808183500 +0000" channel="cubmu.tvn">
     <title lang="id">KILL IT: Style Creator Showdown</title>
   </programme>
-<programme start="20260808190000 +0000" stop="20260808201500 +0000" channel="cubmu.tvn">
-    <title lang="id">Mr. Eo&apos;s Food World Tour</title>
-  </programme>
-<programme start="20260808201500 +0000" stop="20260808213000 +0000" channel="cubmu.tvn">
-    <title lang="id">Mr. Eo&apos;s Food World Tour</title>
-  </programme>
-<programme start="20260808213000 +0000" stop="20260808220000 +0000" channel="cubmu.tvn">
-    <title lang="id">Chansung&apos;s Cooking</title>
+<programme start="20260808183500 +0000" stop="20260808220000 +0000" channel="cubmu.tvn">
+    <title lang="id">World of Street Woman Fighter</title>
   </programme>
 <programme start="20260808220000 +0000" stop="20260808223000 +0000" channel="cubmu.tvn">
     <title lang="id">Chansung&apos;s Cooking</title>
@@ -20819,22 +20831,25 @@
 <programme start="20260809014500 +0000" stop="20260809030000 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260809030000 +0000" stop="20260809045000 +0000" channel="cubmu.tvn">
+<programme start="20260809030000 +0000" stop="20260809050000 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
-<programme start="20260809045000 +0000" stop="20260809060500 +0000" channel="cubmu.tvn">
+<programme start="20260809050000 +0000" stop="20260809061500 +0000" channel="cubmu.tvn">
     <title lang="id">Mr. Eo&apos;s Food World Tour</title>
   </programme>
-<programme start="20260809060500 +0000" stop="20260809075500 +0000" channel="cubmu.tvn">
+<programme start="20260809061500 +0000" stop="20260809074500 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
-<programme start="20260809075500 +0000" stop="20260809081000 +0000" channel="cubmu.tvn">
-    <title lang="id">You Can Cook With Sam Kim</title>
-  </programme>
-<programme start="20260809081000 +0000" stop="20260809092000 +0000" channel="cubmu.tvn">
+<programme start="20260809074500 +0000" stop="20260809090000 +0000" channel="cubmu.tvn">
     <title lang="id">Go Go With Mr. Paik</title>
   </programme>
-<programme start="20260809092000 +0000" stop="20260809113000 +0000" channel="cubmu.tvn">
+<programme start="20260809090000 +0000" stop="20260809092000 +0000" channel="cubmu.tvn">
+    <title lang="id">You Can Cook With Sam Kim</title>
+  </programme>
+<programme start="20260809092000 +0000" stop="20260809094000 +0000" channel="cubmu.tvn">
+    <title lang="id">You Can Cook With Sam Kim</title>
+  </programme>
+<programme start="20260809094000 +0000" stop="20260809113000 +0000" channel="cubmu.tvn">
     <title lang="id">KILL IT: Style Creator Showdown</title>
   </programme>
 <programme start="20260809113000 +0000" stop="20260809132500 +0000" channel="cubmu.tvn">
@@ -20864,17 +20879,8 @@
 <programme start="20260809200500 +0000" stop="20260809220000 +0000" channel="cubmu.tvn">
     <title lang="id">Sixth Sense: City Tour</title>
   </programme>
-<programme start="20260809220000 +0000" stop="20260809231500 +0000" channel="cubmu.tvn">
-    <title lang="id">Mr. Eo&apos;s Food World Tour</title>
-  </programme>
-<programme start="20260809231500 +0000" stop="20260810003000 +0000" channel="cubmu.tvn">
-    <title lang="id">Mr. Eo&apos;s Food World Tour</title>
-  </programme>
-<programme start="20260810003000 +0000" stop="20260810010000 +0000" channel="cubmu.tvn">
-    <title lang="id">Chansung&apos;s Cooking</title>
-  </programme>
-<programme start="20260810010000 +0000" stop="20260810012000 +0000" channel="cubmu.tvn">
-    <title lang="id">You Can Cook With Sam Kim</title>
+<programme start="20260809220000 +0000" stop="20260810012000 +0000" channel="cubmu.tvn">
+    <title lang="id">World of Street Woman Fighter</title>
   </programme>
 <programme start="20260810012000 +0000" stop="20260810030000 +0000" channel="cubmu.tvn">
     <title lang="id">World of Street Woman Fighter</title>
@@ -20885,19 +20891,16 @@
 <programme start="20260810041000 +0000" stop="20260810052000 +0000" channel="cubmu.tvn">
     <title lang="id">The Legend of Kitchen Soldier</title>
   </programme>
-<programme start="20260810052000 +0000" stop="20260810071000 +0000" channel="cubmu.tvn">
+<programme start="20260810052000 +0000" stop="20260810072000 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
-<programme start="20260810071000 +0000" stop="20260810082000 +0000" channel="cubmu.tvn">
+<programme start="20260810072000 +0000" stop="20260810091500 +0000" channel="cubmu.tvn">
+    <title lang="id">Sixth Sense: City Tour</title>
+  </programme>
+<programme start="20260810091500 +0000" stop="20260810102500 +0000" channel="cubmu.tvn">
     <title lang="id">Mr. Eo&apos;s Food World Tour</title>
   </programme>
-<programme start="20260810082000 +0000" stop="20260810085000 +0000" channel="cubmu.tvn">
-    <title lang="id">Chansung&apos;s Cooking</title>
-  </programme>
-<programme start="20260810085000 +0000" stop="20260810100500 +0000" channel="cubmu.tvn">
-    <title lang="id">Go Go With Mr. Paik</title>
-  </programme>
-<programme start="20260810100500 +0000" stop="20260810115500 +0000" channel="cubmu.tvn">
+<programme start="20260810102500 +0000" stop="20260810115500 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
 <programme start="20260810115500 +0000" stop="20260810131500 +0000" channel="cubmu.tvn">
@@ -20931,7 +20934,7 @@
     <title lang="id">See, Learn, Explore--A Deep Travelogue in Tohoku</title>
   </programme>
 <programme start="20260803183000 +0000" stop="20260803184500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 91</title>
   </programme>
 <programme start="20260803184500 +0000" stop="20260803191200 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Today&apos;s Close-up</title>
@@ -20940,7 +20943,7 @@
     <title lang="id">World Weather</title>
   </programme>
 <programme start="20260803191500 +0000" stop="20260803200000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Tsurube&apos;s Salute to Families</title>
+    <title lang="id">Tsurube&apos;s Salute to Families &apos;Ken Naoko in Chigasaki City, Kanagawa Prefecture&apos; Part 2</title>
   </programme>
 <programme start="20260803200000 +0000" stop="20260803201000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">TV Exercise</title>
@@ -20964,10 +20967,10 @@
     <title lang="id">News: Good Morning, Japan</title>
   </programme>
 <programme start="20260803230000 +0000" stop="20260803231500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 92</title>
   </programme>
 <programme start="20260803231500 +0000" stop="20260804005400 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Asaichi</title>
+    <title lang="id">asaichi</title>
   </programme>
 <programme start="20260804005400 +0000" stop="20260804005500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -20979,7 +20982,7 @@
     <title lang="id">News &amp; Weather</title>
   </programme>
 <programme start="20260804010500 +0000" stop="20260804015000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Tsurube&apos;s Salute to Families</title>
+    <title lang="id">Tsurube&apos;s Salute to Families &apos;Ken Naoko in Chigasaki City, Kanagawa Prefecture&apos; Part 2</title>
   </programme>
 <programme start="20260804015000 +0000" stop="20260804021700 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Today&apos;s Close-up</title>
@@ -21009,10 +21012,10 @@
     <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260804033000 +0000" stop="20260804034500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore</title>
+    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore Ep. 2</title>
   </programme>
 <programme start="20260804034500 +0000" stop="20260804040000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 92</title>
   </programme>
 <programme start="20260804040000 +0000" stop="20260804040500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News</title>
@@ -21033,7 +21036,7 @@
     <title lang="id">Health for Today</title>
   </programme>
 <programme start="20260804062500 +0000" stop="20260804064000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+    <title lang="id">Magnificent Sight!--Mountain Lodges in Europe</title>
   </programme>
 <programme start="20260804064000 +0000" stop="20260804065000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Points at Issue</title>
@@ -21077,8 +21080,11 @@
 <programme start="20260804100000 +0000" stop="20260804103000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">NHK News 7</title>
   </programme>
-<programme start="20260804103000 +0000" stop="20260804114300 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260804103000 +0000" stop="20260804105700 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Today&apos;s Close-up</title>
+  </programme>
+<programme start="20260804105700 +0000" stop="20260804114300 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Song Concert</title>
   </programme>
 <programme start="20260804114300 +0000" stop="20260804114500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21090,13 +21096,13 @@
     <title lang="id">News Watch 9</title>
   </programme>
 <programme start="20260804130000 +0000" stop="20260804134500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama 10 &apos;The Two in a Housing Complex&apos; Ep. 4</title>
+    <title lang="id">Drama 10 &apos;The Two in a Housing Complex&apos; Ep. 3</title>
   </programme>
 <programme start="20260804134500 +0000" stop="20260804140000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Night Drama Serial</title>
+    <title lang="id">Night Drama Serial &apos;Hoshi Shinichi&apos;s Short Story&apos; Encore</title>
   </programme>
 <programme start="20260804140000 +0000" stop="20260804143000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">The Winning Meals of Great Historical Figures</title>
+    <title lang="id">The Winning Meals of Great Historical Figures &apos;Ukiyoe&apos;</title>
   </programme>
 <programme start="20260804143000 +0000" stop="20260804144000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News Commentary</title>
@@ -21107,7 +21113,10 @@
 <programme start="20260804144500 +0000" stop="20260804151500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">International News Report 2026</title>
   </programme>
-<programme start="20260804151500 +0000" stop="20260804152900 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260804151500 +0000" stop="20260804152500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Darwin&apos;s Amazing Animals 10min.</title>
+  </programme>
+<programme start="20260804152500 +0000" stop="20260804152900 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260804152900 +0000" stop="20260804153000 +0000" channel="cubmu.nhkworldpremium">
@@ -21123,7 +21132,7 @@
     <title lang="id">Tanka Poetry</title>
   </programme>
 <programme start="20260804170500 +0000" stop="20260804171000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+    <title lang="id">We Love Fluffy Animals Mini</title>
   </programme>
 <programme start="20260804171000 +0000" stop="20260804173000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">German in a Happy Mood</title>
@@ -21141,16 +21150,19 @@
     <title lang="id">With Mother</title>
   </programme>
 <programme start="20260804182500 +0000" stop="20260804183000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+    <title lang="id">This World is Filled with Wants 5min.</title>
   </programme>
 <programme start="20260804183000 +0000" stop="20260804184500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 92</title>
   </programme>
 <programme start="20260804184500 +0000" stop="20260804191200 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Today&apos;s Close-up</title>
   </programme>
-<programme start="20260804191200 +0000" stop="20260804200000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260804191200 +0000" stop="20260804191500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
+  </programme>
+<programme start="20260804191500 +0000" stop="20260804200000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Song Concert</title>
   </programme>
 <programme start="20260804200000 +0000" stop="20260804201000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">TV Exercise</title>
@@ -21171,10 +21183,10 @@
     <title lang="id">News: Good Morning, Japan</title>
   </programme>
 <programme start="20260804230000 +0000" stop="20260804231500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 93</title>
   </programme>
 <programme start="20260804231500 +0000" stop="20260805005400 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Asaichi</title>
+    <title lang="id">asaichi</title>
   </programme>
 <programme start="20260805005400 +0000" stop="20260805005500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21182,8 +21194,11 @@
 <programme start="20260805005500 +0000" stop="20260805010000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Exercise for Everyone</title>
   </programme>
-<programme start="20260805010000 +0000" stop="20260805015000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260805010000 +0000" stop="20260805010500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
+  </programme>
+<programme start="20260805010500 +0000" stop="20260805015000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Song Concert</title>
   </programme>
 <programme start="20260805015000 +0000" stop="20260805021700 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Today&apos;s Close-up</title>
@@ -21192,7 +21207,7 @@
     <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260805022000 +0000" stop="20260805025000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">The Winning Meals of Great Historical Figures</title>
+    <title lang="id">The Winning Meals of Great Historical Figures &apos;Ukiyoe&apos;</title>
   </programme>
 <programme start="20260805025000 +0000" stop="20260805025500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Songs for Everyone</title>
@@ -21210,10 +21225,10 @@
     <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260805033000 +0000" stop="20260805034500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore</title>
+    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore Ep. 3</title>
   </programme>
 <programme start="20260805034500 +0000" stop="20260805040000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 93</title>
   </programme>
 <programme start="20260805040000 +0000" stop="20260805040500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News</title>
@@ -21234,7 +21249,7 @@
     <title lang="id">Health for Today</title>
   </programme>
 <programme start="20260805062500 +0000" stop="20260805064000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Night Drama Serial</title>
+    <title lang="id">Night Drama Serial &apos;Hoshi Shinichi&apos;s Short Story&apos; Encore</title>
   </programme>
 <programme start="20260805064000 +0000" stop="20260805065000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Points at Issue</title>
@@ -21243,7 +21258,7 @@
     <title lang="id">Lifestyle Lab for The Prime Generation</title>
   </programme>
 <programme start="20260805073500 +0000" stop="20260805082000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">History Detective</title>
+    <title lang="id">TBA</title>
   </programme>
 <programme start="20260805082000 +0000" stop="20260805083500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Peek-a-boo</title>
@@ -21266,8 +21281,11 @@
 <programme start="20260805095500 +0000" stop="20260805100000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
   </programme>
-<programme start="20260805100000 +0000" stop="20260805114300 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260805100000 +0000" stop="20260805103000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">NHK News 7</title>
+  </programme>
+<programme start="20260805103000 +0000" stop="20260805114300 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Today&apos;s Close-up Special Edition</title>
   </programme>
 <programme start="20260805114300 +0000" stop="20260805114500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21278,8 +21296,11 @@
 <programme start="20260805120000 +0000" stop="20260805130000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News Watch 9</title>
   </programme>
-<programme start="20260805130000 +0000" stop="20260805143000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">History Detective</title>
+<programme start="20260805130000 +0000" stop="20260805140000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">History Detective Collaboration Special: Historical Drama &apos;BROTHERS IN ARMS&apos;</title>
+  </programme>
+<programme start="20260805140000 +0000" stop="20260805143000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">NHK ACADEMIA &apos;Odagiri Hiro&apos; Part 1</title>
   </programme>
 <programme start="20260805143000 +0000" stop="20260805144000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News Commentary</title>
@@ -21290,7 +21311,13 @@
 <programme start="20260805144500 +0000" stop="20260805151500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">International News Report 2026</title>
   </programme>
-<programme start="20260805151500 +0000" stop="20260805152900 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260805151500 +0000" stop="20260805151800 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260805151800 +0000" stop="20260805152600 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Train Driver&apos;s Cab View Mini</title>
+  </programme>
+<programme start="20260805152600 +0000" stop="20260805152900 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260805152900 +0000" stop="20260805153000 +0000" channel="cubmu.nhkworldpremium">
@@ -21306,7 +21333,7 @@
     <title lang="id">Haiku Poetry</title>
   </programme>
 <programme start="20260805170500 +0000" stop="20260805171000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+    <title lang="id">Fun with Okinawa Dialects</title>
   </programme>
 <programme start="20260805171000 +0000" stop="20260805173000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Spanish in a Happy Mood</title>
@@ -21324,19 +21351,25 @@
     <title lang="id">With Mother</title>
   </programme>
 <programme start="20260805182500 +0000" stop="20260805183000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">See, Learn, Explore--A Deep Travelogue in Tohoku</title>
+  </programme>
+<programme start="20260805183000 +0000" stop="20260805184500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 93</title>
+  </programme>
+<programme start="20260805184500 +0000" stop="20260805195700 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Today&apos;s Close-up Special Edition</title>
+  </programme>
+<programme start="20260805195700 +0000" stop="20260805200000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
-  </programme>
-<programme start="20260805183000 +0000" stop="20260805191200 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
-  </programme>
-<programme start="20260805191200 +0000" stop="20260805200000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Weather</title>
   </programme>
 <programme start="20260805200000 +0000" stop="20260805201000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">TV Exercise</title>
   </programme>
-<programme start="20260805201000 +0000" stop="20260805205500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260805201000 +0000" stop="20260805202500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Health for Today</title>
+  </programme>
+<programme start="20260805202500 +0000" stop="20260805205500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">The Great Nature &apos;The Alps&apos;</title>
   </programme>
 <programme start="20260805205500 +0000" stop="20260805210000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21348,7 +21381,7 @@
     <title lang="id">News: Good Morning, Japan</title>
   </programme>
 <programme start="20260805224500 +0000" stop="20260805230000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 94</title>
   </programme>
 <programme start="20260805230000 +0000" stop="20260805235500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Hiroshima Peace Memorial Ceremony</title>
@@ -21356,23 +21389,20 @@
 <programme start="20260805235500 +0000" stop="20260806000000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
   </programme>
-<programme start="20260806000000 +0000" stop="20260806005400 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260806000000 +0000" stop="20260806000500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
   </programme>
-<programme start="20260806005400 +0000" stop="20260806005500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Weather</title>
+<programme start="20260806000500 +0000" stop="20260806011700 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Today&apos;s Close-up Special Edition</title>
   </programme>
-<programme start="20260806005500 +0000" stop="20260806010000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Exercise for Everyone</title>
-  </programme>
-<programme start="20260806010000 +0000" stop="20260806021700 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260806011700 +0000" stop="20260806012200 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
   </programme>
-<programme start="20260806021700 +0000" stop="20260806025000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260806012200 +0000" stop="20260806025100 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">The Battle of Shizugatake: Birth of a Ruler</title>
+  </programme>
+<programme start="20260806025100 +0000" stop="20260806025500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
-  </programme>
-<programme start="20260806025000 +0000" stop="20260806025500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Songs for Everyone</title>
   </programme>
 <programme start="20260806025500 +0000" stop="20260806030000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21387,10 +21417,10 @@
     <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260806033000 +0000" stop="20260806034500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore</title>
+    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore Ep. 4</title>
   </programme>
 <programme start="20260806034500 +0000" stop="20260806040000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 94</title>
   </programme>
 <programme start="20260806040000 +0000" stop="20260806040500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News</title>
@@ -21402,7 +21432,7 @@
     <title lang="id">World Weather</title>
   </programme>
 <programme start="20260806055500 +0000" stop="20260806060000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Music Album</title>
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260806060000 +0000" stop="20260806061000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
@@ -21411,7 +21441,7 @@
     <title lang="id">Health for Today</title>
   </programme>
 <programme start="20260806062500 +0000" stop="20260806064000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+    <title lang="id">Fishing Crazy</title>
   </programme>
 <programme start="20260806064000 +0000" stop="20260806065000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Points at Issue</title>
@@ -21449,8 +21479,17 @@
 <programme start="20260806095500 +0000" stop="20260806100000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
   </programme>
-<programme start="20260806100000 +0000" stop="20260806114300 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260806100000 +0000" stop="20260806103000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">NHK News 7</title>
+  </programme>
+<programme start="20260806103000 +0000" stop="20260806113000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mukai Osamu Travels to Bonito Country the Maldives Encore</title>
+  </programme>
+<programme start="20260806113000 +0000" stop="20260806114000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Darwin&apos;s Amazing Animals 10min.</title>
+  </programme>
+<programme start="20260806114000 +0000" stop="20260806114300 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260806114300 +0000" stop="20260806114500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21458,11 +21497,17 @@
 <programme start="20260806114500 +0000" stop="20260806120000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">NHK News 845</title>
   </programme>
-<programme start="20260806120000 +0000" stop="20260806134500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260806120000 +0000" stop="20260806130000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News Watch 9</title>
   </programme>
-<programme start="20260806134500 +0000" stop="20260806143000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Night Drama Serial</title>
+<programme start="20260806130000 +0000" stop="20260806134500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">NHK Special &apos;Unspoken Witnesses: The Atomic Bomb Dome Bears the Weight of War&apos;</title>
+  </programme>
+<programme start="20260806134500 +0000" stop="20260806140000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Night Drama Serial &apos;Hoshi Shinichi&apos;s Short Story&apos; Encore</title>
+  </programme>
+<programme start="20260806140000 +0000" stop="20260806143000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Tokoro-san&apos;s Pursuit of Truth</title>
   </programme>
 <programme start="20260806143000 +0000" stop="20260806144000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News Commentary</title>
@@ -21494,8 +21539,11 @@
 <programme start="20260806161500 +0000" stop="20260806164000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Today&apos;s Cooking</title>
   </programme>
-<programme start="20260806164000 +0000" stop="20260806174000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260806164000 +0000" stop="20260806171000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Shogi Focus</title>
+  </programme>
+<programme start="20260806171000 +0000" stop="20260806174000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">HAYAUTA: Songs for Fresh Morning</title>
   </programme>
 <programme start="20260806174000 +0000" stop="20260806174500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21509,8 +21557,17 @@
 <programme start="20260806182500 +0000" stop="20260806183000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Hello! NHK WORLD-JAPAN</title>
   </programme>
-<programme start="20260806183000 +0000" stop="20260806195800 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+<programme start="20260806183000 +0000" stop="20260806184500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 94</title>
+  </programme>
+<programme start="20260806184500 +0000" stop="20260806194500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">History Detective Collaboration Special: Historical Drama &apos;BROTHERS IN ARMS&apos;</title>
+  </programme>
+<programme start="20260806194500 +0000" stop="20260806195500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Darwin&apos;s Amazing Animals 10min.</title>
+  </programme>
+<programme start="20260806195500 +0000" stop="20260806195800 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260806195800 +0000" stop="20260806200000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21518,8 +21575,11 @@
 <programme start="20260806200000 +0000" stop="20260806201000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">TV Exercise</title>
   </programme>
-<programme start="20260806201000 +0000" stop="20260806205500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260806201000 +0000" stop="20260806202500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Health for Today</title>
+  </programme>
+<programme start="20260806202500 +0000" stop="20260806205500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Neighbor&apos;s Nurturing Session &apos;Sleep Q&amp;A&apos;</title>
   </programme>
 <programme start="20260806205500 +0000" stop="20260806210000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21530,8 +21590,14 @@
 <programme start="20260806220000 +0000" stop="20260806230000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News: Good Morning, Japan</title>
   </programme>
-<programme start="20260806230000 +0000" stop="20260807005400 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+<programme start="20260806230000 +0000" stop="20260806231500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 95</title>
+  </programme>
+<programme start="20260806231500 +0000" stop="20260807004500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Wildlife &apos;Europe, a Beautiful Land Where Life Shines&apos;</title>
+  </programme>
+<programme start="20260807004500 +0000" stop="20260807005400 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260807005400 +0000" stop="20260807005500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21540,7 +21606,7 @@
     <title lang="id">Exercise for Everyone</title>
   </programme>
 <programme start="20260807010000 +0000" stop="20260807010500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+    <title lang="id">Japan Genesis: Pilgrimage to the Land of the Gods 5min.</title>
   </programme>
 <programme start="20260807010500 +0000" stop="20260807015000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Saturday Drama &apos;A Murder I Don&apos;t Remember&apos; Part 2</title>
@@ -21548,8 +21614,11 @@
 <programme start="20260807015000 +0000" stop="20260807015500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
   </programme>
-<programme start="20260807015500 +0000" stop="20260807024500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">NHK Special</title>
+<programme start="20260807015500 +0000" stop="20260807024000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">NHK Special &apos;Unspoken Witnesses: The Atomic Bomb Dome Bears the Weight of War&apos;</title>
+  </programme>
+<programme start="20260807024000 +0000" stop="20260807024500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260807024500 +0000" stop="20260807025000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">no art, no life</title>
@@ -21570,13 +21639,22 @@
     <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260807033000 +0000" stop="20260807034500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore</title>
+    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore Ep. 5</title>
   </programme>
 <programme start="20260807034500 +0000" stop="20260807040000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 95</title>
   </programme>
-<programme start="20260807040000 +0000" stop="20260807055000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260807040000 +0000" stop="20260807040500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News</title>
+  </programme>
+<programme start="20260807040500 +0000" stop="20260807043500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Natsui Itsuki&apos;s Haiku Trip! &apos;Nara Prefecture&apos;</title>
+  </programme>
+<programme start="20260807043500 +0000" stop="20260807054800 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Darwin&apos;s Amazing Animals &apos;20th Anniversary Special with the National Museum of Nature and Science&apos;</title>
+  </programme>
+<programme start="20260807054800 +0000" stop="20260807055000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260807055000 +0000" stop="20260807055500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21585,13 +21663,13 @@
     <title lang="id">World Music Album</title>
   </programme>
 <programme start="20260807060000 +0000" stop="20260807061000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+    <title lang="id">Life Force 10min.</title>
   </programme>
 <programme start="20260807061000 +0000" stop="20260807062500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Health for Today</title>
   </programme>
 <programme start="20260807062500 +0000" stop="20260807064000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Night Drama Serial</title>
+    <title lang="id">Night Drama Serial &apos;Hoshi Shinichi&apos;s Short Story&apos; Encore</title>
   </programme>
 <programme start="20260807064000 +0000" stop="20260807065000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mimicries--Natural Science for Kids</title>
@@ -21599,14 +21677,17 @@
 <programme start="20260807065000 +0000" stop="20260807073500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Choices on How to Deal with Illness</title>
   </programme>
-<programme start="20260807073500 +0000" stop="20260807080000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Exploring Factories</title>
+<programme start="20260807073500 +0000" stop="20260807075000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">GEO JAPAN</title>
+  </programme>
+<programme start="20260807075000 +0000" stop="20260807080000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260807080000 +0000" stop="20260807081000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">PythagoraSwitch</title>
   </programme>
 <programme start="20260807081000 +0000" stop="20260807082000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Blue &amp; Yellow</title>
+    <title lang="id">Blue &amp; Yellow 10min</title>
   </programme>
 <programme start="20260807082000 +0000" stop="20260807083500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Peek-a-boo</title>
@@ -21629,8 +21710,23 @@
 <programme start="20260807095500 +0000" stop="20260807100000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
   </programme>
-<programme start="20260807100000 +0000" stop="20260807114300 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260807100000 +0000" stop="20260807103000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">NHK News 7</title>
+  </programme>
+<programme start="20260807103000 +0000" stop="20260807110000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Special Program</title>
+  </programme>
+<programme start="20260807110000 +0000" stop="20260807112500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Kyoto&apos;s Finest Goods Travelogue</title>
+  </programme>
+<programme start="20260807112500 +0000" stop="20260807113500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Darwin&apos;s Amazing Animals 10min.</title>
+  </programme>
+<programme start="20260807113500 +0000" stop="20260807114000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Giant Trees in Japan Mini</title>
+  </programme>
+<programme start="20260807114000 +0000" stop="20260807114300 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260807114300 +0000" stop="20260807114500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21641,20 +21737,23 @@
 <programme start="20260807120000 +0000" stop="20260807130000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News Watch 9</title>
   </programme>
-<programme start="20260807130000 +0000" stop="20260807133000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Document 72 Hours</title>
-  </programme>
-<programme start="20260807133000 +0000" stop="20260807143000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Somewhere Street</title>
+<programme start="20260807130000 +0000" stop="20260807143000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Journey to the Farthest Scenic Station: Gabonese Republic, Africa Encore</title>
   </programme>
 <programme start="20260807143000 +0000" stop="20260807144000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260807144000 +0000" stop="20260807144500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260807144500 +0000" stop="20260807145500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News Commentary</title>
   </programme>
-<programme start="20260807144000 +0000" stop="20260807152900 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260807145500 +0000" stop="20260807150000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
   </programme>
-<programme start="20260807152900 +0000" stop="20260807161300 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Weather</title>
+<programme start="20260807150000 +0000" stop="20260807161300 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Darwin&apos;s Amazing Animals &apos;20th Anniversary Special with the National Museum of Nature and Science&apos;</title>
   </programme>
 <programme start="20260807161300 +0000" stop="20260807161500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
@@ -21684,7 +21783,7 @@
     <title lang="id">Fun with Okinawa Dialects</title>
   </programme>
 <programme start="20260807183000 +0000" stop="20260807184500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 95</title>
   </programme>
 <programme start="20260807184500 +0000" stop="20260807193000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Saturday Drama &apos;A Murder I Don&apos;t Remember&apos; Part 2</title>
@@ -21704,8 +21803,11 @@
 <programme start="20260807201000 +0000" stop="20260807202500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Natural Grandeur of the East</title>
   </programme>
-<programme start="20260807202500 +0000" stop="20260807205500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">NHK Regional Showcases</title>
+<programme start="20260807202500 +0000" stop="20260807205000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">NHK Regional Showcases: Shikoku colors</title>
+  </programme>
+<programme start="20260807205000 +0000" stop="20260807205500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Natural Grandeur of the East Mini</title>
   </programme>
 <programme start="20260807205500 +0000" stop="20260807210000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21719,17 +21821,32 @@
 <programme start="20260807225900 +0000" stop="20260807230000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
   </programme>
-<programme start="20260807230000 +0000" stop="20260808002800 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+<programme start="20260807230000 +0000" stop="20260807231500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Week 19</title>
   </programme>
-<programme start="20260808002800 +0000" stop="20260808020600 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260807231500 +0000" stop="20260808004500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Relaxing Life on Remote Islands: Kuroshima Island, Okinawa; Mukushima, Saga; Hiroshima, Kagawa</title>
+  </programme>
+<programme start="20260808004500 +0000" stop="20260808011500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">NHK ACADEMIA &apos;Odagiri Hiro&apos; Part 1</title>
+  </programme>
+<programme start="20260808011500 +0000" stop="20260808013000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">GEO JAPAN</title>
+  </programme>
+<programme start="20260808013000 +0000" stop="20260808013300 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260808013300 +0000" stop="20260808020600 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">The Visualization Entertainment: Go! Kaneo-kun</title>
   </programme>
 <programme start="20260808020600 +0000" stop="20260808023000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Delicious Japan!</title>
   </programme>
-<programme start="20260808023000 +0000" stop="20260808025000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Documentary: 20 Minutes</title>
+<programme start="20260808023000 +0000" stop="20260808023500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260808023500 +0000" stop="20260808025000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">GEO JAPAN</title>
   </programme>
 <programme start="20260808025000 +0000" stop="20260808025600 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Songs for Everyone</title>
@@ -21747,16 +21864,22 @@
     <title lang="id">Fun with Okinawa Dialects</title>
   </programme>
 <programme start="20260808034500 +0000" stop="20260808040000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Week 19</title>
   </programme>
-<programme start="20260808040000 +0000" stop="20260808045000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260808040000 +0000" stop="20260808040500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
   </programme>
-<programme start="20260808045000 +0000" stop="20260808070000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">PREMIUM SELECTIONS</title>
+<programme start="20260808040500 +0000" stop="20260808045000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Historical Drama &apos;BROTHERS IN ARMS&apos; Ep. 29 Encore</title>
   </programme>
-<programme start="20260808070000 +0000" stop="20260808080000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">PREMIUM SELECTIONS</title>
+<programme start="20260808045000 +0000" stop="20260808062000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Journey to the Farthest Scenic Station: Gabonese Republic, Africa Encore</title>
+  </programme>
+<programme start="20260808062000 +0000" stop="20260808075000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Hidden Magnificent Hot Springs in Europe</title>
+  </programme>
+<programme start="20260808075000 +0000" stop="20260808080000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260808080000 +0000" stop="20260808083000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Domo! Show</title>
@@ -21788,8 +21911,14 @@
 <programme start="20260808100000 +0000" stop="20260808103000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">NHK News 7</title>
   </programme>
-<programme start="20260808103000 +0000" stop="20260808115300 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">The Professionals</title>
+<programme start="20260808103000 +0000" stop="20260808111500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">The Professionals &apos;Miura Tatsuya&apos;</title>
+  </programme>
+<programme start="20260808111500 +0000" stop="20260808114500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">The Business Keyhole Completed Edition &apos;Creating Hit Products during Times of Inflation&apos;</title>
+  </programme>
+<programme start="20260808114500 +0000" stop="20260808115300 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260808115300 +0000" stop="20260808115500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21797,17 +21926,26 @@
 <programme start="20260808115500 +0000" stop="20260808120000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
   </programme>
-<programme start="20260808120000 +0000" stop="20260808134900 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260808120000 +0000" stop="20260808130000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Saturday Watch 9</title>
   </programme>
-<programme start="20260808134900 +0000" stop="20260808135500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260808130000 +0000" stop="20260808134500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Family History</title>
+  </programme>
+<programme start="20260808134500 +0000" stop="20260808135500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
   </programme>
-<programme start="20260808135500 +0000" stop="20260808143000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260808135500 +0000" stop="20260808140000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
   </programme>
-<programme start="20260808143000 +0000" stop="20260808163000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">PREMIUM SELECTIONS</title>
+<programme start="20260808140000 +0000" stop="20260808143000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Comedy Battle! PIN-TWO-THERE</title>
+  </programme>
+<programme start="20260808143000 +0000" stop="20260808150000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Neighbor&apos;s Nurturing Session &apos;Sleep Q&amp;A&apos;</title>
+  </programme>
+<programme start="20260808150000 +0000" stop="20260808163000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">The Battle of Shizugatake: Birth of a Ruler</title>
   </programme>
 <programme start="20260808163000 +0000" stop="20260808170000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Japanese Entertainment Encyclopedia</title>
@@ -21828,19 +21966,25 @@
     <title lang="id">no art, no life</title>
   </programme>
 <programme start="20260808183000 +0000" stop="20260808184500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Week 19</title>
   </programme>
-<programme start="20260808184500 +0000" stop="20260808193500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">NHK Special</title>
+<programme start="20260808184500 +0000" stop="20260808193000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">NHK Special &apos;Unspoken Witnesses: The Atomic Bomb Dome Bears the Weight of War&apos;</title>
   </programme>
-<programme start="20260808193500 +0000" stop="20260808195500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Documentary: 20 Minutes</title>
+<programme start="20260808193000 +0000" stop="20260808194500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">GEO JAPAN</title>
+  </programme>
+<programme start="20260808194500 +0000" stop="20260808195500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260808195500 +0000" stop="20260808200000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
   </programme>
-<programme start="20260808200000 +0000" stop="20260808205600 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Blue &amp; Yellow</title>
+<programme start="20260808200000 +0000" stop="20260808201000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Blue &amp; Yellow 10min</title>
+  </programme>
+<programme start="20260808201000 +0000" stop="20260808205600 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">The Professionals &apos;Miura Tatsuya&apos;</title>
   </programme>
 <programme start="20260808205600 +0000" stop="20260808210000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21863,23 +22007,32 @@
 <programme start="20260808224500 +0000" stop="20260808225900 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Natural Grandeur of the East</title>
   </programme>
-<programme start="20260808225900 +0000" stop="20260808235000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260808225900 +0000" stop="20260808230000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
   </programme>
-<programme start="20260808235000 +0000" stop="20260809012800 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Design Ah! neo</title>
-  </programme>
-<programme start="20260809012800 +0000" stop="20260809013000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
-  </programme>
-<programme start="20260809013000 +0000" stop="20260809020000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">SCIENCE ZERO</title>
-  </programme>
-<programme start="20260809020000 +0000" stop="20260809024500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260808230000 +0000" stop="20260808234500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Premium Drama &apos;A Town of Blooming Forget-Me-Not&apos; Ep. 5</title>
   </programme>
-<programme start="20260809024500 +0000" stop="20260809025000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260808234500 +0000" stop="20260808235000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260808235000 +0000" stop="20260809000000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Design Ah! neo</title>
+  </programme>
+<programme start="20260809000000 +0000" stop="20260809010000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Sunday Debate</title>
+  </programme>
+<programme start="20260809010000 +0000" stop="20260809010500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">News &amp; Weather</title>
+  </programme>
+<programme start="20260809010500 +0000" stop="20260809011500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260809011500 +0000" stop="20260809014500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">SCIENCE ZERO</title>
+  </programme>
+<programme start="20260809014500 +0000" stop="20260809025000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Nagasaki Peace Memorial Ceremony</title>
   </programme>
 <programme start="20260809025000 +0000" stop="20260809025600 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Ukiyoe EDO-LIFE</title>
@@ -21891,16 +22044,25 @@
     <title lang="id">News</title>
   </programme>
 <programme start="20260809031500 +0000" stop="20260809040000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">NHK Amateur Singing Contest</title>
+    <title lang="id">NHK Amateur Singing Contest &apos;Obu City, Aichi Prefecture&apos;</title>
   </programme>
-<programme start="20260809040000 +0000" stop="20260809053500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260809040000 +0000" stop="20260809040500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
+  </programme>
+<programme start="20260809040500 +0000" stop="20260809053500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Special Drama &apos;Grass for My Pillow&apos;</title>
   </programme>
 <programme start="20260809053500 +0000" stop="20260809060000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Gretel&apos;s Magical Oven</title>
   </programme>
-<programme start="20260809060000 +0000" stop="20260809083000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260809060000 +0000" stop="20260809073000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">PREMIUM SELECTIONS</title>
+  </programme>
+<programme start="20260809073000 +0000" stop="20260809080000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Special Program</title>
+  </programme>
+<programme start="20260809080000 +0000" stop="20260809083000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">TBA</title>
   </programme>
 <programme start="20260809083000 +0000" stop="20260809090000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">With Father</title>
@@ -21932,38 +22094,32 @@
 <programme start="20260809114500 +0000" stop="20260809120000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
   </programme>
-<programme start="20260809120000 +0000" stop="20260809124900 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">NHK Special</title>
+<programme start="20260809120000 +0000" stop="20260809125500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">NHK Special &apos;The Hidden Nuclear Crisis: The Taiwan Straits Crisis; An Analysis&apos;</title>
   </programme>
-<programme start="20260809124900 +0000" stop="20260809125000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Weather</title>
-  </programme>
-<programme start="20260809125000 +0000" stop="20260809133500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260809125500 +0000" stop="20260809134000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Premium Drama &apos;A Town of Blooming Forget-Me-Not&apos;</title>
   </programme>
-<programme start="20260809133500 +0000" stop="20260809134000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260809134000 +0000" stop="20260809134500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
   </programme>
-<programme start="20260809134000 +0000" stop="20260809144300 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260809134500 +0000" stop="20260809135000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
+  </programme>
+<programme start="20260809135000 +0000" stop="20260809142000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">GPS Lines Know Everything</title>
+  </programme>
+<programme start="20260809142000 +0000" stop="20260809143500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">GEO JAPAN</title>
+  </programme>
+<programme start="20260809143500 +0000" stop="20260809144300 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260809144300 +0000" stop="20260809144500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
   </programme>
-<programme start="20260809144500 +0000" stop="20260809153500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260809144500 +0000" stop="20260809180000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Sunday Sports News</title>
-  </programme>
-<programme start="20260809153500 +0000" stop="20260809162000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">NHK Amateur Singing Contest</title>
-  </programme>
-<programme start="20260809162000 +0000" stop="20260809162500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Weather</title>
-  </programme>
-<programme start="20260809162500 +0000" stop="20260809163000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Songs for Everyone</title>
-  </programme>
-<programme start="20260809163000 +0000" stop="20260809180000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">PREMIUM SELECTIONS</title>
   </programme>
 <programme start="20260809180000 +0000" stop="20260809183000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">What the Villains Have to Say</title>
