@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260804085140 +0000" source-info-url="https://myeth-epg.github.io/public/epg.my.xml" generator-info-name="MY-EPG-Merger">
+<tv date="20260804141007 +0000" source-info-url="https://myeth-epg.github.io/public/epg.my.xml" generator-info-name="MY-EPG-Merger">
 
 <!-- Channels -->
 
@@ -132641,7 +132641,7 @@
     <desc lang="en">Berita Bahasa Inggeris yang berkonsepkan berita dunia korporat, bisnes dan isu-isu semasa</desc>
   </programme>
 <programme start="20260804130000 +0000" stop="20260804140000 +0000" channel="astro.395.tv1">
-    <title lang="en">(L) Bicara Naratif</title>
+    <title lang="en">Bicara Naratif</title>
     <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
   </programme>
 <programme start="20260804140000 +0000" stop="20260804141500 +0000" channel="astro.395.tv1">
@@ -137760,11 +137760,11 @@
     <title lang="en">Kaadhal Sugamanathu</title>
     <desc lang="en">Sandhya, who loves Ganesh, pours her thoughts about him in a diary. Ganesh finds the diary and falls in love with her but later discovers that she is already engaged to someone else.</desc>
   </programme>
-<programme start="20260804100000 +0000" stop="20260804103000 +0000" channel="astro.358.suntv">
+<programme start="20260804100000 +0000" stop="20260804103300 +0000" channel="astro.358.suntv">
     <title lang="en">News</title>
     <desc lang="en">In this information age NEWS plays a very important role. SUN News will give you the latest happenings from all corners of the World India and Tamil nadu ... always the latest always in detail ...</desc>
   </programme>
-<programme start="20260804103000 +0000" stop="20260804110000 +0000" channel="astro.358.suntv">
+<programme start="20260804103300 +0000" stop="20260804110000 +0000" channel="astro.358.suntv">
     <title lang="en">Annam Ep503</title>
     <desc lang="en">Exuding warmth and courage, self-reliant Annam, living with an estranged father and a cruel stepmother, longs for a loving bond to escape her home. Will she find the love she seeks?</desc>
   </programme>
@@ -138072,13 +138072,9 @@
     <title lang="en">Trending Box</title>
     <desc lang="en">The most popular movie tunes will be played.</desc>
   </programme>
-<programme start="20260805143000 +0000" stop="20260805150000 +0000" channel="astro.417.sunmusic">
-    <title lang="en">Breakfree</title>
-    <desc lang="en">Back to back songs played without anchor cut.</desc>
-  </programme>
-<programme start="20260805150000 +0000" stop="20260805153000 +0000" channel="astro.417.sunmusic">
-    <title lang="en">Double Shot</title>
-    <desc lang="en">A compilation of some of the most popular and entertaining songs.</desc>
+<programme start="20260805143000 +0000" stop="20260805153000 +0000" channel="astro.417.sunmusic">
+    <title lang="en">DC RAVE (A Musical Festival)</title>
+    <desc lang="en">Feel the pulse of DC Rave as Rockstar Anirudh sets the stage ablaze with explosive performances, chartbuster tracks, and electrifying moments in an unforgettable celebration of music and magic.</desc>
   </programme>
 <programme start="20260805153000 +0000" stop="20260805163000 +0000" channel="astro.417.sunmusic">
     <title lang="en">Mass Masala</title>
