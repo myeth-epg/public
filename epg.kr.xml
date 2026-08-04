@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260803230546 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
+<tv date="20260804085140 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -4878,8 +4878,7 @@
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260804080000 +0000" stop="20260804083000 +0000" channel="skylife.kbs1">
-    <title>KBS 뉴스 5</title>
-    <desc>당일 발생한 국내외 주요뉴스를 종합 편성해 신속 보도.</desc>
+    <title>KBS 뉴스특보</title>
     <category>뉴스 / 뉴스</category>
   </programme>
 <programme start="20260804083000 +0000" stop="20260804090000 +0000" channel="skylife.kbs1">
@@ -6458,11 +6457,11 @@
     <category>연예/오락 / 인포테인먼트</category>
   </programme>
 <programme start="20260804040000 +0000" stop="20260804053000 +0000" channel="skylife.sbs.biz">
-    <title>마켓&amp;머니</title>
+    <title>[모건스탠리 &amp;quot;코스피 9000 간다&amp;quot;]마켓&amp;머니</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260804053000 +0000" stop="20260804063000 +0000" channel="skylife.sbs.biz">
-    <title>경제현장 오늘</title>
+    <title>[부동산 세제 대수술]경제현장 오늘</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260804063000 +0000" stop="20260804065000 +0000" channel="skylife.sbs.biz">
@@ -6470,7 +6469,7 @@
     <category>뉴스 / 경제(산업/부동산)</category>
   </programme>
 <programme start="20260804065000 +0000" stop="20260804080000 +0000" channel="skylife.sbs.biz">
-    <title>오늘 경제 안녕하십니까?</title>
+    <title>[차익실현 VS 미 반도체 훈풍]오늘 경제 안녕하십니까?</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260804080000 +0000" stop="20260804090000 +0000" channel="skylife.sbs.biz">
@@ -6492,7 +6491,7 @@
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260804103000 +0000" stop="20260804113000 +0000" channel="skylife.sbs.biz">
-    <title>오늘 경제 안녕하십니까?</title>
+    <title>[차익실현 VS 미 반도체 훈풍]오늘 경제 안녕하십니까?</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260804113000 +0000" stop="20260804123000 +0000" channel="skylife.sbs.biz">
@@ -6670,15 +6669,19 @@
     <title>UFC PREVIEW Fight Show</title>
     <category>스포츠 / 격투기</category>
   </programme>
-<programme start="20260803170000 +0000" stop="20260803190000 +0000" channel="skylife.tvn.sports">
+<programme start="20260803170000 +0000" stop="20260803174000 +0000" channel="skylife.tvn.sports">
+    <title>UFC FIGHT NIGHT 하이라이트</title>
+    <category>스포츠 / 격투기</category>
+  </programme>
+<programme start="20260803174000 +0000" stop="20260803194500 +0000" channel="skylife.tvn.sports">
     <title>(생)2026 ATP 500 무바달라시티 DC오픈</title>
     <category>스포츠 / 테니스</category>
   </programme>
-<programme start="20260803190000 +0000" stop="20260803193000 +0000" channel="skylife.tvn.sports">
+<programme start="20260803194500 +0000" stop="20260803201500 +0000" channel="skylife.tvn.sports">
     <title>UFC REVIEW Fight Show</title>
     <category>스포츠 / 격투기</category>
   </programme>
-<programme start="20260803193000 +0000" stop="20260803210000 +0000" channel="skylife.tvn.sports">
+<programme start="20260803201500 +0000" stop="20260803210000 +0000" channel="skylife.tvn.sports">
     <title>UFC SPECIAL</title>
     <category>스포츠 / 격투기</category>
   </programme>
@@ -6718,7 +6721,7 @@
     <title>(본)UFC CLASSIC : Special Edition</title>
     <category>스포츠 / 격투기</category>
   </programme>
-<programme start="20260804140000 +0000" stop="20260804153000 +0000" channel="skylife.tvn.sports">
+<programme start="20260804140000 +0000" stop="20260804155000 +0000" channel="skylife.tvn.sports">
     <title>(본)무쇠소녀단2</title>
     <category>연예/오락 / 일반</category>
   </programme>
@@ -10431,7 +10434,7 @@
     <category>뉴스 / 뉴스</category>
   </programme>
 <programme start="20260804153000 +0000" stop="20260804163000 +0000" channel="skylife.sbs.biz">
-    <title>오늘 경제 안녕하십니까?</title>
+    <title>[차익실현 VS 미 반도체 훈풍]오늘 경제 안녕하십니까?</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260804163000 +0000" stop="20260804173000 +0000" channel="skylife.sbs.biz">
@@ -10688,7 +10691,7 @@
     <title>용호상박 투자의 전쟁</title>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260804153000 +0000" stop="20260804173000 +0000" channel="skylife.tvn.sports">
+<programme start="20260804155000 +0000" stop="20260804173000 +0000" channel="skylife.tvn.sports">
     <title>UFC CLASSIC : Special Edition</title>
     <category>스포츠 / 격투기</category>
   </programme>
@@ -19904,9 +19907,13 @@
     <desc>전문가와 함께 쉽고 유쾌하게 배우는 부모 맞춤 성교육 안내서!</desc>
     <category>교양/정보 / 풍물</category>
   </programme>
-<programme start="20260808060000 +0000" stop="20260808074500 +0000" channel="skylife.ebs">
+<programme start="20260808060000 +0000" stop="20260808065000 +0000" channel="skylife.ebs">
     <title>인간과 바다</title>
     <category>교양/정보 / 일반</category>
+  </programme>
+<programme start="20260808065000 +0000" stop="20260808074500 +0000" channel="skylife.ebs">
+    <title>시대목격</title>
+    <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260808074500 +0000" stop="20260808084000 +0000" channel="skylife.ebs">
     <title>취미는 과학</title>
