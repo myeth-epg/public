@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- ETH EPG XML (Strict START Priority) generated on 05/08/2026, 13:01:15 -->
+<!-- ETH EPG XML (Strict START Priority) generated on 05/08/2026, 13:19:25 -->
 <tv>
   <channel id="pw.TW.taiwanplus.mod">
     <display-name lang="TW">[TW-I] 01 TAIWAN PLUS+</display-name>
@@ -11005,9 +11005,6 @@
   <programme channel="openepg.CCTV4.th" start="20260805191000 +0000" stop="20260805200000 +0000">
     <title lang="zh">HOMELAND DREAMLAND</title>
   </programme>
-  <programme channel="openepg.CGTN.th" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">The World Today</title>
-  </programme>
   <programme channel="openepg.CGTN.th" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">Sports Scene</title>
   </programme>
@@ -11214,6 +11211,9 @@
   </programme>
   <programme channel="openepg.CCTV4.th" start="20260805103000 +0000" stop="20260805110000 +0000">
     <title lang="zh">Across China</title>
+  </programme>
+  <programme channel="openepg.CGTN.th" start="20260805030000 +0000" stop="20260805033000 +0000">
+    <title lang="zh">Asia Today</title>
   </programme>
   <programme channel="openepg.HunanTVHD.th" start="20260805030000 +0000" stop="20260805033300 +0000">
     <title lang="zh">ข่าว CCTV</title>
@@ -11783,9 +11783,6 @@
   <programme channel="STAR-Happy" start="20260806200000 +0000" stop="20260806220000 +0000">
     <title lang="zh">社長巨乳人妻秘書淫救老公</title>
     <desc>演員: 小野六花</desc>
-  </programme>
-  <programme channel="tvb.kungfu" start="20260805023000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">穆桂英之大破天門陣</title>
   </programme>
   <programme channel="tvb.kungfu" start="20260805031500 +0000" stop="20260805040000 +0000">
     <title lang="zh">天眼</title>
@@ -12802,9 +12799,6 @@
     <title lang="zh">曲剧:花亭会-牛艳荣</title>
     <desc>曲剧</desc>
   </programme>
-  <programme channel="tvmao.CCTVPAYFEE-WUSHUSHIJIE" start="20260805023200 +0000" stop="20260805031700 +0000">
-    <title lang="zh">武林擂台</title>
-  </programme>
   <programme channel="tvmao.CCTVPAYFEE-WUSHUSHIJIE" start="20260805031700 +0000" stop="20260805034700 +0000">
     <title lang="zh">龙泉宝剑</title>
   </programme>
@@ -13074,9 +13068,6 @@
   <programme channel="tvmao.CCTVPAYFEE-WUSHUSHIJIE" start="20260806232000 +0000" stop="20260806234000 +0000">
     <title lang="zh">功夫课堂</title>
   </programme>
-  <programme channel="tvmao.CCTVPAYFEE-WENWUBAOKU" start="20260805013000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">国家宝藏</title>
-  </programme>
   <programme channel="tvmao.CCTVPAYFEE-WENWUBAOKU" start="20260805031000 +0000" stop="20260805035000 +0000">
     <title lang="zh">华豫之门</title>
   </programme>
@@ -13273,9 +13264,6 @@
   <programme channel="tvmao.CCTVPAYFEE-WENWUBAOKU" start="20260806230500 +0000" stop="20260806235500 +0000">
     <title lang="zh">古兵器大揭秘</title>
   </programme>
-  <programme channel="tvmao.NANFANG-NANFANG1" start="20260805010500 +0000" stop="20260805031200 +0000">
-    <title lang="zh">上午剧场</title>
-  </programme>
   <programme channel="tvmao.NANFANG-NANFANG1" start="20260805031200 +0000" stop="20260805040000 +0000">
     <title lang="zh">真实故事</title>
   </programme>
@@ -13403,9 +13391,6 @@
   <programme channel="tvmao.NANFANG-NANFANG1" start="20260806223200 +0000" stop="20260806232800 +0000">
     <title lang="zh">一线消费者报告</title>
     <desc>消费者报告</desc>
-  </programme>
-  <programme channel="tvmao.SITV6" start="20260805023000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">金色营养课</title>
   </programme>
   <programme channel="tvmao.SITV6" start="20260805031000 +0000" stop="20260805032800 +0000">
     <title lang="zh">乐学书画:风景写生07上</title>
@@ -14109,9 +14094,6 @@
   <programme channel="tvmao.SITV6" start="20260806234900 +0000" stop="20260806235900 +0000">
     <title lang="zh">课间休息家庭安全小常识1怎样储存各类食物</title>
   </programme>
-  <programme channel="tvmao.CWJINGDIAN" start="20260805022200 +0000" stop="20260805030800 +0000">
-    <title lang="zh">剧场</title>
-  </programme>
   <programme channel="tvmao.CWJINGDIAN" start="20260805030800 +0000" stop="20260805035400 +0000">
     <title lang="zh">剧场</title>
   </programme>
@@ -14234,10 +14216,6 @@
   </programme>
   <programme channel="tvmao.CWJINGDIAN" start="20260806224500 +0000" stop="20260806233200 +0000">
     <title lang="zh">纪录片</title>
-  </programme>
-  <programme channel="tvmao.CETV-CETV1" start="20260805022500 +0000" stop="20260805031500 +0000">
-    <title lang="zh">上午剧场</title>
-    <desc>剧场</desc>
   </programme>
   <programme channel="tvmao.CETV-CETV1" start="20260805031500 +0000" stop="20260805040500 +0000">
     <title lang="zh">等着我</title>
@@ -16213,9 +16191,6 @@
     <title lang="zh">乐游黄浦</title>
     <desc>乐游</desc>
   </programme>
-  <programme channel="tvmao.SITV-YULE" start="20260805014500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">绿茵经典</title>
-  </programme>
   <programme channel="tvmao.SITV-YULE" start="20260805031000 +0000" stop="20260805043500 +0000">
     <title lang="zh">体育赛事</title>
   </programme>
@@ -17163,9 +17138,6 @@
     <title lang="zh">寻古中国-高原古人在皮洛3</title>
     <desc>寻古中国</desc>
   </programme>
-  <programme channel="tvmao.CCTV-CCTV2" start="20260805023000 +0000" stop="20260805030200 +0000">
-    <title lang="zh">经济半小时</title>
-  </programme>
   <programme channel="tvmao.CCTV-CCTV2" start="20260805030200 +0000" stop="20260805033200 +0000">
     <title lang="zh">周末特供</title>
   </programme>
@@ -17571,12 +17543,6 @@
   <programme channel="tvmao.CCTV-CCTV5" start="20260806223000 +0000" stop="20260806230000 +0000">
     <title lang="zh">健身动起来</title>
   </programme>
-  <programme channel="tvmao.CCTV-CCTV6" start="20260805013000 +0000" stop="20260805030900 +0000">
-    <title lang="zh">枭龙</title>
-  </programme>
-  <programme channel="tvmao.CCTV-CCTV6" start="20260805030900 +0000" stop="20260805031500 +0000">
-    <title lang="zh">光影星播客</title>
-  </programme>
   <programme channel="tvmao.CCTV-CCTV6" start="20260805031500 +0000" stop="20260805032100 +0000">
     <title lang="zh">音乐电影欣赏</title>
   </programme>
@@ -17742,9 +17708,6 @@
   </programme>
   <programme channel="tvmao.CCTV-CCTV6" start="20260806231100 +0000" stop="20260806231700 +0000">
     <title lang="zh">光影星播客</title>
-  </programme>
-  <programme channel="tvmao.CCTV-CCTV10" start="20260805023900 +0000" stop="20260805031400 +0000">
-    <title lang="zh">味道</title>
   </programme>
   <programme channel="tvmao.CCTV-CCTV10" start="20260805031400 +0000" stop="20260805035000 +0000">
     <title lang="zh">地理中国</title>
@@ -19690,9 +19653,6 @@
     <title lang="zh">早间天气预报</title>
     <desc>天气预报</desc>
   </programme>
-  <programme channel="tvmao.CCTV-CCTV19" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">今日世界</title>
-  </programme>
   <programme channel="tvmao.CCTV-CCTV19" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">环球体育</title>
   </programme>
@@ -20233,10 +20193,6 @@
     <title lang="zh">田野欢歌-2025-21</title>
     <desc>田野欢歌</desc>
   </programme>
-  <programme channel="tvmao.BTV1" start="20260805015300 +0000" stop="20260805030900 +0000">
-    <title lang="zh">上午剧场:沉默的荣耀36</title>
-    <desc>沉默的荣耀</desc>
-  </programme>
   <programme channel="tvmao.BTV1" start="20260805030900 +0000" stop="20260805040000 +0000">
     <title lang="zh">上午剧场:沉默的荣耀37</title>
     <desc>沉默的荣耀</desc>
@@ -20463,9 +20419,6 @@
   </programme>
   <programme channel="tvmao.BTV1" start="20260806225500 +0000" stop="20260806230000 +0000">
     <title lang="zh">早间气象服务</title>
-  </programme>
-  <programme channel="tvmao.BTV10" start="20260805023700 +0000" stop="20260805030200 +0000">
-    <title lang="zh">小蜘蛛抽奖版26</title>
   </programme>
   <programme channel="tvmao.BTV10" start="20260805030200 +0000" stop="20260805032500 +0000">
     <title lang="zh">小蜘蛛抽奖版27</title>
@@ -20914,9 +20867,6 @@
     <title lang="zh">熊出没之小小世界21</title>
     <desc>熊出没之小小世界</desc>
   </programme>
-  <programme channel="tvmao.CCQTV1" start="20260805021000 +0000" stop="20260805030600 +0000">
-    <title lang="zh">上午剧场</title>
-  </programme>
   <programme channel="tvmao.CCQTV1" start="20260805030600 +0000" stop="20260805040000 +0000">
     <title lang="zh">上午剧场</title>
   </programme>
@@ -21290,9 +21240,6 @@
   </programme>
   <programme channel="tvmao.FJTV2" start="20260806230000 +0000" stop="20260806230100 +0000">
     <title lang="zh">中华人民共和国国歌</title>
-  </programme>
-  <programme channel="tvmao.XMTV5" start="20260805022500 +0000" stop="20260805031200 +0000">
-    <title lang="zh">电视剧</title>
   </programme>
   <programme channel="tvmao.XMTV5" start="20260805031200 +0000" stop="20260805063000 +0000">
     <title lang="zh">电视剧</title>
@@ -22151,10 +22098,6 @@
     <title lang="zh">纪录中国故事</title>
     <desc>纪录</desc>
   </programme>
-  <programme channel="tvmao.GUIZOUTV1" start="20260805022000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">黑狐之风影16</title>
-    <desc>黑狐之风影</desc>
-  </programme>
   <programme channel="tvmao.GUIZOUTV1" start="20260805031500 +0000" stop="20260805041000 +0000">
     <title lang="zh">黑狐之风影17</title>
     <desc>黑狐之风影</desc>
@@ -22330,9 +22273,6 @@
   </programme>
   <programme channel="tvmao.GUIZOUTV1" start="20260806230000 +0000" stop="20260806230100 +0000">
     <title lang="zh">中华人民共和国国歌</title>
-  </programme>
-  <programme channel="tvmao.TCTC1" start="20260805022500 +0000" stop="20260805031300 +0000">
-    <title lang="zh">阳光剧场</title>
   </programme>
   <programme channel="tvmao.TCTC1" start="20260805031300 +0000" stop="20260805040100 +0000">
     <title lang="zh">阳光剧场</title>
@@ -22540,10 +22480,6 @@
   <programme channel="tvmao.TCTC1" start="20260806230100 +0000" stop="20260806233300 +0000">
     <title lang="zh">海南新闻联播</title>
   </programme>
-  <programme channel="tvmao.HEBEI1" start="20260805022000 +0000" stop="20260805031400 +0000">
-    <title lang="zh">经典剧场:西北岁月34</title>
-    <desc>西北岁月</desc>
-  </programme>
   <programme channel="tvmao.HEBEI1" start="20260805031400 +0000" stop="20260805041500 +0000">
     <title lang="zh">经典剧场:西北岁月35</title>
     <desc>西北岁月</desc>
@@ -22748,10 +22684,6 @@
   </programme>
   <programme channel="tvmao.HEBEI1" start="20260806230000 +0000" stop="20260806230100 +0000">
     <title lang="zh">中华人民共和国国歌</title>
-  </programme>
-  <programme channel="tvmao.HLJTV1" start="20260805020400 +0000" stop="20260805030700 +0000">
-    <title lang="zh">阳光剧场:地下地上</title>
-    <desc>地下地上</desc>
   </programme>
   <programme channel="tvmao.HLJTV1" start="20260805030700 +0000" stop="20260805041000 +0000">
     <title lang="zh">阳光剧场:地下地上</title>
@@ -23196,9 +23128,6 @@
   <programme channel="tvmao.HNTV1" start="20260806230300 +0000" stop="20260806234600 +0000">
     <title lang="zh">河南新闻联播</title>
   </programme>
-  <programme channel="tvmao.HUBEI1" start="20260805021000 +0000" stop="20260805031200 +0000">
-    <title lang="zh">早间剧场</title>
-  </programme>
   <programme channel="tvmao.HUBEI1" start="20260805031200 +0000" stop="20260805035000 +0000">
     <title lang="zh">早间剧场</title>
   </programme>
@@ -23627,10 +23556,6 @@
   <programme channel="tvmao.HUNANTV1" start="20260806230100 +0000" stop="20260806233000 +0000">
     <title lang="zh">湖南新闻联播</title>
   </programme>
-  <programme channel="tvmao.JSTV1" start="20260805023300 +0000" stop="20260805031400 +0000">
-    <title lang="zh">上午剧场:生活家</title>
-    <desc>生活家</desc>
-  </programme>
   <programme channel="tvmao.JSTV1" start="20260805031400 +0000" stop="20260805040000 +0000">
     <title lang="zh">上午剧场:生活家</title>
     <desc>生活家</desc>
@@ -23932,9 +23857,6 @@
   </programme>
   <programme channel="tvmao.JXTV1" start="20260806230100 +0000" stop="20260806232800 +0000">
     <title lang="zh">江西新闻联播</title>
-  </programme>
-  <programme channel="tvmao.JILIN1" start="20260805022600 +0000" stop="20260805031800 +0000">
-    <title lang="zh">上午剧场</title>
   </programme>
   <programme channel="tvmao.JILIN1" start="20260805031800 +0000" stop="20260805041100 +0000">
     <title lang="zh">上午剧场</title>
@@ -24371,9 +24293,6 @@
   </programme>
   <programme channel="tvmao.LNTV1" start="20260806230000 +0000" stop="20260806233000 +0000">
     <title lang="zh">第一时间</title>
-  </programme>
-  <programme channel="tvmao.NMGTV1" start="20260805024000 +0000" stop="20260805031100 +0000">
-    <title lang="zh">经典剧场</title>
   </programme>
   <programme channel="tvmao.NMGTV1" start="20260805031100 +0000" stop="20260805040000 +0000">
     <title lang="zh">经典剧场</title>
@@ -25262,10 +25181,6 @@
   <programme channel="tvmao.SDTV1" start="20260806222500 +0000" stop="20260806225600 +0000">
     <title lang="zh">纪录片</title>
   </programme>
-  <programme channel="tvmao.DONGFANG1" start="20260805022700 +0000" stop="20260805031000 +0000">
-    <title lang="zh">风吹半夏6</title>
-    <desc>风吹半夏</desc>
-  </programme>
   <programme channel="tvmao.DONGFANG1" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">风吹半夏7</title>
     <desc>风吹半夏</desc>
@@ -25552,10 +25467,6 @@
   </programme>
   <programme channel="tvmao.DONGFANG1" start="20260806230000 +0000" stop="20260806230100 +0000">
     <title lang="zh">中华人民共和国国歌</title>
-  </programme>
-  <programme channel="tvmao.SHXITV1" start="20260805020800 +0000" stop="20260805030800 +0000">
-    <title lang="zh">经典剧场:隋唐英雄之薛刚反唐</title>
-    <desc>隋唐英雄之薛刚反唐</desc>
   </programme>
   <programme channel="tvmao.SHXITV1" start="20260805030800 +0000" stop="20260805041000 +0000">
     <title lang="zh">经典剧场:隋唐英雄之薛刚反唐</title>
@@ -26369,10 +26280,6 @@
   <programme channel="tvmao.XJTV1" start="20260806231300 +0000" stop="20260806235900 +0000">
     <title lang="zh">动画片</title>
   </programme>
-  <programme channel="tvmao.YNTV1" start="20260805020800 +0000" stop="20260805030900 +0000">
-    <title lang="zh">经典剧场:苍狼20</title>
-    <desc>苍狼</desc>
-  </programme>
   <programme channel="tvmao.YNTV1" start="20260805030900 +0000" stop="20260805040700 +0000">
     <title lang="zh">经典剧场:苍狼21</title>
     <desc>苍狼</desc>
@@ -26570,9 +26477,6 @@
   </programme>
   <programme channel="tvmao.YNTV1" start="20260806230000 +0000" stop="20260806232700 +0000">
     <title lang="zh">云南新闻联播</title>
-  </programme>
-  <programme channel="tvmao.ZJTV1" start="20260805022500 +0000" stop="20260805031100 +0000">
-    <title lang="zh">经典剧场</title>
   </programme>
   <programme channel="tvmao.ZJTV1" start="20260805031100 +0000" stop="20260805040000 +0000">
     <title lang="zh">经典剧场</title>
@@ -27530,9 +27434,6 @@
   <programme channel="tvmao.BINGTUAN" start="20260806221100 +0000" stop="20260806232400 +0000">
     <title lang="zh">剧场</title>
   </programme>
-  <programme channel="tvmao.SANSHATV" start="20260805023000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">自宣段</title>
-  </programme>
   <programme channel="tvmao.SANSHATV" start="20260805031000 +0000" stop="20260805034800 +0000">
     <title lang="zh">精编节目</title>
   </programme>
@@ -27784,9 +27685,6 @@
   <programme channel="tvmao.BTV-BTV12" start="20260806230600 +0000" stop="20260806233800 +0000">
     <title lang="zh">系列昨天的故事</title>
     <desc>昨天的故事</desc>
-  </programme>
-  <programme channel="tvmao.GDTV-GDTV7" start="20260805021000 +0000" stop="20260805030200 +0000">
-    <title lang="zh">动画片</title>
   </programme>
   <programme channel="tvmao.GDTV-GDTV7" start="20260805030200 +0000" stop="20260805040000 +0000">
     <title lang="zh">动画片</title>
@@ -28672,15 +28570,6 @@
   </programme>
   <programme channel="gdtv.广东民生" start="20260806150000 +0000" stop="20260806155000 +0000">
     <title lang="zh">DV现场</title>
-  </programme>
-  <programme channel="tdm.91.mo" start="20260805023000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">重播競健群英 2026</title>
-  </programme>
-  <programme channel="tdm.94.mo" start="20260805030000 +0000" stop="20260805031200 +0000">
-    <title lang="zh">新聞報道</title>
-  </programme>
-  <programme channel="tdm.93.mo" start="20260805020000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">2026馬來西亞羽毛球公開賽：女雙決賽</title>
   </programme>
   <programme channel="tdm.94.mo" start="20260805031200 +0000" stop="20260805032000 +0000">
     <title lang="zh">營商創新研究所</title>
@@ -30854,9 +30743,6 @@
   <programme channel="457392" start="20260806223000 +0000" stop="20260806230000 +0000">
     <title lang="zh">THE ART OF PAIRING</title>
   </programme>
-  <programme channel="mytvsuper.newtv古裝劇場.免費" start="20260805022600 +0000" stop="20260805030800 +0000">
-    <title lang="zh">姥姥的餃子館30</title>
-  </programme>
   <programme channel="mytvsuper.newtv古裝劇場.免費" start="20260805030800 +0000" stop="20260805034900 +0000">
     <title lang="zh">姥姥的餃子館31</title>
   </programme>
@@ -31990,9 +31876,6 @@
     <title lang="zh">超狂風俗大全套服務</title>
     <desc>驚豔成人電影台Amazing TV，獨家代理日本SOD等眾多知名片商，每月引進最新最好看的高畫質成人影片，天天放送知名女優與真實素人主演的各類型強片女優身材火辣劇情千變萬化，毛細孔清晰可見的高畫質水準，結合在地化優質的中文字幕，輕鬆帶領觀眾從電視大銀幕進入幸福快樂的成人體驗! 香蕉台Banana TV，24小時強力放送日本正版高畫質無碼影片！精選百大知名女優所主演的無碼片，毫無馬賽克的清晰畫面配上在地化優質的中文字幕，時時帶您進入最真實解放的激情世界!</desc>
   </programme>
-  <programme channel="hami.StudioClassroom" start="20260805023900 +0000" stop="20260805030300 +0000">
-    <title lang="zh">大家說英語-0805普</title>
-  </programme>
   <programme channel="hami.StudioClassroom" start="20260805030300 +0000" stop="20260805032700 +0000">
     <title lang="zh">空中英語教室-0805普</title>
   </programme>
@@ -32767,9 +32650,6 @@
   <programme channel="hami.Hami體育2台" start="20260805160000 +0000" stop="20260806155959 +0000">
     <title lang="zh">114學年度學生聯賽精選重播</title>
   </programme>
-  <programme channel="hami.靖天中文台" start="20260805022837 +0000" stop="20260805031143 +0000">
-    <title lang="zh">靈探 19</title>
-  </programme>
   <programme channel="hami.靖天中文台" start="20260805031143 +0000" stop="20260805035457 +0000">
     <title lang="zh">靈探 20</title>
   </programme>
@@ -33376,10 +33256,6 @@
   <programme channel="astro.383.tvbxinghe" start="20260806221000 +0000" stop="20260806231000 +0000">
     <title lang="zh">A Bride for a Ride Ep09</title>
     <desc>Starring Chin Ka Lok, Louisa So and Gigi Wong, this popular sitcom depicts how Tiger Wong whose mother is pressuring him into marriage, bumbles through love.</desc>
-  </programme>
-  <programme channel="astro.383.tvbxinghe" start="20260805021000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Always and Ever Ep02</title>
-    <desc>Classic power duo Bobby Au Yeung and Esther Kwan reunite in this time-traveling romance drama, depicting a love that spans three lifetimes.</desc>
   </programme>
   <programme channel="astro.383.tvbxinghe" start="20260805031000 +0000" stop="20260805041000 +0000">
     <title lang="zh">Always and Ever Ep03</title>
@@ -34121,10 +33997,6 @@
     <title lang="zh">她去公爵家的理由 第1季第10集</title>
     <desc>希卡看中萊利娜的才能, 為了收她為徒而拚盡全力他不僅打開了那道鮮少開啟, 通往神聖國的大門, 召喚出聖騎士團, 以展現大神官的威嚴, 甚至還為了表現親和力, 而說出可以叫他爺爺的這種話就在此時, 萊利娜配戴的珠寶髮飾發出了詭異的光芒</desc>
   </programme>
-  <programme channel="pw.HK.axn" start="20260805021000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">打貪妙探 第2季第6集</title>
-    <desc>名人聖誕節策展人德和迪迪達舒在德被殺後, 他們的節日由奢華頓變悲慘</desc>
-  </programme>
   <programme channel="pw.HK.axn" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">紅眼航班 第2季第3集</title>
     <desc>大使館有第二名客人遇害, 軍情五處發現兩名受害者之間的關係</desc>
@@ -34536,10 +34408,6 @@
     <title lang="zh">史丹利圖奇: 尋味義大利 第2季第6集</title>
     <desc>史丹利圖奇遊遍卡拉布里亞地區, 探索這個美麗而動盪的地方與他自身家族的歷史</desc>
   </programme>
-  <programme channel="pw.HK.bbc.lifestyle" start="20260805021000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">傑米的健康美味 第1季第4集</title>
-    <desc>傑米要來大力推廣有益心臟健康的食材他將帶來營養的牛排大餐鮮綠色貓耳朵麵, 最後快速做出幾款外表質樸卻非常顧腸胃的燕麥球</desc>
-  </programme>
   <programme channel="pw.HK.bbc.lifestyle" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">宏觀設計 第24季第1集</title>
     <desc>藝術家莎拉回到達蘭山谷的故鄉, 打造一間以大麻為建材的前衛房屋但隨著成本飆升, 她能順利完成這個麻凝土住宅嗎?</desc>
@@ -34851,9 +34719,6 @@
   </programme>
   <programme channel="pw.HK.bein.sports.1" start="20260806222000 +0000" stop="20260806225000 +0000">
     <title lang="zh">ONE 每周格鬥 第32集</title>
-  </programme>
-  <programme channel="pw.HK.bein.sports.2" start="20260805020000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">板式網球超級聯賽2026</title>
   </programme>
   <programme channel="pw.HK.bein.sports.2" start="20260805031000 +0000" stop="20260805044000 +0000">
     <title lang="zh">板式網球超級聯賽2026</title>
@@ -35740,10 +35605,6 @@
   <programme channel="pw.HK.discovery.asia" start="20260806222000 +0000" stop="20260806231000 +0000">
     <title lang="zh">小食店的傳承 第1季第1集</title>
     <desc>本節目介紹新加坡的小販文化, 融合多種文化的街頭美食, 如何從路邊攤的年代演變到現在的熟食中心</desc>
-  </programme>
-  <programme channel="pw.HK.discovery" start="20260805012500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">家在阿拉斯加 第10季第4集</title>
-    <desc>肺炎疫情爆發後, 阿拉斯加宣布封城, 專業攝影團隊因而撤離奇爾曲家人必須學習自拍, 記錄農莊作息和墾荒的辛勞老亞茲緊急動完了疝氣手術, 開始逐步復建, 挑戰完十公里長跑後, 要繼續投入祖宅狐屋的重建工程亞茲李的谷邊小屋已近完工, 開始鋪設屋頂, 他卻在此時發現創傷後壓力症的陰影揮之不去而奧圖在日暮時分發現奇爾曲路轉進峽谷的段落淹大水, 路基隨時可能不保, 除了緊急疏通, 還得想個永久解決之道</desc>
   </programme>
   <programme channel="pw.HK.discovery" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">髒亂變現金 第2季第7集</title>
@@ -36643,10 +36504,6 @@
   <programme channel="pw.HK.fashionbox.tvb" start="20260806220000 +0000" stop="20260806230000 +0000">
     <title lang="zh">CITY CHIC PARIS</title>
   </programme>
-  <programme channel="pw.HK.global.trekker.tvb" start="20260805024500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">海獵人 4</title>
-    <desc>好望角塘鵝是強悍的獵手,翱翔海岸尋找最愛的獵物--沙丁魚群,並等待一位意想不到的盟友:海豚的協助.</desc>
-  </programme>
   <programme channel="pw.HK.global.trekker.tvb" start="20260805031000 +0000" stop="20260805033500 +0000">
     <title lang="zh">海獵人 5</title>
     <desc>在好望角十字角炙熱的陽光下,大批海豹群聚於納米比亞骷髏海岸.雄性海豹體重可達 360 公斤,巡守領域以保護雌性與幼崽.然而,新的陸地掠食者正逼近,迫使牠們學習全新的防禦行為.</desc>
@@ -36994,10 +36851,6 @@
   <programme channel="pw.HK.hbo" start="20260806205500 +0000" stop="20260806224500 +0000">
     <title lang="zh">聖女復仇</title>
     <desc>蠻族女獵手紅髮索尼婭要集結一群不太尋常的戰士，來對抗強大的德拉岡和他致命的新娘</desc>
-  </programme>
-  <programme channel="pw.HK.hbo.family" start="20260805025200 +0000" stop="20260805030300 +0000">
-    <title lang="zh">夏令營奇幻島 第1季第9集</title>
-    <desc>睡衣是歐乖的好朋友，但是歐乖出門卻不會帶著睡衣，睡衣常常獨自顧家，有一天睡衣把另一件睡服視為好朋友，歐乖為了不讓睡衣失望，不得不假扮睡服，卻把自己累得要死，於是嘿朵想出了好方法</desc>
   </programme>
   <programme channel="pw.HK.hbo.family" start="20260805030300 +0000" stop="20260805032000 +0000">
     <title lang="zh">夏令營奇幻島 第1季第10集</title>
@@ -37622,10 +37475,6 @@
   <programme channel="pw.HK.hbo.signature" start="20260806220000 +0000" stop="20260806224500 +0000">
     <title lang="zh">Law  Order 21 第1季第1集</title>
     <desc>新搭檔調查一名臭名昭著的藝人謀殺案</desc>
-  </programme>
-  <programme channel="pw.HK.history" start="20260805022000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">歷史重大謎團 第5季第5集</title>
-    <desc>都靈裹屍布上那幅令人不寒而慄的影像, 數百萬人為之着迷但我們究竟看見了甚麼?它又是如何形成的?</desc>
   </programme>
   <programme channel="pw.HK.history" start="20260805031500 +0000" stop="20260805041000 +0000">
     <title lang="zh">特種部隊 第1季第3集</title>
@@ -38427,10 +38276,6 @@
   <programme channel="pw.HK.kix.tvb" start="20260806202500 +0000" stop="20260806223000 +0000">
     <title lang="zh">Iron Squad W 11</title>
     <desc>Iron Squad W 是個韓國軍事求生真人秀新一季的節目將選出最精銳的女軍人節目匯聚了六個特種部隊單位,在陸地海洋和空中執行極具挑戰性的任務每隊特種部隊都有4名最精銳的預備役女軍人參加比賽..</desc>
-  </programme>
-  <programme channel="pw.HK.love.nature" start="20260805021000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">珊瑚之城 第1季第1集</title>
-    <desc>帶你發現那座位於波濤之下眾城之中最奇幻壯麗的城市，那裡是愛情滋長與通勤旅者聚集之地，珊瑚礁主幹道宛如繁忙街道，浪漫與遷徙生命在其中交錯如潮跟隨一隻懷抱愛意的綠蠵龜，展開牠的尋愛旅程；坐下來，陪伴一位鶴鴕爸爸細心守護他那剛孵化的小寶寶們</desc>
   </programme>
   <programme channel="pw.HK.love.nature" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">珊瑚之城 第1季第2集</title>
@@ -40744,9 +40589,6 @@
   </programme>
   <programme channel="pw.HK.now.sports.3" start="20260806220000 +0000" stop="20260806233000 +0000">
     <title lang="zh">世界羽聯巡迴賽 2026 日本公開賽</title>
-  </programme>
-  <programme channel="pw.HK.now.sports.4" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">一CUE過百 第144集</title>
   </programme>
   <programme channel="pw.HK.now.sports.4" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">一CUE過百 第138集</title>
@@ -44379,10 +44221,6 @@
     <title lang="zh">霍家拳之鐵臂嬌娃2</title>
     <desc>在幫派紛爭中銷聲匿跡的龍頭阿暿向來獨來獨往,武功了得,更是霍氏醉拳的高手阿暿隱姓埋名化身為懲治惡勢力的俠客而行事殘暴的軍閥霄霸天與黑虎山山匪勾結,成立壓榨當地貧民的茶廠 來幫他們種植鴉片阿暿..</desc>
   </programme>
-  <programme channel="pw.HK.rock.action.tvb" start="20260805004500 +0000" stop="20260805030500 +0000">
-    <title lang="zh">魔鬼終結者2</title>
-    <desc>阿諾史瓦辛格加在這部震撼人心的電影中再次演繹了終結者這一改變他職業生涯的角色這部震撼人心的電影更被美國電影學會選為史上十大科幻電影之一</desc>
-  </programme>
   <programme channel="pw.HK.rock.action.tvb" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">天崩地裂</title>
     <desc>皮爾斯・布洛斯南主演但丁峰,一座寧靜小鎮面臨甦醒火山帶來的熔岩末日爆炸性的動作場面與緊張懸疑,讓這部災難驚悚片成為必看之作!</desc>
@@ -44486,10 +44324,6 @@
   <programme channel="pw.HK.rock.action.tvb" start="20260806204000 +0000" stop="20260806224000 +0000">
     <title lang="zh">地獄怪客2:金甲軍團</title>
     <desc>在地獄怪客2:金甲軍團中,地獄怪客必須迎戰一支由邪惡反派釋放出的致命怪物大軍由吉勒摩・戴托羅執導,這部動作續集融合了幽默感英雄氣概與史詩級的激烈戰鬥</desc>
-  </programme>
-  <programme channel="pw.HK.rock綜藝娛樂.tvb" start="20260805022500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">探險奇兵:冒險新章 7</title>
-    <desc>康納被迫與成為圖書館員前的舊識重逢,並必須打倒在他缺席期間勢力壯大的宿敵.</desc>
   </programme>
   <programme channel="pw.HK.rock綜藝娛樂.tvb" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">探險奇兵:冒險新章 8</title>
@@ -44678,10 +44512,6 @@
   <programme channel="pw.HK.rock綜藝娛樂.tvb" start="20260806224500 +0000" stop="20260806233000 +0000">
     <title lang="zh">塞斯梅耶斯深夜秀 13 127</title>
     <desc>塞斯梅耶斯深夜秀由艾美獎得主洛恩米高斯監製,邀請一線紅星作嘉賓,還有難忘的喜劇和最棒的音樂人.</desc>
-  </programme>
-  <programme channel="pw.HK.super.eyt.tvb" start="20260805024200 +0000" stop="20260805030400 +0000">
-    <title lang="zh">愛．回家之開心速遞 641</title>
-    <desc>樹根不慎弄傷手指而無法做飯，碰巧高小姐帶來新聘外傭烹調的菜式讓熊家各人品嚐高小姐對家傭讚不絕口若水等及後遇到高小姐的家傭，得知其孿生妹妹Meli正打算尋找新僱主樹根等約Meli面談後，決定聘請她Meli首天上班，表現令人滿意，怎料翌日問題便接踵而來若水等欲辭退Meli，樹根卻認為應該給予時間磨合，讓她融入熊家然而，樹根後來聽到高小姐道出其家傭的各項弊端，他發現Meli亦有同樣的問題</desc>
   </programme>
   <programme channel="pw.HK.super.eyt.tvb" start="20260805030400 +0000" stop="20260805032700 +0000">
     <title lang="zh">愛．回家之開心速遞 642</title>
@@ -46370,9 +46200,6 @@
     <title lang="zh">中年好聲音2 20</title>
     <desc>十四位參賽者各唱一曲，帶來陳慧嫻金曲夜戀戀風塵歌詞密起伏大，打頭陣的古淖文力求頂住壓力陳蒨葶挑戰飄雪，能否還原慧嫻當年榨橙式唱法？人生何處不相逢，劉可期待與父親再遇之時鄭梓浩聲沙演繹去吧！，被揭改詞？王玥復刻慧嫻造型，訴說逝去的諾言顏米羔爆發頑強鬥志，高呼我心不死！情意結講求真假聲轉換，陳俞霏唱出失戀情感林若盈的紅茶館鬼馬調皮，卻略嫌不夠嗲？</desc>
   </programme>
-  <programme channel="pw.HK.super.sports.tvb" start="20260805005800 +0000" stop="20260805030500 +0000">
-    <title lang="zh">英格蘭冠軍聯賽20252026 88</title>
-  </programme>
   <programme channel="pw.HK.super.sports.tvb" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">二零二五香港公開羽毛球錦標賽 世界羽聯世界巡迴賽超級500 5</title>
   </programme>
@@ -46441,10 +46268,6 @@
   </programme>
   <programme channel="pw.HK.super.sports.tvb" start="20260806214000 +0000" stop="20260806234300 +0000">
     <title lang="zh">澳洲職業足球聯賽20252026 128</title>
-  </programme>
-  <programme channel="pw.HK.super.atv.drama.tvb" start="20260805022000 +0000" stop="20260805030700 +0000">
-    <title lang="zh">浣花洗劍錄 3</title>
-    <desc>胡不愁為紫衣侯送戰書予白衣人，可是途中被木郎君掉包，愁為取回戰書而被逼答應替他毒殺水天姬紫與白決戰，紫險勝半招，白揚言七年後重來紫傷重垂危，恐武林必再遭浩劫，方寶兒自動請纓，願擔起拯救武林之重任</desc>
   </programme>
   <programme channel="pw.HK.super.atv.drama.tvb" start="20260805030700 +0000" stop="20260805040000 +0000">
     <title lang="zh">大內群英I 33</title>
@@ -46673,10 +46496,6 @@
   <programme channel="pw.HK.super.atv.drama.tvb" start="20260806224700 +0000" stop="20260806233100 +0000">
     <title lang="zh">大內群英I 35</title>
     <desc>曾靜發現椅腳有被人踢倒之痕跡，認為白泰官之死有可疑無名奉皇命將荔枝貢品，送給呂四娘品嚐，離開時與曾靜交手，被曾靜制服曾靜識破泰官之死，無名坦承幕後真兇是雍正，呂留良怒不可遏，並要四娘約見雍正，伺機取其性命，為泰官報仇四娘不忍傷害雍正，放走無名並傳口訊給雍正年羹堯得知口訊，即追截雍正，並向雍正獻計留良得知中計，寧死不降，即託曾靜帶四娘離去，並將寫有雍正篡位之書交給曾靜，囑咐曾靜流傳後世</desc>
-  </programme>
-  <programme channel="pw.HK.super.horror.tvb" start="20260805024300 +0000" stop="20260805030700 +0000">
-    <title lang="zh">兄弟幫 2012-2013 792</title>
-    <desc>2600年前的觀星儀是甚麼模樣？遠古歷史沒有文字記載，埋藏地球深處的古代遺物成唯一線索可惜出土文物零零碎碎，令人難以憑想像拼湊還原歷史本貌，考古學家也只有大膽假設推敲不同時期的文明進度現時為人熟知的人類文明史，其實建構於重重推斷之上，當中有太多似是而非的推論，不斷受到各種考古發現的挑戰不少古代高科技出土文物與所屬時代的文明進度極不吻合，究竟是怎麼回事？BobPenny再次請來古文明達人Chris，分享二件古科技大發現，見識二千多年前的測星和觀星尖端科技！</desc>
   </programme>
   <programme channel="pw.HK.super.horror.tvb" start="20260805030700 +0000" stop="20260805034900 +0000">
     <title lang="zh">直播靈接觸 Sr. 3 22</title>
@@ -47066,10 +46885,6 @@
   <programme channel="pw.HK.super.horror.tvb" start="20260806232500 +0000" stop="20260806234600 +0000">
     <title lang="zh">奇幻潮 11</title>
     <desc>勾魂使者來到周太身邊，告知她的生命還剩四小時一般而言，勾魂使者不會和人類直接對話，但他今次早到了，閒著無聊便提早告知周太，好讓她有所準備，了結在人世的最後心願豈料周太最後的心願，竟是做最後一頓晚飯給家中小孩吃！勾魂使者整天伴著周太逛街市，買餸準備，還預算一起用膳！連做飯時的煙味，他也深深的感受到了，基於好奇，勾魂使者也一嚐周太的廚藝！百年以來未曾一哭的勾魂使者，竟因此流下了一滴眼淚</desc>
-  </programme>
-  <programme channel="pw.HK.super煲劇.tvb" start="20260805023900 +0000" stop="20260805030200 +0000">
-    <title lang="zh">天天天晴 102</title>
-    <desc>乃強與井喬傾談，但她卻誤會乃強得悉自己打算注射美容針一事靖鈴不想浩文再誤會井喬，只好把真相說出井喬按原定計畫與浩文慶祝結婚周年紀念，而這邊廂，浩文亦特意訂了妻子喜歡的高級餐廳準備與她共晉晚餐</desc>
   </programme>
   <programme channel="pw.HK.super煲劇.tvb" start="20260805030200 +0000" stop="20260805032400 +0000">
     <title lang="zh">天天天晴 103</title>
@@ -47755,10 +47570,6 @@
     <title lang="zh">超級無敵獎門人 8</title>
     <desc>超級無敵馬拉松中劉德華與陶大宇對戰，誰勝誰負？兵乓波以 女人用品為題，梁榮忠因衛生巾而失分？劉德華蓋鳴暉梁榮忠選中特辣壽司，哪一位會投降？跑馬仔 曾華倩帶領的方塊能否勝出？</desc>
   </programme>
-  <programme channel="pw.HK.super話當年.tvb" start="20260805025000 +0000" stop="20260805031100 +0000">
-    <title lang="zh">真情 1026</title>
-    <desc>梁友善姨叉燒炳到難民營辦事處欲尋家明下落，未有所獲，叉燒炳遂提議在報章刊登尋人廣告阿明駕單車運載石油氣到大排檔，只見他對人有禮，勤奮上進，偶然之下認識了木川阿明在籠屋居住，但孜孜不倦地翻閱時事雜誌，眾人大讚他好學，不似其他越南難民原來阿明來港超過十年，一直積極儲蓄希望有機會到美國讀書，故不辭勞苦日夜兼職阿明在郊野公園執拾垃圾，無意中發現阿家遇劫，被阿家誤以為是賊人同黨，大喊警察來拉人</desc>
-  </programme>
   <programme channel="pw.HK.super話當年.tvb" start="20260805031100 +0000" stop="20260805033300 +0000">
     <title lang="zh">真情 1021</title>
     <desc>生津在餐廳被侍應投以奇異目光，大發脾氣奔入廁所，臉上的疤痕卻嚇倒一小女孩，生津望着鏡子悲從中來安仔陪生津到海旁散心，生津覺得自己現時樣貌，一定無人肯娶，安仔聞言心酸，衝口說會負責任，假若生津嫁不出，便娶她為妻照顧她下半世生津大為感動李家等人正在談論安仔與生津之事，阿家等皆不希望二人走在一起生津無時無刻收到安仔的來電關心，歡喜不已，小妮覺心願達成，也感安心安仔送生津回家，生津突然送上一吻</desc>
@@ -48266,10 +48077,6 @@
   <programme channel="pw.HK.super話當年.tvb" start="20260806233600 +0000" stop="20260806235700 +0000">
     <title lang="zh">真情 1035</title>
     <desc>好姨強拉Joan到生津家向安仔講清楚，Joan無奈之際，突見安仔與生津打開大門，即躲到消防門後Joan欲與唐明返回泰國結婚，唐明拒絕，鼓勵Joan勇敢地面對安仔，清楚交代雙方的感情Joan鼓起勇氣致電安仔要求出來見面二人再度相見，顯得拘謹，當安仔得悉生津曾瞞着他接聽Joan電話，大感愕然，終於相信善姨的話Joan得知安仔與生津之前在泰國酒店房內一事純屬誤會，二人歡喜得緊緊擁抱一起</desc>
-  </programme>
-  <programme channel="pw.HK.super識食.tvb" start="20260805024900 +0000" stop="20260805031100 +0000">
-    <title lang="zh">香港原味道 Sr.5 9</title>
-    <desc>室內養殖魚場引入澳洲國寶魚墨瑞鱈魚，奈何疫情令魚滯銷，但無阻場主向港人推廣的決心，還即席炮製墨瑞鱈魚三食讓主持品嚐！大廚黃亞保在疫境下鑽研即食餸包，令繁忙都市人能輕易品嚐陳皮紅豆沙客家燜腩仔等功夫美食，方便快捷主持化身收割員採收本地水稻，亦不忘品嚐本地米原味道，象尖米元朗大棠絲苗的形狀質感有何不同？今集派出頌鵬德賢走進本地養豬場，完成幫黑毛豬沖涼餵奶等任務，順道認識優質本地黑毛豬</desc>
   </programme>
   <programme channel="pw.HK.super識食.tvb" start="20260805031100 +0000" stop="20260805033300 +0000">
     <title lang="zh">香港原味道 Sr.5 10</title>
@@ -48906,10 +48713,6 @@
   <programme channel="pw.HK.thrill.tvb" start="20260806220000 +0000" stop="20260806233500 +0000">
     <title lang="zh">Hide  Seek aka The Last Hide  Seek</title>
     <desc>十三年前,廢棄大廈的一場爆炸奪走了童的好友諾安十三年後,童與昔日的朋友們重返故地,此地如今已成為他們就讀的大學校園當一名與諾安容貌相同的女孩出現,兒時的遊戲化為索命的詛咒復仇的惡靈再度甦醒,逐一..</desc>
-  </programme>
-  <programme channel="pw.HK.tlc旅遊生活頻道" start="20260805022000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">我的夢幻婚紗 第18季第2集</title>
-    <desc>本集克萊菲爾婚紗店正在舉辦海莉佩姬婚紗巡迴展, 海莉佩姬本尊現身, 陪幸運的新娘們挑夢幻婚紗婚紗巡迴展之外, 店裡接待兩位不好取悅的新娘一位追求衣不驚人死不休, 放話要近乎裸體地步入禮堂另一位新娘則是被親友萬般嫌棄現有婚紗後, 在距離大日子只剩一個月的緊急時刻臨時抱佛腳, 令藍迪與顧問傷透腦筋</desc>
   </programme>
   <programme channel="pw.HK.tlc旅遊生活頻道" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">瘋台灣大挑戰 第2季第8集</title>
@@ -49715,10 +49518,6 @@
   <programme channel="pw.HK.viu.頻道" start="20260806220000 +0000" stop="20260806230000 +0000">
     <title lang="zh">The Empire: 法之帝國 第5集</title>
     <desc>講述的是夢想世襲的韓國最高法官貴族們的醜聞，以及人性與貪婪的故事</desc>
-  </programme>
-  <programme channel="pw.HK.zoomoo.tvb" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Animal All Stars 45</title>
-    <desc>ZooMoo teams compete in a quiz show abut animal risk takers.</desc>
   </programme>
   <programme channel="pw.HK.zoomoo.tvb" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">Animal All Stars 46</title>
@@ -50790,9 +50589,6 @@
   <programme channel="pw.HK.中天亞洲台" start="20260806220000 +0000" stop="20260806230000 +0000">
     <title lang="zh">Mit台灣誌</title>
   </programme>
-  <programme channel="pw.HK.中央電視台新聞頻道" start="20260805030000 +0000" stop="20260805031800 +0000">
-    <title lang="zh">新聞直播間</title>
-  </programme>
   <programme channel="pw.HK.中央電視台新聞頻道" start="20260805031800 +0000" stop="20260805033400 +0000">
     <title lang="zh">焦點訪談</title>
   </programme>
@@ -51362,10 +51158,6 @@
   <programme channel="pw.HK.動物星球頻道" start="20260806225000 +0000" stop="20260806234500 +0000">
     <title lang="zh">哥斯大黎加自然寫真</title>
     <desc>哥斯大黎加面積雖小, 卻生機盎然, 夾在南北美洲太平洋與加勒比海之間, 不管是陸上還是海裡都有豐富的資源</desc>
-  </programme>
-  <programme channel="pw.HK.千禧經典台.tvb" start="20260805021000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">性在有情 15 粵</title>
-    <desc>性治療師林靜兒與社工男友莫大雄，為身邊的家人及好友解決男女間的糾紛，並為他們的性生活作出指引偏偏二人婚後也問題多多，導致壓力爆煲，陷入不育危機出盡心思幫助別人的這對夫婦，能醫而不自醫？</desc>
   </programme>
   <programme channel="pw.HK.千禧經典台.tvb" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">性在有情 16 粵</title>
@@ -52204,14 +51996,6 @@
   <programme channel="pw.HK.娛樂新聞台.tvb" start="20260806230000 +0000" stop="20260806233000 +0000">
     <title lang="zh">娛樂新聞報道粵</title>
     <desc>每晚緊貼香港娛樂圈的消息，以至世界各地的影視娛樂新聞，報道藝人最新動態劇集和電影宣傳演唱會精華頒獎禮盛況等，甚至遠赴外地採訪娛樂盛事追蹤各地影星，專訪觀眾熟悉的歌影視紅人，讓大家瞬間掌握影視娛樂圈的動態和最新消息</desc>
-  </programme>
-  <programme channel="pw.HK.戲曲台.tvb" start="20260805030000 +0000" stop="20260805030800 +0000">
-    <title lang="zh">胡不歸之逼媳 羅家英,盧海鵬</title>
-    <desc>折子戲名為逼媳，屬於胡不歸的其中一折，主要演員有羅家英盧海鵬，剪輯自1999年的歡樂滿東華</desc>
-  </programme>
-  <programme channel="pw.HK.戲曲台.tvb" start="20260805030800 +0000" stop="20260805031500 +0000">
-    <title lang="zh">男燒衣 阮兆輝</title>
-    <desc>折子戲名為男燒衣，主要演員有阮兆輝，剪輯自1994年的華東水災籌款之夜</desc>
   </programme>
   <programme channel="pw.HK.戲曲台.tvb" start="20260805031500 +0000" stop="20260805032200 +0000">
     <title lang="zh">昭君出塞 甄妮</title>
@@ -56366,10 +56150,6 @@
     <title lang="zh">孤男寡女粵</title>
     <desc>華少 劉德華飾是一家電腦零件銷售公司的部門經理,他風流花心並有過一段婚史,其名聲在一些女同事口中並不好.KINKI 鄭秀文飾是華少屬下的一名新員工,她對愛情很是看重,並在傷心時會有神經質般的表現,近日她發現男友跟其他女子有染,於是在公司裏瘋鬧了一場並準備辭職,在購物時還將物品一一弄丟.而華少在公司裏與一名競爭對手Martin有矛盾,幸得到KINKI的援助得以化解,使華少對她很有好感,...</desc>
   </programme>
-  <programme channel="pw.HK.翡翠台.tvb" start="20260805021000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">命轉皇后30粵普PG</title>
-    <desc>周寅之被刀琴抓了回來，呂顯提將其殺掉為芳吟報仇張遮給了謝危聖上賜的令牌，拿著它就可以出入皇城調動燕家軍，薛遠卻帶人趕了過來，謝危雖然是他的親兒薛定非，但他沒有一絲一毫情分，父子二人對峙著</desc>
-  </programme>
   <programme channel="pw.HK.翡翠台.tvb" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">我係小廚神3粵</title>
     <desc>小廚神冠軍爭奪戰，兩強連同助廚需煮出前菜主菜甜品，事前準備工夫做到足他們手上還有三張指令牌，隨時召喚支援或要求對手助廚暫停工作Nicole與Fergus這方意外頻生，她怎樣見招拆招？Timothy不停被激動的Cyrus投訴，所為何事？過程中小廚神盡顯真性情，還預先感受職場陰暗兩小時後，法國童話故事主題美食與東南亞套餐上桌，爭取評判手上的金星章，冠軍誰屬，就看星級評判陳展鵬的一票！</desc>
@@ -57645,10 +57425,6 @@
   <programme channel="pw.HK.鳳凰衛視資訊台" start="20260806232700 +0000" stop="20260806233000 +0000">
     <title lang="zh">鳳凰氣象站</title>
   </programme>
-  <programme channel="pw.HK.黃金翡翠台.tvb" start="20260805022000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">男兒本色 12 粵</title>
-    <desc>湘自小跟威在江湖打滾，邂逅社工文豈料，好友森亦心儀文，湘和森在公事上常有紛爭，二人幾近反目另方面，湘也難捨青梅竹馬的媚，遂形成一段錯綜複雜的四角戀情到底湘如何面對這連串人生的重大考驗？</desc>
-  </programme>
   <programme channel="pw.HK.黃金翡翠台.tvb" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">萬家傳說 16 粵</title>
     <desc>柳姿見文通受芊芊迷惑，沉迷色慾，以致形容憔悴，心有不忍包金見大妹嫁杏有期，仍要強忍情緒，向她祝賀一番，並提醒她嫁予潤發後，不可任性妄為大妹雖看出其心意，但雙方未坦誠示愛，暗感無奈潤發婚期將至，遇上胡晶，經不起其色誘，與她扯上關係胡晶知年仁為一不死之人，想一嚐其皮肉之味，施計加害他，可惜未能入手德福邂逅如煙後，開始暗戀她，施計討好取悅她，可惜如煙對年仁仍未忘情，對他不加理會柳姿恐文通泥足深陷，提醒他芊芊實為一狐狸精化身文通決斷絕與芊芊的關係</desc>
@@ -58209,10 +57985,6 @@
   </programme>
   <programme channel="pw.TW.abc.australia.澳洲公廣.4gtv" start="20260806204000 +0000" stop="20260806211000 +0000">
     <title lang="zh">7.30普</title>
-  </programme>
-  <programme channel="pw.TW.amc電影台.tbc" start="20260805011000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">格羅夫區域</title>
-    <desc>房地產開發商尼古拉斯計劃拆除破舊的住宅區，並將其改建為豪華公寓然而居民卻不願屈服，並創立一個TKG的自救組織，寄發恐嚇信給房地產公司的每個員工被恐嚇信嚇壞的拆除專案負責人瑪麗莎，拜託尼古拉斯認真看待這些居民的抗議，因為這些威脅的內容正在一一實現當TKG開始向房地產公司的所有人展開復仇，這些員工只能祈禱自己能夠躲過這場劫難</desc>
   </programme>
   <programme channel="pw.TW.amc電影台.tbc" start="20260805031500 +0000" stop="20260805045000 +0000">
     <title lang="zh">窺視危機</title>
@@ -59318,9 +59090,6 @@
   <programme channel="pw.TW.bbc.earth" start="20260806223500 +0000" stop="20260806232500 +0000">
     <title lang="zh">史丹利圖奇：尋味義大利S26普</title>
   </programme>
-  <programme channel="pw.TW.bbc.lifestyle" start="20260805021000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">傑米的健康美味S14普</title>
-  </programme>
   <programme channel="pw.TW.bbc.lifestyle" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">宏觀設計S241普</title>
   </programme>
@@ -60101,9 +59870,6 @@
   <programme channel="pw.TW.cartoonito" start="20260806220000 +0000" stop="20260806230000 +0000">
     <title lang="zh">拉拉的星冒險普</title>
   </programme>
-  <programme channel="pw.TW.catchplay電影台" start="20260805010000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">龍騰四海雙語輔15</title>
-  </programme>
   <programme channel="pw.TW.catchplay電影台" start="20260805031000 +0000" stop="20260805051000 +0000">
     <title lang="zh">不眠日4-5護</title>
   </programme>
@@ -60181,12 +59947,6 @@
   </programme>
   <programme channel="pw.TW.catchplay電影台" start="20260806210000 +0000" stop="20260806231000 +0000">
     <title lang="zh">咖喱辣椒雙語護</title>
-  </programme>
-  <programme channel="pw.TW.cbeebies" start="20260805030000 +0000" stop="20260805030700 +0000">
-    <title lang="zh">阿奇幼幼園S419普</title>
-  </programme>
-  <programme channel="pw.TW.cbeebies" start="20260805030700 +0000" stop="20260805031400 +0000">
-    <title lang="zh">阿奇幼幼園S418普</title>
   </programme>
   <programme channel="pw.TW.cbeebies" start="20260805031400 +0000" stop="20260805032000 +0000">
     <title lang="zh">阿奇幼幼園：小朋友俱樂部S121普</title>
@@ -63059,9 +62819,6 @@
   <programme channel="pw.TW.dmax.mod" start="20260806225200 +0000" stop="20260806234100 +0000">
     <title lang="zh">稱霸廢鐵場第2季:風火輪拖吊車普</title>
   </programme>
-  <programme channel="pw.TW.dreamworks.mod" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">奧莉維亞15普</title>
-  </programme>
   <programme channel="pw.TW.dreamworks.mod" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">奧莉維亞16普</title>
   </programme>
@@ -63385,12 +63142,6 @@
   </programme>
   <programme channel="pw.TW.dreamworks.mod" start="20260806231000 +0000" stop="20260806233500 +0000">
     <title lang="zh">天外三俠：幽林傳說18護</title>
-  </programme>
-  <programme channel="pw.TW.dw德國之聲.4gtv" start="20260805030000 +0000" stop="20260805030200 +0000">
-    <title lang="zh">德國之聲新聞普</title>
-  </programme>
-  <programme channel="pw.TW.dw德國之聲.4gtv" start="20260805030200 +0000" stop="20260805031500 +0000">
-    <title lang="zh">DW News Focus普</title>
   </programme>
   <programme channel="pw.TW.dw德國之聲.4gtv" start="20260805031500 +0000" stop="20260805034500 +0000">
     <title lang="zh">特寫時刻普</title>
@@ -64181,9 +63932,6 @@
   <programme channel="pw.TW.ettoday綜合台.mod" start="20260806223000 +0000" stop="20260806230000 +0000">
     <title lang="zh">料理美食王精華版44普</title>
   </programme>
-  <programme channel="pw.TW.euronews.mod" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Wake up Europe普</title>
-  </programme>
   <programme channel="pw.TW.euronews.mod" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">Wake up Europe普</title>
   </programme>
@@ -64691,9 +64439,6 @@
   <programme channel="pw.TW.eurosport.mod" start="20260806230000 +0000" stop="20260806233000 +0000">
     <title lang="zh">UCI Cross-country Short Track World Cup  Women Elite    Pal Arinsal普</title>
   </programme>
-  <programme channel="pw.TW.eve.mod" start="20260805022600 +0000" stop="20260805031200 +0000">
-    <title lang="zh">兒童烘焙冠軍賽第7季:主題杯子蛋糕普</title>
-  </programme>
   <programme channel="pw.TW.eve.mod" start="20260805031200 +0000" stop="20260805040000 +0000">
     <title lang="zh">多妻家庭要徵婚第4季:遙遠夢想普</title>
   </programme>
@@ -65062,9 +64807,6 @@
   </programme>
   <programme channel="pw.TW.eye.tv戲劇.mod" start="20260806220000 +0000" stop="20260806230000 +0000">
     <title lang="zh">生萬物27普</title>
-  </programme>
-  <programme channel="pw.TW.france24f.mod" start="20260805030000 +0000" stop="20260805031200 +0000">
-    <title lang="zh">Lessentiel : le journal普</title>
   </programme>
   <programme channel="pw.TW.france24f.mod" start="20260805031200 +0000" stop="20260805033000 +0000">
     <title lang="zh">Billet retour普</title>
@@ -65884,10 +65626,6 @@
   </programme>
   <programme channel="pw.TW.ginx.esports.tv.4gtv" start="20260806193000 +0000" stop="20260806200000 +0000">
     <title lang="zh">瘋傳起來吧：Ken Cheng</title>
-  </programme>
-  <programme channel="pw.TW.global.trekker.探索世界.tbc" start="20260805024500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">海獵人:4</title>
-    <desc>好望角塘鵝是強悍的獵手，翱翔海岸尋找最愛的獵物沙丁魚群，並等待一位意想不到的盟友：海豚的協助</desc>
   </programme>
   <programme channel="pw.TW.global.trekker.探索世界.tbc" start="20260805031000 +0000" stop="20260805033500 +0000">
     <title lang="zh">海獵人:5</title>
@@ -67011,10 +66749,6 @@
     <title lang="zh">新聞挖挖哇</title>
     <desc>給您最即時的新聞話題，最勁爆的社會內幕，在不用劍拔弩張的新聞環境下，新聞挖挖哇一起探討新聞社會上發生的大小事，體會社會變化，抓住時事脈絡</desc>
   </programme>
-  <programme channel="pw.TW.jstar極限台電影頻道.tbc" start="20260805014000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">金瓶梅1</title>
-    <desc>極限 JstarHD西門慶生性風流陰險奸詐，藉著是候補提刑官之威勢欺淩百姓，淫人妻女，西門慶看中潘金蓮的美貌，逐要求王婆從中設計讓他得逞獸慾，事後武大郎知道而找上西門慶，被打成重傷臥床不起，西門慶更甚而下毒害死武大郎，武松得知憤而找西門慶報仇，卻中西門慶的設計，殺了人將被判死罪，潘金蓮為求武松免於死罪，於是答應西門慶的要求納為五娘，而武松發配海南服刑，從此潘金蓮深入西門府受到西門慶的姦淫，忍辱偷生只為再見武松一面</desc>
-  </programme>
   <programme channel="pw.TW.jstar極限台電影頻道.tbc" start="20260805031000 +0000" stop="20260805050000 +0000">
     <title lang="zh">玉蒲團之官人我要</title>
     <desc>極限 JstarHD蘇三是妓院中新來的雛妓，老闆高老大拍賣蘇三的初夜權，雷大官人和書生朱志昂都想要得到蘇三，最終，朱志昂獲勝，雷大官人則買下了鳳翔朱志昂進京趕考，貪婪的高老大便趁此機會逼迫蘇三賣身，所幸善良的雷大官人及時趕到，納了蘇三為妾，將其收至自己的庇護之下然而，雷大官人的正房十分妒忌美貌的蘇三，她夥同情人害死了雷大官人，將罪過栽贓到了蘇三的頭上......</desc>
@@ -67534,9 +67268,6 @@
   <programme channel="pw.TW.lifetime.mod" start="20260806230500 +0000" stop="20260806233500 +0000">
     <title lang="zh">瑞秋雷在托斯卡尼24普</title>
   </programme>
-  <programme channel="pw.TW.liveabc互動英語頻道.4gtv" start="20260805024500 +0000" stop="20260805030600 +0000">
-    <title lang="zh">Live互動英語-20260805普</title>
-  </programme>
   <programme channel="pw.TW.liveabc互動英語頻道.4gtv" start="20260805030600 +0000" stop="20260805032800 +0000">
     <title lang="zh">ABC互動英語-20260805普</title>
   </programme>
@@ -67902,9 +67633,6 @@
   </programme>
   <programme channel="pw.TW.liveabc互動英語頻道.4gtv" start="20260806213600 +0000" stop="20260806215500 +0000">
     <title lang="zh">ABC互動英語-20260806普</title>
-  </programme>
-  <programme channel="pw.TW.love.nature.mod" start="20260805021000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">珊瑚之城 雙語S11普</title>
   </programme>
   <programme channel="pw.TW.love.nature.mod" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">珊瑚之城 雙語S12普</title>
@@ -70469,9 +70197,6 @@
   <programme channel="pw.TW.nice.tv.靖天歡樂台.mod" start="20260806220000 +0000" stop="20260806230000 +0000">
     <title lang="zh">進擊的台灣459普</title>
   </programme>
-  <programme channel="pw.TW.nick.jr.mod" start="20260805025000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">泡泡先生一家S1125普</title>
-  </programme>
   <programme channel="pw.TW.nick.jr.mod" start="20260805031000 +0000" stop="20260805033500 +0000">
     <title lang="zh">泡泡先生一家S1126普</title>
   </programme>
@@ -70861,9 +70586,6 @@
   </programme>
   <programme channel="pw.TW.nick.jr.mod" start="20260806232500 +0000" stop="20260806234500 +0000">
     <title lang="zh">泡泡先生一家S2226普</title>
-  </programme>
-  <programme channel="pw.TW.nick.jr.兒童頻道.4gtv" start="20260805025000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">泡泡先生一家普</title>
   </programme>
   <programme channel="pw.TW.nick.jr.兒童頻道.4gtv" start="20260805031000 +0000" stop="20260805033500 +0000">
     <title lang="zh">泡泡先生一家普</title>
@@ -71387,10 +71109,6 @@
   <programme channel="pw.TW.pet.club.tv.mod" start="20260806210000 +0000" stop="20260806220000 +0000">
     <title lang="zh">寵物大集合普</title>
   </programme>
-  <programme channel="pw.TW.rock.action.tbc" start="20260805004500 +0000" stop="20260805030500 +0000">
-    <title lang="zh">魔鬼終結者 2</title>
-    <desc>1991 阿諾史瓦辛格加在這部震撼人心的電影中再次演繹了終結者這一改變他職業生涯的角色這部震撼人心的電影更被美國電影學會選為史上十大科幻電影之一</desc>
-  </programme>
   <programme channel="pw.TW.rock.action.tbc" start="20260805030500 +0000" stop="20260805045500 +0000">
     <title lang="zh">天崩地裂</title>
     <desc>1997 皮爾斯?布洛斯南主演但丁峰,一座寧靜小鎮面臨甦醒火山帶來的熔岩末日爆炸性的動作場面與緊張懸疑,讓這部災難驚悚片成為必看之作!</desc>
@@ -71487,9 +71205,6 @@
     <title lang="zh">地獄怪客2-金甲軍團</title>
     <desc>2008 在地獄怪客2:金甲軍團中,地獄怪客必須迎戰一支由邪惡反派釋放出的致命怪物大軍由吉勒摩?戴托羅執導,這部動作續集融合了幽默感英雄氣概與史詩級的激烈戰鬥</desc>
   </programme>
-  <programme channel="pw.TW.rock.action.mod" start="20260805004500 +0000" stop="20260805030500 +0000">
-    <title lang="zh">魔鬼終結者2護</title>
-  </programme>
   <programme channel="pw.TW.rock.action.mod" start="20260805030500 +0000" stop="20260805045500 +0000">
     <title lang="zh">天崩地裂護</title>
   </programme>
@@ -71561,9 +71276,6 @@
   </programme>
   <programme channel="pw.TW.rock.action.mod" start="20260806204000 +0000" stop="20260806224000 +0000">
     <title lang="zh">地獄怪客2：金甲軍團護</title>
-  </programme>
-  <programme channel="pw.TW.rock.entertainment.mod" start="20260805022500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">圖書館理員：新篇章7護</title>
   </programme>
   <programme channel="pw.TW.rock.entertainment.mod" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">圖書館理員：新篇章8護</title>
@@ -71705,10 +71417,6 @@
   </programme>
   <programme channel="pw.TW.rock.entertainment.mod" start="20260806224500 +0000" stop="20260806233000 +0000">
     <title lang="zh">賽斯梅爾深夜秀 第13季 無字幕S13127護</title>
-  </programme>
-  <programme channel="pw.TW.rock.entertainment.tbc" start="20260805022500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">圖書館理員-新篇章:7</title>
-    <desc>康納被迫與成為圖書館員前的舊識重逢，並必須打倒在他缺席期間勢力壯大的宿敵</desc>
   </programme>
   <programme channel="pw.TW.rock.entertainment.tbc" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">圖書館理員-新篇章:8</title>
@@ -81644,10 +81352,6 @@
     <title lang="zh">立法院院會</title>
     <desc>立法院院會</desc>
   </programme>
-  <programme channel="pw.TW.國興衛視.tbc" start="20260805024000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">台南好生活</title>
-    <desc>指在臺灣文化古都享受安步當車的慢活節奏，同時結合現代科技發展（如南科）所帶來的豐富就業機會，達成工作與生活平衡的宜居城市願景</desc>
-  </programme>
   <programme channel="pw.TW.國興衛視.tbc" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">驚喜No.1</title>
     <desc>台灣人再熟悉不過的日常，在日本人眼中或許充滿驚喜！日本人高志深入台灣各地，發掘令日本人驚嘆的特色與風俗，甚至連台灣人都意想不到的奇妙發現，一一帶你揭曉！</desc>
@@ -83557,9 +83261,6 @@
   </programme>
   <programme channel="pw.TW.天良綜合台.mod" start="20260806220000 +0000" stop="20260806230000 +0000">
     <title lang="zh">精選重播普</title>
-  </programme>
-  <programme channel="pw.TW.好消息2台.4gtv" start="20260805030000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">恩典365</title>
   </programme>
   <programme channel="pw.TW.好消息2台.4gtv" start="20260805030500 +0000" stop="20260805033000 +0000">
     <title lang="zh">為祢唱新歌</title>
@@ -86724,9 +86425,6 @@
   <programme channel="pw.TW.愛爾達影劇.mod" start="20260806223000 +0000" stop="20260806233000 +0000">
     <title lang="zh">慶餘年第二季 重14普</title>
   </programme>
-  <programme channel="pw.TW.愛爾達生活旅遊台.4gtv" start="20260805024400 +0000" stop="20260805030900 +0000">
-    <title lang="zh">環遊世界800天 第一季 10 貝爾法斯特</title>
-  </programme>
   <programme channel="pw.TW.愛爾達生活旅遊台.4gtv" start="20260805030900 +0000" stop="20260805033200 +0000">
     <title lang="zh">環遊世界800天 第一季 11 另一個世界</title>
   </programme>
@@ -87231,9 +86929,6 @@
   <programme channel="pw.TW.愛爾達體育2台.mod" start="20260806203000 +0000" stop="20260806230000 +0000">
     <title lang="zh">中華職棒 統一 VS 味全 例行賽 86普</title>
   </programme>
-  <programme channel="pw.TW.愛爾達體育3台.mod" start="20260805013000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">溫網 女單八強 大坂直美對Muchova普</title>
-  </programme>
   <programme channel="pw.TW.愛爾達體育3台.mod" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">2026 BWF世界羽球週報26普</title>
   </programme>
@@ -87383,12 +87078,6 @@
   </programme>
   <programme channel="pw.TW.愛爾達體育4台.mod" start="20260806200000 +0000" stop="20260806220000 +0000">
     <title lang="zh">佛光盃大學籃球 澳門昊駿 VS 佛光大學 731普</title>
-  </programme>
-  <programme channel="pw.TW.時尚運動x.4gtv" start="20260805030000 +0000" stop="20260805030300 +0000">
-    <title lang="zh">00955 Swimwear Fashion Exposed HAMMOCK SHOW Presented by Lycra Swimmiami 2016 Collections 150904 PMN</title>
-  </programme>
-  <programme channel="pw.TW.時尚運動x.4gtv" start="20260805030300 +0000" stop="20260805030700 +0000">
-    <title lang="zh">00626 Swimwear Fashion Exposed PROFILE BY GOTTEX CRUISE SwimMiami 2016 Collections PMNB</title>
   </programme>
   <programme channel="pw.TW.時尚運動x.4gtv" start="20260805030700 +0000" stop="20260805033100 +0000">
     <title lang="zh">K POP DANCE ACADEMY 07</title>
@@ -90916,9 +90605,6 @@
   <programme channel="pw.TW.正德電視.mod" start="20260806220000 +0000" stop="20260806230000 +0000">
     <title lang="zh">觀世音菩薩感應事蹟普</title>
   </programme>
-  <programme channel="pw.TW.歷史.mod" start="20260805022000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">歷史重大謎團 第5季S55普</title>
-  </programme>
   <programme channel="pw.TW.歷史.mod" start="20260805031500 +0000" stop="20260805041000 +0000">
     <title lang="zh">特種部隊 第1季S13護</title>
   </programme>
@@ -91668,9 +91354,6 @@
   </programme>
   <programme channel="pw.TW.民視新聞.mod" start="20260806230000 +0000" stop="20260806233000 +0000">
     <title lang="zh">民視英語新聞0普</title>
-  </programme>
-  <programme channel="pw.TW.民視旅遊台.4gtv" start="20260805023200 +0000" stop="20260805031700 +0000">
-    <title lang="zh">GOGOTaiwan-第645集普</title>
   </programme>
   <programme channel="pw.TW.民視旅遊台.4gtv" start="20260805031700 +0000" stop="20260805040300 +0000">
     <title lang="zh">GOGOTaiwan-第642集普</title>
@@ -92593,9 +92276,6 @@
   <programme channel="pw.TW.番薯電視台.mod" start="20260806140000 +0000" stop="20260806220000 +0000">
     <title lang="zh">番薯向前衝普</title>
   </programme>
-  <programme channel="pw.TW.精選動漫台.4gtv" start="20260805030000 +0000" stop="20260805031900 +0000">
-    <title lang="zh">萌萌與歐力 02</title>
-  </programme>
   <programme channel="pw.TW.精選動漫台.4gtv" start="20260805031900 +0000" stop="20260805034500 +0000">
     <title lang="zh">金銀島-08</title>
   </programme>
@@ -92962,15 +92642,6 @@
   <programme channel="pw.TW.紅豆電視台.tbc" start="20260806200000 +0000" stop="20260806220000 +0000">
     <title lang="zh">紅豆一級棒</title>
     <desc>紅豆一級棒</desc>
-  </programme>
-  <programme channel="pw.TW.經典卡通台.4gtv" start="20260805023900 +0000" stop="20260805030500 +0000">
-    <title lang="zh">傑森一家 第12集 艾爾羅伊的偶像</title>
-  </programme>
-  <programme channel="pw.TW.經典卡通台.4gtv" start="20260805030500 +0000" stop="20260805031300 +0000">
-    <title lang="zh">樂一通總動員 第6集</title>
-  </programme>
-  <programme channel="pw.TW.經典卡通台.4gtv" start="20260805031300 +0000" stop="20260805031900 +0000">
-    <title lang="zh">頑皮豹 第二季 第12集</title>
   </programme>
   <programme channel="pw.TW.經典卡通台.4gtv" start="20260805031900 +0000" stop="20260805034400 +0000">
     <title lang="zh">傑森一家 第9集 艾爾羅伊的電視秀</title>
@@ -96033,9 +95704,6 @@
   <programme channel="pw.TW.豬哥亮歌廳秀.4gtv" start="20260806202700 +0000" stop="20260806213600 +0000">
     <title lang="zh">豬哥會社-第119集普</title>
   </programme>
-  <programme channel="pw.TW.車迷tv.mod" start="20260805022500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">特別企劃普</title>
-  </programme>
   <programme channel="pw.TW.車迷tv.mod" start="20260805031000 +0000" stop="20260805033000 +0000">
     <title lang="zh">英倫製造普</title>
   </programme>
@@ -96266,9 +95934,6 @@
   </programme>
   <programme channel="pw.TW.車迷tv.mod" start="20260806231500 +0000" stop="20260806234000 +0000">
     <title lang="zh">極速地帶 2025普</title>
-  </programme>
-  <programme channel="pw.TW.達文西.mod" start="20260805025400 +0000" stop="20260805031800 +0000">
-    <title lang="zh">遊戲節目：在父母的車庫中－玩通宵普</title>
   </programme>
   <programme channel="pw.TW.達文西.mod" start="20260805031800 +0000" stop="20260805033300 +0000">
     <title lang="zh">科學量販店－奇妙醫學和急救普</title>
@@ -97260,24 +96925,6 @@
   </programme>
   <programme channel="pw.TW.鏡電視新聞台.mod" start="20260806213000 +0000" stop="20260806220000 +0000">
     <title lang="zh">全球聊天室6普</title>
-  </programme>
-  <programme channel="pw.TW.電影原聲cmusic.4gtv" start="20260805030000 +0000" stop="20260805030200 +0000">
-    <title lang="zh">Calvary Theme普</title>
-  </programme>
-  <programme channel="pw.TW.電影原聲cmusic.4gtv" start="20260805030200 +0000" stop="20260805030700 +0000">
-    <title lang="zh">Falling Slowly普</title>
-  </programme>
-  <programme channel="pw.TW.電影原聲cmusic.4gtv" start="20260805030700 +0000" stop="20260805030900 +0000">
-    <title lang="zh">Once Upon A Dream普</title>
-  </programme>
-  <programme channel="pw.TW.電影原聲cmusic.4gtv" start="20260805030900 +0000" stop="20260805031100 +0000">
-    <title lang="zh">I Will Carry You普</title>
-  </programme>
-  <programme channel="pw.TW.電影原聲cmusic.4gtv" start="20260805031100 +0000" stop="20260805031400 +0000">
-    <title lang="zh">Let It Be普</title>
-  </programme>
-  <programme channel="pw.TW.電影原聲cmusic.4gtv" start="20260805031400 +0000" stop="20260805031800 +0000">
-    <title lang="zh">Elgar: Variations on an Original Theme, Op.36 Enigma 9. Nimrod Adagio普</title>
   </programme>
   <programme channel="pw.TW.電影原聲cmusic.4gtv" start="20260805031800 +0000" stop="20260805032300 +0000">
     <title lang="zh">Luz Marina普</title>
@@ -100399,9 +100046,6 @@
   <programme channel="pw.TW.靖天日本.mod" start="20260806230000 +0000" stop="20260806233000 +0000">
     <title lang="zh">繪本畫家的輕旅行15普</title>
   </programme>
-  <programme channel="pw.TW.靖天映畫.mod" start="20260805010500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">臥底刑警輔12</title>
-  </programme>
   <programme channel="pw.TW.靖天映畫.mod" start="20260805031000 +0000" stop="20260805051500 +0000">
     <title lang="zh">夏爐冬扇護</title>
   </programme>
@@ -103118,10 +102762,6 @@
     <title lang="zh">Wonderland of Love Ep18</title>
     <desc>Li Ni mengiringi Cui Lin ke khemah tentera keluarga Cui. Dia berjaya memujuk Cui Yi membantu Tentera Garison Barat menawan Chang Jing Barat.</desc>
   </programme>
-  <programme channel="pw.MY.abc.australia.astro" start="20260805020200 +0000" stop="20260805030200 +0000">
-    <title lang="zh">News Breakfast</title>
-    <desc>Be the first to know the latest overnight developments, breaking news and the top stories this morning.</desc>
-  </programme>
   <programme channel="pw.MY.abc.australia.astro" start="20260805030200 +0000" stop="20260805050200 +0000">
     <title lang="zh">News Breakfast</title>
     <desc>Be the first to know the latest overnight developments, breaking news and the top stories this morning.</desc>
@@ -103682,10 +103322,6 @@
     <title lang="zh">Vedi Sirippu</title>
     <desc>This program plays comedy tracks from popular Tamil movie.</desc>
   </programme>
-  <programme channel="pw.MY.al.jazeera.english.astro" start="20260805020200 +0000" stop="20260805030200 +0000">
-    <title lang="zh">Growing Pains</title>
-    <desc>Why are we so obsessed with economic growth, when the worlds resources are finite?</desc>
-  </programme>
   <programme channel="pw.MY.al.jazeera.english.astro" start="20260805030200 +0000" stop="20260805040200 +0000">
     <title lang="zh">Newshour</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
@@ -104197,10 +103833,6 @@
   <programme channel="pw.MY.arena.bola.2" start="20260806010000 +0000" stop="20260806030000 +0000">
     <title lang="zh">Piala Malaysia 202526: JDT lwn KLC</title>
     <desc>Piala Malaysia 202526: Separuh Akhir Kedua: Johor Darul Tazim lwn Kuala Lumpur City dari Stadium Sultan Ibrahim, Iskandar Puteri, Johor Bahru.</desc>
-  </programme>
-  <programme channel="pw.MY.asian.food.network.astro" start="20260805024500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Family Dinner S1 Ep07</title>
-    <desc>Generations of Cataldos have grown up in their family pork store in Massapequa, NY. Now that Emily and Sams kids have moved to New York, everyone comes home on Mondays.</desc>
   </programme>
   <programme channel="pw.MY.asian.food.network.astro" start="20260805031000 +0000" stop="20260805034000 +0000">
     <title lang="zh">Family Dinner S1 Ep08</title>
@@ -105641,10 +105273,6 @@
   <programme channel="pw.MY.astro.badminton.astro" start="20260806174500 +0000" stop="20260806184500 +0000">
     <title lang="zh">BWF Taipei Open: HLS</title>
     <desc>Catch the latest news and highlights of BWF World Tour Super 300: YONEX Taipei Open 2026: Finals.</desc>
-  </programme>
-  <programme channel="pw.MY.astro.ceria.astro" start="20260805030000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Didi  Friends Dream Jobs Ep03</title>
-    <desc>Didi dan kawan-kawannya beraksi sebagai pasukan bola sepak menentang pasukan yang hebat. Namun Nana, Jojo dan Aera masih belum mahir, menyebabkan Didi nekad bertindak sendirian di padang.</desc>
   </programme>
   <programme channel="pw.MY.astro.ceria.astro" start="20260805031000 +0000" stop="20260805032000 +0000">
     <title lang="zh">Didi  Friends Dream Jobs Ep04</title>
@@ -109530,10 +109158,6 @@
     <title lang="zh">Upin  Ipin Helping Heroes S3 Ep01</title>
     <desc>Join a fun adventure while learning English. Perfect for kids, they meet new friends and explore letters and numbers in an engaging way.</desc>
   </programme>
-  <programme channel="pw.MY.astro.vaanavil.astro" start="20260805023000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Laughing Villa ML Ep05</title>
-    <desc>Talented artists from the Malayalam film industry answer questions and play exciting games to entertain the audience.</desc>
-  </programme>
   <programme channel="pw.MY.astro.vaanavil.astro" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">OKU Ep06</title>
     <desc>This short film showcases compassion towards differently abled people.</desc>
@@ -109914,10 +109538,6 @@
     <title lang="zh">Madras</title>
     <desc>A wall is a source of discontent between two political rivals. Kaali and his friend Anbu, who is a party worker, get embroiled in this clash, which only gets bloody thereafter.</desc>
   </programme>
-  <programme channel="pw.MY.astro.vinmeen" start="20260805025900 +0000" stop="20260805030600 +0000">
-    <title lang="zh">Vinayagar Agaval</title>
-    <desc>Vinayagar Agaval is a devotional poetic hymn to the Hindu deity Ganesh.</desc>
-  </programme>
   <programme channel="pw.MY.astro.vinmeen" start="20260805030600 +0000" stop="20260805032700 +0000">
     <title lang="zh">Kanthasashti Kavasam</title>
     <desc>Hymns in the glory of Lord Murugan, invoking him to protect his devotees from harm.</desc>
@@ -110138,10 +109758,6 @@
     <title lang="zh">Kanthasashti Kavasam</title>
     <desc>Hymns in the glory of Lord Murugan, invoking him to protect his devotees from harm.</desc>
   </programme>
-  <programme channel="pw.MY.axn.astro" start="20260805021500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">ELSBETH S2 Ep06</title>
-    <desc>Celebrity Christmas curators Dirk and DeeDee Dashers go from tinsel to tragedy after Dirk is killed.</desc>
-  </programme>
   <programme channel="pw.MY.axn.astro" start="20260805031000 +0000" stop="20260805040500 +0000">
     <title lang="zh">RED EYE S2 Ep03</title>
     <desc>After a second embassy guest is killed, MI5 finds a connection between the victims.</desc>
@@ -110350,10 +109966,6 @@
     <title lang="zh">TWISTED METAL S1 Ep07</title>
     <desc>John and Quiet make a pitstop, where John reunites with a former contact Sweet Tooth bonds with a new follower.</desc>
   </programme>
-  <programme channel="pw.MY.bbc.earth.astro" start="20260805020500 +0000" stop="20260805030500 +0000">
-    <title lang="zh">The Mating Game S1 Ep05</title>
-    <desc>All life is driven by the need to breed. Yet for a few, the odds of success are overwhelmingly against them, so these have adopted the most extraordinary mating strategies of all.</desc>
-  </programme>
   <programme channel="pw.MY.bbc.earth.astro" start="20260805030500 +0000" stop="20260805041000 +0000">
     <title lang="zh">Rare Survivors - Chinas Iconic Wildlife S1 Ep01</title>
     <desc>Mist swirls around the base of Shanghais skyline. From the city, tigers and monkeys seem as unreal and distant as dragons and mermaids emerging through the mist. Yet they exist.</desc>
@@ -110557,10 +110169,6 @@
   <programme channel="pw.MY.bbc.earth.astro" start="20260806224500 +0000" stop="20260806233500 +0000">
     <title lang="zh">Stanley Tucci: Searching for Italy S2 Ep06</title>
     <desc>Stanley Tucci travels through the region of Calabria, discovering the history of this beautiful and troubled place as well as that of his own family.</desc>
-  </programme>
-  <programme channel="pw.MY.bbc.news.astro" start="20260805025700 +0000" stop="20260805030200 +0000">
-    <title lang="zh">Ultimate Japan</title>
-    <desc>Rajan Datar goes off the beaten track as he explores some of the ultimate cultural and natural highlights across Japan.</desc>
   </programme>
   <programme channel="pw.MY.bbc.news.astro" start="20260805030200 +0000" stop="20260805033200 +0000">
     <title lang="zh">BBC World News America</title>
@@ -112054,10 +111662,6 @@
     <title lang="zh">Blippi</title>
     <desc>Its another brand new Blippi adventure for kids! Today Blippi visits Great Explorations Childrens Museum in St. Petersburg, Florida. What do you want to be when you grow up? A chef? A vet? A doctor? Learn with Blippi as he teaches your children about different careers and jobs for kids.</desc>
   </programme>
-  <programme channel="pw.MY.bloomberg.tv.astro" start="20260805010200 +0000" stop="20260805030200 +0000">
-    <title lang="zh">Bloomberg The Close</title>
-    <desc>Romaine Bostick and Katie Greifeld break down the days top market-moving stories and trading action around the closing bell.</desc>
-  </programme>
   <programme channel="pw.MY.bloomberg.tv.astro" start="20260805030200 +0000" stop="20260805040200 +0000">
     <title lang="zh">Bloomberg: Balance of Power</title>
     <desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trumps administration, the federal agencies and the courts.</desc>
@@ -112318,10 +111922,6 @@
     <title lang="zh">Cerita Seram Paya Hitam</title>
     <desc>Pada ulangtahun kelahirannya, Jaja mula didatangi oleh entiti misteri yang mahu mengambil nyawanya dan misteri perjanjian yang dimeterai 30 tahun dahulu oleh abangnya Hassan mula terbongkar....</desc>
   </programme>
-  <programme channel="pw.MY.cartoon.network.astro" start="20260805020300 +0000" stop="20260805030300 +0000">
-    <title lang="zh">Ben 10 Ep252</title>
-    <desc>Ben, Gwen and Grandpa Max find the Weatherheads using the towering turbines for their latest nefarious plan.</desc>
-  </programme>
   <programme channel="pw.MY.cartoon.network.astro" start="20260805030300 +0000" stop="20260805040300 +0000">
     <title lang="zh">Teen Titans Go! Ep1267</title>
     <desc>Beast Boy, Negative Girl and Robotman start hanging out with some punk crabs, but soon discover that the crabs are up to no good.</desc>
@@ -112537,10 +112137,6 @@
   <programme channel="pw.MY.cartoon.network.astro" start="20260806220300 +0000" stop="20260806230300 +0000">
     <title lang="zh">Regular Show Ep03</title>
     <desc>When Rigby eats too much junk food, his body forces out his consciousness. Rigby, Mordecai and Skips set out on a quest to get it back before sunset.</desc>
-  </programme>
-  <programme channel="pw.MY.cctv4.astro" start="20260805023300 +0000" stop="20260805030300 +0000">
-    <title lang="zh">Focus Today</title>
-    <desc>The programme traces the latest development of the current affairs around China.</desc>
   </programme>
   <programme channel="pw.MY.cctv4.astro" start="20260805030300 +0000" stop="20260805033300 +0000">
     <title lang="zh">Nostalgia</title>
@@ -113066,10 +112662,6 @@
     <title lang="zh">Over My Dead Body</title>
     <desc>When an unidentified corpse is found at a residential unit, the residents fear that its presence will turn their home into an ill-fated house, leading to a chaotic endeavor to remove the body.</desc>
   </programme>
-  <programme channel="pw.MY.cgtn.documentary.astro" start="20260805021000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Grottoes of China Ep03</title>
-    <desc>Documentaries in this slot are rebroadcasts of our most-viewed and most popular stories of the season. They feature important social, economic, environmental affecting lives nationwide.</desc>
-  </programme>
   <programme channel="pw.MY.cgtn.documentary.astro" start="20260805031000 +0000" stop="20260805034000 +0000">
     <title lang="zh">Land So Rich in Beauty: Stories of the Long March Ep04</title>
     <desc>A strand devoted to the nature and wildlife of China, the people who lived alongside them, and the great and diverse landscapes with which they all contend.</desc>
@@ -113337,10 +112929,6 @@
   <programme channel="pw.MY.cgtn.documentary.astro" start="20260806231000 +0000" stop="20260806234000 +0000">
     <title lang="zh">The Joy of Sports Ep02</title>
     <desc>A documentary series showcasing the history of China and its people.</desc>
-  </programme>
-  <programme channel="pw.MY.cgtn.astro" start="20260805023300 +0000" stop="20260805030300 +0000">
-    <title lang="zh">Dialogue Ep930</title>
-    <desc>Primetime talk show that covers a wide range of domestic and international topics, providing a balanced and critical perspective on current affairs.</desc>
   </programme>
   <programme channel="pw.MY.cgtn.astro" start="20260805030300 +0000" stop="20260805033300 +0000">
     <title lang="zh">Global Business Ep940</title>
@@ -113678,10 +113266,6 @@
     <title lang="zh">Global Business Ep942</title>
     <desc>Global Business brings you the latest economic data, business trends and policies, showing you whats moving markets in both developed and emerging economies.</desc>
   </programme>
-  <programme channel="pw.MY.cna.astro" start="20260805020200 +0000" stop="20260805030200 +0000">
-    <title lang="zh">Asia Tonight</title>
-    <desc>News and views from around the region, delivered with uniquely Asian perspectives.</desc>
-  </programme>
   <programme channel="pw.MY.cna.astro" start="20260805030200 +0000" stop="20260805040200 +0000">
     <title lang="zh">Singapore Hidden in 40 Objects</title>
     <desc>From banned music and long hair rules to the origins of school streaming and hawker centres, host Sam Driscoll learns little-known details about Singapores transformative years.</desc>
@@ -113849,10 +113433,6 @@
   <programme channel="pw.MY.cna.astro" start="20260806220500 +0000" stop="20260806230400 +0000">
     <title lang="zh">East Asia Tonight</title>
     <desc>Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. Well break down the key stories and explain why they matter.</desc>
-  </programme>
-  <programme channel="pw.MY.cnbc.asia.astro" start="20260805023200 +0000" stop="20260805030200 +0000">
-    <title lang="zh">Closing Bell: Overtime</title>
-    <desc>When the bell rings, the action does not end. Closing Bell: Overtime takes you through all of the after-hours moves including breaking news, corporate earnings and post-market trading.</desc>
   </programme>
   <programme channel="pw.MY.cnbc.asia.astro" start="20260805030200 +0000" stop="20260805033200 +0000">
     <title lang="zh">Fast Money</title>
@@ -114161,10 +113741,6 @@
   <programme channel="pw.MY.cnbc.asia.astro" start="20260806230200 +0000" stop="20260806233200 +0000">
     <title lang="zh">The Exchange</title>
     <desc>CNBCs The Exchange is the newsroom-based program for todays Investor. The show focuses on in-depth reporting around the most important and interesting stories to todays markets and investors.</desc>
-  </programme>
-  <programme channel="pw.MY.cnn.astro" start="20260805024700 +0000" stop="20260805030200 +0000">
-    <title lang="zh">Connecting Africa</title>
-    <desc>We profile the people, projects and companies revolutionizing African business and bringing the continent together.</desc>
   </programme>
   <programme channel="pw.MY.cnn.astro" start="20260805030200 +0000" stop="20260805033200 +0000">
     <title lang="zh">The Lead With Jake Tapper</title>
@@ -115086,10 +114662,6 @@
     <title lang="zh">Pakistan Tour of West Indies Highlights: WI Vs PAK, 2nd Test</title>
     <desc>Watch the highlights from the 2nd till Day 4 Test between West Indies and Pakistan.</desc>
   </programme>
-  <programme channel="pw.MY.crime.investigation.astro" start="20260805021000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Interrogation Raw S2 Ep18</title>
-    <desc>In a story that gripped the nation, three Cleveland women are rescued ten years after vanishing from the citys streets. Now, authorities must confront the man at the heart of this notorious crime.</desc>
-  </programme>
   <programme channel="pw.MY.crime.investigation.astro" start="20260805030500 +0000" stop="20260805040500 +0000">
     <title lang="zh">Interrogation Raw S2 Ep19</title>
     <desc>After police respond to an apparent suicide, the case takes an unexpected turn when investigators cannot find a gun near the body.</desc>
@@ -115301,10 +114873,6 @@
   <programme channel="pw.MY.crime.investigation.astro" start="20260806223000 +0000" stop="20260806232500 +0000">
     <title lang="zh">Tell Me How I Died Ep07</title>
     <desc>When the body of a Jane Doe is found dumped on a roadside, its up to Dr. Satish Chundru to identify her and find out how she died, spawning an investigation retracing the victims last night.</desc>
-  </programme>
-  <programme channel="pw.MY.cti.asia.astro" start="20260805020300 +0000" stop="20260805030300 +0000">
-    <title lang="zh">Hit the Headlines Ep900</title>
-    <desc>This daring political talk show gives Taiwanese a voice, revealing the truth on a broad range of controversial topics.</desc>
   </programme>
   <programme channel="pw.MY.cti.asia.astro" start="20260805030300 +0000" stop="20260805040300 +0000">
     <title lang="zh">CTI News Global Vision</title>
@@ -115718,10 +115286,6 @@
     <title lang="zh">Belly of a Nation S1 Ep01</title>
     <desc>Belly of a Nation steps into the lives of a handful of Singapore hawkers of different generations.</desc>
   </programme>
-  <programme channel="pw.MY.discovery.channel.astro" start="20260805012800 +0000" stop="20260805031300 +0000">
-    <title lang="zh">Alaska: the Last Frontier S10 Ep04</title>
-    <desc>Kilcher road is threatened by a dangerous flood and Otto must repair the vital road before its washed away.</desc>
-  </programme>
   <programme channel="pw.MY.discovery.channel.astro" start="20260805031300 +0000" stop="20260805040300 +0000">
     <title lang="zh">Filthy Fortunes S2 Ep07</title>
     <desc>Matt hunts for Back to the Future self-lacing sneakers worth 100,000, limited-edition hip-hop tour jackets, and rare Olympic memorabilia.</desc>
@@ -115933,10 +115497,6 @@
   <programme channel="pw.MY.discovery.channel.astro" start="20260806230800 +0000" stop="20260806233800 +0000">
     <title lang="zh">Road Rage S1 Ep04</title>
     <desc>An ax-wielding man taunts a motorist. Protesters disrupt a highway, causing motorists to lose it.</desc>
-  </programme>
-  <programme channel="pw.MY.dw.english.astro" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">DW News Focus</title>
-    <desc>DW News provides in-depth, international, and European-focused journalism, covering politics, business, society, and culture with a 247, multi-lingual approach.</desc>
   </programme>
   <programme channel="pw.MY.dw.english.astro" start="20260805031500 +0000" stop="20260805034500 +0000">
     <title lang="zh">Close up</title>
@@ -116329,10 +115889,6 @@
   <programme channel="pw.MY.dw.english.astro" start="20260806231500 +0000" stop="20260806233000 +0000">
     <title lang="zh">Best of DW-online Content</title>
     <desc>DW Online formats from the fields of politics and society find their way onto TV as part of Best of DW-online Content</desc>
-  </programme>
-  <programme channel="pw.MY.france24.astro" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
   </programme>
   <programme channel="pw.MY.france24.astro" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">Reporters</title>
@@ -117526,10 +117082,6 @@
     <title lang="zh">Forged in Fire S10 Ep18</title>
     <desc>We dig deep inside and revisit some of our favourite competitions over the years. From gladiators and Greeks to horror and holidays, join us as we look back at some of Forged in Fires best episodes.</desc>
   </programme>
-  <programme channel="pw.MY.hits.astro" start="20260805020500 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Murder, She Wrote S9 Ep02</title>
-    <desc>One of Jessicas former students is murdered when he returns to Cabot Cove to write a book exposing new information on a 30-year-old town scandal.</desc>
-  </programme>
   <programme channel="pw.MY.hits.astro" start="20260805030500 +0000" stop="20260805040500 +0000">
     <title lang="zh">Homicide: Life on the Street S2 Ep04</title>
     <desc>The unit investigate the death of their friend and Lewis partner, Steve Crosetti which appears to be a suicide, but Lewis is sure there is more to it than this.</desc>
@@ -117738,10 +117290,6 @@
     <title lang="zh">Frasier S6 Ep22</title>
     <desc>To Niles delight, a series of psychic visions gives Daphne second thoughts about marrying Donny.</desc>
   </programme>
-  <programme channel="pw.MY.hits.movies.astro" start="20260805010000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Game of Death</title>
-    <desc>A renowned martial arts master fakes his own death after unknown assailants try to kill him. He leaves no stone unturned to trace down the culprits and punish them.</desc>
-  </programme>
   <programme channel="pw.MY.hits.movies.astro" start="20260805031500 +0000" stop="20260805053000 +0000">
     <title lang="zh">Oceans Eleven</title>
     <desc>Less than 24 hours after being paroled, Danny Ocean handpicks a top-notch team of smooth operators to pocket 150 million in one night, in the most daring Las Vegas casino heist ever.</desc>
@@ -117817,10 +117365,6 @@
   <programme channel="pw.MY.hits.movies.astro" start="20260806211500 +0000" stop="20260806231500 +0000">
     <title lang="zh">Resident Evil: Apocalypse</title>
     <desc>After escaping from the Racoon City Medical Facility Alice searches for answers to the T-Virus and how to contain it, all while trying to find a way to escape the ruined city with fellow survivors.</desc>
-  </programme>
-  <programme channel="pw.MY.hits.now.astro" start="20260805021000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Sheriff Country S1 Ep09</title>
-    <desc>After a father and son flee a secluded ranch run by one of Edgewaters most power families, Mickey investigates disturbing allegations of abuse and uncovers dangerous secrets.</desc>
   </programme>
   <programme channel="pw.MY.hits.now.astro" start="20260805031000 +0000" stop="20260805041000 +0000">
     <title lang="zh">Fire Country S4 Ep09</title>
@@ -118025,10 +117569,6 @@
   <programme channel="pw.MY.hits.now.astro" start="20260806214000 +0000" stop="20260806224000 +0000">
     <title lang="zh">Celebrity Family Feud S11 Ep07</title>
     <desc>Its singer Normani and family vs comedienne Michelle Buteau and family. Then, its comedian Andy Richter and family vs the family of the John Ritter including actors Jason Ritter, Tyler Ritter and actress Amy Yasbeck.</desc>
-  </programme>
-  <programme channel="pw.MY.iqiyi.astro" start="20260805022000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">The Best Thing Ep11</title>
-    <desc>Warm-hearted doctor He Su Yes gentle care melts sleepless hotel manager Shen Xi Fans guarded heart, while his passion for traditional medicine ignites her courage to chase her dreams.</desc>
   </programme>
   <programme channel="pw.MY.iqiyi.astro" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">The Best Thing Ep12</title>
@@ -118285,10 +117825,6 @@
   <programme channel="pw.MY.k.plus" start="20260806014000 +0000" stop="20260806032500 +0000">
     <title lang="zh">Knowing Bros</title>
     <desc>A talk show where the cast members act like students in a classroom, and guests are invited as new transfer students.</desc>
-  </programme>
-  <programme channel="pw.MY.kbs.world.astro" start="20260805015000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">KICKKICKKICKKICK Ep06</title>
-    <desc>An office comedy drama with star actor Ji Jinhee and producer Jo Youngsik building up a content production company aiming for 3 million subscribers.</desc>
   </programme>
   <programme channel="pw.MY.kbs.world.astro" start="20260805030500 +0000" stop="20260805043500 +0000">
     <title lang="zh">Hometown Heroes : Baseball Ep06</title>
@@ -118761,10 +118297,6 @@
   <programme channel="pw.MY.lifetime.astro" start="20260806231500 +0000" stop="20260806234500 +0000">
     <title lang="zh">Rachael Ray in Tuscany Ep24</title>
     <desc>Rachael and her sister Maria team up to show how to make a rustic meal of roasted pork and chicken sausages, tossed with vegetables and grapes.</desc>
-  </programme>
-  <programme channel="pw.MY.love.nature.astro" start="20260805021000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Coral City S1 Ep01</title>
-    <desc>Discover the most fantastic city of them all lying beneath the waves, where romance and migratory commuters flood the coral reefs main highways.</desc>
   </programme>
   <programme channel="pw.MY.love.nature.astro" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">Coral City S1 Ep02</title>
@@ -121142,10 +120674,6 @@
     <title lang="zh">Gerabak Cef</title>
     <desc>Hazwan Adrey bersama-sama 13 selebriti berbeza berkongsi menu pilihan mudah tetapi sedap untuk dicuba.</desc>
   </programme>
-  <programme channel="pw.MY.phoenix.chinese.channel.astro" start="20260805023300 +0000" stop="20260805030300 +0000">
-    <title lang="zh">From Phoenix to the World</title>
-    <desc>Tiger Hu hosts this new programme which aims to keep you informed about important events which are taking place in the world today.</desc>
-  </programme>
   <programme channel="pw.MY.phoenix.chinese.channel.astro" start="20260805030300 +0000" stop="20260805033300 +0000">
     <title lang="zh">Summary of Press</title>
     <desc>Catch the most latest international news headlines from major newspaper and magazines from a range of different perspectives.</desc>
@@ -121513,10 +121041,6 @@
   <programme channel="pw.MY.phoenix.chinese.channel.astro" start="20260806230300 +0000" stop="20260806233300 +0000">
     <title lang="zh">Summary of Press</title>
     <desc>Catch the most latest international news headlines from major newspaper and magazines from a range of different perspectives.</desc>
-  </programme>
-  <programme channel="pw.MY.phoenix.info.news.astro" start="20260805030000 +0000" stop="20260805030300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc>Check the Phoenix Weather Forecasts for the major cities around the world.</desc>
   </programme>
   <programme channel="pw.MY.phoenix.info.news.astro" start="20260805030300 +0000" stop="20260805033000 +0000">
     <title lang="zh">News on the Hour</title>
@@ -123306,10 +122830,6 @@
     <title lang="zh">Non Stop Hits</title>
     <desc>A compilation of some of the most popular and entertaining songs in recent movies played back to back to entertain the audience.</desc>
   </programme>
-  <programme channel="pw.MY.sun.news.astro" start="20260805024000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">News</title>
-    <desc>The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
-  </programme>
   <programme channel="pw.MY.sun.news.astro" start="20260805031000 +0000" stop="20260805034000 +0000">
     <title lang="zh">News</title>
     <desc>The host covers the live political and top socio-economic headlines and various updates from India and worldwide.</desc>
@@ -123881,10 +123401,6 @@
   <programme channel="pw.MY.sun.tv.astro" start="20260806220000 +0000" stop="20260806223000 +0000">
     <title lang="zh">Puthu Vasantham</title>
     <desc>Selvi aspires to get married into a family with a lot of members. Will her aspiration become true?</desc>
-  </programme>
-  <programme channel="pw.MY.tlc.astro" start="20260805022300 +0000" stop="20260805031300 +0000">
-    <title lang="zh">Say Yes to the Dress S18 Ep02</title>
-    <desc>Alexis wants to look naked on her wedding day, and Courtneys last-minute indecision puts Randy to the test.</desc>
   </programme>
   <programme channel="pw.MY.tlc.astro" start="20260805031300 +0000" stop="20260805040300 +0000">
     <title lang="zh">Fun Taiwan Challenge S2 Ep08</title>
@@ -124846,10 +124362,6 @@
     <title lang="zh">Wow Shop</title>
     <desc>Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.</desc>
   </programme>
-  <programme channel="pw.MY.tvb.classic.astro" start="20260805022000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Come With Me Ep15</title>
-    <desc>Newlyweds Mok Tai Hung and Lam Ching Yi help people with their issues on a daily basis, but are unable to find a solution to their poor sex life, which is caused by a lack of privacy.</desc>
-  </programme>
   <programme channel="pw.MY.tvb.classic.astro" start="20260805031500 +0000" stop="20260805041000 +0000">
     <title lang="zh">Come With Me Ep16</title>
     <desc>Newlyweds Mok Tai Hung and Lam Ching Yi help people with their issues on a daily basis, but are unable to find a solution to their poor sex life, which is caused by a lack of privacy.</desc>
@@ -125278,10 +124790,6 @@
     <title lang="zh">Entertainment News</title>
     <desc>Working round the clock this Cantonese entertainment news program features the hottest events, awards, shows, interviews and live.</desc>
   </programme>
-  <programme channel="pw.MY.tvb.jade.astro" start="20260805021000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Winter Night Ep18</title>
-    <desc>When a mystical storm caused by a meteor leads Daqian to a parallel world, she finds her first love, Zi Li, again. However, as their relationship reignites, the meteor strikes once more.</desc>
-  </programme>
   <programme channel="pw.MY.tvb.jade.astro" start="20260805031000 +0000" stop="20260805035500 +0000">
     <title lang="zh">Big City Shop 2026 Ep2037</title>
     <desc>Get firsthand recommendations as hosts try out the hottest products in health and wellness, fitness, skin care and beauty, fashion and accessories , baby care, food - and more.</desc>
@@ -125594,10 +125102,6 @@
     <title lang="zh">Wan Fu Jin an Ep03</title>
     <desc>After dying in a palace fire, Queen Gu Qing is reborn as maid Feng Qing. To uncover her murder, she joins physician Gu Xuan, shielding her sister while exposing deadly court and harem plots.</desc>
   </programme>
-  <programme channel="pw.MY.tvb.xing.he.astro" start="20260805021000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Always and Ever Ep02</title>
-    <desc>Classic power duo Bobby Au Yeung and Esther Kwan reunite in this time-traveling romance drama, depicting a love that spans three lifetimes.</desc>
-  </programme>
   <programme channel="pw.MY.tvb.xing.he.astro" start="20260805031000 +0000" stop="20260805041000 +0000">
     <title lang="zh">Always and Ever Ep03</title>
     <desc>Classic power duo Bobby Au Yeung and Esther Kwan reunite in this time-traveling romance drama, depicting a love that spans three lifetimes.</desc>
@@ -125773,10 +125277,6 @@
   <programme channel="pw.MY.tvb.xing.he.astro" start="20260806221000 +0000" stop="20260806231000 +0000">
     <title lang="zh">A Bride for a Ride Ep09</title>
     <desc>Starring Chin Ka Lok, Louisa So and Gigi Wong, this popular sitcom depicts how Tiger Wong whose mother is pressuring him into marriage, bumbles through love.</desc>
-  </programme>
-  <programme channel="pw.MY.tvbs.asia.astro" start="20260805020300 +0000" stop="20260805030300 +0000">
-    <title lang="zh">Citizens Subjects Ep2617</title>
-    <desc>Citizens Subjects utilizes the perspective of Taiwan people and Taiwan events to tell the stories of Taiwan. It takes a light-hearted, humorous approach to interpreting current affairs.</desc>
   </programme>
   <programme channel="pw.MY.tvbs.asia.astro" start="20260805030300 +0000" stop="20260805040300 +0000">
     <title lang="zh">Queen Ep5657</title>
@@ -130900,10 +130400,6 @@
     <title lang="zh">Saka Sisters</title>
     <desc>Laila  Suri baru saja kematian Ayah. Mereka dikejutkan dengan kehadiran saka. Jamal, ekori mereka ke mana saja. Laila  Suri yang selama ini tidak rapat, terpaksa selesaikan hal Jamal bersama-sama.</desc>
   </programme>
-  <programme channel="pw.SG.axn.a" start="20260805021000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">ELSBETH SEASON 2</title>
-    <desc>Celebrity Christmas curators Dirk and DeeDee Dashers go from tinsel to tragedy after Dirk is killed.</desc>
-  </programme>
   <programme channel="pw.SG.axn.a" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">RED EYE SEASON 2</title>
     <desc>After a second embassy guest is killed, MI5 finds a connection between the victims.</desc>
@@ -131099,10 +130595,6 @@
   <programme channel="pw.SG.axn.a" start="20260806204000 +0000" stop="20260806211500 +0000">
     <title lang="zh">TWISTED METAL SEASON 1</title>
     <desc>John and Quiet make a pitstop, where John reunites with a former contact Sweet Tooth bonds with a new follower.</desc>
-  </programme>
-  <programme channel="pw.SG.axn.starhubtv" start="20260805021000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Gold, Frankincense, And Murder</title>
-    <desc>Celebrity Christmas curators Dirk and DeeDee Dashers go from tinsel to tragedy after Dirk is killed.</desc>
   </programme>
   <programme channel="pw.SG.axn.starhubtv" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">Red Eye Season 2</title>
@@ -131516,10 +131008,6 @@
     <title lang="zh">Calabria</title>
     <desc>Stanley Tucci travels through the region of Calabria, discovering the history of this beautiful and troubled place as well as that of his own family.</desc>
   </programme>
-  <programme channel="pw.SG.bbc.lifestyle.a" start="20260805021000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Jamie: Eat Yourself Healthy S1</title>
-    <desc>Jamie celebrates heart-health promoting ingredients, as he makes a nutritious steak dinner and vibrant green orecchiette pasta, and whips up some gnarly gut-friendly oaty balls.</desc>
-  </programme>
   <programme channel="pw.SG.bbc.lifestyle.a" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">Grand Designs S24</title>
     <desc>Artist Sarah returns to her roots in the Durham Dales to create a radical, cannabis-based house. But as costs go through the roof, can she get her hempcrete hub of a home over the line?</desc>
@@ -131723,10 +131211,6 @@
   <programme channel="pw.SG.bbc.lifestyle.a" start="20260806193000 +0000" stop="20260806202500 +0000">
     <title lang="zh">George Clarkes Amazing Spaces S13</title>
     <desc>An eco cabin created from old supermarket delivery van fridges, George visits snake inspired treehouses in Portugal and the smallest ever Amazing Space. Plus, a home created in an American School bus.</desc>
-  </programme>
-  <programme channel="pw.SG.bbc.lifestyle.b" start="20260805021000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Jamie: Eat Yourself Healthy S01 - EP4</title>
-    <desc>Jamie celebrates heart-health promoting ingredients, as he makes a nutritious steak dinner and vibrant green orecchiette pasta, and whips up some gnarly gut-friendly oaty balls.</desc>
   </programme>
   <programme channel="pw.SG.bbc.lifestyle.b" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">Grand Designs S24 - Durham Dales</title>
@@ -134092,12 +133576,6 @@
     <title lang="zh">Bloomberg Real Yield</title>
     <desc>A weekly show on fixed income with the biggest names in the field, covering sovereign and credit markets as investors grapple with fiscal, monetary and financial factors.</desc>
   </programme>
-  <programme channel="pw.SG.brtv.international.a" start="20260805023800 +0000" stop="20260805030800 +0000">
-    <title lang="zh">数说北京</title>
-  </programme>
-  <programme channel="pw.SG.brtv.international.a" start="20260805030800 +0000" stop="20260805031000 +0000">
-    <title lang="zh">节目导视</title>
-  </programme>
   <programme channel="pw.SG.brtv.international.a" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">养生堂</title>
   </programme>
@@ -134769,14 +134247,6 @@
   <programme channel="pw.SG.cartoon.network.a" start="20260806191500 +0000" stop="20260806201500 +0000">
     <title lang="zh">We Baby Bears</title>
     <desc>The gang arrives in Atlantis hoping that Mr. Mollusk.</desc>
-  </programme>
-  <programme channel="pw.SG.cbeebies.a" start="20260805030000 +0000" stop="20260805030700 +0000">
-    <title lang="zh">Hey Duggee S4</title>
-    <desc>Chipmunk is cycling one day delivering his packages when he hits a rock and his trike falls apart! He has so many packages to deliver - what is he going to do now?</desc>
-  </programme>
-  <programme channel="pw.SG.cbeebies.a" start="20260805030700 +0000" stop="20260805031400 +0000">
-    <title lang="zh">Hey Duggee S4</title>
-    <desc>The Squirrels are having a picnic and notice that the chickens eat differently than they do. Duggee has his eating badge and can explain all the different ways animals eat.</desc>
   </programme>
   <programme channel="pw.SG.cbeebies.a" start="20260805031400 +0000" stop="20260805032000 +0000">
     <title lang="zh">Hey Duggees Squirrel Club S1</title>
@@ -135857,14 +135327,6 @@
   <programme channel="pw.SG.cbeebies.a" start="20260806213500 +0000" stop="20260806214500 +0000">
     <title lang="zh">Roots  Fruits S2</title>
     <desc>Its Broccoli and his floret, Broc, performing their phenomenal ventriloquist act.</desc>
-  </programme>
-  <programme channel="pw.SG.cbeebies.starhubtv" start="20260805030000 +0000" stop="20260805030700 +0000">
-    <title lang="zh">The Delivery Badge</title>
-    <desc>Chipmunk is cycling one day delivering his packages when he hits a rock and his trike falls apart! He has so many packages to deliver - what is he going to do now? Duggee offers to repair Delivery Chipmunks trike, but that will take too long. The packages need to be delivered right away or else! Duggee also has a delivery badge and he will try to deliver all of Chipmunks packages with the help o</desc>
-  </programme>
-  <programme channel="pw.SG.cbeebies.starhubtv" start="20260805030700 +0000" stop="20260805031400 +0000">
-    <title lang="zh">The Eating Badge</title>
-    <desc>The Squirrels are having a picnic and notice that the chickens eat differently than they do. Duggee has his eating badge and can explain all the different ways animals eat. Some animals eat slowly like cows, who eat all day long. But others eat quickly like frogs. Some, like goats, are always eating, while tortoises can go a whole year without food. Some animals eat food that is very high up, like</desc>
   </programme>
   <programme channel="pw.SG.cbeebies.starhubtv" start="20260805031400 +0000" stop="20260805032000 +0000">
     <title lang="zh">Splash Dash</title>
@@ -139142,10 +138604,6 @@
   <programme channel="pw.SG.channel.5.a" start="20260806223100 +0000" stop="20260806233000 +0000">
     <title lang="zh">FBI S6 - EP 13</title>
     <desc>The Somalian terrorist group behind the death of Agent Hobbs resurfaces, sending the team on a chase to take them down for good.</desc>
-  </programme>
-  <programme channel="pw.SG.channel.8.a" start="20260805021000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Golden City - EP 619  多情城市</title>
-    <desc>This drama is set in the Jiufen area from the 1960s to the 1970s. It tells the story of how three brothers conquered the world with their bare hands. Through the love story of the previous generation, it connects the common emotions between the two generations depicting the memories and in-depth exploration of the differences in values between them.</desc>
   </programme>
   <programme channel="pw.SG.channel.8.a" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">Golden City - EP 620  多情城市</title>
@@ -143609,10 +143067,6 @@
     <title lang="zh">Made In Taiwan</title>
     <desc>Made In Taiwan records the rich and diverse history and humanities, local specialties, natural landscapes, as well as special ecology, plant research and other natural ecology, character close-ups, mountain scenery and etc., as the Made In Taiwan theme content. Expecting the viewing of the movie for nearly an hour is a rhythm and fresh, like a cloud and flowing water, which makes the viewers m</desc>
   </programme>
-  <programme channel="pw.SG.discovery.starhubtv" start="20260805012500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">I Dont Want To Die Today</title>
-    <desc>Kilcher road is threatened by a dangerous flood and Otto must repair the vital road before its washed away.</desc>
-  </programme>
   <programme channel="pw.SG.discovery.starhubtv" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">Time Travel To Level Up</title>
     <desc>Matt hunts for Back to the Future self-lacing sneakers worth 100,000, limited-edition hip-hop tour jackets, and rare Olympic memorabilia.</desc>
@@ -143996,10 +143450,6 @@
   <programme channel="pw.SG.drama.channel.a" start="20260806193000 +0000" stop="20260806203000 +0000">
     <title lang="zh">TERIKAT JANJI EPS 41</title>
     <desc>A drama series that tells the story of Davina, a conglomerates daughter who falls into poverty after being betrayed. She is forced to pretend to be in a relationship with Sena, a ketoprak street vendor. This fake relationship, meant to protect her reputation, becomes complicated when Sena is actually an undercover intelligence agent on a mission tied to his pastfurther intensified by conflicts i</desc>
-  </programme>
-  <programme channel="pw.SG.dreamworks.a" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Olivia S1 - Olivia Measures Up</title>
-    <desc>After Olivia teases Ian for being too short for a ride, Father mentions that someday Ian may be the taller sibling. Olivia employs a variety of comical methods to stop Ian from growing. She eventually comes to terms with her own height  with the help of a great pair of shoes!</desc>
   </programme>
   <programme channel="pw.SG.dreamworks.a" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">Olivia S1 - Olivia And The Old West</title>
@@ -144432,14 +143882,6 @@
   <programme channel="pw.SG.dreamworks.a" start="20260806231000 +0000" stop="20260806233500 +0000">
     <title lang="zh">3Below: Tales of Arcadia S1 - Ill Gotten Gains</title>
     <desc>When Colonel Kubritz issues a medical quarantine that locks down the high school, Aja and Krel must avoid capture with help from their friends. Meanwhile Vex, Zadra, and Stuart have a run-in with a familiar face.</desc>
-  </programme>
-  <programme channel="pw.SG.dw.english.starhubtv" start="20260805030000 +0000" stop="20260805030200 +0000">
-    <title lang="zh">News</title>
-    <desc>Stay tuned as Deutsche Welle DW, Germanys international broadcaster presents the countrys news, current affairs and showcases its peoples life and mentality.</desc>
-  </programme>
-  <programme channel="pw.SG.dw.english.starhubtv" start="20260805030200 +0000" stop="20260805031500 +0000">
-    <title lang="zh">News</title>
-    <desc>Stay tuned as Deutsche Welle DW, Germanys international broadcaster presents the countrys news, current affairs and showcases its peoples life and mentality.</desc>
   </programme>
   <programme channel="pw.SG.dw.english.starhubtv" start="20260805031500 +0000" stop="20260805034500 +0000">
     <title lang="zh">The Current Affairs Documentary</title>
@@ -145500,10 +144942,6 @@
   <programme channel="pw.SG.ettv.asia.starhubtv" start="20260806220000 +0000" stop="20260806230000 +0000">
     <title lang="zh">Girl Power</title>
     <desc>Invite stylish men from all over the world to share cultural differences, feelings and values, and life experiences with Taiwanese!</desc>
-  </programme>
-  <programme channel="pw.SG.euronews.starhubtv" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Wake up Europe</title>
-    <desc>Live headlines,breaking news, analysis and interviews from Europes News Centre.</desc>
   </programme>
   <programme channel="pw.SG.euronews.starhubtv" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">Wake up Europe</title>
@@ -147173,9 +146611,6 @@
     <title lang="zh">Outnumbered</title>
     <desc>Rotating panel featuring four women and one man, gives a fresh take on the days news</desc>
   </programme>
-  <programme channel="pw.SG.france.english.24.a" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">News</title>
-  </programme>
   <programme channel="pw.SG.france.english.24.a" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">Reporters</title>
   </programme>
@@ -147707,9 +147142,6 @@
   <programme channel="pw.SG.france.english.24.a" start="20260806213000 +0000" stop="20260806214500 +0000">
     <title lang="zh">News</title>
   </programme>
-  <programme channel="pw.SG.france.french.24.a" start="20260805030000 +0000" stop="20260805031200 +0000">
-    <title lang="zh">Lessentiel : le journal</title>
-  </programme>
   <programme channel="pw.SG.france.french.24.a" start="20260805031200 +0000" stop="20260805033000 +0000">
     <title lang="zh">Billet retour</title>
   </programme>
@@ -148225,10 +147657,6 @@
   </programme>
   <programme channel="pw.SG.france.french.24.a" start="20260806211500 +0000" stop="20260806213000 +0000">
     <title lang="zh">ENTR</title>
-  </programme>
-  <programme channel="pw.SG.france.24.starhubtv" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
   </programme>
   <programme channel="pw.SG.france.24.starhubtv" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">Reporters</title>
@@ -149554,10 +148982,6 @@
     <title lang="zh">First Yaya</title>
     <desc>First Yaya is the aspirational, fairy-tale-like story of an ordinary woman who gets to leadan extraordinary life as the nanny of the children of a widower Philippine Vice-Presidentwho eventually becomes the President by accession and election.</desc>
   </programme>
-  <programme channel="pw.SG.hbo.family.a" start="20260805025200 +0000" stop="20260805030300 +0000">
-    <title lang="zh">SUMMER CAMP ISLAND S1</title>
-    <desc>Oscar pretends to be a talking pair of pajamas named Jimjams to make his friend Pajamas happy.</desc>
-  </programme>
   <programme channel="pw.SG.hbo.family.a" start="20260805030300 +0000" stop="20260805032000 +0000">
     <title lang="zh">SUMMER CAMP ISLAND S1</title>
     <desc>Best friends Oscar and Hedgehog get dropped off at their first day at summer camp.</desc>
@@ -149932,10 +149356,6 @@
   <programme channel="pw.SG.hbo.family.a" start="20260806170000 +0000" stop="20260806182000 +0000">
     <title lang="zh">THE RUGRATS MOVIE</title>
     <desc>The Rugrats are lost in a forest and must put their heads together to find their way home.</desc>
-  </programme>
-  <programme channel="pw.SG.hbo.family.starhubtv" start="20260805025200 +0000" stop="20260805030300 +0000">
-    <title lang="zh">Pajama Pajimjams</title>
-    <desc>Oscar pretends to be a talking pair of pajamas named Jimjams to make his friend Pajamas happy.</desc>
   </programme>
   <programme channel="pw.SG.hbo.family.starhubtv" start="20260805030300 +0000" stop="20260805032000 +0000">
     <title lang="zh">The First Day</title>
@@ -151457,10 +150877,6 @@
     <title lang="zh">100 Day Hotel Challenge S1 - Taking It Outside</title>
     <desc>Brian and Mika take the competition outside with an amenity showdown as all new guest designers aim to bring empty outdoor lounges back to life!</desc>
   </programme>
-  <programme channel="pw.SG.history.starhubtv" start="20260805022000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">The Shroud Of Turin</title>
-    <desc>The haunting image of the Shroud of Turin has captivated millions around the world. But what exactly is it that we are seeing, and how did it come to be?</desc>
-  </programme>
   <programme channel="pw.SG.history.starhubtv" start="20260805031500 +0000" stop="20260805041000 +0000">
     <title lang="zh">Thai Marine Recon</title>
     <desc>Thailands Marine Recon training is one of the toughest in the world. From drinking cobra blood to the deadly night swimming test, we reveal what it takes to make the grade of the Thai Marine Recon.</desc>
@@ -151644,10 +151060,6 @@
   <programme channel="pw.SG.history.starhubtv" start="20260806224000 +0000" stop="20260806233500 +0000">
     <title lang="zh">Forged Flashbacks</title>
     <desc>We dig deep inside and revisit some of our favourite competitions over the years. From gladiators and Greeks to horror and holidays, join us as we look back at some of Forged in Fires best episodes.</desc>
-  </programme>
-  <programme channel="pw.SG.history.a" start="20260805022000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Historys Greatest Mysteries S5</title>
-    <desc>The haunting image of the Shroud of Turin has captivated millions around the world. But what exactly is it that we are seeing, and how did it come to be?</desc>
   </programme>
   <programme channel="pw.SG.history.a" start="20260805031500 +0000" stop="20260805041000 +0000">
     <title lang="zh">Special Forces S1</title>
@@ -156657,10 +156069,6 @@
     <title lang="zh">World Weather</title>
     <desc>Weather information of the different areas around the world.</desc>
   </programme>
-  <programme channel="pw.SG.nick.jr.b" start="20260805025000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">BARBAPAPA - One Big Happy Family! S1 - Barbabravo Is Not Feeling Well  Be Patient Barbabravo...</title>
-    <desc>Following a misadventure, Barbabravo is unable to transform at all. The whole family unites to help him.  Barbabravo cant stay put and is unable to focus one an activity for very long. Barbalala offers to teach him control. Will she succeed?</desc>
-  </programme>
   <programme channel="pw.SG.nick.jr.b" start="20260805031000 +0000" stop="20260805033500 +0000">
     <title lang="zh">BARBAPAPA - One Big Happy Family! S1 - The Seven Foods  The Perfect Portrait</title>
     <desc>The Barbababies think their food can make them change colours and shapes. They decide to find the right food for each of them.  Barbabeau lacks inspiration, he cant create anymore. The whole family helps by suggesting new subjects to paint.</desc>
@@ -159194,10 +158602,6 @@
   <programme channel="pw.SG.preview.channel.starhubtv" start="20260806160000 +0000" stop="20260806220000 +0000">
     <title lang="zh">Preview Channel</title>
   </programme>
-  <programme channel="pw.SG.rock.action.a" start="20260805004500 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Terminator 2: Judgement Day</title>
-    <desc>Arnold Schwarzenegger reprises his career-changing role as the Terminator in this explosive film that was selected as one of AFIs Top Ten Sci-Fi films of all time.</desc>
-  </programme>
   <programme channel="pw.SG.rock.action.a" start="20260805030500 +0000" stop="20260805045500 +0000">
     <title lang="zh">Dantes Peak</title>
     <desc>Pierce Brosnan stars in Dantes Peak, where a quiet town faces fiery doom from a reawakening volcano. Explosive action and suspense make this disaster thriller a must-see ride!</desc>
@@ -159285,10 +158689,6 @@
   <programme channel="pw.SG.rock.action.a" start="20260806170500 +0000" stop="20260806185500 +0000">
     <title lang="zh">U-571</title>
     <desc>Inspired by real WWII events, this film follows an American submarine crew tasked with capturing a German U-boat carrying the Enigma code machine. A tense, underwater action thriller full of deception, danger, and survival.</desc>
-  </programme>
-  <programme channel="pw.SG.rock.entertainment.starhubtv" start="20260805022500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">And The Con-Con</title>
-    <desc>Connor is forced to reconnect with people from his pre-Library life, and must defeat an old adversary who has grown powerful in his absence.</desc>
   </programme>
   <programme channel="pw.SG.rock.entertainment.starhubtv" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">And The Hangover From Hell</title>
@@ -159478,10 +158878,6 @@
     <title lang="zh">Late Night With Seth Meyers S13</title>
     <desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
   </programme>
-  <programme channel="pw.SG.rock.entertainment.a" start="20260805022500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">The Librarians: The Next Chapter</title>
-    <desc>Connor is forced to reconnect with people from his pre-Library life, and must defeat an old adversary who has grown powerful in his absence.</desc>
-  </programme>
   <programme channel="pw.SG.rock.entertainment.a" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">The Librarians: The Next Chapter</title>
     <desc>After a wild bachelorette party with Lysas childhood best friend, the team wakes up in rough shape and hungover, with no idea how they ended up where they are.</desc>
@@ -159653,10 +159049,6 @@
   <programme channel="pw.SG.rock.entertainment.a" start="20260806181000 +0000" stop="20260806192000 +0000">
     <title lang="zh">The Masked Singer U.K. S7</title>
     <desc>Its the Grand Final of the surreal singing show where huge celebrities compete undercover. Expect jaw-dropping reveals as we ask, who is behind the mask?.</desc>
-  </programme>
-  <programme channel="pw.SG.sab.tv.a" start="20260805025300 +0000" stop="20260805031900 +0000">
-    <title lang="zh">Taarak Mehta Ka Ooltah Chashmah</title>
-    <desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each others company.</desc>
   </programme>
   <programme channel="pw.SG.sab.tv.a" start="20260805031900 +0000" stop="20260805034500 +0000">
     <title lang="zh">Shrimad Ramayan</title>
@@ -160969,10 +160361,6 @@
   <programme channel="pw.SG.sony.max.starhubtv" start="20260806204300 +0000" stop="20260806231400 +0000">
     <title lang="zh">Aankh Micholi</title>
     <desc>Three cousins, Laadli Chibber, Bajrang Das Khatri and Shikhar Randhawa, embrace the warmth of a new city when they move to Mumbai, but they also face challenges that transform their lives.</desc>
-  </programme>
-  <programme channel="pw.SG.sony.yay.a" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Prince Jai Aur Dumdaar Viru</title>
-    <desc>A prince and a commoner who are best friends keep having to thwart the plots of the princes scheming, ambitious minister.</desc>
   </programme>
   <programme channel="pw.SG.sony.yay.a" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">Prince Jai Aur Dumdaar Viru</title>
@@ -163788,10 +163176,6 @@
   </programme>
   <programme channel="pw.SG.times.now.a" start="20260806190000 +0000" stop="20260806200000 +0000">
     <title lang="zh">THE NEWSHOUR  9- Live</title>
-  </programme>
-  <programme channel="pw.SG.tlc.a" start="20260805022000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Say Yes To The Dress S18</title>
-    <desc>Alexis wants to look naked on her wedding day, and Courtneys last-minute indecision puts Randy to the test.</desc>
   </programme>
   <programme channel="pw.SG.tlc.a" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">Fun Taiwan Challenge S2</title>
@@ -171155,10 +170539,6 @@
     <title lang="zh">Sindrom Mana Anakku</title>
     <desc>Dr. Kamal dan Dr. Lisa bekerja di hospital yang sama. Dr. Kamal keluar mendapat panggilan kecemasan di sebuah rumah. Dibawa pesakit tersebut ke hospital kerana kemungkinan komplikasi kelahiran namun mula tertanya-tanya di manakah anaknya. Anak pesakit tersebut perlu dicari sebelum apa-apa berlaku kepadanya.</desc>
   </programme>
-  <programme channel="unifi.tvsarawak" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">L Berita Iban TVS</title>
-    <desc>Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
-  </programme>
   <programme channel="unifi.tvsarawak" start="20260805031500 +0000" stop="20260805034500 +0000">
     <title lang="zh">From Malaysia With Love</title>
     <desc>Tiga Pengacara, Chef Adu Amran, Fiza Frizzy dan Kelvin Yap akan menyelami dan merasai pengalaman kehidupan masyarakat lokal dari pelbagai etnik.</desc>
@@ -171895,10 +171275,6 @@
     <title lang="zh">CONFIDENTIAL ASSIGNMENT 2: INTERNATIONAL</title>
     <desc>N. Korea detective returns for another secret mission. Despite having different underlying motives, 3 countries join forces to bring down an international crime organization.</desc>
   </programme>
-  <programme channel="unifi.tvn" start="20260805013500 +0000" stop="20260805030500 +0000">
-    <title lang="zh">GBRB: Farm Operation - Go Go Farm</title>
-    <desc>The ultimate bestie trio Lee Kwang-soo, Kim Woo-bin, and Doh Kyung-soo head to Jeju Island for a farm-tastic new farm stay adventure.</desc>
-  </programme>
   <programme channel="unifi.tvn" start="20260805030500 +0000" stop="20260805041500 +0000">
     <title lang="zh">The Legend of Kitchen Soldier</title>
     <desc>Instead of a rifle, he grabs a kitchen knife! Private Kang Seong-jae uses a mysterious gaming quest system to transform into a legendary military cook soldier.</desc>
@@ -172026,10 +171402,6 @@
   <programme channel="unifi.tvn" start="20260806220500 +0000" stop="20260806222500 +0000">
     <title lang="zh">You Can Cook With Sam Kim</title>
     <desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes - from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
-  </programme>
-  <programme channel="unifi.tvbjade" start="20260805023500 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Gourmet Express</title>
-    <desc>Hong Kong brings together global cuisines, and its unique dishes and down-to-earth fare have captured the close attention of discerning food lovers! Food hosts and presenters such as Icy Wong,Snowy Choi,Carmen Ngai,Carmaney Wong , Jessica Liu , Gillian Ng keep up with the latest food news and deals, delving into the stories behind the flavors. Gathering firsthand information on popular eateries across various platforms, the hosts personally line up and taste the food, providing genuine reviews. Even takeout-only eateries with no dine-in option are in high demandwhat are the must-try picks? Running a food business inevitably comes with its own mix of sweet, sour, bitter, and spicy experiences. The production team follows the proprietors through their busy day, from sourcing ingredients and preparing materials to opening for business, uncovering the stories behind the flavors.</desc>
   </programme>
   <programme channel="unifi.tvbjade" start="20260805030500 +0000" stop="20260805040500 +0000">
     <title lang="zh">Mrs. Revenge</title>
@@ -173075,10 +172447,6 @@
     <title lang="zh">Vantha Rajavathaan Varuven</title>
     <desc>Aadhi, posing as a driver, tries to reunite his grandfather with his estranged daughter Nandhini, but unexpected troubles arise in the process.</desc>
   </programme>
-  <programme channel="unifi.sonyyay!" start="20260805025500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Sab Jholmaal Hai</title>
-    <desc>A hilarious animal chase comedy about the secret life and adventures of a dog, a parrot and twin bobcats living with Ms Katkar.</desc>
-  </programme>
   <programme channel="unifi.sonyyay!" start="20260805031000 +0000" stop="20260805032500 +0000">
     <title lang="zh">Paap O Meter</title>
     <desc>Adding a twist to ghost comedies, three ghosts in Bhootlok are assigned with the job to scare those on earth who stray onto the path of wrong behavior.</desc>
@@ -173831,10 +173199,6 @@
     <title lang="zh">Minions</title>
     <desc>Follow the minion trio as they venture out into the world to find a new evil boss for their brethren to follow.</desc>
   </programme>
-  <programme channel="unifi.hbohits" start="20260805015500 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Rugrats Go Wild</title>
-    <desc>The family vacation goes overboard when the Rugrats meet the Wild Thornberrys for a toon-spin of a time!</desc>
-  </programme>
   <programme channel="unifi.hbohits" start="20260805031500 +0000" stop="20260805050000 +0000">
     <title lang="zh">Mountainhead</title>
     <desc>A group of billionaire friends get together against the backdrop of a rolling international crisis.</desc>
@@ -173934,14 +173298,6 @@
   <programme channel="unifi.hbohits" start="20260806212500 +0000" stop="20260806225500 +0000">
     <title lang="zh">Paranormal Activity 2</title>
     <desc>A couple is disturbed by the presence of a supernatural entity in their new home.</desc>
-  </programme>
-  <programme channel="unifi.hbofamily" start="20260805025400 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Summer Camp Island</title>
-    <desc>Hedgehog gets bit by a cute puppy and is starting to act strange.</desc>
-  </programme>
-  <programme channel="unifi.hbofamily" start="20260805030500 +0000" stop="20260805031600 +0000">
-    <title lang="zh">Summer Camp Island</title>
-    <desc>Susie challenges the campers to a game of softball to get out of doing a chore.</desc>
   </programme>
   <programme channel="unifi.hbofamily" start="20260805031600 +0000" stop="20260805032600 +0000">
     <title lang="zh">Summer Camp Island</title>
@@ -174451,10 +173807,6 @@
     <title lang="zh">Dirty Angels</title>
     <desc>Following the US withdrawal from Afghanistan in 2021, a group of female soldiers are sent back in to rescue a group of kidnapped teenagers.</desc>
   </programme>
-  <programme channel="unifi.hitsmovies" start="20260805010000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Game Of Death</title>
-    <desc>A renowned martial arts master fakes his own death after unknown assailants try to kill him. He leaves no stone unturned to trace down the culprits and punish them.</desc>
-  </programme>
   <programme channel="unifi.hitsmovies" start="20260805031500 +0000" stop="20260805053000 +0000">
     <title lang="zh">Oceans Eleven</title>
     <desc>Less than 24 hours after being paroled, Danny Ocean handpicks a top-notch team of smooth operators to pocket 150 million in one night, in the most daring Las Vegas casino heist ever.</desc>
@@ -174526,10 +173878,6 @@
   <programme channel="unifi.hitsmovies" start="20260806194500 +0000" stop="20260806221500 +0000">
     <title lang="zh">Vertigo</title>
     <desc>James Stewart and Kim Novak star in Alfred Hitchcocks masterpiece thriller about an acrophobic detective hired to shadow a friends mysterious and suicidal wife.</desc>
-  </programme>
-  <programme channel="unifi.warnertv" start="20260805022000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Worlds Dumbest</title>
-    <desc>Eureka! Weve found another 20 examples of modern innovations you just cant live without.</desc>
   </programme>
   <programme channel="unifi.warnertv" start="20260805031000 +0000" stop="20260805033500 +0000">
     <title lang="zh">Storage Hunters</title>
@@ -174783,10 +174131,6 @@
     <title lang="zh">ER</title>
     <desc>Follow the personal and professional lives of the doctors and patients inside a Chicago hospital emergency room.</desc>
   </programme>
-  <programme channel="unifi.hitsnow" start="20260805022000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Sheriff Country</title>
-    <desc>After a father and son flee a secluded ranch run by one of Edgewaters most power families, Mickey investigates disturbing allegations of abuse and uncovers dangerous secrets.</desc>
-  </programme>
   <programme channel="unifi.hitsnow" start="20260805030500 +0000" stop="20260805040500 +0000">
     <title lang="zh">Fire Country</title>
     <desc>When a red flag warning sets the stage for a volatile day, a turf war between Station 42 and neighboring Drake County comes to a head.</desc>
@@ -174990,10 +174334,6 @@
   <programme channel="unifi.hitsnow" start="20260806223500 +0000" stop="20260806230500 +0000">
     <title lang="zh">Entertainment Tonight</title>
     <desc>The foremost authority on breaking entertainment news since its debut, ENTERTAINMENT TONIGHT is the No. 1 syndicated entertainment newsmagazine in the world.</desc>
-  </programme>
-  <programme channel="unifi.axn" start="20260805022000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">S.W.A.T.</title>
-    <desc>After the shocking shooting of a member of 20-Squad, Hondo and the team launch a citywide manhunt for the robbery crew responsible. Meanwhile, Deacons plans for his future hit a snag, and Powell and Alfaro clash over a tricky issue.</desc>
   </programme>
   <programme channel="unifi.axn" start="20260805031000 +0000" stop="20260805040500 +0000">
     <title lang="zh">AMERICAN NINJA WARRIOR</title>
@@ -175551,10 +174891,6 @@
     <title lang="zh">Strong Woman Do Bong Soon</title>
     <desc>The relationship between Bong Soon and Min Hyuk has develop further when they learn the identity of the person whos been threatening Min hyuk.</desc>
   </programme>
-  <programme channel="unifi.animax" start="20260805024000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">INSPECTRE</title>
-    <desc>Otonashi asks his relatives to explain the truth about his wifes death and will give the priority to inheritance.</desc>
-  </programme>
   <programme channel="unifi.animax" start="20260805031000 +0000" stop="20260805034000 +0000">
     <title lang="zh">BLACK CLOVER</title>
     <desc>Asta rushes out right away knowing that the capital is being attacked. Following him, Leopold rushes to the scene.</desc>
@@ -175911,10 +175247,6 @@
     <title lang="zh">OSHI NO KO</title>
     <desc>B-Komachi is set for Japan Idol Fest but must decide who will be the center, with Ruby and Memcho pushing for Kana, the best singer.</desc>
   </programme>
-  <programme channel="unifi.rockentertainment" start="20260805015500 +0000" stop="20260805030500 +0000">
-    <title lang="zh">The Wheel Of Time</title>
-    <desc>Rand faces the forgotten history of his family as Moiraine learns the devastating truth of her future.</desc>
-  </programme>
   <programme channel="unifi.rockentertainment" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">Below Deck Down Under</title>
     <desc>Chef Ben begins to feel Daisy no longer has his back.</desc>
@@ -176107,10 +175439,6 @@
     <title lang="zh">The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
   </programme>
-  <programme channel="unifi.rockaction" start="20260805013000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Moby Dick Part 2</title>
-    <desc>The sole survivor of a lost whaling ship relates the tale of his captains self-destructive obsession to hunt the white whale, Moby Dick.</desc>
-  </programme>
   <programme channel="unifi.rockaction" start="20260805031000 +0000" stop="20260805045000 +0000">
     <title lang="zh">Rambo 3</title>
     <desc>Combat has taken its toll on Rambo, but hes finally begun to find inner peace in a monastery. When Rambos friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.</desc>
@@ -176206,10 +175534,6 @@
   <programme channel="unifi.rockaction" start="20260806211000 +0000" stop="20260806231000 +0000">
     <title lang="zh">Gods Of Egypt</title>
     <desc>Gerard Butler and Nikolaj Coster-Waldau star as rival gods locked in an epic battle to decide the fate of the universe in this thrilling fantasy-adventure.</desc>
-  </programme>
-  <programme channel="unifi.bbcearth" start="20260805023500 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Robson Greens Weekend Escapes</title>
-    <desc>Robson joins singer KT Tunstall in her home territory of Fife as they explore the beaches of her childhood near St Andrews, followed by a sea shanty workshop and jewellery making.</desc>
   </programme>
   <programme channel="unifi.bbcearth" start="20260805031500 +0000" stop="20260805041000 +0000">
     <title lang="zh">The Great Wall with Ash Dykes</title>
@@ -176410,10 +175734,6 @@
   <programme channel="unifi.bbcearth" start="20260806223500 +0000" stop="20260806231000 +0000">
     <title lang="zh">Robson Greens Weekend Escapes</title>
     <desc>Robson joins singer KT Tunstall in her home territory of Fife as they explore the beaches of her childhood near St Andrews, followed by a sea shanty workshop and jewellery making.</desc>
-  </programme>
-  <programme channel="unifi.lovenature" start="20260805030000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Survival of the Beast</title>
-    <desc>Investigate the art of nest making with the jungles master builder: the orangutan. Shadow Max as he tries to escape the insect-filled floor of the Borneo rainforest and takes inspiration from this solitary primates natural engineering prowess.</desc>
   </programme>
   <programme channel="unifi.lovenature" start="20260805030500 +0000" stop="20260805035000 +0000">
     <title lang="zh">Survival of the Beast</title>
@@ -176814,10 +176134,6 @@
   <programme channel="unifi.lovenature" start="20260806232000 +0000" stop="20260806232500 +0000">
     <title lang="zh">Cub Camp</title>
     <desc>Experience the joys of rain and climbing with Yasmine and Yara, and watch Winston take a dip in his new pool. Go hunting for dropped radio collars with Roger and Steve, then see what happens when the two groups of summer cubs come face-to-face.</desc>
-  </programme>
-  <programme channel="unifi.hgtv" start="20260805021500 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Good Bones</title>
-    <desc>The Two Chicks team takes on dream home renovations for Minas brother, Tad, and sister, Kelsy. They try to find common ground with design choices.</desc>
   </programme>
   <programme channel="unifi.hgtv" start="20260805030500 +0000" stop="20260805033000 +0000">
     <title lang="zh">My Lottery Dream Home</title>
@@ -178395,10 +177711,6 @@
     <title lang="zh">CoComelon</title>
     <desc>Its JJs ultimate pretend play day! He becomes a detective, a brave knight  the captain of a pirate ship!</desc>
   </programme>
-  <programme channel="unifi.nickjr." start="20260805025000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">BARBAPAPA - One Big Happy Family!</title>
-    <desc>Mr. Stricts twins visit the barbababies. The barbababies organize a treasure hunt for the twins and enjoy the great outdoors.  The Barbapapas are off to a new adventure... in the garden. But living in nature is more complicated than they expected.</desc>
-  </programme>
   <programme channel="unifi.nickjr." start="20260805031500 +0000" stop="20260805033500 +0000">
     <title lang="zh">BARBAPAPA - One Big Happy Family!</title>
     <desc>Chemical sprays are making the countryside rosy! The Barbapapas build an aviary to protect sick birds.  When they see a beach covered with rubbish, the Barbapapa family decides to clean the beach and use the trash to make a miniature golf course.</desc>
@@ -178922,14 +178234,6 @@
   <programme channel="unifi.nickjr." start="20260806232500 +0000" stop="20260806235000 +0000">
     <title lang="zh">PAW Patrol</title>
     <desc>Mayor Goodway and Alex row out into the bay to get a closer look at a baby whale. But a storm blows the rowboat towards the sea.  Ryder discovers Garby the goat stuck on a cliff edge! He attempts to rescue Garby but gets stranded!</desc>
-  </programme>
-  <programme channel="unifi.cbeebies" start="20260805030000 +0000" stop="20260805030700 +0000">
-    <title lang="zh">Hey Duggee</title>
-    <desc>As Peggee and the Hummingbirds journey up the river to deliver a parcel, they have fun spotting and avoiding the wildlife that they meet along the way.</desc>
-  </programme>
-  <programme channel="unifi.cbeebies" start="20260805030700 +0000" stop="20260805031400 +0000">
-    <title lang="zh">Hey Duggee</title>
-    <desc>Chipmunk is cycling one day delivering his packages when he hits a rock and his trike falls apart! He has so many packages to deliver - what is he going to do now?</desc>
   </programme>
   <programme channel="unifi.cbeebies" start="20260805031400 +0000" stop="20260805032000 +0000">
     <title lang="zh">Hey Duggees Squirrel Club</title>
@@ -180067,10 +179371,6 @@
     <title lang="zh">Bluey</title>
     <desc>When Bluey and Bingo are unable to grab a prize on a Magic Claw machine, Mum and Dad create their own version at home. But Dad isnt about to make winning easy.</desc>
   </programme>
-  <programme channel="unifi.nickelodeon" start="20260805024300 +0000" stop="20260805030300 +0000">
-    <title lang="zh">The Loud House</title>
-    <desc>On Valentines Day, Rusty and his girlfriend, Amber, must hide their love when they realize their parents are business rivals.</desc>
-  </programme>
   <programme channel="unifi.nickelodeon" start="20260805030300 +0000" stop="20260805032800 +0000">
     <title lang="zh">SpongeBob SquarePants</title>
     <desc>Squidward packs his bags after his house gets infested, but a different kind of pest waits at his hotel.  SpongeBob and Patrick get tricked into babysitting a grouchy old lady, who does all she can to escape.</desc>
@@ -180811,10 +180111,6 @@
     <title lang="zh">Grizzy And The Lemmings: World Tour</title>
     <desc>Ep468, Ep475, Ep472, Ep452, Ep469, Ep470, Ep474-The Lemmings find a stuffed animal factory that might allow them to win against Grizzy for a crown.</desc>
   </programme>
-  <programme channel="unifi.bbcworldnews" start="20260805024800 +0000" stop="20260805030300 +0000">
-    <title lang="zh">Asia Specific</title>
-    <desc>Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.</desc>
-  </programme>
   <programme channel="unifi.bbcworldnews" start="20260805030300 +0000" stop="20260805033300 +0000">
     <title lang="zh">Newsday</title>
     <desc>Live from Singapore, the latest international news from the BBC.</desc>
@@ -181203,10 +180499,6 @@
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
   </programme>
-  <programme channel="unifi.aljazeera" start="20260805020300 +0000" stop="20260805030300 +0000">
-    <title lang="zh">Newshour</title>
-    <desc>Latest news and in-depth analysis from around the world.</desc>
-  </programme>
   <programme channel="unifi.aljazeera" start="20260805030300 +0000" stop="20260805033300 +0000">
     <title lang="zh">News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
@@ -181490,14 +180782,6 @@
   <programme channel="unifi.aljazeera" start="20260806230300 +0000" stop="20260806233300 +0000">
     <title lang="zh">News Live</title>
     <desc>Up-to-date news and analysis from around the world.</desc>
-  </programme>
-  <programme channel="unifi.cgtn" start="20260805023300 +0000" stop="20260805030300 +0000">
-    <title lang="zh">World Insight with Tian Wei</title>
-    <desc>World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
-  </programme>
-  <programme channel="unifi.cgtn" start="20260805030300 +0000" stop="20260805031800 +0000">
-    <title lang="zh">The World Today</title>
-    <desc>The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the worlds top stories as they happen.</desc>
   </programme>
   <programme channel="unifi.cgtn" start="20260805031800 +0000" stop="20260805033300 +0000">
     <title lang="zh">Sports Scene</title>
@@ -181831,10 +181115,6 @@
     <title lang="zh">The Heat</title>
     <desc>The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.</desc>
   </programme>
-  <programme channel="unifi.cna" start="20260805020300 +0000" stop="20260805030300 +0000">
-    <title lang="zh">Singapore Hidden in 40 Objects</title>
-    <desc>From banned music and long hair rules to the origins of school streaming and hawker centres, host Sam Driscoll learns little-known details about Singapores transformative years.</desc>
-  </programme>
   <programme channel="unifi.cna" start="20260805030300 +0000" stop="20260805050300 +0000">
     <title lang="zh">Asia Now</title>
     <desc>Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
@@ -182026,14 +181306,6 @@
   <programme channel="unifi.cna" start="20260806220300 +0000" stop="20260806230300 +0000">
     <title lang="zh">Singapore Tonight</title>
     <desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
-  </programme>
-  <programme channel="unifi.euronews" start="20260805023300 +0000" stop="20260805030300 +0000">
-    <title lang="zh">The European debrief</title>
-    <desc>Live headlines,breaking news, analysis and interviews from Europes News Centre.</desc>
-  </programme>
-  <programme channel="unifi.euronews" start="20260805030300 +0000" stop="20260805031800 +0000">
-    <title lang="zh">The European debrief</title>
-    <desc>Live headlines,breaking news, analysis and interviews from Europes News Centre.</desc>
   </programme>
   <programme channel="unifi.euronews" start="20260805031800 +0000" stop="20260805033300 +0000">
     <title lang="zh">The European debrief</title>
@@ -182935,10 +182207,6 @@
     <title lang="zh">Siaran Tamat</title>
     <desc>Siaran Tamat</desc>
   </programme>
-  <programme channel="unifi.abcaustralia" start="20260805023500 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Landline</title>
-    <desc>A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
-  </programme>
   <programme channel="unifi.abcaustralia" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">Four Corners - Duped: Food Exposed Part 2</title>
     <desc>Adele Ferguson follows the trail from Australian supermarkets to international supply chains, revealing how products can be adulterated long before they reach the shopping trolley or are linked to unethical labour practices.</desc>
@@ -183170,18 +182438,6 @@
   <programme channel="unifi.abcaustralia" start="20260806210500 +0000" stop="20260806230500 +0000">
     <title lang="zh">News Breakfast</title>
     <desc>As each day begins get the facts you need to stay informed. James Glenday and Emma Rebellato present the latest news, overnight developments and todays top stories, joined by Catherine Murphy, Nate Byrne and Lillian Rangiah.</desc>
-  </programme>
-  <programme channel="unifi.dw" start="20260805023300 +0000" stop="20260805030300 +0000">
-    <title lang="zh">Global Us</title>
-    <desc>Global Us</desc>
-  </programme>
-  <programme channel="unifi.dw" start="20260805030300 +0000" stop="20260805030500 +0000">
-    <title lang="zh">DW News</title>
-    <desc>DW News</desc>
-  </programme>
-  <programme channel="unifi.dw" start="20260805030500 +0000" stop="20260805031800 +0000">
-    <title lang="zh">DW News Focus</title>
-    <desc>DW News Focus</desc>
   </programme>
   <programme channel="unifi.dw" start="20260805031800 +0000" stop="20260805033300 +0000">
     <title lang="zh">Best of DW-online Content</title>
@@ -183710,10 +182966,6 @@
   <programme channel="unifi.dw" start="20260806231800 +0000" stop="20260806233300 +0000">
     <title lang="zh">Best of DW-online Content</title>
     <desc>Best of DW-online Content</desc>
-  </programme>
-  <programme channel="unifi.nhkworld-japan" start="20260805023500 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Frontrunners</title>
-    <desc>Watanabe Hiroki is co-founder of an NGO in Bangladesh that gives long-term support to underprivileged children on the street and proves that they can make a positive contribution to society.</desc>
   </programme>
   <programme channel="unifi.nhkworld-japan" start="20260805030500 +0000" stop="20260805033500 +0000">
     <title lang="zh">NHK Newsline</title>
@@ -198008,9 +197260,6 @@
     <title lang="zh">おはよう！買物列島</title>
     <desc>選りすぐりの商品をご紹介！</desc>
   </programme>
-  <programme channel="elta.sports.max7" start="20260804231000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">MLB 馬林魚 VS 勇士 例行賽 85原音 LIVE</title>
-  </programme>
   <programme channel="elta.sports.max3" start="20260804233000 +0000" stop="20260805033000 +0000">
     <title lang="zh">MLB 雙城 VS 皇家 例行賽 85原音 LIVE</title>
   </programme>
@@ -198845,10 +198094,6 @@
   <programme channel="skynz.premiere.movies" start="20260806083000 +0000" stop="20260806105000 +0000">
     <title lang="zh">Christy</title>
     <desc>Fuelled by grit, raw determination, and a desire to win, Christy Martin charges into the world of boxing under the guidance of her coach-turned-husband. But while Christy flaunts a fiery persona in the ring, her toughest battles unfold at home.</desc>
-  </programme>
-  <programme channel="skynz.comedy.movies" start="20260805013500 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Faster</title>
-    <desc>A young woman fights to break into the male-dominated world of Formula 1. With the help of a washed-up racer, she sets out to prove she belongs on the grid.</desc>
   </programme>
   <programme channel="skynz.comedy.movies" start="20260805031500 +0000" stop="20260805050500 +0000">
     <title lang="zh">Snack Shack</title>
@@ -201020,9 +200265,6 @@
   <programme channel="stg.tvb.news" start="20260806213000 +0000" stop="20260806220000 +0000">
     <title lang="zh">News Treasury</title>
   </programme>
-  <programme channel="stg.tvb.pearl" start="20260805024500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Dolce vita</title>
-  </programme>
   <programme channel="stg.tvb.pearl" start="20260805031000 +0000" stop="20260805035500 +0000">
     <title lang="zh">Return of the Silver Tongue</title>
     <desc>A righteous man, Wai, sees how absurd society is and deeply feels education wouldnt change peoples hearts coincidentally, he meets Chan Jan Jan, a talented writer, who is competitive and talkative the two become lawyers.</desc>
@@ -201342,9 +200584,6 @@
   </programme>
   <programme channel="trueid.mono" start="20260806200000 +0000" stop="20260806220000 +0000">
     <title lang="zh">Sports Program</title>
-  </programme>
-  <programme channel="skylife.ebs" start="20260805030000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">EBS 뉴스 12</title>
   </programme>
   <programme channel="skylife.ebs" start="20260805031000 +0000" stop="20260805040500 +0000">
     <title lang="zh">왔다! 내 손주</title>
@@ -201673,9 +200912,6 @@
   <programme channel="skylife.채널a" start="20260805130000 +0000" stop="20260805150000 +0000">
     <title lang="zh">개와 늑대의 시간 2</title>
     <desc>반려견의 문제 행동 이면에 있는 보호자의 원인까지 함께 들여다보는 리얼리티 예능 프로그램</desc>
-  </programme>
-  <programme channel="skylife.mbn" start="20260805024000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">꼬마캐리 탐구생활 심화학습</title>
   </programme>
   <programme channel="skylife.mbn" start="20260805031000 +0000" stop="20260805045000 +0000">
     <title lang="zh">속풀이쇼 동치미</title>
@@ -202112,9 +201348,6 @@
   <programme channel="skylife.연합뉴스tv" start="20260805124000 +0000" stop="20260805144500 +0000">
     <title lang="zh">뉴스 투나잇</title>
   </programme>
-  <programme channel="skylife.sbs.biz" start="20260805023000 +0000" stop="20260805030500 +0000">
-    <title lang="zh">SBS Biz NEWS 11</title>
-  </programme>
   <programme channel="skylife.sbs.biz" start="20260805030500 +0000" stop="20260805040000 +0000">
     <title lang="zh">순간포착 세상에 이런일이</title>
     <desc>우리 주변에서 일어나는 재미있고 놀랍고 신기한 이야기를 따뜻한 시선으로 밀착취재 하여 전달하고 감동과 이해를 함께하는 리얼리티 프로그램</desc>
@@ -202259,9 +201492,6 @@
   <programme channel="skylife.ocn" start="20260805120000 +0000" stop="20260805144000 +0000">
     <title lang="zh">스파이더맨:노 웨이 홈</title>
   </programme>
-  <programme channel="skylife.ocn.movies" start="20260805010000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">대가족</title>
-  </programme>
   <programme channel="skylife.ocn.movies" start="20260805031000 +0000" stop="20260805052000 +0000">
     <title lang="zh">오늘 밤, 세계에서 이 사랑이 사라진다 해도</title>
   </programme>
@@ -202378,9 +201608,6 @@
   <programme channel="skylife.히스토리" start="20260805130700 +0000" stop="20260805140600 +0000">
     <title lang="zh">다크 X파일: 국가 기밀 폭로 S2</title>
   </programme>
-  <programme channel="skylife.ytn사이언스" start="20260805022700 +0000" stop="20260805030200 +0000">
-    <title lang="zh">띵뷰</title>
-  </programme>
   <programme channel="skylife.ytn사이언스" start="20260805030200 +0000" stop="20260805033000 +0000">
     <title lang="zh">눈에 띄는 그녀들 시즌7</title>
   </programme>
@@ -202442,9 +201669,6 @@
   </programme>
   <programme channel="skylife.ytn사이언스" start="20260805143200 +0000" stop="20260805150000 +0000">
     <title lang="zh">다큐S 프라임</title>
-  </programme>
-  <programme channel="skylife.국회방송" start="20260805030000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">헌법을 만나다 내 인생의 1조 1항</title>
   </programme>
   <programme channel="skylife.국회방송" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">세계테마기행 2</title>
@@ -207395,9 +206619,6 @@
   <programme channel="cubmu.transtv" start="20260806220000 +0000" stop="20260806233000 +0000">
     <title lang="zh">Islam Itu Indah</title>
   </programme>
-  <programme channel="cubmu.trans7" start="20260805023000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Selebrita Heits</title>
-  </programme>
   <programme channel="cubmu.trans7" start="20260805031500 +0000" stop="20260805041500 +0000">
     <title lang="zh">Big Bang!</title>
   </programme>
@@ -208705,9 +207926,6 @@
   </programme>
   <programme channel="cubmu.mnctv" start="20260806230000 +0000" stop="20260806231500 +0000">
     <title lang="zh">CoComelon</title>
-  </programme>
-  <programme channel="cubmu.tvri" start="20260805030000 +0000" stop="20260805030300 +0000">
-    <title lang="zh">Info Terkini</title>
   </programme>
   <programme channel="cubmu.tvri" start="20260805030300 +0000" stop="20260805033000 +0000">
     <title lang="zh">Olahraga Tradisional</title>
@@ -211423,10 +210641,6 @@
   <programme channel="dens.rodjatv" start="20260806160000 +0000" stop="20260806165950 +0000">
     <title lang="zh">The Schedule Is Not Available</title>
   </programme>
-  <programme channel="pw.CA.a.and.e.canada" start="20260805023200 +0000" stop="20260805030200 +0000">
-    <title lang="zh">Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
-    <desc>See how one company is changing peoples lives by helping them put their tax problems to rest.</desc>
-  </programme>
   <programme channel="pw.CA.a.and.e.canada" start="20260805030200 +0000" stop="20260805033100 +0000">
     <title lang="zh">1776 - 2026 250th Anniversary Quarter Celebration Program</title>
     <desc>2026 will be one of the most historic years ever in U.S. coinage join your host Mike Mezack to learn about the incredible U.S. Quarter program and get a chance at an exclusive PD Roll!</desc>
@@ -211650,10 +210864,6 @@
   <programme channel="pw.CA.addik" start="20260805200000 +0000" stop="20260805210000 +0000">
     <title lang="zh">Magnum</title>
     <desc>Magnum, Higgins, TC et Rick aident lquipe dHawa 5-0  rsoudre une affaire prilleuse lofficier Reigns sest fait enlever par des criminels qui veulent rcuprer une liste secrte dagents doubles de la CIA quils avaient prcdemment vole.</desc>
-  </programme>
-  <programme channel="pw.CA.adult.swim" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">PSI Cops!</title>
-    <desc>Kidd and Felix learn that the most important tool for a Psi Cop is rope, tons and tons of rope.</desc>
   </programme>
   <programme channel="pw.CA.adult.swim" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">PSI Cops!</title>
@@ -212834,10 +212044,6 @@
     <title lang="zh">Lcole contre le racisme</title>
     <desc>Les lves explorent le privilge blanc et sont soumis  un nouveau test pour voir si les prjugs raciaux ont chang.</desc>
   </programme>
-  <programme channel="pw.CA.cartoon.network.canada" start="20260805030000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Total Dramarama</title>
-    <desc>After finding what he believes to be a magic wand, Owen accidentally turns Harold into a housefly.</desc>
-  </programme>
   <programme channel="pw.CA.cartoon.network.canada" start="20260805031500 +0000" stop="20260805033000 +0000">
     <title lang="zh">Total Dramarama</title>
     <desc>When a skunk comes seeking its annual revenge on Chef, Duncan sees it as an opportunity to get a vacation from day care.</desc>
@@ -213441,10 +212647,6 @@
   <programme channel="pw.CA.cbc.edmonton" start="20260805200000 +0000" stop="20260805210000 +0000">
     <title lang="zh">Wild Cards</title>
     <desc>Max and Ellis investigate a locked-room mystery after the death of a high-powered fixer electrocuted in her penthouse hot tub, where she was the only one present at the time actors, Vanessa Morgan, Giacomo Gianniotti, Jason Priestley, Tamara Taylor, Terry Chen, Amy Goodmurphy, Fletcher Donovan, Kaylah Zander.</desc>
-  </programme>
-  <programme channel="pw.CA.cbc.halifax" start="20260805030000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Live: World Report</title>
-    <desc>Whats going on in Canada and the world a ten-minute dose of big news stories.</desc>
   </programme>
   <programme channel="pw.CA.cbc.halifax" start="20260805031000 +0000" stop="20260805040000 +0000">
     <title lang="zh">Live: Information Morning</title>
@@ -216391,10 +215593,6 @@
     <title lang="zh">Mr.  Mrs. Smith</title>
     <desc>John and Jane Smith, a couple in a stagnating marriage, live a deceptively mundane existence. However, each has been hiding a secret from the other: they are assassins working for adversarial agencies. When they are both assigned to kill the same target, Benjamin Danz, the truth comes to the surface. Finally free from their cover stories, they discover that they have been assigned to kill each oth</desc>
   </programme>
-  <programme channel="pw.CA.global.bc" start="20260805023500 +0000" stop="20260805030500 +0000">
-    <title lang="zh">Global National</title>
-    <desc>The top stories from around the world.</desc>
-  </programme>
   <programme channel="pw.CA.global.bc" start="20260805030500 +0000" stop="20260805033500 +0000">
     <title lang="zh">The Goldbergs</title>
     <desc>Beverly discovers the complicated world of adult relationships is filled with minefields when she opens her mind to dating Barry discovers a new passion.</desc>
@@ -216602,10 +215800,6 @@
   <programme channel="pw.CA.hbo.canada.1" start="20260805190000 +0000" stop="20260805210000 +0000">
     <title lang="zh">Gaga Chromatica Ball</title>
     <desc>Pop star Lady Gaga performs in front of a sold-out crowd at Dodger Stadium in Los Angeles during the 2022 Chromatica Ball Tour.</desc>
-  </programme>
-  <programme channel="pw.CA.hbo.canada.west" start="20260805012000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Out Standing</title>
-    <desc>Officer Sandra Perron resigns from the Canadian military after a controversial photo surfaces. Adapting to civilian life amidst an investigation, she denies abuse allegations despite evidence suggesting mistreatment within her unit.</desc>
   </programme>
   <programme channel="pw.CA.hbo.canada.west" start="20260805031000 +0000" stop="20260805060000 +0000">
     <title lang="zh">Path to War</title>
@@ -218677,10 +217871,6 @@
     <title lang="zh">Non Stop Hits</title>
     <desc>Featuring non-stop hits of today Hindi and Punjabi mix, Bollywood and Punjabi pop songs altogether.</desc>
   </programme>
-  <programme channel="pw.CA.rai.italia" start="20260805003000 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Unomattina</title>
-    <desc>Spazi dedicati allattualit, al costume ed alla cultura si alternano alla rassegna stampa e alla discussione delle principali notizie.</desc>
-  </programme>
   <programme channel="pw.CA.rai.italia" start="20260805031500 +0000" stop="20260805034500 +0000">
     <title lang="zh">Italia AR</title>
     <desc>Vittorio ci accompagna in un viaggio attraverso lItalia a bordo di un camper ed in sella alla sua bicicletta. In compagnia di Patricio, il suo amico pi fedele, fa conoscere al pubblico le storie e i luoghi pi autentici del nostro paese.</desc>
@@ -218960,10 +218150,6 @@
   <programme channel="pw.CA.rewind" start="20260806190000 +0000" stop="20260806213000 +0000">
     <title lang="zh">The Sunchaser</title>
     <desc>Millionaire oncologist Dr. Michael Reynolds Woody Harrelson is living a life of luxury in Los Angeles when he is assigned to young cancer patient Brandon Monroe Jon Seda, a violent former gang member with nothing but contempt for the doctor. Monroe, who is part Cherokee, gets hold of a gun, kidnaps Reynolds and forces him to go to an Arizona reservation, where he thinks a lakes healing powers</desc>
-  </programme>
-  <programme channel="pw.CA.showcase.canada" start="20260805001500 +0000" stop="20260805031500 +0000">
-    <title lang="zh">Divergent</title>
-    <desc>Tris Prior lives in a futuristic world in which society is divided into five factions. As each person enters adulthood, he or she must choose a faction and commit to it for life. Tris chooses Dauntless -- those who pursue bravery above all else. However, her initiation leads to the discovery that she is a Divergent and will never be able to fit into just one faction. Warned that she must conceal h</desc>
   </programme>
   <programme channel="pw.CA.showcase.canada" start="20260805031500 +0000" stop="20260805040000 +0000">
     <title lang="zh">Killing It</title>
@@ -220091,10 +219277,6 @@
     <title lang="zh">The Boxer and the Butterfly</title>
     <desc>When an aspiring dancer is dropped by her partner days before her big performance, shell need to teach a down-and-out boxer some moves to win the prize money and open her dream dance studio.</desc>
   </programme>
-  <programme channel="pw.CA.super.quest" start="20260805022000 +0000" stop="20260805030800 +0000">
-    <title lang="zh">Titans of Defense</title>
-    <desc>In friendly and enemy waters, finely-tuned warships and submarines boast stealth, speed, launch and strike capabilities.</desc>
-  </programme>
   <programme channel="pw.CA.super.quest" start="20260805030800 +0000" stop="20260805040000 +0000">
     <title lang="zh">How I Got Here</title>
     <desc>Knowing little of her Japanese heritage, Lacey travels to Japan with her father to reconnect with the sights, sounds, and flavors of his childhood.</desc>
@@ -220349,10 +219531,6 @@
   <programme channel="pw.CA.the.fight.network" start="20260805210000 +0000" stop="20260805213000 +0000">
     <title lang="zh">International Wrestling Syndicate</title>
     <desc>The premier professional wrestling promotion out of Montreal showcasing top Canadian standouts and international stars.</desc>
-  </programme>
-  <programme channel="pw.CA.treehouse" start="20260805024500 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Max  Ruby</title>
-    <desc>Max forgets to open a birthday present Ruby prepares for a fancy Bunny Scout party Max has trouble falling asleep.</desc>
   </programme>
   <programme channel="pw.CA.treehouse" start="20260805031000 +0000" stop="20260805033500 +0000">
     <title lang="zh">Curious George</title>
@@ -221369,10 +220547,6 @@
   <programme channel="pw.CA.tva" start="20260805203000 +0000" stop="20260805210000 +0000">
     <title lang="zh">Les gags</title>
     <desc>mission de situations loufoques croques sur le vif par une camra cache.</desc>
-  </programme>
-  <programme channel="pw.CA.unis.tv" start="20260805030000 +0000" stop="20260805031000 +0000">
-    <title lang="zh">Partie de campagne</title>
-    <desc>La bande qui ramne le plus de champignons  la fin de la journe a gagn, mais attention, un champignon toxique et lquipe est limine.</desc>
   </programme>
   <programme channel="pw.CA.unis.tv" start="20260805031000 +0000" stop="20260805032500 +0000">
     <title lang="zh">Partie de campagne</title>
@@ -222662,20 +221836,20 @@
   <programme channel="tdm.92.mo" start="20260806154000 +0000" stop="20260807053000 +0000">
     <title lang="zh">RTPi Directo</title>
   </programme>
-  <programme channel="tdm.93.mo" start="20260806170000 +0000" stop="20260807015900 +0000">
-    <title lang="zh">收台</title>
-  </programme>
   <programme channel="tdm.95.mo" start="20260806160100 +0000" stop="20260807015900 +0000">
     <title lang="zh">收台</title>
-  </programme>
-  <programme channel="tdm.91.mo" start="20260806230000 +0000" stop="20260807000000 +0000">
-    <title lang="zh">早晨新聞</title>
   </programme>
   <programme channel="tdm.96.mo" start="20260806233000 +0000" stop="20260807000000 +0000">
     <title lang="zh">英語新聞</title>
   </programme>
+  <programme channel="tdm.91.mo" start="20260806230000 +0000" stop="20260807000000 +0000">
+    <title lang="zh">早晨新聞</title>
+  </programme>
   <programme channel="tdm.94.mo" start="20260806230000 +0000" stop="20260807000000 +0000">
     <title lang="zh">早晨新聞</title>
+  </programme>
+  <programme channel="tdm.93.mo" start="20260806170000 +0000" stop="20260807015900 +0000">
+    <title lang="zh">收台</title>
   </programme>
   <programme channel="hoy77" start="20260806233000 +0000" stop="20260807000000 +0000">
     <title lang="zh">一個人鐵道行 4</title>
@@ -225841,9 +225015,6 @@
     <title lang="zh">おはよう！買物列島</title>
     <desc>選りすぐりの商品をご紹介！</desc>
   </programme>
-  <programme channel="elta.sports.max7" start="20260806220000 +0000" stop="20260807040000 +0000">
-    <title lang="zh">非賽事直播時段 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
-  </programme>
   <programme channel="elta.sports.max3" start="20260806231000 +0000" stop="20260807031000 +0000">
     <title lang="zh">MLB 馬林魚 VS 勇士 例行賽 87原音 LIVE</title>
   </programme>
@@ -225869,6 +225040,9 @@
     <title lang="zh">非賽事直播時段 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
   <programme channel="elta.sports.max6" start="20260806220000 +0000" stop="20260807040000 +0000">
+    <title lang="zh">非賽事直播時段 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
+  </programme>
+  <programme channel="elta.sports.max7" start="20260806220000 +0000" stop="20260807040000 +0000">
     <title lang="zh">非賽事直播時段 MLB：全台獨家 天天10場鎖定ELTA.TV</title>
   </programme>
   <programme channel="viutvsix.96" start="20260806181000 +0000" stop="20260807010000 +0000">
