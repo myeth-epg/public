@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260804225828 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="ID-EPG-Merger">
+<tv date="20260805062159 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="ID-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -122,16 +122,28 @@
 <!-- Programme1 --><programme start="20260804170000 +0000" stop="20260804173000 +0000" channel="cubmu.transtv">
     <title lang="id">Lacak Kriminal</title>
   </programme>
-<programme start="20260804173000 +0000" stop="20260804183000 +0000" channel="cubmu.transtv">
+<programme start="20260804173000 +0000" stop="20260804175000 +0000" channel="cubmu.transtv">
     <title lang="id">CNN Indonesia Prime News</title>
   </programme>
-<programme start="20260804183000 +0000" stop="20260804193000 +0000" channel="cubmu.transtv">
+<programme start="20260804175000 +0000" stop="20260804183000 +0000" channel="cubmu.transtv">
     <title lang="id">Pondok Pak Cus</title>
   </programme>
-<programme start="20260804193000 +0000" stop="20260804203000 +0000" channel="cubmu.transtv">
+<programme start="20260804183000 +0000" stop="20260804185000 +0000" channel="cubmu.transtv">
+    <title lang="id">Pondok Pak Cus</title>
+  </programme>
+<programme start="20260804185000 +0000" stop="20260804193000 +0000" channel="cubmu.transtv">
     <title lang="id">Bro &amp; Bray</title>
   </programme>
-<programme start="20260804203000 +0000" stop="20260804220000 +0000" channel="cubmu.transtv">
+<programme start="20260804193000 +0000" stop="20260804195000 +0000" channel="cubmu.transtv">
+    <title lang="id">Bro &amp; Bray</title>
+  </programme>
+<programme start="20260804195000 +0000" stop="20260804203000 +0000" channel="cubmu.transtv">
+    <title lang="id">FTV</title>
+  </programme>
+<programme start="20260804203000 +0000" stop="20260804212000 +0000" channel="cubmu.transtv">
+    <title lang="id">Cerita Di Balik Hijab</title>
+  </programme>
+<programme start="20260804212000 +0000" stop="20260804220000 +0000" channel="cubmu.transtv">
     <title lang="id">Cerita Di Balik Hijab</title>
   </programme>
 <programme start="20260804220000 +0000" stop="20260804233000 +0000" channel="cubmu.transtv">
@@ -1742,14 +1754,17 @@
 <programme start="20260805010000 +0000" stop="20260805030000 +0000" channel="cubmu.cnbcindonesia">
     <title lang="id">Squawk Box - Live</title>
   </programme>
-<programme start="20260805030000 +0000" stop="20260805045500 +0000" channel="cubmu.cnbcindonesia">
+<programme start="20260805030000 +0000" stop="20260805040000 +0000" channel="cubmu.cnbcindonesia">
     <title lang="id">Profit - Live</title>
   </programme>
-<programme start="20260805045500 +0000" stop="20260805053000 +0000" channel="cubmu.cnbcindonesia">
-    <title lang="id">Power Lunch - Live</title>
+<programme start="20260805040000 +0000" stop="20260805053000 +0000" channel="cubmu.cnbcindonesia">
+    <title lang="id">Breaking News - Live</title>
   </programme>
-<programme start="20260805053000 +0000" stop="20260805073000 +0000" channel="cubmu.cnbcindonesia">
+<programme start="20260805053000 +0000" stop="20260805071000 +0000" channel="cubmu.cnbcindonesia">
     <title lang="id">Regional Bank Summit 2026 - Live</title>
+  </programme>
+<programme start="20260805071000 +0000" stop="20260805073000 +0000" channel="cubmu.cnbcindonesia">
+    <title lang="id">Big Stories Of The Week</title>
   </programme>
 <programme start="20260805073000 +0000" stop="20260805080000 +0000" channel="cubmu.cnbcindonesia">
     <title lang="id">Number&apos;s Bite</title>
@@ -1766,14 +1781,14 @@
 <programme start="20260805120000 +0000" stop="20260805140000 +0000" channel="cubmu.cnbcindonesia">
     <title lang="id">Squawk Box</title>
   </programme>
-<programme start="20260805140000 +0000" stop="20260805160000 +0000" channel="cubmu.cnbcindonesia">
+<programme start="20260805140000 +0000" stop="20260805150000 +0000" channel="cubmu.cnbcindonesia">
     <title lang="id">Profit</title>
   </programme>
-<programme start="20260805160000 +0000" stop="20260805163000 +0000" channel="cubmu.cnbcindonesia">
-    <title lang="id">Power Lunch</title>
+<programme start="20260805150000 +0000" stop="20260805180000 +0000" channel="cubmu.cnbcindonesia">
+    <title lang="id">Breaking News / Regional Bank Summit 2026</title>
   </programme>
-<programme start="20260805163000 +0000" stop="20260805183000 +0000" channel="cubmu.cnbcindonesia">
-    <title lang="id">Regional Bank Summit 2026</title>
+<programme start="20260805180000 +0000" stop="20260805183000 +0000" channel="cubmu.cnbcindonesia">
+    <title lang="id">Big Stories Of The Week</title>
   </programme>
 <programme start="20260805183000 +0000" stop="20260805190000 +0000" channel="cubmu.cnbcindonesia">
     <title lang="id">Number&apos;s Bite</title>
@@ -2286,7 +2301,7 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260804200500 +0000" stop="20260804203000 +0000" channel="cubmu.metrotv">
-    <title lang="id">The Legend</title>
+    <title lang="id">Kick Andy</title>
   </programme>
 <programme start="20260804203000 +0000" stop="20260804210000 +0000" channel="cubmu.metrotv">
     <title lang="id">Kick Andy</title>
@@ -2295,22 +2310,22 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260804210500 +0000" stop="20260804213000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Kick Andy</title>
+    <title lang="id">Metro Xinwen</title>
   </programme>
 <programme start="20260804213000 +0000" stop="20260804220000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Metro Xinwen</title>
+    <title lang="id">Prioritas Indonesia</title>
   </programme>
 <programme start="20260804220000 +0000" stop="20260804220500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260804220500 +0000" stop="20260804223000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Prioritas Indonesia</title>
+    <title lang="id">Top News</title>
   </programme>
 <programme start="20260804223000 +0000" stop="20260804230000 +0000" channel="cubmu.metrotv">
     <title lang="id">Top News</title>
   </programme>
 <programme start="20260804230000 +0000" stop="20260804233000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Top News</title>
+    <title lang="id">Metro Sport</title>
   </programme>
 <programme start="20260804233000 +0000" stop="20260805000000 +0000" channel="cubmu.metrotv">
     <title lang="id">Go Healthy</title>
@@ -2420,10 +2435,7 @@
 <programme start="20260805120500 +0000" stop="20260805123000 +0000" channel="cubmu.metrotv">
     <title lang="id">Primetime News</title>
   </programme>
-<programme start="20260805123000 +0000" stop="20260805124500 +0000" channel="cubmu.metrotv">
-    <title lang="id">Primetime News</title>
-  </programme>
-<programme start="20260805124500 +0000" stop="20260805130000 +0000" channel="cubmu.metrotv">
+<programme start="20260805123000 +0000" stop="20260805130000 +0000" channel="cubmu.metrotv">
     <title lang="id">Primetime News</title>
   </programme>
 <programme start="20260805130000 +0000" stop="20260805130500 +0000" channel="cubmu.metrotv">
@@ -2439,13 +2451,10 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260805140500 +0000" stop="20260805143000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Hotroom</title>
+    <title lang="id">Cover Both Side</title>
   </programme>
-<programme start="20260805143000 +0000" stop="20260805145000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Hotroom</title>
-  </programme>
-<programme start="20260805145000 +0000" stop="20260805150000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Hotroom</title>
+<programme start="20260805143000 +0000" stop="20260805150000 +0000" channel="cubmu.metrotv">
+    <title lang="id">Cover Both Side</title>
   </programme>
 <programme start="20260805150000 +0000" stop="20260805150500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
@@ -2481,7 +2490,7 @@
     <title lang="id">Primetime News</title>
   </programme>
 <programme start="20260805181500 +0000" stop="20260805183000 +0000" channel="cubmu.metrotv">
-    <title lang="id">15 Minutes</title>
+    <title lang="id">Primetime News</title>
   </programme>
 <programme start="20260805183000 +0000" stop="20260805190000 +0000" channel="cubmu.metrotv">
     <title lang="id">Metro Hari Ini</title>
@@ -2499,31 +2508,31 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260805200500 +0000" stop="20260805203000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Melihat Indonesia</title>
+    <title lang="id">Impossible</title>
   </programme>
 <programme start="20260805203000 +0000" stop="20260805210000 +0000" channel="cubmu.metrotv">
-    <title lang="id">I&apos;mpossible</title>
+    <title lang="id">Impossible</title>
   </programme>
 <programme start="20260805210000 +0000" stop="20260805210500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260805210500 +0000" stop="20260805213000 +0000" channel="cubmu.metrotv">
-    <title lang="id">I&apos;mpossible</title>
+    <title lang="id">Metro Xinwen</title>
   </programme>
 <programme start="20260805213000 +0000" stop="20260805220000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Metro Xinwen</title>
+    <title lang="id">Prioritas Indonesia</title>
   </programme>
 <programme start="20260805220000 +0000" stop="20260805220500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260805220500 +0000" stop="20260805223000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Prioritas Indonesia</title>
+    <title lang="id">Top News</title>
   </programme>
 <programme start="20260805223000 +0000" stop="20260805230000 +0000" channel="cubmu.metrotv">
     <title lang="id">Top News</title>
   </programme>
 <programme start="20260805230000 +0000" stop="20260805233000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Top News</title>
+    <title lang="id">Metro Sport</title>
   </programme>
 <programme start="20260805233000 +0000" stop="20260806000000 +0000" channel="cubmu.metrotv">
     <title lang="id">Go Healthy</title>
@@ -2583,10 +2592,10 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260806060500 +0000" stop="20260806063000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Hotroom</title>
+    <title lang="id">Cover Both Side</title>
   </programme>
 <programme start="20260806063000 +0000" stop="20260806070000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Hotroom</title>
+    <title lang="id">Cover Both Side</title>
   </programme>
 <programme start="20260806070000 +0000" stop="20260806070500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
@@ -2633,11 +2642,8 @@
 <programme start="20260806120500 +0000" stop="20260806123000 +0000" channel="cubmu.metrotv">
     <title lang="id">Primetime News</title>
   </programme>
-<programme start="20260806123000 +0000" stop="20260806124500 +0000" channel="cubmu.metrotv">
+<programme start="20260806123000 +0000" stop="20260806130000 +0000" channel="cubmu.metrotv">
     <title lang="id">Primetime News</title>
-  </programme>
-<programme start="20260806124500 +0000" stop="20260806130000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Rumah Parlemen</title>
   </programme>
 <programme start="20260806130000 +0000" stop="20260806130500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
@@ -2654,10 +2660,7 @@
 <programme start="20260806140500 +0000" stop="20260806143000 +0000" channel="cubmu.metrotv">
     <title lang="id">Kontroversi</title>
   </programme>
-<programme start="20260806143000 +0000" stop="20260806145000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Kontroversi</title>
-  </programme>
-<programme start="20260806145000 +0000" stop="20260806150000 +0000" channel="cubmu.metrotv">
+<programme start="20260806143000 +0000" stop="20260806150000 +0000" channel="cubmu.metrotv">
     <title lang="id">Kontroversi</title>
   </programme>
 <programme start="20260806150000 +0000" stop="20260806150500 +0000" channel="cubmu.metrotv">
@@ -2712,31 +2715,31 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260806200500 +0000" stop="20260806203000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Journey</title>
+    <title lang="id">Kick Andy</title>
   </programme>
 <programme start="20260806203000 +0000" stop="20260806210000 +0000" channel="cubmu.metrotv">
     <title lang="id">Kick Andy</title>
   </programme>
 <programme start="20260806210000 +0000" stop="20260806210500 +0000" channel="cubmu.metrotv">
-    <title lang="id">Kick Andy</title>
+    <title lang="id">Headline News</title>
   </programme>
 <programme start="20260806210500 +0000" stop="20260806213000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Kick Andy</title>
+    <title lang="id">Metro Xinwen</title>
   </programme>
 <programme start="20260806213000 +0000" stop="20260806220000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Metro Xinwen</title>
+    <title lang="id">Prioritas Indonesia</title>
   </programme>
 <programme start="20260806220000 +0000" stop="20260806220500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260806220500 +0000" stop="20260806223000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Prioritas Indonesia</title>
+    <title lang="id">Top News</title>
   </programme>
 <programme start="20260806223000 +0000" stop="20260806230000 +0000" channel="cubmu.metrotv">
     <title lang="id">Top News</title>
   </programme>
 <programme start="20260806230000 +0000" stop="20260806233000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Top News</title>
+    <title lang="id">Metro Sport</title>
   </programme>
 <programme start="20260806233000 +0000" stop="20260807000000 +0000" channel="cubmu.metrotv">
     <title lang="id">Go Healthy</title>
@@ -2846,10 +2849,7 @@
 <programme start="20260807120500 +0000" stop="20260807123000 +0000" channel="cubmu.metrotv">
     <title lang="id">Primetime News</title>
   </programme>
-<programme start="20260807123000 +0000" stop="20260807124500 +0000" channel="cubmu.metrotv">
-    <title lang="id">Primetime News</title>
-  </programme>
-<programme start="20260807124500 +0000" stop="20260807130000 +0000" channel="cubmu.metrotv">
+<programme start="20260807123000 +0000" stop="20260807130000 +0000" channel="cubmu.metrotv">
     <title lang="id">Primetime News</title>
   </programme>
 <programme start="20260807130000 +0000" stop="20260807130500 +0000" channel="cubmu.metrotv">
@@ -2867,10 +2867,7 @@
 <programme start="20260807140500 +0000" stop="20260807143000 +0000" channel="cubmu.metrotv">
     <title lang="id">Meet Nite Live</title>
   </programme>
-<programme start="20260807143000 +0000" stop="20260807145000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Meet Nite Live</title>
-  </programme>
-<programme start="20260807145000 +0000" stop="20260807150000 +0000" channel="cubmu.metrotv">
+<programme start="20260807143000 +0000" stop="20260807150000 +0000" channel="cubmu.metrotv">
     <title lang="id">Meet Nite Live</title>
   </programme>
 <programme start="20260807150000 +0000" stop="20260807150500 +0000" channel="cubmu.metrotv">
@@ -2934,22 +2931,22 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260807210500 +0000" stop="20260807213000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Melihat Indonesia</title>
+    <title lang="id">Metro Xinwen</title>
   </programme>
 <programme start="20260807213000 +0000" stop="20260807220000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Metro Xinwen</title>
+    <title lang="id">Prioritas Indonesia</title>
   </programme>
 <programme start="20260807220000 +0000" stop="20260807220500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260807220500 +0000" stop="20260807223000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Prioritas Indonesia</title>
+    <title lang="id">Top News</title>
   </programme>
 <programme start="20260807223000 +0000" stop="20260807230000 +0000" channel="cubmu.metrotv">
     <title lang="id">Top News</title>
   </programme>
 <programme start="20260807230000 +0000" stop="20260807233000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Top News</title>
+    <title lang="id">Metro Sport</title>
   </programme>
 <programme start="20260807233000 +0000" stop="20260808000000 +0000" channel="cubmu.metrotv">
     <title lang="id">Euromaxx</title>
@@ -2958,7 +2955,7 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260808000500 +0000" stop="20260808003000 +0000" channel="cubmu.metrotv">
-    <title lang="id">HER</title>
+    <title lang="id">Her</title>
   </programme>
 <programme start="20260808003000 +0000" stop="20260808010000 +0000" channel="cubmu.metrotv">
     <title lang="id">Selamat Pagi Indonesia</title>
@@ -3059,10 +3056,7 @@
 <programme start="20260808120500 +0000" stop="20260808123000 +0000" channel="cubmu.metrotv">
     <title lang="id">Go Healthy</title>
   </programme>
-<programme start="20260808123000 +0000" stop="20260808124500 +0000" channel="cubmu.metrotv">
-    <title lang="id">Realitas</title>
-  </programme>
-<programme start="20260808124500 +0000" stop="20260808130000 +0000" channel="cubmu.metrotv">
+<programme start="20260808123000 +0000" stop="20260808130000 +0000" channel="cubmu.metrotv">
     <title lang="id">Realitas</title>
   </programme>
 <programme start="20260808130000 +0000" stop="20260808130500 +0000" channel="cubmu.metrotv">
@@ -3078,22 +3072,19 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260808140500 +0000" stop="20260808143000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Juragan Jaman Now</title>
+    <title lang="id">Top News</title>
   </programme>
-<programme start="20260808143000 +0000" stop="20260808145000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Juragan Jaman Now</title>
-  </programme>
-<programme start="20260808145000 +0000" stop="20260808150000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Juragan Jaman Now</title>
+<programme start="20260808143000 +0000" stop="20260808150000 +0000" channel="cubmu.metrotv">
+    <title lang="id">Top News</title>
   </programme>
 <programme start="20260808150000 +0000" stop="20260808150500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260808150500 +0000" stop="20260808153000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Go Healthy</title>
+    <title lang="id">Metro Sport</title>
   </programme>
 <programme start="20260808153000 +0000" stop="20260808160000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Metro Sport</title>
+    <title lang="id">Go Healthy</title>
   </programme>
 <programme start="20260808160000 +0000" stop="20260808160500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
@@ -3138,31 +3129,31 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260808200500 +0000" stop="20260808203000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Authentic Indonesia</title>
+    <title lang="id">Khazanah Islam</title>
   </programme>
 <programme start="20260808203000 +0000" stop="20260808210000 +0000" channel="cubmu.metrotv">
-    <title lang="id">The Legend</title>
+    <title lang="id">Khazanah Islam</title>
   </programme>
 <programme start="20260808210000 +0000" stop="20260808210500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260808210500 +0000" stop="20260808213000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Melawan Lupa</title>
+    <title lang="id">Top News</title>
   </programme>
 <programme start="20260808213000 +0000" stop="20260808220000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Khazanah Islam</title>
+    <title lang="id">Top News</title>
   </programme>
 <programme start="20260808220000 +0000" stop="20260808220500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260808220500 +0000" stop="20260808223000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Khazanah Islam</title>
+    <title lang="id">Top News</title>
   </programme>
 <programme start="20260808223000 +0000" stop="20260808230000 +0000" channel="cubmu.metrotv">
     <title lang="id">Top News</title>
   </programme>
 <programme start="20260808230000 +0000" stop="20260808233000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Top News</title>
+    <title lang="id">Metro Sport</title>
   </programme>
 <programme start="20260808233000 +0000" stop="20260809000000 +0000" channel="cubmu.metrotv">
     <title lang="id">Inovator</title>
@@ -3272,11 +3263,8 @@
 <programme start="20260809120500 +0000" stop="20260809123000 +0000" channel="cubmu.metrotv">
     <title lang="id">Primetime News</title>
   </programme>
-<programme start="20260809123000 +0000" stop="20260809124500 +0000" channel="cubmu.metrotv">
-    <title lang="id">Metro This Week</title>
-  </programme>
-<programme start="20260809124500 +0000" stop="20260809130000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Metro This Week</title>
+<programme start="20260809123000 +0000" stop="20260809130000 +0000" channel="cubmu.metrotv">
+    <title lang="id">Realitas</title>
   </programme>
 <programme start="20260809130000 +0000" stop="20260809130500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
@@ -3293,20 +3281,17 @@
 <programme start="20260809140500 +0000" stop="20260809143000 +0000" channel="cubmu.metrotv">
     <title lang="id">Q&amp;A</title>
   </programme>
-<programme start="20260809143000 +0000" stop="20260809145000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Q&amp;A</title>
-  </programme>
-<programme start="20260809145000 +0000" stop="20260809150000 +0000" channel="cubmu.metrotv">
+<programme start="20260809143000 +0000" stop="20260809150000 +0000" channel="cubmu.metrotv">
     <title lang="id">Q&amp;A</title>
   </programme>
 <programme start="20260809150000 +0000" stop="20260809150500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260809150500 +0000" stop="20260809153000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Go Healthy</title>
+    <title lang="id">Metro Sport</title>
   </programme>
 <programme start="20260809153000 +0000" stop="20260809160000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Metro Sport</title>
+    <title lang="id">Metro This Week</title>
   </programme>
 <programme start="20260809160000 +0000" stop="20260809160500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
@@ -3354,13 +3339,13 @@
     <title lang="id">Metro Hari Ini</title>
   </programme>
 <programme start="20260809203000 +0000" stop="20260809210000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Kick Andy</title>
+    <title lang="id">Realitas</title>
   </programme>
 <programme start="20260809210000 +0000" stop="20260809210500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260809210500 +0000" stop="20260809213000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Kick Andy</title>
+    <title lang="id">Showbizz</title>
   </programme>
 <programme start="20260809213000 +0000" stop="20260809220000 +0000" channel="cubmu.metrotv">
     <title lang="id">Showbizz</title>
@@ -3369,16 +3354,16 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260809220500 +0000" stop="20260809223000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Headline News</title>
+    <title lang="id">Top News</title>
   </programme>
 <programme start="20260809223000 +0000" stop="20260809230000 +0000" channel="cubmu.metrotv">
     <title lang="id">Top News</title>
   </programme>
 <programme start="20260809230000 +0000" stop="20260809233000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Top News</title>
+    <title lang="id">Metro Sport</title>
   </programme>
 <programme start="20260809233000 +0000" stop="20260810000000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Go Healthy</title>
+    <title lang="id">Go Helathy</title>
   </programme>
 <programme start="20260810000000 +0000" stop="20260810000500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
@@ -3462,7 +3447,7 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260810090500 +0000" stop="20260810093000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Headline News</title>
+    <title lang="id">Metro Hari Ini</title>
   </programme>
 <programme start="20260810093000 +0000" stop="20260810100000 +0000" channel="cubmu.metrotv">
     <title lang="id">Metro Hari Ini</title>
@@ -3485,10 +3470,7 @@
 <programme start="20260810120500 +0000" stop="20260810123000 +0000" channel="cubmu.metrotv">
     <title lang="id">Primetime News</title>
   </programme>
-<programme start="20260810123000 +0000" stop="20260810124500 +0000" channel="cubmu.metrotv">
-    <title lang="id">Primetime News</title>
-  </programme>
-<programme start="20260810124500 +0000" stop="20260810130000 +0000" channel="cubmu.metrotv">
+<programme start="20260810123000 +0000" stop="20260810130000 +0000" channel="cubmu.metrotv">
     <title lang="id">Primetime News</title>
   </programme>
 <programme start="20260810130000 +0000" stop="20260810130500 +0000" channel="cubmu.metrotv">
@@ -3506,10 +3488,7 @@
 <programme start="20260810140500 +0000" stop="20260810143000 +0000" channel="cubmu.metrotv">
     <title lang="id">Top Issue</title>
   </programme>
-<programme start="20260810143000 +0000" stop="20260810145000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Top Issue</title>
-  </programme>
-<programme start="20260810145000 +0000" stop="20260810150000 +0000" channel="cubmu.metrotv">
+<programme start="20260810143000 +0000" stop="20260810150000 +0000" channel="cubmu.metrotv">
     <title lang="id">Top Issue</title>
   </programme>
 <programme start="20260810150000 +0000" stop="20260810150500 +0000" channel="cubmu.metrotv">
@@ -3564,31 +3543,31 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260810200500 +0000" stop="20260810203000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Untuk Indonesia</title>
+    <title lang="id">Impossible</title>
   </programme>
 <programme start="20260810203000 +0000" stop="20260810210000 +0000" channel="cubmu.metrotv">
-    <title lang="id">I&apos;mpossible</title>
+    <title lang="id">Impossible</title>
   </programme>
 <programme start="20260810210000 +0000" stop="20260810210500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260810210500 +0000" stop="20260810213000 +0000" channel="cubmu.metrotv">
-    <title lang="id">I&apos;mpossible</title>
+    <title lang="id">Metro Xinwen</title>
   </programme>
 <programme start="20260810213000 +0000" stop="20260810220000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Metro Xinwen</title>
+    <title lang="id">Prioritas Indonesia</title>
   </programme>
 <programme start="20260810220000 +0000" stop="20260810220500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260810220500 +0000" stop="20260810223000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Prioritas Indonesia</title>
+    <title lang="id">Top News</title>
   </programme>
 <programme start="20260810223000 +0000" stop="20260810230000 +0000" channel="cubmu.metrotv">
     <title lang="id">Top News</title>
   </programme>
 <programme start="20260810230000 +0000" stop="20260810233000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Top News</title>
+    <title lang="id">Metro Sport</title>
   </programme>
 <programme start="20260810233000 +0000" stop="20260811000000 +0000" channel="cubmu.metrotv">
     <title lang="id">Go Healthy</title>
@@ -3618,7 +3597,7 @@
     <title lang="id">Selamat Pagi Indonesia</title>
   </programme>
 <programme start="20260811023000 +0000" stop="20260811030000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Selamat Pagi Indonesia</title>
+    <title lang="id">Zona Bisnis</title>
   </programme>
 <programme start="20260811030000 +0000" stop="20260811030500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
@@ -3627,7 +3606,7 @@
     <title lang="id">Zona Bisnis</title>
   </programme>
 <programme start="20260811033000 +0000" stop="20260811040000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Zona Bisnis</title>
+    <title lang="id">Go Healthy</title>
   </programme>
 <programme start="20260811040000 +0000" stop="20260811040500 +0000" channel="cubmu.metrotv">
     <title lang="id">Headline News</title>
@@ -3698,10 +3677,7 @@
 <programme start="20260811120500 +0000" stop="20260811123000 +0000" channel="cubmu.metrotv">
     <title lang="id">Primetime News</title>
   </programme>
-<programme start="20260811123000 +0000" stop="20260811124500 +0000" channel="cubmu.metrotv">
-    <title lang="id">Primetime News</title>
-  </programme>
-<programme start="20260811124500 +0000" stop="20260811130000 +0000" channel="cubmu.metrotv">
+<programme start="20260811123000 +0000" stop="20260811130000 +0000" channel="cubmu.metrotv">
     <title lang="id">Primetime News</title>
   </programme>
 <programme start="20260811130000 +0000" stop="20260811130500 +0000" channel="cubmu.metrotv">
@@ -3719,10 +3695,7 @@
 <programme start="20260811140500 +0000" stop="20260811143000 +0000" channel="cubmu.metrotv">
     <title lang="id">Top Ekonomi</title>
   </programme>
-<programme start="20260811143000 +0000" stop="20260811145000 +0000" channel="cubmu.metrotv">
-    <title lang="id">Top Ekonomi</title>
-  </programme>
-<programme start="20260811145000 +0000" stop="20260811150000 +0000" channel="cubmu.metrotv">
+<programme start="20260811143000 +0000" stop="20260811150000 +0000" channel="cubmu.metrotv">
     <title lang="id">Top Ekonomi</title>
   </programme>
 <programme start="20260811150000 +0000" stop="20260811150500 +0000" channel="cubmu.metrotv">
@@ -7364,88 +7337,94 @@
 <programme start="20260811163000 +0000" stop="20260811170000 +0000" channel="cubmu.kompastv">
     <title lang="id">Kilas Kompas</title>
   </programme>
-<programme start="20260804172500 +0000" stop="20260804180500 +0000" channel="cubmu.mdtv">
+<programme start="20260804172500 +0000" stop="20260804175500 +0000" channel="cubmu.mdtv">
     <title lang="id">86</title>
+  </programme>
+<programme start="20260804175500 +0000" stop="20260804180500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Perfume</title>
   </programme>
 <programme start="20260804180500 +0000" stop="20260804190000 +0000" channel="cubmu.mdtv">
     <title lang="id">The Best Of Ini Talkshow</title>
   </programme>
 <programme start="20260804190000 +0000" stop="20260804195000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Main Hakim Sendiri</title>
+    <title lang="id">Kokdu: Season Of Deity</title>
   </programme>
-<programme start="20260804195000 +0000" stop="20260804204500 +0000" channel="cubmu.mdtv">
+<programme start="20260804195000 +0000" stop="20260804200500 +0000" channel="cubmu.mdtv">
     <title lang="id">Di Balik Mitos</title>
   </programme>
-<programme start="20260804204500 +0000" stop="20260804225000 +0000" channel="cubmu.mdtv">
+<programme start="20260804200500 +0000" stop="20260804204500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Dear M</title>
+  </programme>
+<programme start="20260804204500 +0000" stop="20260804211000 +0000" channel="cubmu.mdtv">
     <title lang="id">Top Spot</title>
   </programme>
-<programme start="20260804225000 +0000" stop="20260804234500 +0000" channel="cubmu.mdtv">
+<programme start="20260804211000 +0000" stop="20260804225000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Top Spot</title>
+  </programme>
+<programme start="20260804225000 +0000" stop="20260804225500 +0000" channel="cubmu.mdtv">
     <title lang="id">Jelajah Masjid Nusantara</title>
+  </programme>
+<programme start="20260804225500 +0000" stop="20260804234500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Menjemput Berkah</title>
   </programme>
 <programme start="20260804234500 +0000" stop="20260805010000 +0000" channel="cubmu.mdtv">
     <title lang="id">AADD - Ada Apa Dengan Dunia</title>
   </programme>
 <programme start="20260805010000 +0000" stop="20260805015500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Fakta +62 Weekend</title>
+    <title lang="id">Fakta +62</title>
   </programme>
 <programme start="20260805015500 +0000" stop="20260805030000 +0000" channel="cubmu.mdtv">
     <title lang="id">Sensasihot</title>
   </programme>
-<programme start="20260805030000 +0000" stop="20260805040000 +0000" channel="cubmu.mdtv">
+<programme start="20260805030000 +0000" stop="20260805035000 +0000" channel="cubmu.mdtv">
     <title lang="id">Bawang Merah Bawang Putih</title>
   </programme>
-<programme start="20260805040000 +0000" stop="20260805050000 +0000" channel="cubmu.mdtv">
+<programme start="20260805035000 +0000" stop="20260805045500 +0000" channel="cubmu.mdtv">
     <title lang="id">Suci</title>
   </programme>
-<programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Masak Enak</title>
+<programme start="20260805045500 +0000" stop="20260805055500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Resep Chef Devina</title>
   </programme>
-<programme start="20260805060000 +0000" stop="20260805070000 +0000" channel="cubmu.mdtv">
+<programme start="20260805055500 +0000" stop="20260805073000 +0000" channel="cubmu.mdtv">
     <title lang="id">Makan Enak</title>
   </programme>
-<programme start="20260805070000 +0000" stop="20260805083000 +0000" channel="cubmu.mdtv">
+<programme start="20260805073000 +0000" stop="20260805090000 +0000" channel="cubmu.mdtv">
     <title lang="id">Laper Mata</title>
   </programme>
-<programme start="20260805083000 +0000" stop="20260805093000 +0000" channel="cubmu.mdtv">
+<programme start="20260805090000 +0000" stop="20260805100000 +0000" channel="cubmu.mdtv">
     <title lang="id">Masak Gesss!!!</title>
   </programme>
-<programme start="20260805093000 +0000" stop="20260805100000 +0000" channel="cubmu.mdtv">
+<programme start="20260805100000 +0000" stop="20260805103000 +0000" channel="cubmu.mdtv">
     <title lang="id">Adit Sopo Jarwo</title>
   </programme>
-<programme start="20260805100000 +0000" stop="20260805110000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Teledrama: Betty La Fea</title>
+<programme start="20260805103000 +0000" stop="20260805131000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Friendly Match: Calcio Italiano Only In Perth AC Milan vs Inter Milan</title>
   </programme>
-<programme start="20260805110000 +0000" stop="20260805123000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Teledrama: Carita De Angel</title>
-  </programme>
-<programme start="20260805123000 +0000" stop="20260805133000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Series: Ipar adalah Maut the Series</title>
-  </programme>
-<programme start="20260805133000 +0000" stop="20260805143000 +0000" channel="cubmu.mdtv">
+<programme start="20260805131000 +0000" stop="20260805143000 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Series: Kupu Malam</title>
   </programme>
-<programme start="20260805143000 +0000" stop="20260805152000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Main Drama Casting</title>
+<programme start="20260805143000 +0000" stop="20260805153000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Md Series: Dunia Tanpa Tuhan</title>
   </programme>
-<programme start="20260805152000 +0000" stop="20260805164500 +0000" channel="cubmu.mdtv">
+<programme start="20260805153000 +0000" stop="20260805163500 +0000" channel="cubmu.mdtv">
     <title lang="id">Jatanras</title>
   </programme>
-<programme start="20260805164500 +0000" stop="20260805173500 +0000" channel="cubmu.mdtv">
+<programme start="20260805163500 +0000" stop="20260805172500 +0000" channel="cubmu.mdtv">
     <title lang="id">Customs Protection</title>
   </programme>
-<programme start="20260805173500 +0000" stop="20260805180500 +0000" channel="cubmu.mdtv">
+<programme start="20260805172500 +0000" stop="20260805175500 +0000" channel="cubmu.mdtv">
     <title lang="id">86</title>
   </programme>
-<programme start="20260805180500 +0000" stop="20260805190000 +0000" channel="cubmu.mdtv">
-    <title lang="id">The Best Of Ini Talkshow</title>
+<programme start="20260805175500 +0000" stop="20260805190000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Perfume</title>
   </programme>
-<programme start="20260805190000 +0000" stop="20260805195000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Main Hakim Sendiri</title>
+<programme start="20260805190000 +0000" stop="20260805200500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Kokdu: Season Of Deity</title>
   </programme>
-<programme start="20260805195000 +0000" stop="20260805205500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Di Balik Mitos</title>
+<programme start="20260805200500 +0000" stop="20260805211000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Dear M</title>
   </programme>
-<programme start="20260805205500 +0000" stop="20260805225500 +0000" channel="cubmu.mdtv">
+<programme start="20260805211000 +0000" stop="20260805225500 +0000" channel="cubmu.mdtv">
     <title lang="id">Top Spot</title>
   </programme>
 <programme start="20260805225500 +0000" stop="20260805234500 +0000" channel="cubmu.mdtv">
@@ -7460,55 +7439,55 @@
 <programme start="20260806015500 +0000" stop="20260806030000 +0000" channel="cubmu.mdtv">
     <title lang="id">Sensasihot</title>
   </programme>
-<programme start="20260806030000 +0000" stop="20260806040000 +0000" channel="cubmu.mdtv">
+<programme start="20260806030000 +0000" stop="20260806035000 +0000" channel="cubmu.mdtv">
     <title lang="id">Bawang Merah Bawang Putih</title>
   </programme>
-<programme start="20260806040000 +0000" stop="20260806050000 +0000" channel="cubmu.mdtv">
+<programme start="20260806035000 +0000" stop="20260806045500 +0000" channel="cubmu.mdtv">
     <title lang="id">Suci</title>
   </programme>
-<programme start="20260806050000 +0000" stop="20260806070000 +0000" channel="cubmu.mdtv">
+<programme start="20260806045500 +0000" stop="20260806055500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Resep Chef Devina</title>
+  </programme>
+<programme start="20260806055500 +0000" stop="20260806073000 +0000" channel="cubmu.mdtv">
     <title lang="id">Makan Enak</title>
   </programme>
-<programme start="20260806070000 +0000" stop="20260806083000 +0000" channel="cubmu.mdtv">
+<programme start="20260806073000 +0000" stop="20260806090000 +0000" channel="cubmu.mdtv">
     <title lang="id">Laper Mata</title>
   </programme>
-<programme start="20260806083000 +0000" stop="20260806100000 +0000" channel="cubmu.mdtv">
+<programme start="20260806090000 +0000" stop="20260806100000 +0000" channel="cubmu.mdtv">
     <title lang="id">Masak Gesss!!!</title>
   </programme>
-<programme start="20260806100000 +0000" stop="20260806110000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Teledrama: Betty La Fea</title>
+<programme start="20260806100000 +0000" stop="20260806103500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Adit Sopo Jarwo</title>
   </programme>
-<programme start="20260806110000 +0000" stop="20260806123000 +0000" channel="cubmu.mdtv">
+<programme start="20260806103500 +0000" stop="20260806122500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Teledrama: Carita De Angel</title>
   </programme>
-<programme start="20260806123000 +0000" stop="20260806133000 +0000" channel="cubmu.mdtv">
+<programme start="20260806122500 +0000" stop="20260806133500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Series: Ipar adalah Maut the Series</title>
   </programme>
-<programme start="20260806133000 +0000" stop="20260806144000 +0000" channel="cubmu.mdtv">
+<programme start="20260806133500 +0000" stop="20260806143500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Series: Kupu Malam</title>
   </programme>
-<programme start="20260806144000 +0000" stop="20260806153000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Teman Panji</title>
+<programme start="20260806143500 +0000" stop="20260806160000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Gala Cinema MD: Asih</title>
   </programme>
-<programme start="20260806153000 +0000" stop="20260806163000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Jatanras</title>
-  </programme>
-<programme start="20260806163000 +0000" stop="20260806173500 +0000" channel="cubmu.mdtv">
+<programme start="20260806160000 +0000" stop="20260806171500 +0000" channel="cubmu.mdtv">
     <title lang="id">Customs Protection</title>
   </programme>
-<programme start="20260806173500 +0000" stop="20260806180500 +0000" channel="cubmu.mdtv">
+<programme start="20260806171500 +0000" stop="20260806175500 +0000" channel="cubmu.mdtv">
     <title lang="id">86</title>
   </programme>
-<programme start="20260806180500 +0000" stop="20260806190000 +0000" channel="cubmu.mdtv">
-    <title lang="id">The Best Of Ini Talkshow</title>
+<programme start="20260806175500 +0000" stop="20260806190000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Perfume</title>
   </programme>
-<programme start="20260806190000 +0000" stop="20260806195000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Main Hakim Sendiri</title>
+<programme start="20260806190000 +0000" stop="20260806200500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Kokdu: Season Of Deity</title>
   </programme>
-<programme start="20260806195000 +0000" stop="20260806205500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Di Balik Mitos</title>
+<programme start="20260806200500 +0000" stop="20260806211000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Dear M</title>
   </programme>
-<programme start="20260806205500 +0000" stop="20260806225500 +0000" channel="cubmu.mdtv">
+<programme start="20260806211000 +0000" stop="20260806225500 +0000" channel="cubmu.mdtv">
     <title lang="id">Top Spot</title>
   </programme>
 <programme start="20260806225500 +0000" stop="20260806234500 +0000" channel="cubmu.mdtv">
@@ -7523,175 +7502,172 @@
 <programme start="20260807015500 +0000" stop="20260807030000 +0000" channel="cubmu.mdtv">
     <title lang="id">Sensasihot</title>
   </programme>
-<programme start="20260807030000 +0000" stop="20260807040000 +0000" channel="cubmu.mdtv">
+<programme start="20260807030000 +0000" stop="20260807035000 +0000" channel="cubmu.mdtv">
     <title lang="id">Bawang Merah Bawang Putih</title>
   </programme>
-<programme start="20260807040000 +0000" stop="20260807050000 +0000" channel="cubmu.mdtv">
+<programme start="20260807035000 +0000" stop="20260807045500 +0000" channel="cubmu.mdtv">
     <title lang="id">Suci</title>
   </programme>
-<programme start="20260807050000 +0000" stop="20260807070000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Makan Enak</title>
+<programme start="20260807045500 +0000" stop="20260807055500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Resep Chef Devina</title>
   </programme>
-<programme start="20260807070000 +0000" stop="20260807083000 +0000" channel="cubmu.mdtv">
+<programme start="20260807055500 +0000" stop="20260807073000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Makan Enak Lagiii</title>
+  </programme>
+<programme start="20260807073000 +0000" stop="20260807090000 +0000" channel="cubmu.mdtv">
     <title lang="id">Laper Mata</title>
   </programme>
-<programme start="20260807083000 +0000" stop="20260807100000 +0000" channel="cubmu.mdtv">
+<programme start="20260807090000 +0000" stop="20260807100000 +0000" channel="cubmu.mdtv">
     <title lang="id">Masak Gesss!!!</title>
   </programme>
-<programme start="20260807100000 +0000" stop="20260807110000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Teledrama: Betty La Fea</title>
+<programme start="20260807100000 +0000" stop="20260807103500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Adit Sopo Jarwo</title>
   </programme>
-<programme start="20260807110000 +0000" stop="20260807123000 +0000" channel="cubmu.mdtv">
+<programme start="20260807103500 +0000" stop="20260807122500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Teledrama: Carita De Angel</title>
   </programme>
-<programme start="20260807123000 +0000" stop="20260807133000 +0000" channel="cubmu.mdtv">
+<programme start="20260807122500 +0000" stop="20260807133500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Series: Ipar adalah Maut the Series</title>
   </programme>
-<programme start="20260807133000 +0000" stop="20260807144000 +0000" channel="cubmu.mdtv">
+<programme start="20260807133500 +0000" stop="20260807143500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Series: Kupu Malam</title>
   </programme>
-<programme start="20260807144000 +0000" stop="20260807153000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Teman Panji</title>
+<programme start="20260807143500 +0000" stop="20260807163000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Gala Cinema MD: Asih 2</title>
   </programme>
-<programme start="20260807153000 +0000" stop="20260807163000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Jatanras</title>
-  </programme>
-<programme start="20260807163000 +0000" stop="20260807173500 +0000" channel="cubmu.mdtv">
+<programme start="20260807163000 +0000" stop="20260807172500 +0000" channel="cubmu.mdtv">
     <title lang="id">Customs Protection</title>
   </programme>
-<programme start="20260807173500 +0000" stop="20260807180500 +0000" channel="cubmu.mdtv">
+<programme start="20260807172500 +0000" stop="20260807175500 +0000" channel="cubmu.mdtv">
     <title lang="id">86</title>
   </programme>
-<programme start="20260807180500 +0000" stop="20260807190000 +0000" channel="cubmu.mdtv">
-    <title lang="id">The Best Of Ini Talkshow</title>
+<programme start="20260807175500 +0000" stop="20260807190000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Perfume</title>
   </programme>
-<programme start="20260807190000 +0000" stop="20260807195000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Main Hakim Sendiri</title>
+<programme start="20260807190000 +0000" stop="20260807200500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Kokdu: Season Of Deity</title>
   </programme>
-<programme start="20260807195000 +0000" stop="20260807205500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Di Balik Mitos</title>
+<programme start="20260807200500 +0000" stop="20260807211000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Dear M</title>
   </programme>
-<programme start="20260807205500 +0000" stop="20260807225500 +0000" channel="cubmu.mdtv">
+<programme start="20260807211000 +0000" stop="20260807225500 +0000" channel="cubmu.mdtv">
     <title lang="id">Top Spot</title>
   </programme>
 <programme start="20260807225500 +0000" stop="20260807234500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Menjemput Berkah</title>
+    <title lang="id">Jelajah Masjid Nusantara</title>
   </programme>
 <programme start="20260807234500 +0000" stop="20260808010000 +0000" channel="cubmu.mdtv">
     <title lang="id">AADD - Ada Apa Dengan Dunia</title>
   </programme>
 <programme start="20260808010000 +0000" stop="20260808015500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Fakta +62</title>
+    <title lang="id">Fakta +62 Weekend</title>
   </programme>
 <programme start="20260808015500 +0000" stop="20260808030000 +0000" channel="cubmu.mdtv">
     <title lang="id">Sensasihot</title>
   </programme>
-<programme start="20260808030000 +0000" stop="20260808040000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Bawang Merah Bawang Putih</title>
+<programme start="20260808030000 +0000" stop="20260808035000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Main Drama Casting</title>
   </programme>
-<programme start="20260808040000 +0000" stop="20260808050000 +0000" channel="cubmu.mdtv">
+<programme start="20260808035000 +0000" stop="20260808045500 +0000" channel="cubmu.mdtv">
     <title lang="id">Suci</title>
   </programme>
-<programme start="20260808050000 +0000" stop="20260808070000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Makan Enak</title>
+<programme start="20260808045500 +0000" stop="20260808055500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Resep Chef Devina</title>
   </programme>
-<programme start="20260808070000 +0000" stop="20260808083000 +0000" channel="cubmu.mdtv">
+<programme start="20260808055500 +0000" stop="20260808073000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Makan Enak Lagiii</title>
+  </programme>
+<programme start="20260808073000 +0000" stop="20260808090000 +0000" channel="cubmu.mdtv">
     <title lang="id">Laper Mata</title>
   </programme>
-<programme start="20260808083000 +0000" stop="20260808093000 +0000" channel="cubmu.mdtv">
+<programme start="20260808090000 +0000" stop="20260808100000 +0000" channel="cubmu.mdtv">
     <title lang="id">Masak Gesss!!!</title>
   </programme>
-<programme start="20260808093000 +0000" stop="20260808100000 +0000" channel="cubmu.mdtv">
+<programme start="20260808100000 +0000" stop="20260808103000 +0000" channel="cubmu.mdtv">
     <title lang="id">Adit Sopo Jarwo</title>
   </programme>
-<programme start="20260808100000 +0000" stop="20260808110000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Teledrama: Betty La Fea</title>
+<programme start="20260808103000 +0000" stop="20260808131000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Friendly Match: Calcio Italiano Only In Perth Juventus vs Inter Milan</title>
   </programme>
-<programme start="20260808110000 +0000" stop="20260808123000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Teledrama: Carita De Angel</title>
-  </programme>
-<programme start="20260808123000 +0000" stop="20260808133000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Series: Ipar adalah Maut the Series</title>
-  </programme>
-<programme start="20260808133000 +0000" stop="20260808144000 +0000" channel="cubmu.mdtv">
+<programme start="20260808131000 +0000" stop="20260808143000 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Series: Kupu Malam</title>
   </programme>
-<programme start="20260808144000 +0000" stop="20260808153000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Teman Panji</title>
+<programme start="20260808143000 +0000" stop="20260808153000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Md Series: Dunia Tanpa Tuhan</title>
   </programme>
-<programme start="20260808153000 +0000" stop="20260808163000 +0000" channel="cubmu.mdtv">
+<programme start="20260808153000 +0000" stop="20260808163500 +0000" channel="cubmu.mdtv">
     <title lang="id">Jatanras</title>
   </programme>
-<programme start="20260808163000 +0000" stop="20260808173500 +0000" channel="cubmu.mdtv">
+<programme start="20260808163500 +0000" stop="20260808172500 +0000" channel="cubmu.mdtv">
     <title lang="id">Customs Protection</title>
   </programme>
-<programme start="20260808173500 +0000" stop="20260808180500 +0000" channel="cubmu.mdtv">
+<programme start="20260808172500 +0000" stop="20260808175500 +0000" channel="cubmu.mdtv">
     <title lang="id">86</title>
   </programme>
-<programme start="20260808180500 +0000" stop="20260808190000 +0000" channel="cubmu.mdtv">
-    <title lang="id">The Best Of Ini Talkshow</title>
+<programme start="20260808175500 +0000" stop="20260808190000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Perfume</title>
   </programme>
-<programme start="20260808190000 +0000" stop="20260808195000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Main Hakim Sendiri</title>
+<programme start="20260808190000 +0000" stop="20260808200500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Kokdu: Season Of Deity</title>
   </programme>
-<programme start="20260808195000 +0000" stop="20260808205500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Di Balik Mitos</title>
+<programme start="20260808200500 +0000" stop="20260808211000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Dear M</title>
   </programme>
-<programme start="20260808205500 +0000" stop="20260808225500 +0000" channel="cubmu.mdtv">
+<programme start="20260808211000 +0000" stop="20260808225500 +0000" channel="cubmu.mdtv">
     <title lang="id">Top Spot</title>
   </programme>
 <programme start="20260808225500 +0000" stop="20260808234500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Menjemput Berkah</title>
+    <title lang="id">Jelajah Masjid Nusantara</title>
   </programme>
 <programme start="20260808234500 +0000" stop="20260809010000 +0000" channel="cubmu.mdtv">
     <title lang="id">AADD - Ada Apa Dengan Dunia</title>
   </programme>
 <programme start="20260809010000 +0000" stop="20260809015500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Fakta +62</title>
+    <title lang="id">Fakta +62 Weekend</title>
   </programme>
 <programme start="20260809015500 +0000" stop="20260809030000 +0000" channel="cubmu.mdtv">
     <title lang="id">Sensasihot</title>
   </programme>
-<programme start="20260809030000 +0000" stop="20260809040000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Bawang Merah Bawang Putih</title>
+<programme start="20260809030000 +0000" stop="20260809035000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Main Drama Casting</title>
   </programme>
-<programme start="20260809040000 +0000" stop="20260809050000 +0000" channel="cubmu.mdtv">
+<programme start="20260809035000 +0000" stop="20260809045500 +0000" channel="cubmu.mdtv">
     <title lang="id">Suci</title>
   </programme>
-<programme start="20260809050000 +0000" stop="20260809070000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Makan Enak</title>
+<programme start="20260809045500 +0000" stop="20260809055500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Resep Chef Devina</title>
   </programme>
-<programme start="20260809070000 +0000" stop="20260809083000 +0000" channel="cubmu.mdtv">
+<programme start="20260809055500 +0000" stop="20260809073000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Makan Enak Lagiii</title>
+  </programme>
+<programme start="20260809073000 +0000" stop="20260809090000 +0000" channel="cubmu.mdtv">
     <title lang="id">Laper Mata</title>
   </programme>
-<programme start="20260809083000 +0000" stop="20260809093000 +0000" channel="cubmu.mdtv">
+<programme start="20260809090000 +0000" stop="20260809100000 +0000" channel="cubmu.mdtv">
     <title lang="id">Masak Gesss!!!</title>
   </programme>
-<programme start="20260809093000 +0000" stop="20260809100000 +0000" channel="cubmu.mdtv">
+<programme start="20260809100000 +0000" stop="20260809103500 +0000" channel="cubmu.mdtv">
     <title lang="id">Adit Sopo Jarwo</title>
   </programme>
-<programme start="20260809100000 +0000" stop="20260809110000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Teledrama: Betty La Fea</title>
-  </programme>
-<programme start="20260809110000 +0000" stop="20260809123000 +0000" channel="cubmu.mdtv">
+<programme start="20260809103500 +0000" stop="20260809122500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Teledrama: Carita De Angel</title>
   </programme>
-<programme start="20260809123000 +0000" stop="20260809133000 +0000" channel="cubmu.mdtv">
+<programme start="20260809122500 +0000" stop="20260809133500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Series: Ipar adalah Maut the Series</title>
   </programme>
-<programme start="20260809133000 +0000" stop="20260809144000 +0000" channel="cubmu.mdtv">
+<programme start="20260809133500 +0000" stop="20260809143500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Series: Kupu Malam</title>
   </programme>
-<programme start="20260809144000 +0000" stop="20260809153000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Teman Panji</title>
+<programme start="20260809143500 +0000" stop="20260809153000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Md Series: Dunia Tanpa Tuhan</title>
   </programme>
-<programme start="20260809153000 +0000" stop="20260809163000 +0000" channel="cubmu.mdtv">
+<programme start="20260809153000 +0000" stop="20260809163500 +0000" channel="cubmu.mdtv">
     <title lang="id">Jatanras</title>
   </programme>
-<programme start="20260809163000 +0000" stop="20260809173500 +0000" channel="cubmu.mdtv">
+<programme start="20260809163500 +0000" stop="20260809172500 +0000" channel="cubmu.mdtv">
     <title lang="id">Customs Protection</title>
   </programme>
-<programme start="20260809173500 +0000" stop="20260809180500 +0000" channel="cubmu.mdtv">
+<programme start="20260809172500 +0000" stop="20260809180500 +0000" channel="cubmu.mdtv">
     <title lang="id">86</title>
   </programme>
 <programme start="20260809180500 +0000" stop="20260809190000 +0000" channel="cubmu.mdtv">
