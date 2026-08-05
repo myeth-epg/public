@@ -1386,10 +1386,6 @@
     <display-name lang="TW">[TW-II] 1903 博斯網球台 </display-name>
     <icon src="https://myeth-epg.github.io/icons/t1903.png"/>
   </channel>
-    <channel id="pw.TW.博斯網球.mod">
-    <display-name lang="TW">[TW-II] 1903 博斯網球台  </display-name>
-    <icon src="https://myeth-epg.github.io/icons/t1903.png"/>
-  </channel>
   <channel id="pw.TW.龍華偶像.mod">
     <display-name lang="TW">[TW-II] 1904 龍華偶像 </display-name>
     <icon src="https://myeth-epg.github.io/icons/t1904.png"/>
