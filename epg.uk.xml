@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260805225210 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="UK-EPG-Merger">
+<tv date="20260806230855 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="UK-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -57,10 +57,7 @@
 
 
 
-<!-- Programme1 --><programme start="20260805023000 +0000" stop="20260805180000 +0000" channel="tvguidecouk.BBCFour">
-    <title lang="en">Close</title>
-  </programme>
-<programme start="20260805180000 +0000" stop="20260805183000 +0000" channel="tvguidecouk.BBCFour">
+<!-- Programme1 --><programme start="20260805180000 +0000" stop="20260805183000 +0000" channel="tvguidecouk.BBCFour">
     <title lang="en">Great British Railway Journeys</title>
     <desc lang="en">Michael Portillo&apos;s post-war exploration of Merseyside to Teesside finds him in York, a paradise for rail enthusiasts. In the company of some of the most famous locomotives ever built, he recalls the controversy surrounding their relocation from London to a freight depot in York. Michael also takes the driver&apos;s seat in an Intercity 125, which propelled Britain into the age of high-speed rail</desc>
   </programme>
@@ -228,10 +225,6 @@
   </programme>
 <programme start="20260812021500 +0000" stop="20260812180000 +0000" channel="tvguidecouk.BBCFour">
     <title lang="en">Close</title>
-  </programme>
-<programme start="20260805050000 +0000" stop="20260805160000 +0000" channel="tvguidecouk.BBCAlba">
-    <title lang="en">Alba Today</title>
-    <desc lang="en">BBC Alba joins Radio nan Gidheal, the BBC&apos;s Gaelic language radio service</desc>
   </programme>
 <programme start="20260805160000 +0000" stop="20260805161500 +0000" channel="tvguidecouk.BBCAlba">
     <title lang="en">Stan &amp; Gran</title>
@@ -556,102 +549,6 @@
 <programme start="20260812050000 +0000" stop="20260812160000 +0000" channel="tvguidecouk.BBCAlba">
     <title lang="en">Alba Today</title>
     <desc lang="en">BBC Alba joins Radio nan Gidheal, the BBC&apos;s Gaelic language radio service</desc>
-  </programme>
-<programme start="20260805050000 +0000" stop="20260805053000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break</desc>
-  </programme>
-<programme start="20260805053000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805063000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break</desc>
-  </programme>
-<programme start="20260805063000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805073000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break</desc>
-  </programme>
-<programme start="20260805073000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805083000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break</desc>
-  </programme>
-<programme start="20260805083000 +0000" stop="20260805090000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805093000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break</desc>
-  </programme>
-<programme start="20260805093000 +0000" stop="20260805100000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break</desc>
-  </programme>
-<programme start="20260805100000 +0000" stop="20260805103000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break</desc>
-  </programme>
-<programme start="20260805103000 +0000" stop="20260805104500 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  </programme>
-<programme start="20260805104500 +0000" stop="20260805110000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break</desc>
-  </programme>
-<programme start="20260805110000 +0000" stop="20260805113000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings</desc>
-  </programme>
-<programme start="20260805113000 +0000" stop="20260805120000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings</desc>
-  </programme>
-<programme start="20260805120000 +0000" stop="20260805130000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News at One; Weather</title>
-    <desc lang="en">A round-up of the latest headlines</desc>
-  </programme>
-<programme start="20260805130000 +0000" stop="20260805133000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings</desc>
-  </programme>
-<programme start="20260805133000 +0000" stop="20260805134500 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  </programme>
-<programme start="20260805134500 +0000" stop="20260805140000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings</desc>
-  </programme>
-<programme start="20260805140000 +0000" stop="20260805143000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London</desc>
-  </programme>
-<programme start="20260805143000 +0000" stop="20260805150000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London</desc>
-  </programme>
-<programme start="20260805150000 +0000" stop="20260805153000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London</desc>
-  </programme>
-<programme start="20260805153000 +0000" stop="20260805154500 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">Business Today</title>
-    <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  </programme>
-<programme start="20260805154500 +0000" stop="20260805160000 +0000" channel="tvguidecouk.BBCNews">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London</desc>
   </programme>
 <programme start="20260805160000 +0000" stop="20260805163000 +0000" channel="tvguidecouk.BBCNews">
     <title lang="en">Verified Live</title>
@@ -1365,14 +1262,6 @@
     <title lang="en">Business Today</title>
     <desc lang="en">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
   </programme>
-<programme start="20260805050000 +0000" stop="20260805110000 +0000" channel="tvguidecouk.BBCParliament">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break</desc>
-  </programme>
-<programme start="20260805110000 +0000" stop="20260805170000 +0000" channel="tvguidecouk.BBCParliament">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest national and international stories as they break</desc>
-  </programme>
 <programme start="20260805170000 +0000" stop="20260805230000 +0000" channel="tvguidecouk.BBCParliament">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break</desc>
@@ -1440,12 +1329,6 @@
 <programme start="20260812050000 +0000" stop="20260812110000 +0000" channel="tvguidecouk.BBCParliament">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest national and international stories as they break</desc>
-  </programme>
-<programme start="20260804230000 +0000" stop="20260805110000 +0000" channel="tvguidecouk.BBCScotland">
-    <title lang="en">Close</title>
-  </programme>
-<programme start="20260805110000 +0000" stop="20260805180000 +0000" channel="tvguidecouk.BBCScotland">
-    <title lang="en">This Is BBC Scotland</title>
   </programme>
 <programme start="20260805180000 +0000" stop="20260805183000 +0000" channel="tvguidecouk.BBCScotland">
     <title lang="en">Reporting Scotland: News at Seven</title>
@@ -1577,9 +1460,6 @@
     <desc lang="en">A profile of former Celtic, Barcelona and Sweden striker Henrik Larsson, who reflects on his upbringing in the city of Helsingborg and early promise at Hgaborg and Helsingborgs, and his difficult years at Feyenoord, where game time and confidence wavered. The programme charts his transformation at Celtic, where he became the defining player of an era, before his story as a player culminated in Spain, where he joined Barcelona and played a decisive role in their 2006 Champions League triumph. With contributions by Martin O&apos;Neill, Chris Sutton, Johan Mjllby, Paul Lambert and Regi Blinker</desc>
   </programme>
 <programme start="20260811230000 +0000" stop="20260812110000 +0000" channel="tvguidecouk.BBCScotland">
-    <title lang="en">Close</title>
-  </programme>
-<programme start="20260805025500 +0000" stop="20260805180000 +0000" channel="tvguidecouk.BBCThree">
     <title lang="en">Close</title>
   </programme>
 <programme start="20260805180000 +0000" stop="20260805180500 +0000" channel="tvguidecouk.BBCThree">
@@ -1778,46 +1658,6 @@
   </programme>
 <programme start="20260812025500 +0000" stop="20260812180000 +0000" channel="tvguidecouk.BBCThree">
     <title lang="en">Close</title>
-  </programme>
-<programme start="20260805003000 +0000" stop="20260805053000 +0000" channel="tvguidecouk.BBCTwoHD">
-    <title lang="en">This Is BBC Two</title>
-    <desc lang="en">Preview of upcoming programmes from BBC Two</desc>
-  </programme>
-<programme start="20260805053000 +0000" stop="20260805061500 +0000" channel="tvguidecouk.BBCTwoHD">
-    <title lang="en">Money for Nothing</title>
-    <desc lang="en">JJ Chalmers is at Dunfermline recycling centre, and tries to double the charm of two rattan chairs while Blacksmith Kev creates a metal masterpiece from obsolete tools</desc>
-  </programme>
-<programme start="20260805061500 +0000" stop="20260805070000 +0000" channel="tvguidecouk.BBCTwoHD">
-    <title lang="en">The Bidding Room</title>
-    <desc lang="en">An intimate medical device is the oddest item ever seen on the show. A family of train buffs keep track of their great-uncle&apos;s treasure, and a man in livery weighs up the bids</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805073000 +0000" channel="tvguidecouk.BBCTwoHD">
-    <title lang="en">Great Japanese Railway Journeys</title>
-    <desc lang="en">Michael Portillo heads north from Tokyo to Honshu&apos;s Tohoku region, known as the rice granary of Japan. In the city of Sendai, he learns about the disaster of the 2011 earthquake and tsunami. Further up the coast at the fishing port of Shiogama, Michael attends the daily tuna auction and watches as bidders compete for the prized fish, with the largest fetching almost 1,900</desc>
-  </programme>
-<programme start="20260805073000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.BBCTwoHD">
-    <title lang="en">Great Continental Railway Journeys</title>
-    <desc lang="en">Michael Portillo continues his Sardinian railway adventure, arriving into Mamoiada to investigate the town&apos;s pagan traditions. In a mask, black sheepskin and cowbells, he embraces the role of a mamuthone, who wards off evil spirits. Taking a 1950s diesel railcar, Michael heads to Macomer, where he discovers the railway&apos;s surprising connection to a pioneering Welsh railway engineer</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805120000 +0000" channel="tvguidecouk.BBCTwoHD">
-    <title lang="en">BBC News</title>
-    <desc lang="en">A round-up of the latest headlines</desc>
-  </programme>
-<programme start="20260805120000 +0000" stop="20260805123000 +0000" channel="tvguidecouk.BBCTwoHD">
-    <title lang="en">Richard Osman&apos;s House of Games</title>
-    <desc lang="en">Sean Fletcher, Louise Minchin, Chris Washington and Kimberly Wyatt continue to go toe-to-toe testing their general knowledge skills in a variety of trivia-based games</desc>
-  </programme>
-<programme start="20260805123000 +0000" stop="20260805131500 +0000" channel="tvguidecouk.BBCTwoHD">
-    <title lang="en">The Finish Line</title>
-    <desc lang="en">Roman Kemp and Sarah Greene host this quiz contest, in which five contestants race in moving podiums across the studio floor to try and win 5,000. The contenders battle across a series of fast-paced qualifiers and head-to-head races where the aim of the game is simple - to make it to the finish line before their rivals. The winner then races against the track itself in an attempt to win the cash prize</desc>
-  </programme>
-<programme start="20260805131500 +0000" stop="20260805134500 +0000" channel="tvguidecouk.BBCTwoHD">
-    <title lang="en">Do You Know Your Place?</title>
-    <desc lang="en">Vernon Kay puts the spotlight onto his home town of Bolton, as TV icon Anneka Rice, comedian Shane Todd and Radio 1Xtra DJ Remi Burgz face a fresh test of knowledge. Also, Paul Gorton delivers the tour, complete with a few extra treats along the way</desc>
-  </programme>
-<programme start="20260805134500 +0000" stop="20260805170000 +0000" channel="tvguidecouk.BBCTwoHD">
-    <title lang="en">Cricket: The Hundred</title>
-    <desc lang="en">Trent Rockets Women v Birmingham Phoenix Women (Start-time 3.00pm). Coverage of the match from Trent Bridge in Nottingham. The Phoenix won the toss and elected to bat when these teams faced each other at Edgbaston last year, and went on to post a total of 148/5 from their 100 balls, which proved to be enough for victory as the Rockets fell 11 runs short in their innings, despite Nat Sciver-Brunt scoring 64 from 40 deliveries</desc>
   </programme>
 <programme start="20260805170000 +0000" stop="20260805203000 +0000" channel="tvguidecouk.BBCTwoHD">
     <title lang="en">Cricket: The Hundred</title>
@@ -2174,189 +2014,6 @@
 <programme start="20260812051500 +0000" stop="20260812061500 +0000" channel="tvguidecouk.BBCTwoHD">
     <title lang="en">Homes Under the Hammer</title>
     <desc lang="en">A Carlisle property is transformed into a beautifully styled home. Dion Dublin is on familiar territory in Stoke and an Essex cottage needs the touch of an interior designer</desc>
-  </programme>
-<programme start="20260805043000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Close</title>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805061000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Shaun the Sheep</title>
-    <desc lang="en">A kite blows into the field and gets stuck in a tree, leaving Shaun and the flock to find a way to get it down</desc>
-  </programme>
-<programme start="20260805061000 +0000" stop="20260805062000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Danger Mouse</title>
-    <desc lang="en">The Baron and Danger Mouse are forced to team up in order to defeat a cheese obsessed villain</desc>
-  </programme>
-<programme start="20260805062000 +0000" stop="20260805063500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Super Happy Magic Forest</title>
-    <desc lang="en">The heroes quest to find the real Mr Friendlyface</desc>
-  </programme>
-<programme start="20260805063500 +0000" stop="20260805064500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
-    <desc lang="en">Dog causes a ruckus at the town fair so he asks his old sensei to train him to be calmer</desc>
-  </programme>
-<programme start="20260805064500 +0000" stop="20260805065500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Newsround</title>
-    <desc lang="en">Topical news magazine for children.</desc>
-  </programme>
-<programme start="20260805065500 +0000" stop="20260805070000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Grizzy and the Lemmings</title>
-    <desc lang="en">A lemming finds a mysterious mask that endows him with the power of telekinesis</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805071000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Grizzy and the Lemmings</title>
-    <desc lang="en">Grizzy chases after the Lemmings and the jar of Yummy in their remote-control car</desc>
-  </programme>
-<programme start="20260805071000 +0000" stop="20260805072500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">SpongeBob and Patrick give each other tiny living versions of themselves, so they can always be together in spirit</desc>
-  </programme>
-<programme start="20260805072500 +0000" stop="20260805073000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Duck and Frog</title>
-    <desc lang="en">Duck is a ball boy at an important tennis match, but Frog causes chaos by accidentally filling the automatic ball launcher with oranges that splat the crowd!</desc>
-  </programme>
-<programme start="20260805073000 +0000" stop="20260805074000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Duck and Frog</title>
-    <desc lang="en">Duck is loving his job at the launderette, until Frog shows up to wash his outfit and quickly floods the store - but not before leaving his red washing in Gazelles whites wash.</desc>
-  </programme>
-<programme start="20260805074000 +0000" stop="20260805075500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Little Lunch</title>
-    <desc lang="en">Debra-Jo thinks that the old climbing tree is dangerous and should be removed</desc>
-  </programme>
-<programme start="20260805075500 +0000" stop="20260805080500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">The Amazing World of Gumball</title>
-    <desc lang="en">Miss Simian tries to befriend Gumball to win an award. Later, the friends join with Darwin to help save Mr Robinson&apos;s marriage</desc>
-  </programme>
-<programme start="20260805080500 +0000" stop="20260805083000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Miraculous: Tales of Ladybug &amp; Cat Noir</title>
-    <desc lang="en">Ladybug faces a villain - along with her own fears</desc>
-  </programme>
-<programme start="20260805083000 +0000" stop="20260805085500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Mystery Lane</title>
-    <desc lang="en">Animated series about a young guinea pig and her little brother, who look to solve police investigations. Detective McFlare&apos;s faithful Lieutenant Travis calls on Clever to share his fears about his boss&apos;s strange behaviour.</desc>
-  </programme>
-<programme start="20260805085500 +0000" stop="20260805090500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Teen Titans Go!</title>
-    <desc lang="en">The Titans replace the couch with a treadmill</desc>
-  </programme>
-<programme start="20260805090500 +0000" stop="20260805092000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Teen Titans Go!</title>
-    <desc lang="en">Robin needs an arch-enemy, and Starfire offers to fill the role</desc>
-  </programme>
-<programme start="20260805092000 +0000" stop="20260805093000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">SpongeBob SquarePants</title>
-    <desc lang="en">Mr Krabs makes SpongeBob and Squidward clean up Bikini Bottom</desc>
-  </programme>
-<programme start="20260805093000 +0000" stop="20260805094000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Total Dramarama</title>
-    <desc lang="en">After trying on the nose of a clown, Owen learns that this is how clowns are made. He&apos;s stuck as a clown until he can trick someone else into asking to try on the nose.</desc>
-  </programme>
-<programme start="20260805094000 +0000" stop="20260805100500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">What&apos;s New Scooby Doo?</title>
-    <desc lang="en">The spectre of a famous ballplayer appears to stop a star from breaking his record.</desc>
-  </programme>
-<programme start="20260805100500 +0000" stop="20260805101000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Grizzy and the Lemmings</title>
-    <desc lang="en">While playing in Mayan Temple, the Lemmings set off a cosmic phenomenon.</desc>
-  </programme>
-<programme start="20260805101000 +0000" stop="20260805102000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Duck and Frog</title>
-    <desc lang="en">Duck is in charge of a gentle baby ride at the fairground, which bores Frog, so he instead nabs Duck&apos;s keycard to sneak onto the high-speed roller coaster.</desc>
-  </programme>
-<programme start="20260805102000 +0000" stop="20260805103000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Duck and Frog</title>
-    <desc lang="en">When Duck gets a job helping an art class, he manages to cover the life drawing model in fruit, meaning that Frog must fill in - much to Frogs delight!</desc>
-  </programme>
-<programme start="20260805103000 +0000" stop="20260805104000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Danger Mouse</title>
-    <desc lang="en">A visit of the crimebusting rodent&apos;s biggest fan coincides with members of the team starting to disappear. Revival of the classic cartoon, with the voice of Alexander Armstrong</desc>
-  </programme>
-<programme start="20260805104000 +0000" stop="20260805105000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Super Happy Magic Forest</title>
-    <desc lang="en">Forest inspectors pay a visit to check its super-happy status and Friendlyface sends the heroes on outlandish quests to guarantee results</desc>
-  </programme>
-<programme start="20260805105000 +0000" stop="20260805110500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
-    <desc lang="en">Mouse discovers that Dog is able to make a sad puppy dog that allows him to get whatever he wants and asks him to get the Professor to lend him a special rare rock</desc>
-  </programme>
-<programme start="20260805110500 +0000" stop="20260805113000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Horrible Science</title>
-    <desc lang="en">A special guide to working scientifically, whether that involves drinking black vomit, measuring people&apos;s farts, or firing arrows into their bum.</desc>
-  </programme>
-<programme start="20260805113000 +0000" stop="20260805115000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Gladiators: Epic Pranks</title>
-    <desc lang="en">Daring each other with silly in-ear prompts, Apollo, Hammer, Nitro and Fire go head to head at a fitness studio</desc>
-  </programme>
-<programme start="20260805115000 +0000" stop="20260805120000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Bro&apos;s in Control</title>
-    <desc lang="en">Adam and Joe break out the clubs for a mini-golf challenge</desc>
-  </programme>
-<programme start="20260805120000 +0000" stop="20260805123000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">The Primrose Railway Children</title>
-    <desc lang="en">Adaptation of Jacqueline Wilson&apos;s novel. Suddenly displaced from their city life, Perry and Becks Robinson get involved with the steam train community, while their sister Phoebe is determined to solve the mystery of her missing dad</desc>
-  </programme>
-<programme start="20260805123000 +0000" stop="20260805130000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">The Dumping Ground</title>
-    <desc lang="en">Harmony eavesdrops on her sisters therapy session and discovers a terrible secret, Maisie gets tough to show she cares, and Vinny falls for Max the Monkey during a photo shoot.</desc>
-  </programme>
-<programme start="20260805130000 +0000" stop="20260805132500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Horrible Science</title>
-    <desc lang="en">A guide to the human body, featuring the Handsome Vampires at the dentist, Big Brain losing muscle control, Newton explaining the need for sleep, and the ultimate disco DNA song.</desc>
-  </programme>
-<programme start="20260805132500 +0000" stop="20260805135000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Pokmon Horizons</title>
-    <desc lang="en">Liko and Roy arrive in Artazon, but gym leader Brassius is in an artistic slump</desc>
-  </programme>
-<programme start="20260805135000 +0000" stop="20260805135500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Duck and Frog</title>
-    <desc lang="en">Duck becomes a very serious librarian and makes it his mission to maintain the peace and quiet, until Frog arrives and has other ideas</desc>
-  </programme>
-<programme start="20260805135500 +0000" stop="20260805140500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Shaun the Sheep</title>
-    <desc lang="en">Part two of two. Shaun escapes through a &apos;portal&apos; inside Shirley&apos;s wool</desc>
-  </programme>
-<programme start="20260805140500 +0000" stop="20260805141500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Dennis &amp; Gnasher Unleashed!</title>
-    <desc lang="en">Determined to prove he can accomplish a task without getting distracted, Dennis takes on the simple job of taking the class register to the school office. He instantly distracts himself on an epic scale</desc>
-  </programme>
-<programme start="20260805141500 +0000" stop="20260805142500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Dennis &amp; Gnasher Unleashed!</title>
-    <desc lang="en">In an attempt to enhance her teaching skills, Miss Mistry arranges to tag along with Dennis and the gang after school</desc>
-  </programme>
-<programme start="20260805142500 +0000" stop="20260805144000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Danger Mouse</title>
-    <desc lang="en">The plucky rodent faces the prospect of being forced out of his own show after Count Duckula kidnaps the writers and forces them to make him the star</desc>
-  </programme>
-<programme start="20260805144000 +0000" stop="20260805145000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Super Happy Magic Forest</title>
-    <desc lang="en">The forest has run out of bath sponges and is becoming very stinky indeed, so the heroes must go on a quest under the sea to Merhaven to collect them</desc>
-  </programme>
-<programme start="20260805145000 +0000" stop="20260805150500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Super Happy Magic Forest</title>
-    <desc lang="en">The Riddlemaster wears the Eye of Vernon hat to take over the forest, so the heroes head to Wood Elf Wood to get help</desc>
-  </programme>
-<programme start="20260805150500 +0000" stop="20260805151500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Boy Girl Dog Cat Mouse Cheese</title>
-    <desc lang="en">K-Jam moves into the neighbourhood and stays with the family for a while, but Girl gets insecure and thinks that her awesome best friend is trying to take her place</desc>
-  </programme>
-<programme start="20260805151500 +0000" stop="20260805152500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Grizzy and the Lemmings</title>
-    <desc lang="en">The Lemmings find an ultra-modern glowing cabin they can use for their party</desc>
-  </programme>
-<programme start="20260805152500 +0000" stop="20260805153000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Duck and Frog</title>
-    <desc lang="en">Duck is a referee at a football match, and Frog sees how much a footballer is cheered for scoring a goal. He is desperate to score one himself, but can he get past Duck&apos;s red card?</desc>
-  </programme>
-<programme start="20260805153000 +0000" stop="20260805154500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Submarine Jim</title>
-    <desc lang="en">Jim has to survive in a gas station.</desc>
-  </programme>
-<programme start="20260805154500 +0000" stop="20260805155500 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Odd Squad</title>
-    <desc lang="en">Ozzie goes on a solo mission to work out which villain is causing oddness along the canal.</desc>
-  </programme>
-<programme start="20260805155500 +0000" stop="20260805162000 +0000" channel="tvguidecouk.CBBC">
-    <title lang="en">Pokmon Horizons</title>
-    <desc lang="en">Liko and friends must find a way to fight the increasingly strong Laquium Core.</desc>
   </programme>
 <programme start="20260805162000 +0000" stop="20260805164500 +0000" channel="tvguidecouk.CBBC">
     <title lang="en">Winx Club - The Magic Is Back</title>
@@ -3147,266 +2804,6 @@
   </programme>
 <programme start="20260812043000 +0000" stop="20260812060000 +0000" channel="tvguidecouk.CBBC">
     <title lang="en">Close</title>
-  </programme>
-<programme start="20260805050000 +0000" stop="20260805050500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Roots and Fruits</title>
-    <desc lang="en">Live from the Roots and Fruits theatre, its Apple singing in celebration of her great-great-grandad Apple Trees hundredth birthday.</desc>
-  </programme>
-<programme start="20260805050500 +0000" stop="20260805051500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Bing</title>
-    <desc lang="en">The bunny falls in love with a lost dog he and Flop find in the park and decides he wants to keep her. When the real owner turns up, Bing is very upset when it comes to saying goodbye to his new friend</desc>
-  </programme>
-<programme start="20260805051500 +0000" stop="20260805053000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Teletubbies</title>
-    <desc lang="en">The Teletubbies go on a very special picnic together. Lots of Tubby Toast pops out of the Dup Dup and lands on the picnic plates for the Teletubbies to munch</desc>
-  </programme>
-<programme start="20260805053000 +0000" stop="20260805053500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Tee and Mo</title>
-    <desc lang="en">Tee plays a little too rough with his Action Ape toy causing it to lose its stuffing.</desc>
-  </programme>
-<programme start="20260805053500 +0000" stop="20260805054300 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Colourblocks</title>
-    <desc lang="en">Purple is the host of a fun game show called name that colour, with Pink and Brown playing along as contestants.</desc>
-  </programme>
-<programme start="20260805054300 +0000" stop="20260805054500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Bluey Minisodes</title>
-    <desc lang="en">Someone keeps tapping people on the shoulder and then vanishing.</desc>
-  </programme>
-<programme start="20260805054500 +0000" stop="20260805055500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Bing</title>
-    <desc lang="en">Bing and Sula are planting seeds at Amma&apos;s when Coco arrives with her new skipping rope. Coco teaches them how to skip, with Sula picking it up quicker than Bing. Just when Bing thinks he has succeeded, he hurts his leg on the watering can! Bing can&apos;t understand why he is not as good as Sula, but Coco shows Bing that, with some help, he can learn to skip too!</desc>
-  </programme>
-<programme start="20260805055500 +0000" stop="20260805060500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Mojo Swoptops</title>
-    <desc lang="en">Mojo wonders which top would be perfect for digging up the bones of a Swoppitus Rex</desc>
-  </programme>
-<programme start="20260805060500 +0000" stop="20260805061500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Hey Duggee</title>
-    <desc lang="en">The Squirrels are helping Duggee in the garden when Tag makes friends with a caterpillar. She is very hungry, so Tag feeds her the vegetable leaves they have been picking</desc>
-  </programme>
-<programme start="20260805061500 +0000" stop="20260805062500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Hey Duggee</title>
-    <desc lang="en">The Squirrels learn how to make sandcastles on the beach, and their work turns out to be so impressive that two crabs ask the gang to build them a new home</desc>
-  </programme>
-<programme start="20260805062500 +0000" stop="20260805063000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Bluey</title>
-    <desc lang="en">When Mum&apos;s sister Brandy comes over for a visit, she brings Bluey and Bingo onesies</desc>
-  </programme>
-<programme start="20260805063000 +0000" stop="20260805064000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Bluey</title>
-    <desc lang="en">Chloe tries to teach her dad to play Bluey&apos;s game</desc>
-  </programme>
-<programme start="20260805064000 +0000" stop="20260805065000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Go Jetters</title>
-    <desc lang="en">Glitch&apos;s attempt to jump the queue at the Panama Canal leaves him with a sinking feeling</desc>
-  </programme>
-<programme start="20260805065000 +0000" stop="20260805070500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Peter Rabbit</title>
-    <desc lang="en">When Sammy Whiskers dupes three innocent mice into stealing the rabbits&apos; plum pie, Peter must rescue both pie and mice from the clutches of Mr Tod</desc>
-  </programme>
-<programme start="20260805070500 +0000" stop="20260805071500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Octonauts</title>
-    <desc lang="en">Dashi teams up with her little sister, Koshi, to solve a mysterious disappearance in a kelp forest</desc>
-  </programme>
-<programme start="20260805071500 +0000" stop="20260805072000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Numberblocks</title>
-    <desc lang="en">The Numberblocks compete in the finals of the Ten-vaulting contest. Learn about adding past ten with the Numberblocks.</desc>
-  </programme>
-<programme start="20260805072000 +0000" stop="20260805072500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Alphablocks</title>
-    <desc lang="en">A musical episode of the children&apos;s show, featuring the fox and the dog</desc>
-  </programme>
-<programme start="20260805072500 +0000" stop="20260805073500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Piripenguins</title>
-    <desc lang="en">When a flock of seagulls risk capsizing the iceberg, the Piris devise a smelly solution</desc>
-  </programme>
-<programme start="20260805073500 +0000" stop="20260805075000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Zog</title>
-    <desc lang="en">Pearl accidentally gives Fizz and Zog a laughing disease called the draggles. The doctors must create an emotion potion before every dragon chuckles themselves to exhaustion.</desc>
-  </programme>
-<programme start="20260805075000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Mojo Swoptops</title>
-    <desc lang="en">Tao needs help learning to fly his new wingsuit for a big town event, and Mojo and Bo are the experts. Can they help him find his inner bird before it&apos;s too late?</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805081000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Bing</title>
-    <desc lang="en">It&apos;s vaccination day! Bing knows it might hurt a little but he is looking forward to the special shiny Hoppity Voosh sticker he will get from Doctor Molly. Bing is brave, but when he goes to get his sticker after his vaccination, he finds out that there are none left! Bing is upset - but then Pando mistakes Bing&apos;s disappointment for pain, and Doctor Bing has to help</desc>
-  </programme>
-<programme start="20260805081000 +0000" stop="20260805081500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Yakka Dee!</title>
-    <desc lang="en">Dee encourages a friend to say hand and we go on a whirlwind word adventure. We see shaking, making and baking hands. We wash our hands, reach high with them, and Dee waves goodbye with her hand! The journey is repeated with some special surprises along the way, and everyone has a boogie when Dee&apos;s friend finally succeeds in saying today&apos;s word.</desc>
-  </programme>
-<programme start="20260805081500 +0000" stop="20260805082500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Maddie &amp; Triggs</title>
-    <desc lang="en">Maddie is unsure about giving away her old xylophone, and playing the very first melody she ever wrote brings back lots of feelings</desc>
-  </programme>
-<programme start="20260805082500 +0000" stop="20260805083500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Piggy Builders</title>
-    <desc lang="en">Fred and Dana&apos;s door makes a squeaky sound. The Piggies decide to upgrade the entire door. They build the greatest door ever, but then forget how to open it</desc>
-  </programme>
-<programme start="20260805083500 +0000" stop="20260805084500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Twirlywoos</title>
-    <desc lang="en">Great BigHoo, Toodloo, Chickedy and Chick stroke a woman&apos;s soft, fluffy hat as they learn more about soft things. Narrated by Linda Bassett</desc>
-  </programme>
-<programme start="20260805084500 +0000" stop="20260805090800 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Something Special: We&apos;re All Friends</title>
-    <desc lang="en">Justin and his friend play pizza restaurants, and Mr Tumble knits a jumper</desc>
-  </programme>
-<programme start="20260805090800 +0000" stop="20260805091000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Mr Tumble</title>
-    <desc lang="en">Sing and sign along to our Goodbye Song!</desc>
-  </programme>
-<programme start="20260805091000 +0000" stop="20260805092500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Teletubbies</title>
-    <desc lang="en">When Po goes on the Tubby Custard Ride it makes lots of Tubby Custard - too much for Po to eat alone. So, the Teletubby choo-choos off to get Tinky Winky, Dipsy and Laa-Laa so all of the Teletubbies can share it. In Tummy Tales, children take a ride on a steam train</desc>
-  </programme>
-<programme start="20260805092500 +0000" stop="20260805094000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">The Baby Club</title>
-    <desc lang="en">Nigel and Baby Bear welcome babies Layla, George, Isobel, Lincoln, Jason, Willow and their grown-ups to The Baby Club</desc>
-  </programme>
-<programme start="20260805094000 +0000" stop="20260805094500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">I Spy, You Spy</title>
-    <desc lang="en">Elsee plays I Spy with her friend Bailey in his back garden</desc>
-  </programme>
-<programme start="20260805094500 +0000" stop="20260805095500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">What&apos;s in Your Plant Pot?</title>
-    <desc lang="en">Botanist Matilda and the Fact Pack explore the incredible Wollemi pine, a prehistoric plant from the time of the dinosaurs. They have fun making their own Wollemi Pine fossils.</desc>
-  </programme>
-<programme start="20260805095500 +0000" stop="20260805101000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Let&apos;s Go for a Walk</title>
-    <desc lang="en">Ranger Hamza and the Ramblers walk to the park to have a picnic. On the way they tip-toe past a sleeping snake at the city walls and taste some bread in the market</desc>
-  </programme>
-<programme start="20260805101000 +0000" stop="20260805101500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Kiri &amp; Lou</title>
-    <desc lang="en">Kiri wakes up one morning to find all her friends have disappeared.</desc>
-  </programme>
-<programme start="20260805101500 +0000" stop="20260805102500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Bluey</title>
-    <desc lang="en">While away camping, Bluey makes a new friend called Jean-Luc. Despite speaking different languages, they come up with a great game</desc>
-  </programme>
-<programme start="20260805102500 +0000" stop="20260805103000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Hey Duggee</title>
-    <desc lang="en">Duggee makes some delicious pancakes, but the clubhouse is out of honey</desc>
-  </programme>
-<programme start="20260805103000 +0000" stop="20260805104500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Teeny Tiny Creatures</title>
-    <desc lang="en">Today, Himmat wants to learn about wonderful woodlice! Rory and his son Sandy go hunting for woodlice in the park and build a bug hotel, while Ferne learns that woodlice are crustaceans just like crayfish. Plus, we find out how woodlice are great for the environment - they are little eco-engineers!</desc>
-  </programme>
-<programme start="20260805104500 +0000" stop="20260805110000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Our Family</title>
-    <desc lang="en">Amanpreet and her family are off on a animal adventure! They visit a safari park where they join the lions for a spot of lunch from the safety of their safari bus. Later, Amanpreet turns her hand to zookeeping. The rhinos need a mud bath and Amanpreet is ready to help - its a mucky job, but someone has to do it! She also gets to feed the giraffes, but will the gentle giants be tempted by her cabbage buffet?</desc>
-  </programme>
-<programme start="20260805110000 +0000" stop="20260805112000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Big Cook Little Cook</title>
-    <desc lang="en">Children&apos;s cookery series with Big Cook Jen and Little Cook Small. Small has a new recorder but is having trouble learning how to play it. Jen and Small cook the Pied Piper something tasty and tuneful.</desc>
-  </programme>
-<programme start="20260805112000 +0000" stop="20260805113000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Dog Squad</title>
-    <desc lang="en">Dan and Jamie ride the chair lift to the top of the mountain to warn some hikers that the resort is closing because of a storm. Can they get everyone off the mountain safely in time?</desc>
-  </programme>
-<programme start="20260805113000 +0000" stop="20260805114500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Time for School</title>
-    <desc lang="en">The class has a visit from Karen, the dental nurse, who shows them how to keep their teeth clean. She asks Jud to be a pretend dentist and give Olivers teeth a check-over</desc>
-  </programme>
-<programme start="20260805114500 +0000" stop="20260805120000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Waffle the Wonder Dog</title>
-    <desc lang="en">Waffle is at Mrs Hobbs&apos; house until the Brooklyn-Bells return from holiday. He acts like a cat to please her and helpfully washes up his bowl, but accidentally leaves the taps on</desc>
-  </programme>
-<programme start="20260805120000 +0000" stop="20260805120500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Puffin Rock</title>
-    <desc lang="en">When Bernie gets washed out to sea on a bit of driftwood waiting on Bernadette for a date. Oona goes in search of Marvin to help. And she has to be quick</desc>
-  </programme>
-<programme start="20260805120500 +0000" stop="20260805121500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Yukee</title>
-    <desc lang="en">Sonny finds an old musical safe, which only opens with the right musical code. With Yukee&apos;s help, Sonny tries every tune he can think of, but none opens the box</desc>
-  </programme>
-<programme start="20260805121500 +0000" stop="20260805122000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Maddie &amp; Triggs</title>
-    <desc lang="en">It&apos;s bowling time! Dad thinks he&apos;s a pro - but he&apos;s the only one not scoring. Maddie and Triggs sing a doo-wop song to help him focus and find his strike!</desc>
-  </programme>
-<programme start="20260805122000 +0000" stop="20260805123500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Piggy Builders</title>
-    <desc lang="en">The Piggies are called on multiple missions and decide to split up. They soon realise they were all working on Fiona&apos;s surprise birthday</desc>
-  </programme>
-<programme start="20260805123500 +0000" stop="20260805124000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Numberblocks</title>
-    <desc lang="en">Meet the really big square who always gets the party started: Sixteen! Learn all about the number 16 with Numberblock Sixteen</desc>
-  </programme>
-<programme start="20260805124000 +0000" stop="20260805124500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Alphablocks</title>
-    <desc lang="en">The Alphablocks go on holiday, and discover a trip on the train is the only way to travel</desc>
-  </programme>
-<programme start="20260805124500 +0000" stop="20260805130500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Something Special: We&apos;re All Friends</title>
-    <desc lang="en">Justin Fletcher spends the day at his friend&apos;s school while Mr Tumble plays &apos;school&apos; with the toys</desc>
-  </programme>
-<programme start="20260805130500 +0000" stop="20260805132000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Teletubbies</title>
-    <desc lang="en">For party time the Teletubbies have balloons, party blowers and lots of sparkles as they set off to visit the Tiddlytubbies and do a fun party dance. In Tummy Tales, twins celebrate their birthday party with all of their friends</desc>
-  </programme>
-<programme start="20260805132000 +0000" stop="20260805133000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Hamza Loves Animals: Africa</title>
-    <desc lang="en">Twiggy the giraffe spends some time by herself. Hamza spots some incredible black rhinos in the wild and helps Ronald the vet give Thompsons gazelle Ruka a check-up.</desc>
-  </programme>
-<programme start="20260805133000 +0000" stop="20260805135000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Molly and Mack</title>
-    <desc lang="en">Molly examines her shelf of special things at the back of Mack&apos;s stall. She chooses a toy gold medal and remembers the day she got it</desc>
-  </programme>
-<programme start="20260805135000 +0000" stop="20260805140500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Grace&apos;s Amazing Machines</title>
-    <desc lang="en">In this episode, motorcycle rider Grace Webb shows off three amazing machines that are all made to clean! First, Grace helps to clean a canal in a litter collection boat and shows off a brilliant ocean cleaner, and then she helps to clean an ice skating rink on an ice cleaner!</desc>
-  </programme>
-<programme start="20260805140500 +0000" stop="20260805141500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Dodge&apos;s Pup School</title>
-    <desc lang="en">Dodge is given the important job of the class tidy monitor. But as he patrols the classroom, he accidentally knocks over the class art project, sending boxes everywhere.</desc>
-  </programme>
-<programme start="20260805141500 +0000" stop="20260805142000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Vegesaurs</title>
-    <desc lang="en">Ginger and the baby Pea-Rexes must teach a lost baby BokChoydactyl how to fly</desc>
-  </programme>
-<programme start="20260805142000 +0000" stop="20260805143000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Octonauts: Above &amp; Beyond</title>
-    <desc lang="en">On a mission to study caddisfly silk, Bud and Paani get washed down a river</desc>
-  </programme>
-<programme start="20260805143000 +0000" stop="20260805144500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Peter Rabbit</title>
-    <desc lang="en">Benjamin becomes the unwitting passenger of a flyaway kite - so Peter and Lily put aside their differences to rescue their friend</desc>
-  </programme>
-<programme start="20260805144500 +0000" stop="20260805145000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Hey Duggee</title>
-    <desc lang="en">It&apos;s raining so Duggee and the Squirrels stay inside and do some drawing</desc>
-  </programme>
-<programme start="20260805145000 +0000" stop="20260805150500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Vida the Vet</title>
-    <desc lang="en">When Prickly loses a tooth in the water, Vida and Popcorn go diving to find it.</desc>
-  </programme>
-<programme start="20260805150500 +0000" stop="20260805151000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Supertato</title>
-    <desc lang="en">Evil Pea has trapped Supertato and replaced him with an evil robot look-a-like called Robotato. She&apos;s programmed it to do mean things in order to destroy Supertato&apos;s reputation</desc>
-  </programme>
-<programme start="20260805151000 +0000" stop="20260805152000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">The Weasy Family</title>
-    <desc lang="en">On the Ducklings&apos; activity day, Weasy is too tired to play. Can he find a way to wake up?</desc>
-  </programme>
-<programme start="20260805152000 +0000" stop="20260805153300 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Do Not Watch This Show</title>
-    <desc lang="en">Time is ticking fast! Wizz ages rapidly and will turn 100 if the episode doesn&apos;t end.</desc>
-  </programme>
-<programme start="20260805153300 +0000" stop="20260805153500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Bluey Minisodes</title>
-    <desc lang="en">Someone keeps tapping people on the shoulder and then vanishing.</desc>
-  </programme>
-<programme start="20260805153500 +0000" stop="20260805154500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Bluey</title>
-    <desc lang="en">When Mum&apos;s sister Brandy comes over for a visit, she brings Bluey and Bingo onesies</desc>
-  </programme>
-<programme start="20260805154500 +0000" stop="20260805155000 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Bluey</title>
-    <desc lang="en">Chloe tries to teach her dad to play Bluey&apos;s game</desc>
-  </programme>
-<programme start="20260805155000 +0000" stop="20260805160500 +0000" channel="tvguidecouk.CBeebies">
-    <title lang="en">Zog</title>
-    <desc lang="en">Pearl is sure Mara has Flailing Tail, but Zog and Gadabout are not convinced.</desc>
   </programme>
 <programme start="20260805160500 +0000" stop="20260805162000 +0000" channel="tvguidecouk.CBeebies">
     <title lang="en">Andy&apos;s Dino Island</title>
@@ -4674,36 +4071,6 @@
     <title lang="en">Mojo Swoptops</title>
     <desc lang="en">Mojo and Bo fly high for yummy leaves, but a stubborn goat has other ideas</desc>
   </programme>
-<programme start="20260805050000 +0000" stop="20260805090000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">Good Morning Britain</title>
-    <desc lang="en">Morning magazine featuring a lively mix of news and current affairs, plus health, entertainment and lifestyle features</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805123000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">This Morning</title>
-    <desc lang="en">A mix of celebrity chat, lifestyle features, advice and competitions</desc>
-  </programme>
-<programme start="20260805123000 +0000" stop="20260805125500 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">ITV Lunchtime News; Weather</title>
-    <desc lang="en">The key headlines from the day so far</desc>
-  </programme>
-<programme start="20260805125500 +0000" stop="20260805130000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">ITV News Channel TV; Weather</title>
-  </programme>
-<programme start="20260805130000 +0000" stop="20260805140000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">Dickinson&apos;s Real Deal</title>
-    <desc lang="en">David Dickinson and the team are in Oldham, where Simon Schneider is squeezed to splash the cash for some stunning candlesticks, and Michael Hogben is up to his old tricks</desc>
-  </programme>
-<programme start="20260805140000 +0000" stop="20260805145900 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">Deal or No Deal</title>
-    <desc lang="en">Stephen Mulhern hosts as contestant James tries to open the 22 red boxes in the right order, taking on the infamous Banker for the chance to win a life-changing cash prize</desc>
-  </programme>
-<programme start="20260805145900 +0000" stop="20260805150000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">ITV Channel TV Weather</title>
-  </programme>
-<programme start="20260805150000 +0000" stop="20260805160000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
-    <title lang="en">Tipping Point</title>
-    <desc lang="en">Ben Shephard hosts the quiz in which contestants answer questions to win turns on an arcade-style machine. Dropping tokens down a choice of four chutes, they hope to knock piles of them off a moving shelf - and the more they collect, the greater the prize fund. The player who has won the least amount is then eliminated, and the last one standing competes for a 10,000 jackpot</desc>
-  </programme>
 <programme start="20260805160000 +0000" stop="20260805170000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
     <title lang="en">The Chase</title>
     <desc lang="en">Bradley Walsh hosts as John from Glasgow, Anousha from Surrey, Tracy from Essex and Hanish from Leicester join forces in the hope that their four brains can beat one, but that one brain does happen to belong to a Chaser</desc>
@@ -5003,54 +4370,6 @@
 <programme start="20260812050000 +0000" stop="20260812090000 +0000" channel="tvguidecouk.ITV1ChannelTelevision">
     <title lang="en">Good Morning Britain</title>
     <desc lang="en">Morning magazine featuring a lively mix of news and current affairs, plus health, entertainment and lifestyle features</desc>
-  </programme>
-<programme start="20260805050000 +0000" stop="20260805053000 +0000" channel="tvguidecouk.ITV2">
-    <title lang="en">Backyard Builds</title>
-    <desc lang="en">Brian and Sarah turn a barren backyard into a social hotspot that comes with a sunroom and a giant chessboard.</desc>
-  </programme>
-<programme start="20260805053000 +0000" stop="20260805063000 +0000" channel="tvguidecouk.ITV2">
-    <title lang="en">Dress to Impress</title>
-    <desc lang="en">Londoner Frankie puts her faith in the fashion choices of three single men - but only one will win a date with her</desc>
-  </programme>
-<programme start="20260805063000 +0000" stop="20260805072000 +0000" channel="tvguidecouk.ITV2">
-    <title lang="en">The Real Housewives of Salt Lake City</title>
-    <desc lang="en">In Santorini, Angie surprises the ladies with a photoshoot, and a relaxing day at the spa takes a confrontational turn.</desc>
-  </programme>
-<programme start="20260805072000 +0000" stop="20260805082000 +0000" channel="tvguidecouk.ITV2">
-    <title lang="en">The Real Housewives of Orange County</title>
-    <desc lang="en">Tamra throws a Spring Fling party where the evening devolves into chaos after careers, trust and betrayals come into question.</desc>
-  </programme>
-<programme start="20260805082000 +0000" stop="20260805091500 +0000" channel="tvguidecouk.ITV2">
-    <title lang="en">The Only Way Is Essex</title>
-    <desc lang="en">Jordan prepares for his first date with Ella in Essex, while Dani is set to come face to face with the Great Gatsby now he is back from Los Angeles</desc>
-  </programme>
-<programme start="20260805091500 +0000" stop="20260805101000 +0000" channel="tvguidecouk.ITV2">
-    <title lang="en">Dawson&apos;s Creek</title>
-    <desc lang="en">Dawson plots to give Jen the perfect kiss, but she soon pours cold water on his romantic aspirations. Joey is swept off her feet by a handsome stranger, while Pacey sets out to woo his teacher. James Van Der Beek stars</desc>
-  </programme>
-<programme start="20260805101000 +0000" stop="20260805111000 +0000" channel="tvguidecouk.ITV2">
-    <title lang="en">Charmed</title>
-    <desc lang="en">Prue is suspicious when the sisters&apos; estranged father returns to make amends, only to soon find he is conspiring with their new neighbours, a group of shape-shifters trying to steal the Book of Shadows. The Halliwells hire a handsome new handyman called Leo to help them at the manor. Elsewhere, Andy and the mailman begin to behave strangely. Starring Shannen Doherty</desc>
-  </programme>
-<programme start="20260805111000 +0000" stop="20260805121000 +0000" channel="tvguidecouk.ITV2">
-    <title lang="en">Deal or No Deal</title>
-    <desc lang="en">Stephen Mulhern hosts the game show as contestant Alex tries to open the 22 red boxes in the right order, taking on the infamous Banker for the chance to win a life-changing cash prize</desc>
-  </programme>
-<programme start="20260805121000 +0000" stop="20260805131000 +0000" channel="tvguidecouk.ITV2">
-    <title lang="en">Supermarket Sweep</title>
-    <desc lang="en">Rylan Clark hosts the supermarket-based game show, inviting three pairs of shoppers to &apos;go wild in the aisles&apos; as they compete in the ultimate supermarket challenge to win a 3,000 prize. New quiz rounds feature alongside the legendary trolley dashes and the most famous pastel jumpers on television</desc>
-  </programme>
-<programme start="20260805131000 +0000" stop="20260805141000 +0000" channel="tvguidecouk.ITV2">
-    <title lang="en">The Floor USA</title>
-    <desc lang="en">Rob Lowe hosts the American version of the dramatic and fast-paced game show. The most iconic duo of the fourth series goes head-to-head.</desc>
-  </programme>
-<programme start="20260805141000 +0000" stop="20260805151000 +0000" channel="tvguidecouk.ITV2">
-    <title lang="en">The Only Way Is Essex</title>
-    <desc lang="en">Friction between Girlband and the Bitches is at an all-time high, and Junaid&apos;s frustration is growing by the day. Courtney reaches out and invites Junaid to her birthday bash</desc>
-  </programme>
-<programme start="20260805151000 +0000" stop="20260805160000 +0000" channel="tvguidecouk.ITV2">
-    <title lang="en">The Real Housewives of Salt Lake City</title>
-    <desc lang="en">The trip to Santorini culminates in a dramatic final dinner, where long-simmering conflicts erupt and cause irrevocable damage.</desc>
   </programme>
 <programme start="20260805160000 +0000" stop="20260805170000 +0000" channel="tvguidecouk.ITV2">
     <title lang="en">The Real Housewives of Orange County</title>
@@ -5460,58 +4779,6 @@
     <title lang="en">Dress to Impress</title>
     <desc lang="en">Business owner Luke, model Maciej and sales executive Josh hope to impress model April, who has to choose her date based entirely on the outfits they pick</desc>
   </programme>
-<programme start="20260805050000 +0000" stop="20260805053500 +0000" channel="tvguidecouk.ITV3">
-    <title lang="en">George and Mildred</title>
-    <desc lang="en">The Ropers suffer a domestic crisis when Mildred discovers George has been writing to another woman. Comedy, starring Brian Murphy and Yootha Joyce</desc>
-  </programme>
-<programme start="20260805053500 +0000" stop="20260805060500 +0000" channel="tvguidecouk.ITV3">
-    <title lang="en">George and Mildred</title>
-    <desc lang="en">Cash-strapped George knows exactly what he can sell to raise money - but decides not to tell Mildred. Comedy, starring Brian Murphy and Yootha Joyce</desc>
-  </programme>
-<programme start="20260805060500 +0000" stop="20260805064000 +0000" channel="tvguidecouk.ITV3">
-    <title lang="en">Classic Emmerdale</title>
-    <desc lang="en">Donna suspects Eli may be Shane&apos;s killer when she discovers incriminating evidence in the Dingles&apos; barn. Natasha is jealous of how close Mark seems to be to Katie.</desc>
-  </programme>
-<programme start="20260805064000 +0000" stop="20260805074000 +0000" channel="tvguidecouk.ITV3">
-    <title lang="en">Classic Emmerdale</title>
-    <desc lang="en">The tension between Jasmine and Debbie gives way to long-buried feelings, while Eli is taken in for questioning over Shane&apos;s death. Mark turns down a proposal from the Kings.</desc>
-  </programme>
-<programme start="20260805074000 +0000" stop="20260805081000 +0000" channel="tvguidecouk.ITV3">
-    <title lang="en">Classic Coronation Street</title>
-    <desc lang="en">Liz and Lloyd misread each other as the cabbie instead goes on a date with a woman from the exercise class. Peter is determined to stay sober and win his bet with Blanche.</desc>
-  </programme>
-<programme start="20260805081000 +0000" stop="20260805092500 +0000" channel="tvguidecouk.ITV3">
-    <title lang="en">Agatha Christie&apos;s Poirot</title>
-    <desc lang="en">After enjoying a trip to the theatre with Captain Hastings, the detective is disturbed by the sound of gunshots in an apartment at Whitehaven Mansions, and soon finds himself investigating a murder. Drama, starring David Suchet, Hugh Fraser and Philip Jackson</desc>
-  </programme>
-<programme start="20260805092500 +0000" stop="20260805103000 +0000" channel="tvguidecouk.ITV3">
-    <title lang="en">Agatha Christie&apos;s Poirot</title>
-    <desc lang="en">The Belgian sleuth takes a break on the island of Rhodes, where an English beauty draws attention by flirting with fellow guests at the Palace Hotel. When she is found murdered, her husband is immediately suspected, but Poirot quickly deduces there is more to the case than a simple crime of passion. Whodunit, starring David Suchet</desc>
-  </programme>
-<programme start="20260805103000 +0000" stop="20260805113500 +0000" channel="tvguidecouk.ITV3">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">Mike gets involved in the troubles of a newcomer and her unruly daughter, only to learn her dark past is about to catch up with her in the form of a ruthless reporter. Meanwhile, Vernon decides there is money to be made from goat&apos;s milk. Jason Durr stars</desc>
-  </programme>
-<programme start="20260805113500 +0000" stop="20260805123500 +0000" channel="tvguidecouk.ITV3">
-    <title lang="en">Heartbeat</title>
-    <desc lang="en">Nicholson delays his 21st-birthday celebrations to join Bellamy in pursuit of two armed and dangerous criminals, but takes one risk too many. Meanwhile, Vernon finds himself blowing his own trumpet after hiring out a brass band to Lord Ashfordly. Rural police drama, starring Ryan Early and Mark Jordon</desc>
-  </programme>
-<programme start="20260805123500 +0000" stop="20260805143500 +0000" channel="tvguidecouk.ITV3">
-    <title lang="en">Midsomer Murders</title>
-    <desc lang="en">Each year, the Midsomer village of Angel&apos;s Rise hosts an annual psychic fayre in the vast and gothic Eddon Hall. Founded by the Saint-Stephens family in memory of their late daughter, the event attracts all manner of mediums, psychics and followers of the occult. When a body is found surrounded by ritual symbols on the eve of the gathering, Barnaby must step into a world of self-proclaimed witches to find the killer. Crime drama, starring Neil Dudgeon, with Tracy-Ann Oberman and Colin Salmon</desc>
-  </programme>
-<programme start="20260805143500 +0000" stop="20260805150500 +0000" channel="tvguidecouk.ITV3">
-    <title lang="en">Classic Emmerdale</title>
-    <desc lang="en">Marlon finds out Donna has implicated Eli in Shane&apos;s murder to try to save Ross from prison, leading to a huge fight between the troubled couple. Mark looks into Jimmy&apos;s past.</desc>
-  </programme>
-<programme start="20260805150500 +0000" stop="20260805154000 +0000" channel="tvguidecouk.ITV3">
-    <title lang="en">Classic Emmerdale</title>
-    <desc lang="en">Paul comes face to face with Jonny and learns any chance of a reconciliation between them depends on his moving to Australia. Marlon tells Donna that their marriage is over.</desc>
-  </programme>
-<programme start="20260805154000 +0000" stop="20260805161500 +0000" channel="tvguidecouk.ITV3">
-    <title lang="en">Classic Coronation Street</title>
-    <desc lang="en">Ken and Deirdre agree Simon can return to Peter. Steve cannot believe Lloyd has attracted Danielle, but the cabbie only has eyes for Liz, and Darryl regrets agreeing to help Pam.</desc>
-  </programme>
 <programme start="20260805161500 +0000" stop="20260805165000 +0000" channel="tvguidecouk.ITV3">
     <title lang="en">Classic Coronation Street</title>
     <desc lang="en">Peter is tempted to start drinking so avoids the Rovers. Tyrone&apos;s jealousy leads Molly to make a decision about their future, and Liz and Lloyd see in the New Year together.</desc>
@@ -5848,50 +5115,6 @@
     <title lang="en">George and Mildred</title>
     <desc lang="en">Mildred becomes broody and starts to dream of motherhood, much to George&apos;s dismay - and they consider adoption. Comedy, starring Brian Murphy and Yootha Joyce</desc>
   </programme>
-<programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.ITV4">
-    <title lang="en">Magnum, PI</title>
-    <desc lang="en">Thomas takes a job as a hotel detective to catch an audacious cat burglar preying on the guests, but ends up getting fired, only redeeming himself by pulling off an incredible feat of daring</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805070500 +0000" channel="tvguidecouk.ITV4">
-    <title lang="en">Magnum, PI</title>
-    <desc lang="en">Thomas returns home to attend his grandfather&apos;s funeral, only to get caught up in the search for a valuable family heirloom  a letter signed by former president Abraham Lincoln. Classic crime drama, starring Tom Selleck</desc>
-  </programme>
-<programme start="20260805070500 +0000" stop="20260805080500 +0000" channel="tvguidecouk.ITV4">
-    <title lang="en">Dempsey and Makepeace</title>
-    <desc lang="en">The detective duo pose as Middle Eastern terrorists in the search for an arms dealer reputed to be supplying weapons to violent groups in Britain. Glynis Barber stars</desc>
-  </programme>
-<programme start="20260805080500 +0000" stop="20260805091500 +0000" channel="tvguidecouk.ITV4">
-    <title lang="en">Boon</title>
-    <desc lang="en">The team guard a pheasant shoot on a wealthy peer&apos;s estate, and Ken performs a good deed. Drama, guest starring Jerome Flynn and Maggie O&apos;Neill</desc>
-  </programme>
-<programme start="20260805091500 +0000" stop="20260805102500 +0000" channel="tvguidecouk.ITV4">
-    <title lang="en">The Professionals</title>
-    <desc lang="en">A visiting American senator is assassinated in broad daylight. After a newspaper publishes the names of witnesses, Bodie and Doyle are assigned to protect them, but the task soon gets out of hand. Martin Shaw and Lewis Collins star</desc>
-  </programme>
-<programme start="20260805102500 +0000" stop="20260805113000 +0000" channel="tvguidecouk.ITV4">
-    <title lang="en">Robin of Sherwood</title>
-    <desc lang="en">The Sheriff of Nottingham tries to avoid paying his debts to a Jewish moneylender by inciting a riot. Fantasy drama, starring Michael Praed</desc>
-  </programme>
-<programme start="20260805113000 +0000" stop="20260805123500 +0000" channel="tvguidecouk.ITV4">
-    <title lang="en">Magnum, PI</title>
-    <desc lang="en">A harassed rancher hires Thomas to investigate a crime not normally associated with the Hawaiian island - an outbreak of cattle rustling by gun-toting outlaws. Tom Selleck stars</desc>
-  </programme>
-<programme start="20260805123500 +0000" stop="20260805133500 +0000" channel="tvguidecouk.ITV4">
-    <title lang="en">Magnum, PI</title>
-    <desc lang="en">Robin&apos;s publishers sponsor a million-dollar treasure hunt to promote interest in his latest book - but two unscrupulous participants try to stay ahead of the competition by destroying the clues as they find them. Tom Selleck stars</desc>
-  </programme>
-<programme start="20260805133500 +0000" stop="20260805144000 +0000" channel="tvguidecouk.ITV4">
-    <title lang="en">Dempsey and Makepeace</title>
-    <desc lang="en">Drug dealers kidnap a woman&apos;s child in a bid to deter her from testifying against them at a forthcoming - forcing Dempsey to turn to shady character the Bogeyman for help</desc>
-  </programme>
-<programme start="20260805144000 +0000" stop="20260805155000 +0000" channel="tvguidecouk.ITV4">
-    <title lang="en">Boon</title>
-    <desc lang="en">The duo are called in to discover who stole a prize stallion. Ken gets to grips with the ground work, while Rocky finds himself tied up with gypsies</desc>
-  </programme>
-<programme start="20260805155000 +0000" stop="20260805165500 +0000" channel="tvguidecouk.ITV4">
-    <title lang="en">The Professionals</title>
-    <desc lang="en">Cowley and the team present a line of defence against groups of mercenaries and guerrillas who are waging war on the streets of Britain. David Suchet and Geoffrey Palmer guest star alongside Martin Shaw, Lewis Collins and Gordon Jackson</desc>
-  </programme>
 <programme start="20260805165500 +0000" stop="20260805180000 +0000" channel="tvguidecouk.ITV4">
     <title lang="en">Minder</title>
     <desc lang="en">Arthur sees an opportunity to cash in when a footballer with a drink and gambling habit goes missing, but selling his story to the paper is not as easy as it seems when there is more than one person interested in his whereabouts. Comedy drama, with George Cole and Dennis Waterman</desc>
@@ -6180,46 +5403,6 @@
     <title lang="en">Magnum, PI</title>
     <desc lang="en">Thomas, TC and Higgins go in search of Rick and a boatload of passengers, who have gone missing at sea during a cruise and are now presumed dead. Detective drama, starring Tom Selleck</desc>
   </programme>
-<programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.PremierSports1HD">
-    <title lang="en">DTM Motorsport Highlights</title>
-    <desc lang="en">Action from Oschersleben</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.PremierSports1HD">
-    <title lang="en">FIM Sidecarcross Championship</title>
-    <desc lang="en">Action from the Grand Prix of Latvia</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.PremierSports1HD">
-    <title lang="en">Indikart Championship</title>
-    <desc lang="en">Action from the sixth round of the season</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805090000 +0000" channel="tvguidecouk.PremierSports1HD">
-    <title lang="en">NASCAR Highlights</title>
-    <desc lang="en">Action from the 2026 Brickyard 400</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805110000 +0000" channel="tvguidecouk.PremierSports1HD">
-    <title lang="en">Football</title>
-    <desc lang="en">FC Union Berlin v Cagliari</desc>
-  </programme>
-<programme start="20260805110000 +0000" stop="20260805113000 +0000" channel="tvguidecouk.PremierSports1HD">
-    <title lang="en">Sporting Countdowns</title>
-    <desc lang="en">Focusing on some of the most memorable moments in sports history</desc>
-  </programme>
-<programme start="20260805113000 +0000" stop="20260805133000 +0000" channel="tvguidecouk.PremierSports1HD">
-    <title lang="en">Coppa Italia</title>
-    <desc lang="en">Lazio v Inter Milan in the final</desc>
-  </programme>
-<programme start="20260805133000 +0000" stop="20260805140000 +0000" channel="tvguidecouk.PremierSports1HD">
-    <title lang="en">World of FreeSports</title>
-    <desc lang="en">Showcasing the world of action and outdoor sports from around the globe</desc>
-  </programme>
-<programme start="20260805140000 +0000" stop="20260805150000 +0000" channel="tvguidecouk.PremierSports1HD">
-    <title lang="en">DTM Motorsport Highlights</title>
-    <desc lang="en">Action from Oschersleben</desc>
-  </programme>
-<programme start="20260805150000 +0000" stop="20260805170000 +0000" channel="tvguidecouk.PremierSports1HD">
-    <title lang="en">Swedish Speedway</title>
-    <desc lang="en">Action from a high-profile Elitserien meeting</desc>
-  </programme>
 <programme start="20260805170000 +0000" stop="20260805173000 +0000" channel="tvguidecouk.PremierSports1HD">
     <title lang="en">Bike World</title>
     <desc lang="en">The latest action from the high octane world of two wheels</desc>
@@ -6507,38 +5690,6 @@
     <title lang="en">Coppa Italia</title>
     <desc lang="en">Lazio v Inter Milan in the final</desc>
   </programme>
-<programme start="20260805050000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.PremierSports2HD">
-    <title lang="en">Top 14 Rugby Union</title>
-    <desc lang="en">Action from Toulouse v Montpellier in the final</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805073000 +0000" channel="tvguidecouk.PremierSports2HD">
-    <title lang="en">Temples of Sport</title>
-    <desc lang="en">Iconic sporting venues from around the globe</desc>
-  </programme>
-<programme start="20260805073000 +0000" stop="20260805101500 +0000" channel="tvguidecouk.PremierSports2HD">
-    <title lang="en">EUT20 Belgium</title>
-    <desc lang="en">Bruges v Antwerp</desc>
-  </programme>
-<programme start="20260805101500 +0000" stop="20260805141500 +0000" channel="tvguidecouk.PremierSports2HD">
-    <title lang="en">EUT20 Belgium</title>
-    <desc lang="en">Antwerp v Liege</desc>
-  </programme>
-<programme start="20260805141500 +0000" stop="20260805143000 +0000" channel="tvguidecouk.PremierSports2HD">
-    <title lang="en">Africa Eco Race</title>
-    <desc lang="en">The latest motorsport highlights from the Africa Eco race</desc>
-  </programme>
-<programme start="20260805143000 +0000" stop="20260805150000 +0000" channel="tvguidecouk.PremierSports2HD">
-    <title lang="en">Temples of Sport</title>
-    <desc lang="en">Iconic sporting venues from around the globe</desc>
-  </programme>
-<programme start="20260805150000 +0000" stop="20260805153000 +0000" channel="tvguidecouk.PremierSports2HD">
-    <title lang="en">Football&apos;s Greatest</title>
-    <desc lang="en">The finest players in history discuss their careers</desc>
-  </programme>
-<programme start="20260805153000 +0000" stop="20260805173000 +0000" channel="tvguidecouk.PremierSports2HD">
-    <title lang="en">Football</title>
-    <desc lang="en">Eintracht Frankfurt v Trabzonspor</desc>
-  </programme>
 <programme start="20260805173000 +0000" stop="20260805193000 +0000" channel="tvguidecouk.PremierSports2HD">
     <title lang="en">German Cup</title>
     <desc lang="en">Action from Bayern Munich v VfB Stuttgart in the 2026 final</desc>
@@ -6770,119 +5921,6 @@
 <programme start="20260812050000 +0000" stop="20260812070000 +0000" channel="tvguidecouk.PremierSports2HD">
     <title lang="en">Rugby Junior World Championships</title>
     <desc lang="en">Japan v Spain in th 13th place play-off</desc>
-  </programme>
-<programme start="20260805050000 +0000" stop="20260805050500 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Blociau Rhif</title>
-    <desc lang="en">Fun and games for young children with the number blocks</desc>
-  </programme>
-<programme start="20260805050500 +0000" stop="20260805051500 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Sam Tan</title>
-    <desc lang="en">Joe invents a new robotic dog called the Firedog 2000 to help in emergency situations that are too dangerous for Radar, but it proves to be a handful for him. Norman is convinced that he has superpowers as Norman-Man, so he tries using them to handle the malfunctioning Firedog.</desc>
-  </programme>
-<programme start="20260805051500 +0000" stop="20260805052500 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Blwi</title>
-    <desc lang="en">Animated children&apos;s show following a dog who is bursting with energy, imagination and curiosity</desc>
-  </programme>
-<programme start="20260805052500 +0000" stop="20260805054000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Octonots</title>
-    <desc lang="en">While diving in the ocean, the Octonauts find a humpback whale with a strange voice. They try to help him change his voice so that he can join the other humpback whales on their way to the feeding grounds</desc>
-  </programme>
-<programme start="20260805054000 +0000" stop="20260805055500 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Deian a Loli</title>
-    <desc lang="en">Series about mischievous twins who have secret super powers</desc>
-  </programme>
-<programme start="20260805055500 +0000" stop="20260805060000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Howie</title>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805061000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Joni Jet</title>
-    <desc lang="en">Jetboy and Jetgirl disagree, but when Lily Lafant hypnotises citizens into obeying her, the differences turn into strength</desc>
-  </programme>
-<programme start="20260805061000 +0000" stop="20260805062500 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Dreigiau Cadi</title>
-    <desc lang="en">Children&apos;s programme</desc>
-  </programme>
-<programme start="20260805062500 +0000" stop="20260805064000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Crawc a&apos;i Ffrindiau</title>
-    <desc lang="en">Animation based on The Wind in the Willows stories</desc>
-  </programme>
-<programme start="20260805064000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Waw!</title>
-    <desc lang="en">Awi and the &apos;Waw&apos; crew notice the fascinating things in the world around us</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805071000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Odo</title>
-    <desc lang="en">Cartoon about a little owl called Odo and his woodland friends</desc>
-  </programme>
-<programme start="20260805071000 +0000" stop="20260805072000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Sion y Chef</title>
-    <desc lang="en">Heledd learns a lesson about teamwork</desc>
-  </programme>
-<programme start="20260805072000 +0000" stop="20260805073000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Anifeiliaid Bach y Byd</title>
-    <desc lang="en">Cameras visit the rainforest to meet the poison dart frog, then go under the sea to get to know about the puffa fish and the lion fish</desc>
-  </programme>
-<programme start="20260805073000 +0000" stop="20260805074500 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Pablo</title>
-    <desc lang="en">Cartoon series about an autistic boy who overcomes situations that challenge him with the help of his imaginary friends</desc>
-  </programme>
-<programme start="20260805074500 +0000" stop="20260805080000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Kim a Ct a Twrch</title>
-    <desc lang="en">Kim and Cet set out on another magical adventure full of dance and music as they search for Twrch in the forest</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805081500 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Guto Gwningen</title>
-    <desc lang="en">Nel&apos;s birthday cake is stolen so Guto vows to get it back, but he finds himself in hot water with a host of angry villains</desc>
-  </programme>
-<programme start="20260805081500 +0000" stop="20260805082500 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Abadas</title>
-    <desc lang="en">The Abadas make themselves look pretty and clean as they play hairdressers, and also learn more about toothbrushes</desc>
-  </programme>
-<programme start="20260805082500 +0000" stop="20260805083500 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Ein Byd Bach Ni</title>
-    <desc lang="en">A programme in which children visit countries around the world to learn about the history, food, landscape, children and the culture there</desc>
-  </programme>
-<programme start="20260805083500 +0000" stop="20260805084500 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Pentre Papur Pop</title>
-    <desc lang="en">Huwcyn and Fly make a spectacular jelly cake. However, when Huwcyn tries to do too much too quickly, it&apos;s feared the cake might fall apart</desc>
-  </programme>
-<programme start="20260805084500 +0000" stop="20260805090000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Ne-wff-ion</title>
-    <desc lang="en">News for children up to six years old, which both entertains and teaches them about the world in all its diversity</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805090500 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Blociau Rhif</title>
-    <desc lang="en">Fun and games for young children with the number blocks</desc>
-  </programme>
-<programme start="20260805090500 +0000" stop="20260805091500 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Crawc a&apos;i Ffrindiau</title>
-    <desc lang="en">Animation based on The Wind in the Willows stories</desc>
-  </programme>
-<programme start="20260805091500 +0000" stop="20260805093000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Deian a Loli</title>
-    <desc lang="en">Series about mischievous twins who have secret super powers</desc>
-  </programme>
-<programme start="20260805093000 +0000" stop="20260805110000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Eisteddfod Genedlaethol 2026</title>
-    <desc lang="en">Tudur Owen and Heledd Cynwal look forward to the day&apos;s main ceremony, and there are performances by the soloists aged between 19 and 25</desc>
-  </programme>
-<programme start="20260805110000 +0000" stop="20260805110500 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Newyddion S4C</title>
-  </programme>
-<programme start="20260805110500 +0000" stop="20260805130000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Eisteddfod Genedlaethol 2026</title>
-    <desc lang="en">The vocal competitors aged between 19 and 25 seek to secure their place to compete for the Osborne Roberts Memorial Prize</desc>
-  </programme>
-<programme start="20260805130000 +0000" stop="20260805130500 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Newyddion S4C</title>
-  </programme>
-<programme start="20260805130500 +0000" stop="20260805150000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Eisteddfod Genedlaethol 2026</title>
-    <desc lang="en">Nia Roberts guides viewers through the afternoon, including the Learner of the Year ceremony. Lloyd Lewis and Eleri Sion roam the Maes</desc>
-  </programme>
-<programme start="20260805150000 +0000" stop="20260805163000 +0000" channel="tvguidecouk.S4C">
-    <title lang="en">Eisteddfod Genedlaethol 2026</title>
-    <desc lang="en">Including coverage of the day&apos;s main ceremony, the presentation of the Prose Medal</desc>
   </programme>
 <programme start="20260805163000 +0000" stop="20260805183000 +0000" channel="tvguidecouk.S4C">
     <title lang="en">Eisteddfod Genedlaethol 2026</title>
@@ -7592,50 +6630,6 @@
     <title lang="en">Howie</title>
     <desc lang="en">Howie flattens Clive&apos;s snowman and realises he has to build anew!</desc>
   </programme>
-<programme start="20260805050000 +0000" stop="20260805081500 +0000" channel="tvguidecouk.SkySportsCricket">
-    <title lang="en">The Hundred</title>
-    <desc lang="en">Sunrisers Leeds Women v London Spirit Women. Another chance to see the match from Headingley, Leeds</desc>
-  </programme>
-<programme start="20260805081500 +0000" stop="20260805083000 +0000" channel="tvguidecouk.SkySportsCricket">
-    <title lang="en">The Hundred Bitesize</title>
-    <desc lang="en">Brief highlights of Welsh Fire Women v Southern Brave Women</desc>
-  </programme>
-<programme start="20260805083000 +0000" stop="20260805084500 +0000" channel="tvguidecouk.SkySportsCricket">
-    <title lang="en">The Hundred Bitesize</title>
-    <desc lang="en">Brief highlights of Welsh Fire Men v Southern Brave Men</desc>
-  </programme>
-<programme start="20260805084500 +0000" stop="20260805090000 +0000" channel="tvguidecouk.SkySportsCricket">
-    <title lang="en">The Hundred Bitesize</title>
-    <desc lang="en">Brief highlights of Welsh Fire Women v Southern Brave Women</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805091500 +0000" channel="tvguidecouk.SkySportsCricket">
-    <title lang="en">The Hundred Bitesize</title>
-    <desc lang="en">Brief highlights of Welsh Fire Men v Southern Brave Men</desc>
-  </programme>
-<programme start="20260805091500 +0000" stop="20260805093000 +0000" channel="tvguidecouk.SkySportsCricket">
-    <title lang="en">The Hundred Bitesize</title>
-    <desc lang="en">Brief highlights of Trent Rockets Women v Sunrisers Leeds Women</desc>
-  </programme>
-<programme start="20260805093000 +0000" stop="20260805094500 +0000" channel="tvguidecouk.SkySportsCricket">
-    <title lang="en">The Hundred Bitesize</title>
-    <desc lang="en">Brief highlights of MI London Women v Manchester Super Giants Women</desc>
-  </programme>
-<programme start="20260805094500 +0000" stop="20260805100000 +0000" channel="tvguidecouk.SkySportsCricket">
-    <title lang="en">The Hundred Bitesize</title>
-    <desc lang="en">Brief highlights of Sunrisers Leeds Women v London Spirit Women</desc>
-  </programme>
-<programme start="20260805100000 +0000" stop="20260805101500 +0000" channel="tvguidecouk.SkySportsCricket">
-    <title lang="en">The Hundred Bitesize</title>
-    <desc lang="en">Brief highlights of Sunrisers Leeds Men v London Spirit Men</desc>
-  </programme>
-<programme start="20260805101500 +0000" stop="20260805133000 +0000" channel="tvguidecouk.SkySportsCricket">
-    <title lang="en">The Hundred Live</title>
-    <desc lang="en">Manchester Super Giants Women v Welsh Fire Women (Start-time 11.30am). Coverage of the match from Emirates Old Trafford Cricket Ground, Manchester. These two sides met last year in Cardiff in a low-scoring affair that saw the Super Giants claim a seven-wicket victory. They restriced the Fire to just 73-9 in a brilliant bowling display with Lauren Filer taking 3-8 in her 20 balls, before they chased down their target with 19 balls to spare in a comfortable batting performance</desc>
-  </programme>
-<programme start="20260805133000 +0000" stop="20260805170000 +0000" channel="tvguidecouk.SkySportsCricket">
-    <title lang="en">The Hundred Live</title>
-    <desc lang="en">Manchester Super Giants Men v Welsh Fire Men (Start-time 3.00pm). Coverage of the match from Emirates Old Trafford Cricket Ground, Manchester. The Fire won this meeting last year in Cardiff by 25 runs in an impressive performance that saw them bowl the hosts out for just 112. The visitors made 137-8 in their 100 balls before bowling out the Super Giants, known as the Originals previously, with three balls remaining in their innings</desc>
-  </programme>
 <programme start="20260805170000 +0000" stop="20260805203000 +0000" channel="tvguidecouk.SkySportsCricket">
     <title lang="en">The Hundred Live</title>
     <desc lang="en">Trent Rockets Men v Birmingham Phoenix Men (Start-time 6.30pm). Coverage of the match from Trent Bridge in Nottingham. The Rockets claimed a six-wicket victory when these teams clashed at Edgbaston last season, thanks largely to the efforts of fast bowler Lockie Ferguson who three wickets with his 20 balls and helped restrict the Phoenix to 122/6, which the Rockets surpassed with 22 balls to spare</desc>
@@ -7935,46 +6929,6 @@
 <programme start="20260812050000 +0000" stop="20260812081500 +0000" channel="tvguidecouk.SkySportsCricket">
     <title lang="en">The Hundred</title>
     <desc lang="en">Manchester Super Giants Women v Sunrisers Leeds Women. A chance to see the match at Emirates Old Trafford</desc>
-  </programme>
-<programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.SkySportsF1">
-    <title lang="en">Formula 1</title>
-    <desc lang="en">The Canadian Grand Prix sprint race. Highlights from the fifth round of the season, held at Circuit Gilles Villeneuve in Montreal</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.SkySportsF1">
-    <title lang="en">Formula 1</title>
-    <desc lang="en">The Canadian Grand Prix. Highlights of the fifth round of the season at Circuit Gilles Villeneuve in Montreal</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.SkySportsF1">
-    <title lang="en">Formula 1</title>
-    <desc lang="en">The Monaco Grand Prix. Highlights of the sixth round of the season at Circuit de Monaco in Monte Carlo</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805090000 +0000" channel="tvguidecouk.SkySportsF1">
-    <title lang="en">Ferrari Challenge Europe</title>
-    <desc lang="en">Action from the fifth round of the season in Portimao, Portugal</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805111500 +0000" channel="tvguidecouk.SkySportsF1">
-    <title lang="en">Formula 1</title>
-    <desc lang="en">The Japanese Grand Prix. Another chance to see the third round of the season, held at Suzuka Circuit</desc>
-  </programme>
-<programme start="20260805111500 +0000" stop="20260805114500 +0000" channel="tvguidecouk.SkySportsF1">
-    <title lang="en">Ted&apos;s Notebook</title>
-    <desc lang="en">Ted Kravitz shares his thoughts on the Japanese Grand Prix</desc>
-  </programme>
-<programme start="20260805114500 +0000" stop="20260805120000 +0000" channel="tvguidecouk.SkySportsF1">
-    <title lang="en">The Cornwall Air Ambulance</title>
-    <desc lang="en">Karun Chandhok looks at how F1 teams are helping the Cornwall Air Ambulance save lives</desc>
-  </programme>
-<programme start="20260805120000 +0000" stop="20260805143000 +0000" channel="tvguidecouk.SkySportsF1">
-    <title lang="en">Formula 1</title>
-    <desc lang="en">The Miami Grand Prix. A chance to see the fourth round of the season, held at Miami International Autodrome in Florida</desc>
-  </programme>
-<programme start="20260805143000 +0000" stop="20260805150000 +0000" channel="tvguidecouk.SkySportsF1">
-    <title lang="en">Ted&apos;s Notebook</title>
-    <desc lang="en">Ted Kravitz provides his thoughts on the Miami Grand Prix</desc>
-  </programme>
-<programme start="20260805150000 +0000" stop="20260805160000 +0000" channel="tvguidecouk.SkySportsF1">
-    <title lang="en">Formula 1</title>
-    <desc lang="en">The Japanese Grand Prix. Highlights of the third round of the season, held at Suzuka Circuit</desc>
   </programme>
 <programme start="20260805160000 +0000" stop="20260805170000 +0000" channel="tvguidecouk.SkySportsF1">
     <title lang="en">Formula 1</title>
@@ -8342,62 +7296,6 @@
 <programme start="20260812050000 +0000" stop="20260812060000 +0000" channel="tvguidecouk.SkySportsF1">
     <title lang="en">Formula 1</title>
     <desc lang="en">The Canadian Grand Prix sprint race. Highlights from the fifth round of the season, held at Circuit Gilles Villeneuve in Montreal</desc>
-  </programme>
-<programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.SkySportsFootballHD">
-    <title lang="en">EFL</title>
-    <desc lang="en">Exeter City v Northampton Town in the 2019/20 League Two play-off final</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.SkySportsFootballHD">
-    <title lang="en">EFL</title>
-    <desc lang="en">Oxford United v Wycombe Wanderers in the 2019/20 League One play-off final</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.SkySportsFootballHD">
-    <title lang="en">EFL</title>
-    <desc lang="en">Brentford v Fulham in the 2019/20 Championship play-off final</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805083000 +0000" channel="tvguidecouk.SkySportsFootballHD">
-    <title lang="en">SPFL Round-Up</title>
-    <desc lang="en">A round-up of the Scottish Premiership action from the latest round of fixtures</desc>
-  </programme>
-<programme start="20260805083000 +0000" stop="20260805084500 +0000" channel="tvguidecouk.SkySportsFootballHD">
-    <title lang="en">EFL Greatest Games</title>
-    <desc lang="en">Fulham v Queens Park Rangers from the 2017/18 season</desc>
-  </programme>
-<programme start="20260805084500 +0000" stop="20260805090000 +0000" channel="tvguidecouk.SkySportsFootballHD">
-    <title lang="en">EFL Greatest Games</title>
-    <desc lang="en">Middlesbrough v Wolverhampton Wanderers from the 2017/18 season</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805110000 +0000" channel="tvguidecouk.SkySportsFootballHD">
-    <title lang="en">EFL Cup Retro</title>
-    <desc lang="en">Swansea City v Bradford City in the 2013 final</desc>
-  </programme>
-<programme start="20260805110000 +0000" stop="20260805120000 +0000" channel="tvguidecouk.SkySportsFootballHD">
-    <title lang="en">EFL Highlights</title>
-    <desc lang="en">Action from Crawley Town v Crewe Alexandra in the League Two play-off final</desc>
-  </programme>
-<programme start="20260805120000 +0000" stop="20260805130000 +0000" channel="tvguidecouk.SkySportsFootballHD">
-    <title lang="en">EFL</title>
-    <desc lang="en">Bolton Wanderers v Oxford United in the 2023/24 League One play-off final</desc>
-  </programme>
-<programme start="20260805130000 +0000" stop="20260805140000 +0000" channel="tvguidecouk.SkySportsFootballHD">
-    <title lang="en">EFL Highlights</title>
-    <desc lang="en">Action from Leeds United v Southampton in this year&apos;s Championship play-off final</desc>
-  </programme>
-<programme start="20260805140000 +0000" stop="20260805143000 +0000" channel="tvguidecouk.SkySportsFootballHD">
-    <title lang="en">SPFL Highlights</title>
-    <desc lang="en">Celtic v Rangers in the Scottish Premiership</desc>
-  </programme>
-<programme start="20260805143000 +0000" stop="20260805144500 +0000" channel="tvguidecouk.SkySportsFootballHD">
-    <title lang="en">EFL Greatest Games</title>
-    <desc lang="en">Aston Villa v Leeds United from the 2018/19 season</desc>
-  </programme>
-<programme start="20260805144500 +0000" stop="20260805150000 +0000" channel="tvguidecouk.SkySportsFootballHD">
-    <title lang="en">EFL Greatest Games</title>
-    <desc lang="en">Aston Villa v Sheffield United from the 2018/19 season</desc>
-  </programme>
-<programme start="20260805150000 +0000" stop="20260805170000 +0000" channel="tvguidecouk.SkySportsFootballHD">
-    <title lang="en">EFL Cup Retro</title>
-    <desc lang="en">Arsenal v Manchester City in the 2018 final</desc>
   </programme>
 <programme start="20260805170000 +0000" stop="20260805173000 +0000" channel="tvguidecouk.SkySportsFootballHD">
     <title lang="en">SPFL Highlights</title>
@@ -8842,26 +7740,6 @@
     <title lang="en">EFL Cup Retro</title>
     <desc lang="en">Chelsea v Tottenham Hotspur in the 2007/08 final</desc>
   </programme>
-<programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.SkySportsGolf">
-    <title lang="en">LPGA Tour Golf</title>
-    <desc lang="en">The Chevron Championship. Highlights of day four of the first Major of the year from Memorial Park Golf Course in Houston, Texas</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.SkySportsGolf">
-    <title lang="en">US Women&apos;s Open Golf</title>
-    <desc lang="en">Action from day four of the Major at the Riviera Country Club in Pacific Palisades, California</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.SkySportsGolf">
-    <title lang="en">Women&apos;s PGA Championship</title>
-    <desc lang="en">A chance to see day four of the Major, held this year at Hazeltine National Golf Club in Chaska, Minnesota</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805090000 +0000" channel="tvguidecouk.SkySportsGolf">
-    <title lang="en">LPGA Tour Golf</title>
-    <desc lang="en">Action from day four of the Amundi Evian Championship</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805160000 +0000" channel="tvguidecouk.SkySportsGolf">
-    <title lang="en">Women&apos;s Golf</title>
-    <desc lang="en">The AIG Women&apos;s Open Championship. Another chance to see day four of the Major Championship from Royal Lytham &amp; St Annes Golf Club in Lancashire</desc>
-  </programme>
 <programme start="20260805160000 +0000" stop="20260805170000 +0000" channel="tvguidecouk.SkySportsGolf">
     <title lang="en">Hall or Nothing: Georgia&apos;s Story</title>
     <desc lang="en">In 2018, Georgia Hall became the first home champion of the Women&apos;s British Open in nine years - her very first Tour win. This documentary presents her journey in the sport</desc>
@@ -9198,38 +8076,6 @@
     <title lang="en">Ladies European Tour Golf</title>
     <desc lang="en">Highlights of the PIF Saudi Ladies International</desc>
   </programme>
-<programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.SkySportsMainEvent">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news, with live analysis and comment, plus extended interviews with the headline-makers</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.SkySportsMainEvent">
-    <title lang="en">Sky Sports Breakfast</title>
-    <desc lang="en">The latest headlines and reports from Sky Sports News</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.SkySportsMainEvent">
-    <title lang="en">Sky Sports Breakfast</title>
-    <desc lang="en">The latest headlines and reports from Sky Sports News</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805090000 +0000" channel="tvguidecouk.SkySportsMainEvent">
-    <title lang="en">Good Morning Transfers</title>
-    <desc lang="en">Featuring a round-up of the latest football transfer news</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805100000 +0000" channel="tvguidecouk.SkySportsMainEvent">
-    <title lang="en">Sky Sports FC</title>
-    <desc lang="en">Interactive show covering the major football headlines</desc>
-  </programme>
-<programme start="20260805100000 +0000" stop="20260805103000 +0000" channel="tvguidecouk.SkySportsMainEvent">
-    <title lang="en">Sky Sports FC</title>
-    <desc lang="en">Interactive show covering the major football headlines</desc>
-  </programme>
-<programme start="20260805103000 +0000" stop="20260805133000 +0000" channel="tvguidecouk.SkySportsMainEvent">
-    <title lang="en">The Hundred Live</title>
-    <desc lang="en">Manchester Super Giants Women v Welsh Fire Women (Start-time 11.30am). Coverage of the match from Emirates Old Trafford Cricket Ground, Manchester. These two sides met last year in Cardiff in a low-scoring affair that saw the Super Giants claim a seven-wicket victory. They restriced the Fire to just 73-9 in a brilliant bowling display with Lauren Filer taking 3-8 in her 20 balls, before they chased down their target with 19 balls to spare in a comfortable batting performance</desc>
-  </programme>
-<programme start="20260805133000 +0000" stop="20260805170000 +0000" channel="tvguidecouk.SkySportsMainEvent">
-    <title lang="en">The Hundred Live</title>
-    <desc lang="en">Manchester Super Giants Men v Welsh Fire Men (Start-time 3.00pm). Coverage of the match from Emirates Old Trafford Cricket Ground, Manchester. The Fire won this meeting last year in Cardiff by 25 runs in an impressive performance that saw them bowl the hosts out for just 112. The visitors made 137-8 in their 100 balls before bowling out the Super Giants, known as the Originals previously, with three balls remaining in their innings</desc>
-  </programme>
 <programme start="20260805170000 +0000" stop="20260805203000 +0000" channel="tvguidecouk.SkySportsMainEvent">
     <title lang="en">The Hundred Live</title>
     <desc lang="en">Trent Rockets Men v Birmingham Phoenix Men (Start-time 6.30pm). Coverage of the match from Trent Bridge in Nottingham. The Rockets claimed a six-wicket victory when these teams clashed at Edgbaston last season, thanks largely to the efforts of fast bowler Lockie Ferguson who three wickets with his 20 balls and helped restrict the Phoenix to 122/6, which the Rockets surpassed with 22 balls to spare</desc>
@@ -9480,74 +8326,6 @@
 <programme start="20260812050000 +0000" stop="20260812060000 +0000" channel="tvguidecouk.SkySportsMainEvent">
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news, with live analysis and comment, plus extended interviews with the headline-makers</desc>
-  </programme>
-<programme start="20260805050000 +0000" stop="20260805051500 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">PL Greatest Games</title>
-    <desc lang="en">West Ham United v Tottenham Hotspur from 2007</desc>
-  </programme>
-<programme start="20260805051500 +0000" stop="20260805053000 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">PL Greatest Games</title>
-    <desc lang="en">Manchester United v Chelsea from 2000</desc>
-  </programme>
-<programme start="20260805053000 +0000" stop="20260805054500 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">PL Greatest Games</title>
-    <desc lang="en">Chelsea v Manchester United from 1999</desc>
-  </programme>
-<programme start="20260805054500 +0000" stop="20260805060000 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">PL Greatest Games</title>
-    <desc lang="en">Birmingham City v Aston Villa from 2002</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805063000 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">Women&apos;s ICC World T20 Cricket</title>
-    <desc lang="en">Australia v South Africa. Highlights of the Group A match at Old Trafford in Manchester</desc>
-  </programme>
-<programme start="20260805063000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">Women&apos;s ICC World T20 Cricket</title>
-    <desc lang="en">West Indies v New Zealand. Highlights of the Group B match at Rose Bowl in Southampton</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">Tennis</title>
-    <desc lang="en">The ATP Adelaide Open final. Highlights of the showpiece matchday on day six of the ATP 250 event, a hard-court tournament at Memorial Drive Tennis Centre</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805090000 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">US Women&apos;s Open Golf</title>
-    <desc lang="en">Action from day three of the Major at the Riviera Country Club in Pacific Palisades, California</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805100000 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">The Farmers Insurance Open. Action from day four of the tournament at Torrey Pines Golf Course in San Diego</desc>
-  </programme>
-<programme start="20260805100000 +0000" stop="20260805110000 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">Tennis</title>
-    <desc lang="en">The WTA Adelaide Open final. Highlights of the showpiece matchday on day six of the WTA 500 event, a hard-court tournament at Memorial Drive Tennis Centre</desc>
-  </programme>
-<programme start="20260805110000 +0000" stop="20260805111500 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">My Icon: Denise Lewis</title>
-    <desc lang="en">The former British heptathlete and Olympic gold medallist speaks about the figures who have been an inspiration over the course of her life</desc>
-  </programme>
-<programme start="20260805111500 +0000" stop="20260805113000 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">My Icon: Chris Powell</title>
-    <desc lang="en">The former Charlton Athletic and England star talks about the individuals that have inspired him over the course of his career</desc>
-  </programme>
-<programme start="20260805113000 +0000" stop="20260805114500 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">Darts Gold</title>
-    <desc lang="en">Dennis Priestley v Jocky Wilson. Highlights of the game from 1994</desc>
-  </programme>
-<programme start="20260805114500 +0000" stop="20260805120000 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">Darts Gold</title>
-    <desc lang="en">Phil Taylor takes on Wayne Mardle in the semi-finals of the 2006 World Darts Championship</desc>
-  </programme>
-<programme start="20260805120000 +0000" stop="20260805130000 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">NFL Highlights</title>
-    <desc lang="en">Houston Texans v Chicago Bears from the 2024/25 season</desc>
-  </programme>
-<programme start="20260805130000 +0000" stop="20260805135500 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">PGA Tour Golf</title>
-    <desc lang="en">The Farmers Insurance Open. Action from day four of the tournament at Torrey Pines Golf Course in San Diego</desc>
-  </programme>
-<programme start="20260805135500 +0000" stop="20260805170000 +0000" channel="tvguidecouk.SkySportsMix">
-    <title lang="en">The Hundred Live</title>
-    <desc lang="en">Trent Rockets Women v Birmingham Phoenix Women (Start-time 3.00pm). Coverage of the match from Trent Bridge in Nottingham. The Phoenix won the toss and elected to bat when these teams faced each other at Edgbaston last year, and went on to post a total of 148/5 from their 100 balls, which proved to be enough for victory as the Rockets fell 11 runs short in their innings, despite Nat Sciver-Brunt scoring 64 from 40 deliveries</desc>
   </programme>
 <programme start="20260805170000 +0000" stop="20260805203000 +0000" channel="tvguidecouk.SkySportsMix">
     <title lang="en">The Hundred Live</title>
@@ -10029,62 +8807,6 @@
     <title lang="en">PL Greatest Games</title>
     <desc lang="en">Arsenal v Tottenham Hotspur from 2010</desc>
   </programme>
-<programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.SkySportsNews">
-    <title lang="en">Sky Sports News</title>
-    <desc lang="en">Round-up of the sports news, with live analysis and comment, plus extended interviews with the headline-makers</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.SkySportsNews">
-    <title lang="en">Sky Sports Breakfast</title>
-    <desc lang="en">The latest headlines and reports from Sky Sports News</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.SkySportsNews">
-    <title lang="en">Sky Sports Breakfast</title>
-    <desc lang="en">The latest headlines and reports from Sky Sports News</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805090000 +0000" channel="tvguidecouk.SkySportsNews">
-    <title lang="en">Good Morning Transfers</title>
-    <desc lang="en">Featuring a round-up of the latest football transfer news</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805100000 +0000" channel="tvguidecouk.SkySportsNews">
-    <title lang="en">Sky Sports FC</title>
-    <desc lang="en">Interactive show covering the major football headlines</desc>
-  </programme>
-<programme start="20260805100000 +0000" stop="20260805103000 +0000" channel="tvguidecouk.SkySportsNews">
-    <title lang="en">Sky Sports FC</title>
-    <desc lang="en">Interactive show covering the major football headlines</desc>
-  </programme>
-<programme start="20260805103000 +0000" stop="20260805110000 +0000" channel="tvguidecouk.SkySportsNews">
-    <title lang="en">Sky Sports FC</title>
-    <desc lang="en">Interactive show covering the major football headlines</desc>
-  </programme>
-<programme start="20260805110000 +0000" stop="20260805120000 +0000" channel="tvguidecouk.SkySportsNews">
-    <title lang="en">Transfer Talk</title>
-    <desc lang="en">Discussion of the latest transfer news</desc>
-  </programme>
-<programme start="20260805120000 +0000" stop="20260805130000 +0000" channel="tvguidecouk.SkySportsNews">
-    <title lang="en">Lunchtime Live</title>
-    <desc lang="en">Daily magazine show, featuring celebrity gossip, cookery, fashion and fitness</desc>
-  </programme>
-<programme start="20260805130000 +0000" stop="20260805133000 +0000" channel="tvguidecouk.SkySportsNews">
-    <title lang="en">Sports Desk</title>
-    <desc lang="en">Sports news with live analysis and comments</desc>
-  </programme>
-<programme start="20260805133000 +0000" stop="20260805140000 +0000" channel="tvguidecouk.SkySportsNews">
-    <title lang="en">Sports Desk</title>
-    <desc lang="en">Sports news with live analysis and comments</desc>
-  </programme>
-<programme start="20260805140000 +0000" stop="20260805150000 +0000" channel="tvguidecouk.SkySportsNews">
-    <title lang="en">Sports Desk</title>
-    <desc lang="en">Sports news with live analysis and comments</desc>
-  </programme>
-<programme start="20260805150000 +0000" stop="20260805153000 +0000" channel="tvguidecouk.SkySportsNews">
-    <title lang="en">The Transfer Show</title>
-    <desc lang="en">Analysis of the latest transfer news</desc>
-  </programme>
-<programme start="20260805153000 +0000" stop="20260805160000 +0000" channel="tvguidecouk.SkySportsNews">
-    <title lang="en">Sports Desk</title>
-    <desc lang="en">Sports news with live analysis and comments</desc>
-  </programme>
 <programme start="20260805160000 +0000" stop="20260805170000 +0000" channel="tvguidecouk.SkySportsNews">
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news, with live analysis and comment, plus extended interviews with the headline-makers</desc>
@@ -10471,86 +9193,6 @@
 <programme start="20260812050000 +0000" stop="20260812060000 +0000" channel="tvguidecouk.SkySportsNews">
     <title lang="en">Sky Sports News</title>
     <desc lang="en">Round-up of the sports news, with live analysis and comment, plus extended interviews with the headline-makers</desc>
-  </programme>
-<programme start="20260805050000 +0000" stop="20260805051500 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">PL Greatest Games</title>
-    <desc lang="en">Wolverhampton Wanderers v West Bromwich Albion from 2012</desc>
-  </programme>
-<programme start="20260805051500 +0000" stop="20260805053000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">PL Greatest Games</title>
-    <desc lang="en">Action from Burnley v Manchester United in 2009</desc>
-  </programme>
-<programme start="20260805053000 +0000" stop="20260805054500 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">PL Greatest Games</title>
-    <desc lang="en">Action from Cardiff City v Manchester City in the 2013/14 season</desc>
-  </programme>
-<programme start="20260805054500 +0000" stop="20260805060000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">PL Greatest Games</title>
-    <desc lang="en">Action from Arsenal v Charlton Athletic in 2001</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">Best PL Goals 17/18</title>
-    <desc lang="en">The most spectacular goals of the season</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805073000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">Premier League 100 Club</title>
-    <desc lang="en">A chance to relive the best of Sergio Aguero&apos;s goals in the Premier League for Manchester City</desc>
-  </programme>
-<programme start="20260805073000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">Premier League 100 Club</title>
-    <desc lang="en">A look at Wayne Rooney&apos;s best top-flight goals for Manchester United and Everton</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805090000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">Good Morning Transfers</title>
-    <desc lang="en">Featuring a round-up of the latest football transfer news</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805100000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">Sky Sports FC</title>
-    <desc lang="en">Interactive show covering the major football headlines</desc>
-  </programme>
-<programme start="20260805100000 +0000" stop="20260805103000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">Sky Sports FC</title>
-    <desc lang="en">Interactive show covering the major football headlines</desc>
-  </programme>
-<programme start="20260805103000 +0000" stop="20260805110000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">Sky Sports FC</title>
-    <desc lang="en">Interactive show covering the major football headlines</desc>
-  </programme>
-<programme start="20260805110000 +0000" stop="20260805120000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">Transfer Talk</title>
-    <desc lang="en">Discussion of the latest transfer news</desc>
-  </programme>
-<programme start="20260805120000 +0000" stop="20260805123000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">SNF</title>
-    <desc lang="en">Action from Bournemouth v Liverpool</desc>
-  </programme>
-<programme start="20260805123000 +0000" stop="20260805130000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">Premier League Highlights</title>
-    <desc lang="en">Action from Newcastle United v Bournemouth</desc>
-  </programme>
-<programme start="20260805130000 +0000" stop="20260805133000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">Premier League Highlights</title>
-    <desc lang="en">Bournemouth v Manchester City</desc>
-  </programme>
-<programme start="20260805133000 +0000" stop="20260805140000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">FNF</title>
-    <desc lang="en">Action from Liverpool v Bournemouth</desc>
-  </programme>
-<programme start="20260805140000 +0000" stop="20260805143000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">MNF Hlts</title>
-    <desc lang="en">Newcastle United v Liverpool in the Premier League</desc>
-  </programme>
-<programme start="20260805143000 +0000" stop="20260805150000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">Premier League Highlights</title>
-    <desc lang="en">Liverpool v Arsenal</desc>
-  </programme>
-<programme start="20260805150000 +0000" stop="20260805153000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">Premier League Highlights</title>
-    <desc lang="en">Tottenham Hotspur v Liverpool</desc>
-  </programme>
-<programme start="20260805153000 +0000" stop="20260805160000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
-    <title lang="en">Premier League Highlights</title>
-    <desc lang="en">Liverpool v West Ham United</desc>
   </programme>
 <programme start="20260805160000 +0000" stop="20260805163000 +0000" channel="tvguidecouk.SkySportsPremierLeague">
     <title lang="en">Premier League Highlights</title>
@@ -11104,26 +9746,6 @@
     <title lang="en">PL Greatest Games</title>
     <desc lang="en">Liverpool v Arsenal from 2004</desc>
   </programme>
-<programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.SkySportsRacing">
-    <title lang="en">Live Australian Racing</title>
-    <desc lang="en">Live racing from Australia.</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805090000 +0000" channel="tvguidecouk.SkySportsRacing">
-    <title lang="en">Sky Sports Breakfast</title>
-    <desc lang="en">The latest headlines and reports from Sky Sports News</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805094500 +0000" channel="tvguidecouk.SkySportsRacing">
-    <title lang="en">The Enduring Race</title>
-    <desc lang="en">Five years after Leading The Way, Josh Apiafi reunites with Rishi Persad &amp; Brian Finch to explore how horse racing is tackling diversity &amp; inclusion</desc>
-  </programme>
-<programme start="20260805094500 +0000" stop="20260805130000 +0000" channel="tvguidecouk.SkySportsRacing">
-    <title lang="en">International Raceday Live</title>
-    <desc lang="en">Live international racing &amp; UK greyhound racing as well as previewing the day&apos;s domestic horse racing.</desc>
-  </programme>
-<programme start="20260805130000 +0000" stop="20260805200000 +0000" channel="tvguidecouk.SkySportsRacing">
-    <title lang="en">Raceday Live</title>
-    <desc lang="en">Live racing from around the UK.</desc>
-  </programme>
 <programme start="20260805200000 +0000" stop="20260805213000 +0000" channel="tvguidecouk.SkySportsRacing">
     <title lang="en">Stateside Live</title>
     <desc lang="en">Live racing from the USA.</desc>
@@ -11239,42 +9861,6 @@
 <programme start="20260812050000 +0000" stop="20260812060000 +0000" channel="tvguidecouk.SkySportsRacing">
     <title lang="en">Live Australian Racing</title>
     <desc lang="en">Live racing from Australia</desc>
-  </programme>
-<programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.SkySportsTennis">
-    <title lang="en">Tennis</title>
-    <desc lang="en">The WTA Prague Open final. Highlights of the showpiece match of the WTA 250 event, a hard-court tournament at TK Sparta Prague in Czechia</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.SkySportsTennis">
-    <title lang="en">Tennis</title>
-    <desc lang="en">The Los Cabos Open final. Highlights of the showpiece match of the ATP 250 event, a hard-court tournament at Cabo Sports Complex in Mexico</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805083000 +0000" channel="tvguidecouk.SkySportsTennis">
-    <title lang="en">Tennis</title>
-    <desc lang="en">The Canadian Open. Action from day three of the ATP 1000 event in Montreal and the WTA 1000 event in Toronto, both of which are hard-court tournaments</desc>
-  </programme>
-<programme start="20260805083000 +0000" stop="20260805100000 +0000" channel="tvguidecouk.SkySportsTennis">
-    <title lang="en">Tennis</title>
-    <desc lang="en">The Canadian Open. Action from day three of the ATP 1000 event in Montreal and the WTA 1000 event in Toronto, both of which are hard-court tournaments</desc>
-  </programme>
-<programme start="20260805100000 +0000" stop="20260805110000 +0000" channel="tvguidecouk.SkySportsTennis">
-    <title lang="en">Tennis</title>
-    <desc lang="en">The Washington DC Open women&apos;s final. Highlights from day seven of the WTA 500 and ATP 500 event, a hard-court tournament held at William H.G. FitzGerald Tennis Center in the USA</desc>
-  </programme>
-<programme start="20260805110000 +0000" stop="20260805120000 +0000" channel="tvguidecouk.SkySportsTennis">
-    <title lang="en">Tennis</title>
-    <desc lang="en">A review of the men&apos;s tournament at the Washington DC Open</desc>
-  </programme>
-<programme start="20260805120000 +0000" stop="20260805133000 +0000" channel="tvguidecouk.SkySportsTennis">
-    <title lang="en">Tennis</title>
-    <desc lang="en">The Canadian Open. Action from day three of the ATP 1000 event in Montreal and the WTA 1000 event in Toronto, both of which are hard-court tournaments</desc>
-  </programme>
-<programme start="20260805133000 +0000" stop="20260805150000 +0000" channel="tvguidecouk.SkySportsTennis">
-    <title lang="en">Tennis</title>
-    <desc lang="en">The Canadian Open. Action from day three of the ATP 1000 event in Montreal and the WTA 1000 event in Toronto, both of which are hard-court tournaments</desc>
-  </programme>
-<programme start="20260805150000 +0000" stop="20260805230000 +0000" channel="tvguidecouk.SkySportsTennis">
-    <title lang="en">Live Tennis</title>
-    <desc lang="en">The Canadian Open. Coverage from day four of the ATP 1000 event in Montreal and the WTA 1000 event in Toronto, both of which are hard-court tournaments, where the second round is scheduled to conclude. There was disappointment for Great Britain&apos;s Cameron Norrie at this stage last year as he was eliminated 3-6 7-6 3-6 by Australian Aleksandar Vukic, but Emma Raducanu guaranteed there would be one Brit in round three as she dispatched the number 32 seed Peyton Stearns in a 6-2 6-4 victory. The women&apos;s number one seed Coco Gauff was made to work hard for her place in the next round as she battled past Danielle Collins 7-5 4-6 7-6, while the men&apos;s top seed Alexander Zverev triumphed 7-6 6-4 over Adam Walton</desc>
   </programme>
 <programme start="20260805230000 +0000" stop="20260806030000 +0000" channel="tvguidecouk.SkySportsTennis">
     <title lang="en">Live Tennis</title>
@@ -11539,50 +10125,6 @@
 <programme start="20260812050000 +0000" stop="20260812060000 +0000" channel="tvguidecouk.SkySportsTennis">
     <title lang="en">Tennis</title>
     <desc lang="en">The Washington DC Open women&apos;s final. Highlights from day seven of the WTA 500 and ATP 500 event, a hard-court tournament held at William H.G. FitzGerald Tennis Center in the USA</desc>
-  </programme>
-<programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.TNTSports1">
-    <title lang="en">WRC Review</title>
-    <desc lang="en">A look back at the 2026 Rally Finland</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.TNTSports1">
-    <title lang="en">Men&apos;s Cycling World Tour</title>
-    <desc lang="en">Action from the second stage of the 2026 Tour of Poland</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.TNTSports1">
-    <title lang="en">Tour de France Women</title>
-    <desc lang="en">Action from the fourth stage of the Grand Tour race</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805090000 +0000" channel="tvguidecouk.TNTSports1">
-    <title lang="en">Test Cricket Highlights</title>
-    <desc lang="en">West Indies v Pakistan. Action from the third day of the Second and Final Test of the series, which took place at Queen&apos;s Park Oval in Trinidad and Tobago</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805093000 +0000" channel="tvguidecouk.TNTSports1">
-    <title lang="en">Premier League Stories</title>
-    <desc lang="en">A look at the story of Ipswich Town, from the trailblazing success of Sir Alf Ramsey&apos;s league champions to Sir Bobby Robson&apos;s unforgettable triumphs</desc>
-  </programme>
-<programme start="20260805093000 +0000" stop="20260805094500 +0000" channel="tvguidecouk.TNTSports1">
-    <title lang="en">UEFA Champions League Goals Reload</title>
-    <desc lang="en">The pick of the goals from Arsenal&apos;s campaign</desc>
-  </programme>
-<programme start="20260805094500 +0000" stop="20260805100000 +0000" channel="tvguidecouk.TNTSports1">
-    <title lang="en">Inside the Game</title>
-    <desc lang="en">A conversation with Brighton &amp; Hove Albion manager Fabian Hurzeler</desc>
-  </programme>
-<programme start="20260805100000 +0000" stop="20260805101500 +0000" channel="tvguidecouk.TNTSports1">
-    <title lang="en">British Superbikes Rewind</title>
-    <desc lang="en">A look back at the best action from the sixth round of the season at Oulton Park</desc>
-  </programme>
-<programme start="20260805101500 +0000" stop="20260805103000 +0000" channel="tvguidecouk.TNTSports1">
-    <title lang="en">The Gruppetto</title>
-    <desc lang="en">Rob Hatch presents news from the world of cycling</desc>
-  </programme>
-<programme start="20260805103000 +0000" stop="20260805113000 +0000" channel="tvguidecouk.TNTSports1">
-    <title lang="en">Tour de France Women</title>
-    <desc lang="en">Action from the fourth stage of the Grand Tour race</desc>
-  </programme>
-<programme start="20260805113000 +0000" stop="20260805164500 +0000" channel="tvguidecouk.TNTSports1">
-    <title lang="en">Live: Tour de France Women</title>
-    <desc lang="en">Coverage from the fifth stage of the Grand Tour race, a 140km route from Macon to Belleville-en-Beaujolais</desc>
   </programme>
 <programme start="20260805164500 +0000" stop="20260805171500 +0000" channel="tvguidecouk.TNTSports1">
     <title lang="en">Premier League Stories</title>
@@ -11895,46 +10437,6 @@
 <programme start="20260812053000 +0000" stop="20260812060000 +0000" channel="tvguidecouk.TNTSports1">
     <title lang="en">UEFA Conference League</title>
     <desc lang="en">Action from Crystal Palace v Rayo Vallecano in the 2025/26 final</desc>
-  </programme>
-<programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.TNTSports2">
-    <title lang="en">MotoGP Classics</title>
-    <desc lang="en">We revisit the 1997 British Grand Prix at Donington, the 11th round of the season. Mick Doohan only needed to score a handful of points to clinch his fourth consecutive title</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.TNTSports2">
-    <title lang="en">MotoGP Classics</title>
-    <desc lang="en">We revisit the 2000 British Grand Prix at Donington. Despite a poor start, Valentino Rossi charged through the pack on a wet track to take his first victory in the 500cc class</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.TNTSports2">
-    <title lang="en">MotoGP Classics</title>
-    <desc lang="en">We revisit the 2009 British Grand Prix at Donington. The rain-affected race is regarded by many as one of the most exciting and unpredictable in the sport&apos;s history</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805090000 +0000" channel="tvguidecouk.TNTSports2">
-    <title lang="en">MotoGP Classics</title>
-    <desc lang="en">We revisit the incident-packed 2013 British Grand Prix at Silverstone. World champion Jorge Lorenzo ended Marc Marquez&apos;s winning streak to take victory after an epic last lap duel</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805100000 +0000" channel="tvguidecouk.TNTSports2">
-    <title lang="en">MotoGP Classics: Silverstone 2014</title>
-    <desc lang="en">We revisit the 2014 British Grand Prix at Silverstone. Marc Marquez was looking to extend his lead at the top of the standings and secure his 11th victory of the season</desc>
-  </programme>
-<programme start="20260805100000 +0000" stop="20260805101500 +0000" channel="tvguidecouk.TNTSports2">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <desc lang="en">Action from the first T20 between West Indies and Sri Lanka</desc>
-  </programme>
-<programme start="20260805101500 +0000" stop="20260805103000 +0000" channel="tvguidecouk.TNTSports2">
-    <title lang="en">TNT Sports Cricket Reload</title>
-    <desc lang="en">Action from the second T20 between West Indies and Sri Lanka</desc>
-  </programme>
-<programme start="20260805103000 +0000" stop="20260805123000 +0000" channel="tvguidecouk.TNTSports2">
-    <title lang="en">Test Cricket Highlights</title>
-    <desc lang="en">West Indies v Pakistan. A look back at the First Test in the two-match series, which took place at Brian Lara Cricket Academy in Trinidad and Tobago</desc>
-  </programme>
-<programme start="20260805123000 +0000" stop="20260805133000 +0000" channel="tvguidecouk.TNTSports2">
-    <title lang="en">Test Cricket Highlights</title>
-    <desc lang="en">West Indies v Pakistan. Action from the third day of the Second and Final Test of the series, which took place at Queen&apos;s Park Oval in Trinidad and Tobago</desc>
-  </programme>
-<programme start="20260805133000 +0000" stop="20260805220000 +0000" channel="tvguidecouk.TNTSports2">
-    <title lang="en">Live Test Cricket</title>
-    <desc lang="en">West Indies v Pakistan. Coverage of the fourth day of the Second and Final Test in the series from Queen&apos;s Park Oval in Trinidad and Tobago. The two sides last met in this format in a two-match contest in Pakistan in January 2025. Pakistan won the first game thanks to a resounding 127-run victory before the West Indies fought back to claim the Second Test by an equally-impressive 120-run win</desc>
   </programme>
 <programme start="20260805220000 +0000" stop="20260805221500 +0000" channel="tvguidecouk.TNTSports2">
     <title lang="en">TNT Sports Cricket Reload</title>
@@ -12304,42 +10806,6 @@
     <title lang="en">Fishing: On the Bank</title>
     <desc lang="en">Rob heads over to Poland in search of a monster carp. Plus, there&apos;s fun and games as Rob and two of his pals take part in a &apos;friendly&apos; competition at Shearwater Lake in Wiltshire</desc>
   </programme>
-<programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.TNTSports3">
-    <title lang="en">Fishing: On the Bank</title>
-    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805063000 +0000" channel="tvguidecouk.TNTSports3">
-    <title lang="en">eSports Show</title>
-    <desc lang="en">Coverage of the latest news and events from the world of eSports</desc>
-  </programme>
-<programme start="20260805063000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.TNTSports3">
-    <title lang="en">The Gallagher PREM</title>
-    <desc lang="en">A look back at the 2025/26 season</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805083000 +0000" channel="tvguidecouk.TNTSports3">
-    <title lang="en">UEC Mountain Bike European Championship</title>
-    <desc lang="en">Action from the XCO elite women&apos;s race in Monteceneri, Switzerland</desc>
-  </programme>
-<programme start="20260805083000 +0000" stop="20260805090000 +0000" channel="tvguidecouk.TNTSports3">
-    <title lang="en">UEC Mountain Bike European Championship</title>
-    <desc lang="en">Action from the XCO elite men&apos;s race in Monteceneri, Switzerland</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805100000 +0000" channel="tvguidecouk.TNTSports3">
-    <title lang="en">Men&apos;s Cycling World Tour</title>
-    <desc lang="en">Action from the second stage of the 2026 Tour of Poland</desc>
-  </programme>
-<programme start="20260805100000 +0000" stop="20260805144500 +0000" channel="tvguidecouk.TNTSports3">
-    <title lang="en">Live: Men&apos;s Cycling World Tour</title>
-    <desc lang="en">Coverage of the third stage of the 2026 Tour of Poland, a 193.5km route from Gorzow Wielkopolski to Zielona Gora</desc>
-  </programme>
-<programme start="20260805144500 +0000" stop="20260805150000 +0000" channel="tvguidecouk.TNTSports3">
-    <title lang="en">Inside the Game</title>
-    <desc lang="en">A conversation with Brighton &amp; Hove Albion manager Fabian Hurzeler</desc>
-  </programme>
-<programme start="20260805150000 +0000" stop="20260805160000 +0000" channel="tvguidecouk.TNTSports3">
-    <title lang="en">British Superbikes Highlights</title>
-    <desc lang="en">Action from the sixth round of the season at Oulton Park</desc>
-  </programme>
 <programme start="20260805160000 +0000" stop="20260805170000 +0000" channel="tvguidecouk.TNTSports3">
     <title lang="en">Sign Up - Into Football</title>
     <desc lang="en">Damaris Cooke and Rolf Choutan go behind the scenes at Premier League clubs. Watch our favourite interviews and moments from last season, all featuring BSL and subtitles.</desc>
@@ -12660,50 +11126,6 @@
     <title lang="en">Test Cricket Highlights</title>
     <desc lang="en">West Indies v Pakistan. A look back at the Second and Final Test of the series, which took place at Queen&apos;s Park Oval in Trinidad and Tobago</desc>
   </programme>
-<programme start="20260805050000 +0000" stop="20260805060000 +0000" channel="tvguidecouk.TNTSports4">
-    <title lang="en">Classic Premier League</title>
-    <desc lang="en">Take a look back at the 2016/17 Premier League season as Chelsea win their fifth Premier League title and reigning champions Leicester set a new record for worst title defence</desc>
-  </programme>
-<programme start="20260805060000 +0000" stop="20260805070000 +0000" channel="tvguidecouk.TNTSports4">
-    <title lang="en">Classic Premier League</title>
-    <desc lang="en">A look back at the 2017/18 Premier League season as Manchester City win their third title, Mohamed Salah scores 32 goals for Liverpool and Stoke&apos;s top flight status ends</desc>
-  </programme>
-<programme start="20260805070000 +0000" stop="20260805080000 +0000" channel="tvguidecouk.TNTSports4">
-    <title lang="en">Classic Premier League</title>
-    <desc lang="en">A look back at the 2018/19 Premier League season that was competitive until the very end, with fans captivated by an epic title race between Manchester City and Liverpool</desc>
-  </programme>
-<programme start="20260805080000 +0000" stop="20260805090000 +0000" channel="tvguidecouk.TNTSports4">
-    <title lang="en">Classic Premier League</title>
-    <desc lang="en">A look back at the 2019/20 season</desc>
-  </programme>
-<programme start="20260805090000 +0000" stop="20260805100000 +0000" channel="tvguidecouk.TNTSports4">
-    <title lang="en">WRC Review</title>
-    <desc lang="en">A look back at the 2026 Rally Finland</desc>
-  </programme>
-<programme start="20260805100000 +0000" stop="20260805110000 +0000" channel="tvguidecouk.TNTSports4">
-    <title lang="en">NWSL</title>
-    <desc lang="en">Utah Royals FC v Washington Spirit</desc>
-  </programme>
-<programme start="20260805110000 +0000" stop="20260805120000 +0000" channel="tvguidecouk.TNTSports4">
-    <title lang="en">NWSL</title>
-    <desc lang="en">Washington Spirit v San Diego Wave FC</desc>
-  </programme>
-<programme start="20260805120000 +0000" stop="20260805130000 +0000" channel="tvguidecouk.TNTSports4">
-    <title lang="en">MLB Highlights</title>
-    <desc lang="en">Action from Major League Baseball</desc>
-  </programme>
-<programme start="20260805130000 +0000" stop="20260805140000 +0000" channel="tvguidecouk.TNTSports4">
-    <title lang="en">Fishing: On the Bank</title>
-    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford</desc>
-  </programme>
-<programme start="20260805140000 +0000" stop="20260805153000 +0000" channel="tvguidecouk.TNTSports4">
-    <title lang="en">The Gallagher PREM</title>
-    <desc lang="en">A look back at the 2025/26 season</desc>
-  </programme>
-<programme start="20260805153000 +0000" stop="20260805163000 +0000" channel="tvguidecouk.TNTSports4">
-    <title lang="en">Rolex SailGP Championship</title>
-    <desc lang="en">Action from the seventh round of the season in Portsmouth</desc>
-  </programme>
 <programme start="20260805163000 +0000" stop="20260805170000 +0000" channel="tvguidecouk.TNTSports4">
     <title lang="en">Golden Trail World Series</title>
     <desc lang="en">Action from Pitztal in Austria</desc>
@@ -12991,58 +11413,6 @@
 <programme start="20260812053000 +0000" stop="20260812060000 +0000" channel="tvguidecouk.TNTSports4">
     <title lang="en">Premier League Netbusters</title>
     <desc lang="en">The best goals and action from matchday 22 of the 2025/26 season</desc>
-  </programme>
-<programme start="20260805050000 +0000" stop="20260805083000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">A round-up of national and international news, plus current affairs, arts and entertainment, and weather</desc>
-  </programme>
-<programme start="20260805083000 +0000" stop="20260805091500 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">Animal Park</title>
-    <desc lang="en">The keepers are deeply concerned about Klaus, one of the park&apos;s most impressive lions. A stubborn paw injury has left him limping and reluctant to move. Fearing that the infection could worsen, the decision is made to sedate him for urgent treatment. However, the risky procedure takes a worrying turn. Elsewhere, Kate Humble is introduced to Longleat Safari Park&apos;s largest tarantulas</desc>
-  </programme>
-<programme start="20260805091500 +0000" stop="20260805094500 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">Trace, Track, Get My Car Back</title>
-    <desc lang="en">Bike recovery specialist Bilal hunts down a stolen 2,500 e-bike, which has a child&apos;s seat on the back. As a father himself, he is determined to get the cycle back. Meanwhile, tracker Richard is searching for a vehicle worth 40,000 stolen off a builders&apos; yard in south-west London. It&apos;s a race against time as there&apos;s a high demand for construction vehicles like this in countries like Ukraine - and thieves are cashing in</desc>
-  </programme>
-<programme start="20260805094500 +0000" stop="20260805101500 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">Expert Witness</title>
-    <desc lang="en">A facial recognition expert helps Merseyside Police catch a killer, and a specialist palynologist&apos;s help is needed by detectives investigating an elderly couple&apos;s disappearance</desc>
-  </programme>
-<programme start="20260805101500 +0000" stop="20260805111500 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">Homes Under the Hammer</title>
-    <desc lang="en">Martel Maxwell, Owain Wyn Evans and Jacqui Joseph check out no less than four flats in Scotland, England and Wales. All are in a poor state of repair, and all are transformed, adding new kitchens, bathrooms and extra bedrooms in the hope of adding profit too</desc>
-  </programme>
-<programme start="20260805111500 +0000" stop="20260805120000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">Bargain Hunt</title>
-    <desc lang="en">Christina Trevanion is in Wrexham, where the red and blue teams are guided around the antiques centre by experts Jonathan Pratt and Tim Weeks. Then it is off to the auction in Dudley. Christina also finds out about the history of Chester silver and why it is so desirable to bargain hunters</desc>
-  </programme>
-<programme start="20260805120000 +0000" stop="20260805123500 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">BBC News at One; Weather</title>
-    <desc lang="en">A round-up of the latest headlines</desc>
-  </programme>
-<programme start="20260805123500 +0000" stop="20260805124500 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">BBC London News; Weather</title>
-    <desc lang="en">The latest updates from the region</desc>
-  </programme>
-<programme start="20260805124500 +0000" stop="20260805130000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">BBC News at One; Weather</title>
-    <desc lang="en">A round-up of the latest headlines</desc>
-  </programme>
-<programme start="20260805130000 +0000" stop="20260805134500 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">Money for Nothing</title>
-    <desc lang="en">Katie Stone and Sophie Lawrence attempt a wavy redesign that leaves them feeling seasick, and woodworker Bruce Faulseit is pushed to his limits trying to rejuvenate a pair of old, dated desk ends. Meanwhile, Sarah Moore attempts to trick the eye by updating a display cabinet - but will all three revamps produce profits?</desc>
-  </programme>
-<programme start="20260805134500 +0000" stop="20260805144500 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">Escape to the Country</title>
-    <desc lang="en">Sonali Shah tours the East Midlands in search of a property to suit buyers who, for the past 23 years, have been living in the USA. Sonali also meets another couple who relocated from America and set about renovating their attractive Leicestershire home, parts of which date back to the 18th century</desc>
-  </programme>
-<programme start="20260805144500 +0000" stop="20260805153000 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">The Bidding Room</title>
-    <desc lang="en">A small package holding 400 years of fascinating history is revealed in the room, a firefighter heats things up, and there is more than one item with royal connections for the dealers to ponder. Nigel Havers presents</desc>
-  </programme>
-<programme start="20260805153000 +0000" stop="20260805161500 +0000" channel="tvguidecouk.BBCOneLondon">
-    <title lang="en">The Answer Run</title>
-    <desc lang="en">Can today&apos;s teams distinguish Emmerdale from Coronation Street, Twickenham from Wembley, and Tom Hanks from Tom Cruise? Jason Manford hosts the quiz where every answer is a choice, and every choice matters</desc>
   </programme>
 <programme start="20260805161500 +0000" stop="20260805170000 +0000" channel="tvguidecouk.BBCOneLondon">
     <title lang="en">Pointless</title>
