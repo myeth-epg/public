@@ -112,8 +112,6 @@ onmouseover="this.style.backgroundColor='#61dafb'; this.style.transform='scale(1
 onmouseout="this.style.backgroundColor=''; this.style.transform='';"
 class="timeshiftBtn"
 onclick="copyToClipboard('${encodeURIComponent(cronjobCommand)}', 'Cronjob')">📅Cronjob</div><div style="border-radius: 5px; cursor: pointer; transition: background-color 0.3s ease, transform 0.2s ease;"
-onmouseover="this.style.backgroundColor='#61dafb'; this.style.transform='scale(1.05)';"
-onmouseout="this.style.backgroundColor=''; this.style.transform='';"
 class="timeshiftBtn"
 onclick="copyToClipboard('${encodeURIComponent(schTasksCommand)}', 'Schtasks')">📅Schtasks</div>` : ''}
 		  </div>
@@ -139,6 +137,8 @@ document.addEventListener('DOMContentLoaded', () => {
     { name: 'United Kingdom', url: 'index-uk.html' },
     { name: 'New Zealand', url: 'index-nz.html' },
     { name: 'Indonesia', url: 'index-id.html' },
+    { name: 'Region A', url: 'index-a.html' },
+    { name: 'Region B', url: 'index-b.html' },
     { name: 'Adult', url: 'index-x.html' }
   ];
 
