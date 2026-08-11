@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260810225253 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="ID-EPG-Merger">
+<tv date="20260811055104 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="ID-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -22097,71 +22097,80 @@
 <programme start="20260811160000 +0000" stop="20260811170000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Ki Geter</title>
   </programme>
-<programme start="20260811170000 +0000" stop="20260811230000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Sukron</title>
+<programme start="20260811170000 +0000" stop="20260811200000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ki Geter</title>
+  </programme>
+<programme start="20260811200000 +0000" stop="20260811210000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Punakawan</title>
+  </programme>
+<programme start="20260811210000 +0000" stop="20260811230000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Wayang Orang</title>
   </programme>
 <programme start="20260811230000 +0000" stop="20260812000000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260812000000 +0000" stop="20260812010000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyu Bareng</title>
+    <title lang="id">Guyon Gayeng</title>
   </programme>
 <programme start="20260812010000 +0000" stop="20260812013000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
+    <title lang="id">Mlaku-Mlaku</title>
   </programme>
 <programme start="20260812013000 +0000" stop="20260812020000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260812020000 +0000" stop="20260812023000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
-  </programme>
-<programme start="20260812023000 +0000" stop="20260812030000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tarian</title>
   </programme>
-<programme start="20260812030000 +0000" stop="20260812040000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
+<programme start="20260812023000 +0000" stop="20260812030000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Wiwitane</title>
   </programme>
-<programme start="20260812040000 +0000" stop="20260812043000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Film Pendek: Lato-Latoku Pecah</title>
+<programme start="20260812030000 +0000" stop="20260812033000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Dalang Anak</title>
+  </programme>
+<programme start="20260812033000 +0000" stop="20260812043000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260812043000 +0000" stop="20260812050000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260812050000 +0000" stop="20260812053000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Karawitan: Prema Adista</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260812053000 +0000" stop="20260812060000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260812060000 +0000" stop="20260812080000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
   </programme>
-<programme start="20260812080000 +0000" stop="20260812090000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyon Gayeng</title>
+<programme start="20260812080000 +0000" stop="20260812083000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Pusaka Jawa</title>
+  </programme>
+<programme start="20260812083000 +0000" stop="20260812090000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260812090000 +0000" stop="20260812100000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260812100000 +0000" stop="20260812103000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260812103000 +0000" stop="20260812110000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260812110000 +0000" stop="20260812113000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Gumebyar Budoyo</title>
   </programme>
 <programme start="20260812113000 +0000" stop="20260812120000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Babat Tanah Jowo</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260812120000 +0000" stop="20260812130000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ketoprak</title>
+    <title lang="id">Wayang Orang</title>
   </programme>
 <programme start="20260812130000 +0000" stop="20260812133000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260812133000 +0000" stop="20260812140000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260812140000 +0000" stop="20260812150000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
@@ -22170,22 +22179,10 @@
     <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260812160000 +0000" stop="20260812170000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Sarmadi</title>
+    <title lang="id">Ki Wahyu Dunung</title>
   </programme>
-<programme start="20260812170000 +0000" stop="20260812173000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
-  </programme>
-<programme start="20260812173000 +0000" stop="20260812180000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
-  </programme>
-<programme start="20260812180000 +0000" stop="20260812190000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
-  </programme>
-<programme start="20260812190000 +0000" stop="20260812193000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
-  </programme>
-<programme start="20260812193000 +0000" stop="20260812200000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+<programme start="20260812170000 +0000" stop="20260812200000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ki Wahyu Dunung</title>
   </programme>
 <programme start="20260812200000 +0000" stop="20260812210000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Punakawan</title>
@@ -22197,64 +22194,67 @@
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260813000000 +0000" stop="20260813010000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyu Bareng</title>
+    <title lang="id">Guyon Gayeng</title>
   </programme>
 <programme start="20260813010000 +0000" stop="20260813013000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
+    <title lang="id">Mlaku-Mlaku</title>
   </programme>
 <programme start="20260813013000 +0000" stop="20260813020000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260813020000 +0000" stop="20260813023000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
-  </programme>
-<programme start="20260813023000 +0000" stop="20260813030000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tarian</title>
   </programme>
-<programme start="20260813030000 +0000" stop="20260813040000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
+<programme start="20260813023000 +0000" stop="20260813030000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Wiwitane</title>
   </programme>
-<programme start="20260813040000 +0000" stop="20260813043000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Film Pendek: Konangan</title>
+<programme start="20260813030000 +0000" stop="20260813033000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Dalang Anak</title>
+  </programme>
+<programme start="20260813033000 +0000" stop="20260813043000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260813043000 +0000" stop="20260813050000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260813050000 +0000" stop="20260813053000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Karawitan: Silvana Wahyu Dewantari</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260813053000 +0000" stop="20260813060000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260813060000 +0000" stop="20260813080000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
   </programme>
-<programme start="20260813080000 +0000" stop="20260813090000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyon Gayeng</title>
+<programme start="20260813080000 +0000" stop="20260813083000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Pusaka Jawa</title>
+  </programme>
+<programme start="20260813083000 +0000" stop="20260813090000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260813090000 +0000" stop="20260813100000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260813100000 +0000" stop="20260813103000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260813103000 +0000" stop="20260813110000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260813110000 +0000" stop="20260813113000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Gumebyar Budoyo</title>
   </programme>
 <programme start="20260813113000 +0000" stop="20260813120000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Babat Tanah Jowo</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260813120000 +0000" stop="20260813130000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wayang Orang</title>
+    <title lang="id">Ketoprak</title>
   </programme>
 <programme start="20260813130000 +0000" stop="20260813133000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260813133000 +0000" stop="20260813140000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260813140000 +0000" stop="20260813150000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
@@ -22263,22 +22263,10 @@
     <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260813160000 +0000" stop="20260813170000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Sarmadi</title>
+    <title lang="id">Ki Bayu Aji</title>
   </programme>
-<programme start="20260813170000 +0000" stop="20260813173000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
-  </programme>
-<programme start="20260813173000 +0000" stop="20260813180000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
-  </programme>
-<programme start="20260813180000 +0000" stop="20260813190000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
-  </programme>
-<programme start="20260813190000 +0000" stop="20260813193000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
-  </programme>
-<programme start="20260813193000 +0000" stop="20260813200000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+<programme start="20260813170000 +0000" stop="20260813200000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ki Bayu Aji</title>
   </programme>
 <programme start="20260813200000 +0000" stop="20260813210000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Punakawan</title>
@@ -22290,64 +22278,67 @@
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260814000000 +0000" stop="20260814010000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyu Bareng</title>
+    <title lang="id">Guyon Gayeng</title>
   </programme>
 <programme start="20260814010000 +0000" stop="20260814013000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
+    <title lang="id">Mlaku-Mlaku</title>
   </programme>
 <programme start="20260814013000 +0000" stop="20260814020000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260814020000 +0000" stop="20260814023000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
-  </programme>
-<programme start="20260814023000 +0000" stop="20260814030000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tarian</title>
   </programme>
-<programme start="20260814030000 +0000" stop="20260814040000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
+<programme start="20260814023000 +0000" stop="20260814030000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Wiwitane</title>
   </programme>
-<programme start="20260814040000 +0000" stop="20260814043000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Film Pendek: Kebaya Merah Parodi Jawa</title>
+<programme start="20260814030000 +0000" stop="20260814033000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Dalang Anak</title>
+  </programme>
+<programme start="20260814033000 +0000" stop="20260814043000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260814043000 +0000" stop="20260814050000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260814050000 +0000" stop="20260814053000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Karawitan: (SMKN 8 Solo Kelompok 2)</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260814053000 +0000" stop="20260814060000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260814060000 +0000" stop="20260814080000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
   </programme>
-<programme start="20260814080000 +0000" stop="20260814090000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyon Gayeng</title>
+<programme start="20260814080000 +0000" stop="20260814083000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Pusaka Jawa</title>
+  </programme>
+<programme start="20260814083000 +0000" stop="20260814090000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260814090000 +0000" stop="20260814100000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260814100000 +0000" stop="20260814103000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260814103000 +0000" stop="20260814110000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260814110000 +0000" stop="20260814113000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Gumebyar Budoyo</title>
   </programme>
 <programme start="20260814113000 +0000" stop="20260814120000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Babat Tanah Jowo</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260814120000 +0000" stop="20260814130000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wayang Orang</title>
+    <title lang="id">Ketoprak</title>
   </programme>
 <programme start="20260814130000 +0000" stop="20260814133000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260814133000 +0000" stop="20260814140000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260814140000 +0000" stop="20260814150000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
@@ -22356,22 +22347,10 @@
     <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260814160000 +0000" stop="20260814170000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Sarmadi</title>
+    <title lang="id">Ki Bayu Aji &amp; Ki Bagong Darmono</title>
   </programme>
-<programme start="20260814170000 +0000" stop="20260814173000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
-  </programme>
-<programme start="20260814173000 +0000" stop="20260814180000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
-  </programme>
-<programme start="20260814180000 +0000" stop="20260814190000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
-  </programme>
-<programme start="20260814190000 +0000" stop="20260814193000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
-  </programme>
-<programme start="20260814193000 +0000" stop="20260814200000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+<programme start="20260814170000 +0000" stop="20260814200000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ki Bayu Aji &amp; Ki Bagong Darmono</title>
   </programme>
 <programme start="20260814200000 +0000" stop="20260814210000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Punakawan</title>
@@ -22383,55 +22362,58 @@
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260815000000 +0000" stop="20260815010000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyu Bareng</title>
+    <title lang="id">Guyon Gayeng</title>
   </programme>
 <programme start="20260815010000 +0000" stop="20260815013000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
+    <title lang="id">Mlaku-Mlaku</title>
   </programme>
 <programme start="20260815013000 +0000" stop="20260815020000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Goro</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260815020000 +0000" stop="20260815023000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
-  </programme>
-<programme start="20260815023000 +0000" stop="20260815030000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tarian</title>
   </programme>
-<programme start="20260815030000 +0000" stop="20260815040000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
+<programme start="20260815023000 +0000" stop="20260815030000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Wiwitane</title>
   </programme>
-<programme start="20260815040000 +0000" stop="20260815043000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Film Pendek: Gagal Piknik</title>
+<programme start="20260815030000 +0000" stop="20260815033000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Dalang Anak</title>
+  </programme>
+<programme start="20260815033000 +0000" stop="20260815043000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260815043000 +0000" stop="20260815050000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260815050000 +0000" stop="20260815053000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260815053000 +0000" stop="20260815060000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260815060000 +0000" stop="20260815080000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
   </programme>
-<programme start="20260815080000 +0000" stop="20260815090000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyon Gayeng</title>
+<programme start="20260815080000 +0000" stop="20260815083000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Pusaka Jawa</title>
+  </programme>
+<programme start="20260815083000 +0000" stop="20260815090000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260815090000 +0000" stop="20260815100000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260815100000 +0000" stop="20260815103000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Babat Tanah Jowo</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260815103000 +0000" stop="20260815110000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260815110000 +0000" stop="20260815113000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Gumebyar Budoyo</title>
   </programme>
 <programme start="20260815113000 +0000" stop="20260815120000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260815120000 +0000" stop="20260815130000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
@@ -22440,7 +22422,7 @@
     <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260815140000 +0000" stop="20260815150000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
@@ -22451,11 +22433,8 @@
 <programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Ki Bagong Darmono</title>
   </programme>
-<programme start="20260815170000 +0000" stop="20260815200000 +0000" channel="cubmu.channeljowo">
+<programme start="20260815170000 +0000" stop="20260815210000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Ki Bagong Darmono</title>
-  </programme>
-<programme start="20260815200000 +0000" stop="20260815210000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260815210000 +0000" stop="20260815230000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
@@ -22464,55 +22443,58 @@
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260816000000 +0000" stop="20260816010000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyu Bareng</title>
+    <title lang="id">Guyon Gayeng</title>
   </programme>
 <programme start="20260816010000 +0000" stop="20260816013000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
+    <title lang="id">Mlaku-Mlaku</title>
   </programme>
 <programme start="20260816013000 +0000" stop="20260816020000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Goro</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260816020000 +0000" stop="20260816023000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
-  </programme>
-<programme start="20260816023000 +0000" stop="20260816030000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tarian</title>
   </programme>
-<programme start="20260816030000 +0000" stop="20260816040000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
+<programme start="20260816023000 +0000" stop="20260816030000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Wiwitane</title>
   </programme>
-<programme start="20260816040000 +0000" stop="20260816043000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Film Pendek: Kalah Karo Butoh</title>
+<programme start="20260816030000 +0000" stop="20260816033000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Dalang Anak</title>
+  </programme>
+<programme start="20260816033000 +0000" stop="20260816043000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260816043000 +0000" stop="20260816050000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260816050000 +0000" stop="20260816053000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260816053000 +0000" stop="20260816060000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260816060000 +0000" stop="20260816080000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
   </programme>
-<programme start="20260816080000 +0000" stop="20260816090000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyon Gayeng</title>
+<programme start="20260816080000 +0000" stop="20260816083000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Pusaka Jawa</title>
+  </programme>
+<programme start="20260816083000 +0000" stop="20260816090000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260816090000 +0000" stop="20260816100000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260816100000 +0000" stop="20260816103000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Babat Tanah Jowo</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260816103000 +0000" stop="20260816110000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260816110000 +0000" stop="20260816113000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Gumebyar Budoyo</title>
   </programme>
 <programme start="20260816113000 +0000" stop="20260816120000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260816120000 +0000" stop="20260816130000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
@@ -22521,7 +22503,7 @@
     <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260816133000 +0000" stop="20260816140000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260816140000 +0000" stop="20260816150000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
@@ -22530,10 +22512,10 @@
     <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260816160000 +0000" stop="20260816170000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Bayu Aji</title>
+    <title lang="id">Ki Geter</title>
   </programme>
 <programme start="20260816170000 +0000" stop="20260816210000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Bayu Aji</title>
+    <title lang="id">Ki Geter</title>
   </programme>
 <programme start="20260816210000 +0000" stop="20260816230000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
@@ -22542,64 +22524,67 @@
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260817000000 +0000" stop="20260817010000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyu Bareng</title>
+    <title lang="id">Guyon Gayeng</title>
   </programme>
 <programme start="20260817010000 +0000" stop="20260817013000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
+    <title lang="id">Mlaku-Mlaku</title>
   </programme>
 <programme start="20260817013000 +0000" stop="20260817020000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Goro</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260817020000 +0000" stop="20260817023000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
-  </programme>
-<programme start="20260817023000 +0000" stop="20260817030000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tarian</title>
   </programme>
-<programme start="20260817030000 +0000" stop="20260817040000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
+<programme start="20260817023000 +0000" stop="20260817030000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Wiwitane</title>
   </programme>
-<programme start="20260817040000 +0000" stop="20260817043000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Film Pendek: Blonjo Tonggo Dewe feat Mas Anung Marwoko</title>
+<programme start="20260817030000 +0000" stop="20260817033000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Dalang Anak</title>
+  </programme>
+<programme start="20260817033000 +0000" stop="20260817043000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260817043000 +0000" stop="20260817050000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260817050000 +0000" stop="20260817053000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260817053000 +0000" stop="20260817060000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260817060000 +0000" stop="20260817080000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
   </programme>
-<programme start="20260817080000 +0000" stop="20260817090000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyon Gayeng</title>
+<programme start="20260817080000 +0000" stop="20260817083000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Pusaka Jawa</title>
+  </programme>
+<programme start="20260817083000 +0000" stop="20260817090000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260817090000 +0000" stop="20260817100000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260817100000 +0000" stop="20260817103000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Babat Tanah Jowo</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260817103000 +0000" stop="20260817110000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260817110000 +0000" stop="20260817113000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Gumebyar Budoyo</title>
   </programme>
 <programme start="20260817113000 +0000" stop="20260817120000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260817120000 +0000" stop="20260817130000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ketoprak</title>
+    <title lang="id">Wayang Orang</title>
   </programme>
 <programme start="20260817130000 +0000" stop="20260817133000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260817133000 +0000" stop="20260817140000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260817140000 +0000" stop="20260817150000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
@@ -22608,7 +22593,7 @@
     <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260817160000 +0000" stop="20260817170000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Bayu Aji</title>
+    <title lang="id">Ki Cahyo Kuntadi</title>
   </programme>
 <programme start="20260810170000 +0000" stop="20260810180000 +0000" channel="cubmu.nsert">
     <title lang="id">Insert Today</title>
@@ -37470,7 +37455,7 @@
     <title lang="id">News Live</title>
   </programme>
 <programme start="20260811033000 +0000" stop="20260811040000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">Program to be Announced</title>
+    <title lang="id">A Changing World?</title>
   </programme>
 <programme start="20260811040000 +0000" stop="20260811043000 +0000" channel="cubmu.aljazeera">
     <title lang="id">News Live</title>
@@ -37499,11 +37484,8 @@
 <programme start="20260811083000 +0000" stop="20260811090000 +0000" channel="cubmu.aljazeera">
     <title lang="id">Witness</title>
   </programme>
-<programme start="20260811090000 +0000" stop="20260811093000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">News Live</title>
-  </programme>
-<programme start="20260811093000 +0000" stop="20260811100000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">Talk to Al Jazeera</title>
+<programme start="20260811090000 +0000" stop="20260811100000 +0000" channel="cubmu.aljazeera">
+    <title lang="id">Newshour</title>
   </programme>
 <programme start="20260811100000 +0000" stop="20260811110000 +0000" channel="cubmu.aljazeera">
     <title lang="id">Newshour</title>
@@ -37580,11 +37562,8 @@
 <programme start="20260812020000 +0000" stop="20260812030000 +0000" channel="cubmu.aljazeera">
     <title lang="id">Newshour</title>
   </programme>
-<programme start="20260812030000 +0000" stop="20260812033000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">News Live</title>
-  </programme>
-<programme start="20260812033000 +0000" stop="20260812040000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">Talk to Al Jazeera</title>
+<programme start="20260812030000 +0000" stop="20260812040000 +0000" channel="cubmu.aljazeera">
+    <title lang="id">Newshour</title>
   </programme>
 <programme start="20260812040000 +0000" stop="20260812043000 +0000" channel="cubmu.aljazeera">
     <title lang="id">News Live</title>
@@ -37638,7 +37617,7 @@
     <title lang="id">News Live</title>
   </programme>
 <programme start="20260812143000 +0000" stop="20260812150000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">Program to be Announced</title>
+    <title lang="id">A Changing World?</title>
   </programme>
 <programme start="20260812150000 +0000" stop="20260812160000 +0000" channel="cubmu.aljazeera">
     <title lang="id">Newshour</title>
@@ -37658,11 +37637,8 @@
 <programme start="20260812180000 +0000" stop="20260812190000 +0000" channel="cubmu.aljazeera">
     <title lang="id">Newshour</title>
   </programme>
-<programme start="20260812190000 +0000" stop="20260812193000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">News Live</title>
-  </programme>
-<programme start="20260812193000 +0000" stop="20260812200000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">Talk to Al Jazeera</title>
+<programme start="20260812190000 +0000" stop="20260812200000 +0000" channel="cubmu.aljazeera">
+    <title lang="id">Newshour</title>
   </programme>
 <programme start="20260812200000 +0000" stop="20260812203000 +0000" channel="cubmu.aljazeera">
     <title lang="id">News Live</title>
@@ -37712,11 +37688,8 @@
 <programme start="20260813053000 +0000" stop="20260813060000 +0000" channel="cubmu.aljazeera">
     <title lang="id">Inside Story</title>
   </programme>
-<programme start="20260813060000 +0000" stop="20260813063000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">News Live</title>
-  </programme>
-<programme start="20260813063000 +0000" stop="20260813070000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">Talk to Al Jazeera</title>
+<programme start="20260813060000 +0000" stop="20260813070000 +0000" channel="cubmu.aljazeera">
+    <title lang="id">Newshour</title>
   </programme>
 <programme start="20260813070000 +0000" stop="20260813080000 +0000" channel="cubmu.aljazeera">
     <title lang="id">Newshour</title>
@@ -37731,7 +37704,7 @@
     <title lang="id">News Live</title>
   </programme>
 <programme start="20260813093000 +0000" stop="20260813100000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">Program to be Announced</title>
+    <title lang="id">A Changing World?</title>
   </programme>
 <programme start="20260813100000 +0000" stop="20260813110000 +0000" channel="cubmu.aljazeera">
     <title lang="id">Newshour</title>
@@ -37773,7 +37746,7 @@
     <title lang="id">Newshour</title>
   </programme>
 <programme start="20260813190000 +0000" stop="20260813193000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">News Live</title>
+    <title lang="id">Al Jazeera World</title>
   </programme>
 <programme start="20260813193000 +0000" stop="20260813200000 +0000" channel="cubmu.aljazeera">
     <title lang="id">Boycott</title>
@@ -37842,7 +37815,7 @@
     <title lang="id">101 East</title>
   </programme>
 <programme start="20260814090000 +0000" stop="20260814093000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">News Live</title>
+    <title lang="id">Al Jazeera World</title>
   </programme>
 <programme start="20260814093000 +0000" stop="20260814100000 +0000" channel="cubmu.aljazeera">
     <title lang="id">The Bottom Line</title>
@@ -37929,7 +37902,7 @@
     <title lang="id">Studio B: The AI Series</title>
   </programme>
 <programme start="20260815040000 +0000" stop="20260815043000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">News Live</title>
+    <title lang="id">Al Jazeera World</title>
   </programme>
 <programme start="20260815043000 +0000" stop="20260815050000 +0000" channel="cubmu.aljazeera">
     <title lang="id">Nuked</title>
@@ -38004,7 +37977,7 @@
     <title lang="id">News Live</title>
   </programme>
 <programme start="20260815193000 +0000" stop="20260815200000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">Program to be Announced</title>
+    <title lang="id">A Changing World?</title>
   </programme>
 <programme start="20260815200000 +0000" stop="20260815203000 +0000" channel="cubmu.aljazeera">
     <title lang="id">News Live</title>
@@ -38058,7 +38031,7 @@
     <title lang="id">News Live</title>
   </programme>
 <programme start="20260816063000 +0000" stop="20260816070000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">Program to be Announced</title>
+    <title lang="id">A Changing World?</title>
   </programme>
 <programme start="20260816070000 +0000" stop="20260816080000 +0000" channel="cubmu.aljazeera">
     <title lang="id">Newshour</title>
@@ -38091,7 +38064,7 @@
     <title lang="id">Newshour</title>
   </programme>
 <programme start="20260816140000 +0000" stop="20260816143000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">News Live</title>
+    <title lang="id">Al Jazeera World</title>
   </programme>
 <programme start="20260816143000 +0000" stop="20260816150000 +0000" channel="cubmu.aljazeera">
     <title lang="id">Program to be Announced</title>
@@ -38187,7 +38160,7 @@
     <title lang="id">News Live</title>
   </programme>
 <programme start="20260817093000 +0000" stop="20260817100000 +0000" channel="cubmu.aljazeera">
-    <title lang="id">Program to be Announced</title>
+    <title lang="id">A Changing World?</title>
   </programme>
 <programme start="20260817100000 +0000" stop="20260817110000 +0000" channel="cubmu.aljazeera">
     <title lang="id">Newshour</title>
