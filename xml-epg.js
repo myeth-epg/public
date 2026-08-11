@@ -137,8 +137,6 @@ document.addEventListener('DOMContentLoaded', () => {
     { name: 'United Kingdom', url: 'index-uk.html' },
     { name: 'New Zealand', url: 'index-nz.html' },
     { name: 'Indonesia', url: 'index-id.html' },
-    { name: 'Region A', url: 'index-a.html' },
-    { name: 'Region B', url: 'index-b.html' },
     { name: 'Adult', url: 'index-x.html' }
   ];
 
