@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260811225006 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
+<tv date="20260812052755 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -5400,16 +5400,16 @@
     <title>잡학자들</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260812111000 +0000" stop="20260812114000 +0000" channel="skylife.tvn">
+<programme start="20260812111000 +0000" stop="20260812114500 +0000" channel="skylife.tvn">
     <title>이호선 상담소:호랑이쌤의 1:1 밀착 솔루션</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260812114000 +0000" stop="20260812135000 +0000" channel="skylife.tvn">
+<programme start="20260812114500 +0000" stop="20260812135500 +0000" channel="skylife.tvn">
     <title>유 퀴즈 온 더 블럭</title>
     <desc>You Quiz On The Block.  Step by step    보통날을 살아가는 당신 앞에 나타난 유재석x조세호.  두 사람이 건넨 한마디.  quot;You Quiz...?quot;    평범한 사람들의 인생 무대인 &apos;길거리&apos;를 &apos;세트&apos;로 빌리고 세상 누구에게나 공평한 &apos;태양&apos;을 &apos;조명&apos; 삼아 여러분을 주인공으로 모시는 유쾌한 서프라이즈!</desc>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260812135000 +0000" stop="20260812155000 +0000" channel="skylife.tvn">
+<programme start="20260812135500 +0000" stop="20260812155500 +0000" channel="skylife.tvn">
     <title>남겨서 뭐하게</title>
     <category>연예/오락 / 일반</category>
   </programme>
@@ -6419,11 +6419,11 @@
     <category>연예/오락 / 인포테인먼트</category>
   </programme>
 <programme start="20260812040000 +0000" stop="20260812053000 +0000" channel="skylife.sbs.biz">
-    <title>마켓&amp;머니</title>
+    <title>[모처럼 &apos;삼전닉스&apos; 동반 강세]마켓&amp;머니</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260812053000 +0000" stop="20260812063000 +0000" channel="skylife.sbs.biz">
-    <title>경제현장 오늘</title>
+    <title>[또 덮친 엔캐리 청산 공포]경제현장 오늘</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260812063000 +0000" stop="20260812065000 +0000" channel="skylife.sbs.biz">
@@ -6431,7 +6431,7 @@
     <category>뉴스 / 경제(산업/부동산)</category>
   </programme>
 <programme start="20260812065000 +0000" stop="20260812080000 +0000" channel="skylife.sbs.biz">
-    <title>오늘 경제 안녕하십니까?</title>
+    <title>[빅테크 따라 반도체주 훈풍]오늘 경제 안녕하십니까?</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260812080000 +0000" stop="20260812090000 +0000" channel="skylife.sbs.biz">
@@ -6453,7 +6453,7 @@
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260812103000 +0000" stop="20260812113000 +0000" channel="skylife.sbs.biz">
-    <title>오늘 경제 안녕하십니까?</title>
+    <title>[빅테크 따라 반도체주 훈풍]오늘 경제 안녕하십니까?</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260812113000 +0000" stop="20260812123000 +0000" channel="skylife.sbs.biz">
@@ -6635,33 +6635,37 @@
     <title>2026 윔블던 챔피언십</title>
     <category>스포츠 / 테니스</category>
   </programme>
-<programme start="20260811163000 +0000" stop="20260811180000 +0000" channel="skylife.tvn.sports">
+<programme start="20260811163000 +0000" stop="20260811181000 +0000" channel="skylife.tvn.sports">
     <title>(생)2026 ATP 1000 내셔널뱅크 오픈</title>
     <category>스포츠 / 테니스</category>
   </programme>
-<programme start="20260811180000 +0000" stop="20260811200000 +0000" channel="skylife.tvn.sports">
+<programme start="20260811181000 +0000" stop="20260811210500 +0000" channel="skylife.tvn.sports">
     <title>(생)2026 ATP 1000 내셔널뱅크 오픈</title>
     <category>스포츠 / 테니스</category>
   </programme>
-<programme start="20260811200000 +0000" stop="20260811220000 +0000" channel="skylife.tvn.sports">
+<programme start="20260811210500 +0000" stop="20260811220000 +0000" channel="skylife.tvn.sports">
     <title>UFC CLASSIC : Special Edition</title>
     <category>스포츠 / 격투기</category>
   </programme>
-<programme start="20260811220000 +0000" stop="20260812000000 +0000" channel="skylife.tvn.sports">
+<programme start="20260811220000 +0000" stop="20260811233000 +0000" channel="skylife.tvn.sports">
     <title>(생)2026 ATP 1000 내셔널뱅크 오픈</title>
     <category>스포츠 / 테니스</category>
   </programme>
-<programme start="20260812000000 +0000" stop="20260812020000 +0000" channel="skylife.tvn.sports">
+<programme start="20260811233000 +0000" stop="20260812010500 +0000" channel="skylife.tvn.sports">
     <title>(생)2026 ATP 1000 내셔널뱅크 오픈</title>
     <category>스포츠 / 테니스</category>
+  </programme>
+<programme start="20260812010500 +0000" stop="20260812020000 +0000" channel="skylife.tvn.sports">
+    <title>UFC CLASSIC : Special Edition</title>
+    <category>스포츠 / 격투기</category>
   </programme>
 <programme start="20260812020000 +0000" stop="20260812050000 +0000" channel="skylife.tvn.sports">
     <title>(생)2026 메디힐 KBO 퓨처스리그</title>
     <category>스포츠 / 야구</category>
   </programme>
 <programme start="20260812050000 +0000" stop="20260812063000 +0000" channel="skylife.tvn.sports">
-    <title>(본)2026 WTA 1000 내셔널뱅크 오픈</title>
-    <category>스포츠 / 테니스</category>
+    <title>UFC SPECIAL</title>
+    <category>스포츠 / 격투기</category>
   </programme>
 <programme start="20260812063000 +0000" stop="20260812080000 +0000" channel="skylife.tvn.sports">
     <title>(본)2026 WTA 1000 내셔널뱅크 오픈</title>
@@ -9283,20 +9287,20 @@
     <title>미스트롯 포유 3부</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260812155000 +0000" stop="20260812174000 +0000" channel="skylife.tvn">
+<programme start="20260812155500 +0000" stop="20260812174500 +0000" channel="skylife.tvn">
     <title>스트릿 레스토랑 파이터</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260812174000 +0000" stop="20260812190000 +0000" channel="skylife.tvn">
+<programme start="20260812174500 +0000" stop="20260812190000 +0000" channel="skylife.tvn">
     <title>언니네 산지직송3</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260812190000 +0000" stop="20260812194000 +0000" channel="skylife.tvn">
+<programme start="20260812190000 +0000" stop="20260812194500 +0000" channel="skylife.tvn">
     <title>유 퀴즈 온 더 블럭 특별판 - 스타 자기님을 찾아서</title>
     <desc>You Quiz On The Block.  Step by step    보통날을 살아가는 당신 앞에 나타난 유재석x조세호.  두 사람이 건넨 한마디.  quot;You Quiz...?quot;    평범한 사람들의 인생 무대인 &apos;길거리&apos;를 &apos;세트&apos;로 빌리고 세상 누구에게나 공평한 &apos;태양&apos;을 &apos;조명&apos; 삼아 여러분을 주인공으로 모시는 유쾌한 서프라이즈!</desc>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260812194000 +0000" stop="20260812210000 +0000" channel="skylife.tvn">
+<programme start="20260812194500 +0000" stop="20260812210000 +0000" channel="skylife.tvn">
     <title>너의 몸소리가 들려</title>
     <category>교양/정보 / 일반</category>
   </programme>
@@ -10360,7 +10364,7 @@
     <category>뉴스 / 뉴스</category>
   </programme>
 <programme start="20260812153000 +0000" stop="20260812163000 +0000" channel="skylife.sbs.biz">
-    <title>오늘 경제 안녕하십니까?</title>
+    <title>[빅테크 따라 반도체주 훈풍]오늘 경제 안녕하십니까?</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260812163000 +0000" stop="20260812173000 +0000" channel="skylife.sbs.biz">
@@ -13799,18 +13803,13 @@
     <desc>인생을 새로고침하기 위한 부부들의 이야기 lt;이혼숙려캠프gt;</desc>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260813151000 +0000" stop="20260813172000 +0000" channel="skylife.채널a플러스">
+<programme start="20260813151000 +0000" stop="20260813173000 +0000" channel="skylife.채널a플러스">
     <title>[방금 놓친] 야구여왕 2</title>
     <desc>운동선수 출신이라면 야구 경력과 무관하게 선수단에 지원하여 여자 야구팀의 멤버로 합류해 여자 야구 전국대회 우승을 목표로 성장해나가는 스포츠 버라이어티</desc>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260813172000 +0000" stop="20260813175000 +0000" channel="skylife.채널a플러스">
+<programme start="20260813173000 +0000" stop="20260813180000 +0000" channel="skylife.채널a플러스">
     <title>강철지구 멕시코 스페셜</title>
-    <desc>지구야 덤벼라quot; 대한민국 최고의 강철부대원들이 펼치는 대자연과의 한 판 승부- 강철 여행자들의 생존여행기</desc>
-    <category>교양/정보 / 일반</category>
-  </programme>
-<programme start="20260813175000 +0000" stop="20260813180000 +0000" channel="skylife.채널a플러스">
-    <title>강철지구 페루 스페셜</title>
     <desc>지구야 덤벼라quot; 대한민국 최고의 강철부대원들이 펼치는 대자연과의 한 판 승부- 강철 여행자들의 생존여행기</desc>
     <category>교양/정보 / 일반</category>
   </programme>
@@ -13876,7 +13875,7 @@
     <category>연예/오락 / 토크쇼</category>
   </programme>
 <programme start="20260814093000 +0000" stop="20260814104000 +0000" channel="skylife.채널a플러스">
-    <title>[김창옥] 고두심이 좋아서</title>
+    <title>[완주 여행] 고두심이 좋아서</title>
     <desc>가족들을 위해 헌신하느라 &apos;나&apos;를 잃어버리고 사는 우리의 엄마들. &apos;고두심이 좋아서&apos;는 누구보다 자유와 힐링이 필요한 엄마들의 로망을 충족시켜줄 여행이야기</desc>
     <category>연예/오락 / 버라이어티</category>
   </programme>
@@ -19867,12 +19866,12 @@
     <desc>SBS 가요 순위 프로그램</desc>
     <category>음악 / 대중가요</category>
   </programme>
-<programme start="20260816072500 +0000" stop="20260816091000 +0000" channel="skylife.sbs">
+<programme start="20260816072500 +0000" stop="20260816090000 +0000" channel="skylife.sbs">
     <title>미운 우리 새끼</title>
     <desc>아들의 일상을 관찰하고, 육아일기라는 장치를 통해 순간을 기록하는 프로그램입니다.   아직도 철부지 같은 자식과, 늘 자식 걱정인 엄마의 이야기를 통해 유쾌하고 따뜻한 웃음, 뭉클한 감동을 전달한다.</desc>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260816091000 +0000" stop="20260816110000 +0000" channel="skylife.sbs">
+<programme start="20260816090000 +0000" stop="20260816110000 +0000" channel="skylife.sbs">
     <title>런닝맨</title>
     <desc>최고의 연예인들과 미션 해결과 게임을 하며 대한민국 랜드마크들을 전격 공개한다.    도심에서 벌어지는 스펙터클, 신개념, 액션 버라이어티 프로그램.</desc>
     <category>연예/오락 / 버라이어티</category>
@@ -23622,16 +23621,16 @@
     <desc>최고의 셰프들이 스타들의 냉장고 속 재료를 활용해 요리 대결을 펼치는 요리 토크쇼</desc>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260816153500 +0000" stop="20260816171500 +0000" channel="skylife.sbs">
+<programme start="20260816153500 +0000" stop="20260816171000 +0000" channel="skylife.sbs">
     <title>내 남은 연애</title>
     <category>연예/오락 / 버라이어티</category>
   </programme>
-<programme start="20260816171500 +0000" stop="20260816184500 +0000" channel="skylife.sbs">
+<programme start="20260816171000 +0000" stop="20260816184000 +0000" channel="skylife.sbs">
     <title>꼬리에 꼬리를 무는 그날 이야기</title>
     <desc>눈길을 사로잡는 그 날, 그 사건으로부터 한 사람의 소시민으로서 &apos;내&apos;가 느낀 바를, 온전히 &apos;나&apos;의 시점에서 주관적으로 전달한다. &apos;너&apos; 에게 꼭 들려주고 싶어! 친구, 배우자, 동료... 세 명의 &apos;이야기꾼&apos;이 스스로 공부하며 느낀 바를 각자의 &apos;이야기 친구&apos;(가장 가까운 지인)에게, 가장 일상적인 공간에서 1:1 로 전달한다.</desc>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260816184500 +0000" stop="20260816200000 +0000" channel="skylife.sbs">
+<programme start="20260816184000 +0000" stop="20260816200000 +0000" channel="skylife.sbs">
     <title>방송 시간이 아닙니다(5시부터 방송 예정)</title>
     <category>교양/정보 / 일반</category>
   </programme>
@@ -23737,15 +23736,11 @@
     <title>나이트라인</title>
     <category>뉴스 / 뉴스</category>
   </programme>
-<programme start="20260816160500 +0000" stop="20260816162000 +0000" channel="skylife.kbs2">
+<programme start="20260816160500 +0000" stop="20260816161500 +0000" channel="skylife.kbs2">
     <title>KBS 재난방송센터</title>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260816162000 +0000" stop="20260816163000 +0000" channel="skylife.kbs2">
-    <title>KBS 재난방송센터</title>
-    <category>교양/정보 / 일반</category>
-  </programme>
-<programme start="20260816163000 +0000" stop="20260816200000 +0000" channel="skylife.kbs2">
+<programme start="20260816161500 +0000" stop="20260816200000 +0000" channel="skylife.kbs2">
     <title>방송 시간이 아닙니다(5시부터 방송 예정)</title>
     <category>교양/정보 / 일반</category>
   </programme>
