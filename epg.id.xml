@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260811225007 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="ID-EPG-Merger">
+<tv date="20260812052757 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="ID-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -9249,7 +9249,7 @@
     <title lang="id">Hati Ke Hati Bersama Mamah Dedeh</title>
   </programme>
 <programme start="20260812230000 +0000" stop="20260813023000 +0000" channel="cubmu.antv">
-    <title lang="id">Mega Bollywood</title>
+    <title lang="id">Mega Bollywood Pagi</title>
   </programme>
 <programme start="20260813023000 +0000" stop="20260813060000 +0000" channel="cubmu.antv">
     <title lang="id">Mega Bollywood</title>
@@ -9257,14 +9257,11 @@
 <programme start="20260813060000 +0000" stop="20260813073000 +0000" channel="cubmu.antv">
     <title lang="id">Jhanak</title>
   </programme>
-<programme start="20260813073000 +0000" stop="20260813090000 +0000" channel="cubmu.antv">
+<programme start="20260813073000 +0000" stop="20260813093000 +0000" channel="cubmu.antv">
     <title lang="id">Sayali</title>
   </programme>
-<programme start="20260813090000 +0000" stop="20260813103000 +0000" channel="cubmu.antv">
+<programme start="20260813093000 +0000" stop="20260813113000 +0000" channel="cubmu.antv">
     <title lang="id">Jaane Anjaane</title>
-  </programme>
-<programme start="20260813103000 +0000" stop="20260813113000 +0000" channel="cubmu.antv">
-    <title lang="id">Teri Meri Doriyaan</title>
   </programme>
 <programme start="20260813113000 +0000" stop="20260813140000 +0000" channel="cubmu.antv">
     <title lang="id">Sinema Spesial Dangdut Royal</title>
@@ -20393,10 +20390,10 @@
 <programme start="20260812213000 +0000" stop="20260812220000 +0000" channel="cubmu.tvn">
     <title lang="id">Chansung&apos;s Cooking</title>
   </programme>
-<programme start="20260812220000 +0000" stop="20260812223000 +0000" channel="cubmu.tvn">
-    <title lang="id">Chansung&apos;s Cooking</title>
+<programme start="20260812220000 +0000" stop="20260812222000 +0000" channel="cubmu.tvn">
+    <title lang="id">You Can Cook With Sam Kim</title>
   </programme>
-<programme start="20260812223000 +0000" stop="20260813003000 +0000" channel="cubmu.tvn">
+<programme start="20260812222000 +0000" stop="20260813003000 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
 <programme start="20260813003000 +0000" stop="20260813013000 +0000" channel="cubmu.tvn">
@@ -20417,31 +20414,31 @@
 <programme start="20260813072500 +0000" stop="20260813091500 +0000" channel="cubmu.tvn">
     <title lang="id">KILL IT: Style Creator Showdown</title>
   </programme>
-<programme start="20260813091500 +0000" stop="20260813111000 +0000" channel="cubmu.tvn">
-    <title lang="id">Fresh Off the Sea 3</title>
+<programme start="20260813091500 +0000" stop="20260813110000 +0000" channel="cubmu.tvn">
+    <title lang="id">World of Street Woman Fighter</title>
   </programme>
-<programme start="20260813111000 +0000" stop="20260813131000 +0000" channel="cubmu.tvn">
+<programme start="20260813110000 +0000" stop="20260813131000 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
 <programme start="20260813131000 +0000" stop="20260813143000 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260813143000 +0000" stop="20260813160000 +0000" channel="cubmu.tvn">
+<programme start="20260813143000 +0000" stop="20260813162000 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
-<programme start="20260813160000 +0000" stop="20260813171000 +0000" channel="cubmu.tvn">
+<programme start="20260813162000 +0000" stop="20260813173000 +0000" channel="cubmu.tvn">
     <title lang="id">The Legend of Kitchen Soldier</title>
   </programme>
-<programme start="20260813171000 +0000" stop="20260813182000 +0000" channel="cubmu.tvn">
+<programme start="20260813173000 +0000" stop="20260813184000 +0000" channel="cubmu.tvn">
     <title lang="id">The Legend of Kitchen Soldier</title>
   </programme>
-<programme start="20260813182000 +0000" stop="20260813191500 +0000" channel="cubmu.tvn">
-    <title lang="id">Walking Through The Village</title>
+<programme start="20260813184000 +0000" stop="20260813185500 +0000" channel="cubmu.tvn">
+    <title lang="id">You Can Cook With Sam Kim</title>
   </programme>
-<programme start="20260813191500 +0000" stop="20260813203000 +0000" channel="cubmu.tvn">
+<programme start="20260813185500 +0000" stop="20260813201000 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260813203000 +0000" stop="20260813220000 +0000" channel="cubmu.tvn">
+<programme start="20260813201000 +0000" stop="20260813220000 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
 <programme start="20260813220000 +0000" stop="20260813235000 +0000" channel="cubmu.tvn">
@@ -20459,19 +20456,16 @@
 <programme start="20260814041500 +0000" stop="20260814052500 +0000" channel="cubmu.tvn">
     <title lang="id">The Legend of Kitchen Soldier</title>
   </programme>
-<programme start="20260814052500 +0000" stop="20260814064000 +0000" channel="cubmu.tvn">
+<programme start="20260814052500 +0000" stop="20260814063500 +0000" channel="cubmu.tvn">
     <title lang="id">The Legend of Kitchen Soldier</title>
   </programme>
-<programme start="20260814064000 +0000" stop="20260814084000 +0000" channel="cubmu.tvn">
+<programme start="20260814063500 +0000" stop="20260814084500 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
-<programme start="20260814084000 +0000" stop="20260814085500 +0000" channel="cubmu.tvn">
-    <title lang="id">You Can Cook With Sam Kim</title>
-  </programme>
-<programme start="20260814085500 +0000" stop="20260814102500 +0000" channel="cubmu.tvn">
+<programme start="20260814084500 +0000" stop="20260814101500 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
-<programme start="20260814102500 +0000" stop="20260814115500 +0000" channel="cubmu.tvn">
+<programme start="20260814101500 +0000" stop="20260814115500 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
 <programme start="20260814115500 +0000" stop="20260814131000 +0000" channel="cubmu.tvn">
@@ -20513,14 +20507,17 @@
 <programme start="20260815030000 +0000" stop="20260815042000 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260815042000 +0000" stop="20260815055000 +0000" channel="cubmu.tvn">
+<programme start="20260815042000 +0000" stop="20260815061000 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
-<programme start="20260815055000 +0000" stop="20260815071000 +0000" channel="cubmu.tvn">
+<programme start="20260815061000 +0000" stop="20260815073000 +0000" channel="cubmu.tvn">
     <title lang="id">Mr. Eo&apos;s Food World Tour</title>
   </programme>
-<programme start="20260815071000 +0000" stop="20260815080500 +0000" channel="cubmu.tvn">
-    <title lang="id">Walking Through The Village</title>
+<programme start="20260815073000 +0000" stop="20260815074500 +0000" channel="cubmu.tvn">
+    <title lang="id">You Can Cook With Sam Kim</title>
+  </programme>
+<programme start="20260815074500 +0000" stop="20260815080500 +0000" channel="cubmu.tvn">
+    <title lang="id">You Can Cook With Sam Kim</title>
   </programme>
 <programme start="20260815080500 +0000" stop="20260815095500 +0000" channel="cubmu.tvn">
     <title lang="id">KILL IT: Style Creator Showdown</title>
@@ -20531,37 +20528,34 @@
 <programme start="20260815115500 +0000" stop="20260815131500 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260815131500 +0000" stop="20260815151500 +0000" channel="cubmu.tvn">
+<programme start="20260815131500 +0000" stop="20260815152500 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
-<programme start="20260815151500 +0000" stop="20260815164500 +0000" channel="cubmu.tvn">
+<programme start="20260815152500 +0000" stop="20260815171500 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
-<programme start="20260815164500 +0000" stop="20260815184000 +0000" channel="cubmu.tvn">
+<programme start="20260815171500 +0000" stop="20260815191500 +0000" channel="cubmu.tvn">
     <title lang="id">KILL IT: Style Creator Showdown</title>
   </programme>
-<programme start="20260815184000 +0000" stop="20260815190000 +0000" channel="cubmu.tvn">
-    <title lang="id">You Can Cook With Sam Kim</title>
+<programme start="20260815191500 +0000" stop="20260815201500 +0000" channel="cubmu.tvn">
+    <title lang="id">Walking Through The Village</title>
   </programme>
-<programme start="20260815190000 +0000" stop="20260815202000 +0000" channel="cubmu.tvn">
-    <title lang="id">Mr. Eo&apos;s Food World Tour</title>
-  </programme>
-<programme start="20260815202000 +0000" stop="20260815220000 +0000" channel="cubmu.tvn">
+<programme start="20260815201500 +0000" stop="20260815220000 +0000" channel="cubmu.tvn">
     <title lang="id">World of Street Woman Fighter</title>
   </programme>
-<programme start="20260815220000 +0000" stop="20260815223000 +0000" channel="cubmu.tvn">
-    <title lang="id">Chansung&apos;s Cooking</title>
+<programme start="20260815220000 +0000" stop="20260815221500 +0000" channel="cubmu.tvn">
+    <title lang="id">You Can Cook With Sam Kim</title>
   </programme>
-<programme start="20260815223000 +0000" stop="20260816002500 +0000" channel="cubmu.tvn">
+<programme start="20260815221500 +0000" stop="20260816001500 +0000" channel="cubmu.tvn">
     <title lang="id">Sixth Sense: City Tour</title>
   </programme>
-<programme start="20260816002500 +0000" stop="20260816014000 +0000" channel="cubmu.tvn">
+<programme start="20260816001500 +0000" stop="20260816013000 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260816014000 +0000" stop="20260816030000 +0000" channel="cubmu.tvn">
+<programme start="20260816013000 +0000" stop="20260816025000 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260816030000 +0000" stop="20260816050000 +0000" channel="cubmu.tvn">
+<programme start="20260816025000 +0000" stop="20260816050000 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
 <programme start="20260816050000 +0000" stop="20260816062000 +0000" channel="cubmu.tvn">
@@ -20570,11 +20564,8 @@
 <programme start="20260816062000 +0000" stop="20260816075000 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
-<programme start="20260816075000 +0000" stop="20260816092000 +0000" channel="cubmu.tvn">
+<programme start="20260816075000 +0000" stop="20260816094000 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
-  </programme>
-<programme start="20260816092000 +0000" stop="20260816094000 +0000" channel="cubmu.tvn">
-    <title lang="id">You Can Cook With Sam Kim</title>
   </programme>
 <programme start="20260816094000 +0000" stop="20260816113000 +0000" channel="cubmu.tvn">
     <title lang="id">KILL IT: Style Creator Showdown</title>
@@ -20615,19 +20606,16 @@
 <programme start="20260817041000 +0000" stop="20260817052000 +0000" channel="cubmu.tvn">
     <title lang="id">The Legend of Kitchen Soldier</title>
   </programme>
-<programme start="20260817052000 +0000" stop="20260817072000 +0000" channel="cubmu.tvn">
+<programme start="20260817052000 +0000" stop="20260817073000 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
-<programme start="20260817072000 +0000" stop="20260817083500 +0000" channel="cubmu.tvn">
+<programme start="20260817073000 +0000" stop="20260817084500 +0000" channel="cubmu.tvn">
     <title lang="id">Mr. Eo&apos;s Food World Tour</title>
   </programme>
-<programme start="20260817083500 +0000" stop="20260817095500 +0000" channel="cubmu.tvn">
+<programme start="20260817084500 +0000" stop="20260817101000 +0000" channel="cubmu.tvn">
     <title lang="id">Mr. Eo&apos;s Food World Tour</title>
   </programme>
-<programme start="20260817095500 +0000" stop="20260817102500 +0000" channel="cubmu.tvn">
-    <title lang="id">Chansung&apos;s Cooking</title>
-  </programme>
-<programme start="20260817102500 +0000" stop="20260817115500 +0000" channel="cubmu.tvn">
+<programme start="20260817101000 +0000" stop="20260817115500 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
 <programme start="20260817115500 +0000" stop="20260817131000 +0000" channel="cubmu.tvn">
@@ -20642,46 +20630,40 @@
 <programme start="20260817163000 +0000" stop="20260817194000 +0000" channel="cubmu.tvn">
     <title lang="id">World of Street Woman Fighter</title>
   </programme>
-<programme start="20260817194000 +0000" stop="20260817200000 +0000" channel="cubmu.tvn">
+<programme start="20260817194000 +0000" stop="20260817195000 +0000" channel="cubmu.tvn">
     <title lang="id">You Can Cook With Sam Kim</title>
   </programme>
-<programme start="20260817200000 +0000" stop="20260817220000 +0000" channel="cubmu.tvn">
+<programme start="20260817195000 +0000" stop="20260817220000 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
 <programme start="20260817220000 +0000" stop="20260817233000 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
-<programme start="20260817233000 +0000" stop="20260818010000 +0000" channel="cubmu.tvn">
+<programme start="20260817233000 +0000" stop="20260818012000 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
-<programme start="20260818010000 +0000" stop="20260818012000 +0000" channel="cubmu.tvn">
+<programme start="20260818012000 +0000" stop="20260818013500 +0000" channel="cubmu.tvn">
     <title lang="id">You Can Cook With Sam Kim</title>
   </programme>
-<programme start="20260818012000 +0000" stop="20260818014000 +0000" channel="cubmu.tvn">
-    <title lang="id">You Can Cook With Sam Kim</title>
-  </programme>
-<programme start="20260818014000 +0000" stop="20260818030000 +0000" channel="cubmu.tvn">
+<programme start="20260818013500 +0000" stop="20260818025500 +0000" channel="cubmu.tvn">
     <title lang="id">Mr. Eo&apos;s Food World Tour</title>
   </programme>
-<programme start="20260818030000 +0000" stop="20260818041500 +0000" channel="cubmu.tvn">
+<programme start="20260818025500 +0000" stop="20260818041000 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260818041500 +0000" stop="20260818053500 +0000" channel="cubmu.tvn">
+<programme start="20260818041000 +0000" stop="20260818053000 +0000" channel="cubmu.tvn">
     <title lang="id">Filing for Love</title>
   </programme>
-<programme start="20260818053500 +0000" stop="20260818072500 +0000" channel="cubmu.tvn">
+<programme start="20260818053000 +0000" stop="20260818072000 +0000" channel="cubmu.tvn">
     <title lang="id">KILL IT: Style Creator Showdown</title>
   </programme>
-<programme start="20260818072500 +0000" stop="20260818092500 +0000" channel="cubmu.tvn">
+<programme start="20260818072000 +0000" stop="20260818093000 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
-<programme start="20260818092500 +0000" stop="20260818094500 +0000" channel="cubmu.tvn">
-    <title lang="id">You Can Cook With Sam Kim</title>
-  </programme>
-<programme start="20260818094500 +0000" stop="20260818114500 +0000" channel="cubmu.tvn">
+<programme start="20260818093000 +0000" stop="20260818113000 +0000" channel="cubmu.tvn">
     <title lang="id">Sixth Sense: City Tour</title>
   </programme>
-<programme start="20260818114500 +0000" stop="20260818131500 +0000" channel="cubmu.tvn">
+<programme start="20260818113000 +0000" stop="20260818131500 +0000" channel="cubmu.tvn">
     <title lang="id">Space Rice Cake</title>
   </programme>
 <programme start="20260818131500 +0000" stop="20260818143000 +0000" channel="cubmu.tvn">
@@ -20690,7 +20672,7 @@
 <programme start="20260818143000 +0000" stop="20260818155000 +0000" channel="cubmu.tvn">
     <title lang="id">Mr. Eo&apos;s Food World Tour</title>
   </programme>
-<programme start="20260818155000 +0000" stop="20260818175000 +0000" channel="cubmu.tvn">
+<programme start="20260818155000 +0000" stop="20260818180000 +0000" channel="cubmu.tvn">
     <title lang="id">Fresh Off the Sea 3</title>
   </programme>
 <programme start="20260811170500 +0000" stop="20260811171000 +0000" channel="cubmu.nhkworldpremium">
