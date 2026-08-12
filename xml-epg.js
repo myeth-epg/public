@@ -126,8 +126,8 @@ clear(){this.parts=[]}}
 document.addEventListener('DOMContentLoaded', () => {
   const regions = [
     { name: 'Main a', url: 'index.html' },
-    { name: 'Main 2t', url: 'index-2t.html' },
     { name: 'Main b', url: 'index-2.html' },
+    { name: 'Main 2t', url: 'index-2t.html' },
     { name: 'Hong Kong', url: 'index-hk.html' },
     { name: 'Taiwan', url: 'index-tw.html' },
     { name: 'Malaysia', url: 'index-my.html' },
