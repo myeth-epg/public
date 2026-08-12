@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260811225004 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="SG-EPG-Merger">
+<tv date="20260812052753 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="SG-EPG-Merger">
 
 <!-- Channels -->
 
@@ -54333,11 +54333,11 @@
     <title lang="en">Mellisai Hits S3 - EP 21</title>
     <desc lang="en">Collection of hit melody songs from 1990s - 2000s</desc>
   </programme>
-<programme start="20260812153000 +0000" stop="20260812160000 +0000" channel="mewatch.vasantham">
+<programme start="20260812153000 +0000" stop="20260812153900 +0000" channel="mewatch.vasantham">
     <title lang="en">Seithi</title>
     <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http://seithi.mediacorp.sg/</desc>
   </programme>
-<programme start="20260812160000 +0000" stop="20260813010000 +0000" channel="mewatch.vasantham">
+<programme start="20260812153900 +0000" stop="20260813010000 +0000" channel="mewatch.vasantham">
     <title lang="en">End of Transmission</title>
     <desc lang="en">End of Transmission</desc>
   </programme>
@@ -115755,21 +115755,25 @@
     <title lang="en">AFL Highlights Adelaide v Richmond</title>
     <desc lang="en">Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
   </programme>
-<programme start="20260811230000 +0000" stop="20260811232000 +0000" channel="starhub.premiersports">
+<programme start="20260811230000 +0000" stop="20260811231000 +0000" channel="starhub.premiersports">
     <title lang="en">AFL Highlights GWS Giants v Gold Coast</title>
     <desc lang="en">Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
   </programme>
-<programme start="20260811232000 +0000" stop="20260812011000 +0000" channel="starhub.premiersports">
+<programme start="20260811231000 +0000" stop="20260811233000 +0000" channel="starhub.premiersports">
+    <title lang="en">AFL Highlights GWS Giants v Gold Coast</title>
+    <desc lang="en">Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
+  </programme>
+<programme start="20260811233000 +0000" stop="20260812011500 +0000" channel="starhub.premiersports">
     <title lang="en">Nations Championship 2026 Japan v France</title>
     <desc lang="en">Coverage of the International Rugby season for 2026.</desc>
   </programme>
-<programme start="20260812011000 +0000" stop="20260812021000 +0000" channel="starhub.premiersports">
+<programme start="20260812011500 +0000" stop="20260812021000 +0000" channel="starhub.premiersports">
     <title lang="en">NRL Try Time</title>
     <desc lang="en">A round-up of all the tries and key moments from the latest round of fixtures in the 2026 NRL Premiership.</desc>
   </programme>
 <programme start="20260812021000 +0000" stop="20260812040000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Sharks v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
   </programme>
 <programme start="20260812040000 +0000" stop="20260812050000 +0000" channel="starhub.premiersports">
     <title lang="en">5 &amp; 6 Nations Classic Tries</title>
@@ -115813,15 +115817,15 @@
   </programme>
 <programme start="20260812080000 +0000" stop="20260812095000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Sharks v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
   </programme>
 <programme start="20260812095000 +0000" stop="20260812105000 +0000" channel="starhub.premiersports">
     <title lang="en">NRL Try Time</title>
     <desc lang="en">A round-up of all the tries and key moments from the latest round of fixtures in the 2026 NRL Premiership.</desc>
   </programme>
 <programme start="20260812105000 +0000" stop="20260812124000 +0000" channel="starhub.premiersports">
-    <title lang="en">SANZAAR International Tour Serie Argentina v South Africa</title>
-    <desc lang="en">Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+    <title lang="en">Nations Championship 2026 South Africa v Scotland</title>
+    <desc lang="en">Coverage of the International Rugby season for 2026.</desc>
   </programme>
 <programme start="20260812124000 +0000" stop="20260812143000 +0000" channel="starhub.premiersports">
     <title lang="en">Nations Championship 2026 Australia v Italy</title>
@@ -115849,11 +115853,11 @@
   </programme>
 <programme start="20260812213000 +0000" stop="20260812232000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Stormers v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks kick off their tour of South Africa against the Stormers in Cape Town.</desc>
   </programme>
 <programme start="20260812232000 +0000" stop="20260813011000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Sharks v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
   </programme>
 <programme start="20260813011000 +0000" stop="20260813030000 +0000" channel="starhub.premiersports">
     <title lang="en">Super League St Helens v Hull FC</title>
@@ -115897,11 +115901,11 @@
   </programme>
 <programme start="20260813122000 +0000" stop="20260813141000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Stormers v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks kick off their tour of South Africa against the Stormers in Cape Town.</desc>
   </programme>
 <programme start="20260813141000 +0000" stop="20260813160000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Sharks v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
   </programme>
 <programme start="20260813160000 +0000" stop="20260813162000 +0000" channel="starhub.premiersports">
     <title lang="en">AFL Highlights Bulldogs v North Melbourne</title>
@@ -115912,8 +115916,8 @@
     <desc lang="en">Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
   </programme>
 <programme start="20260813164000 +0000" stop="20260813183000 +0000" channel="starhub.premiersports">
-    <title lang="en">SANZAAR International Tour Serie Argentina v South Africa</title>
-    <desc lang="en">Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+    <title lang="en">Nations Championship 2026 South Africa v England</title>
+    <desc lang="en">Coverage of the International Rugby season for 2026.</desc>
   </programme>
 <programme start="20260813183000 +0000" stop="20260813211500 +0000" channel="starhub.premiersports">
     <title lang="en">LIVE Super League LIVE Leeds v Leigh</title>
@@ -115961,7 +115965,7 @@
   </programme>
 <programme start="20260814094000 +0000" stop="20260814113000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Stormers v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks kick off their tour of South Africa against the Stormers in Cape Town.</desc>
   </programme>
 <programme start="20260814113000 +0000" stop="20260814123000 +0000" channel="starhub.premiersports">
     <title lang="en">NRL Try Time</title>
@@ -115969,7 +115973,7 @@
   </programme>
 <programme start="20260814123000 +0000" stop="20260814142000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Sharks v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
   </programme>
 <programme start="20260814142000 +0000" stop="20260814161000 +0000" channel="starhub.premiersports">
     <title lang="en">Nations Championship 2026 Fiji v Scotland</title>
@@ -116019,13 +116023,13 @@
     <title lang="en">AFL Highlights Adelaide v Richmond</title>
     <desc lang="en">Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
   </programme>
-<programme start="20260815031500 +0000" stop="20260815050500 +0000" channel="starhub.premiersports">
-    <title lang="en">SANZAAR International Tour Serie Argentina v South Africa</title>
-    <desc lang="en">Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+<programme start="20260815031500 +0000" stop="20260815050000 +0000" channel="starhub.premiersports">
+    <title lang="en">Nations Championship 2026 Australia v France</title>
+    <desc lang="en">Coverage of the International Rugby season for 2026.</desc>
   </programme>
-<programme start="20260815050500 +0000" stop="20260815071000 +0000" channel="starhub.premiersports">
+<programme start="20260815050000 +0000" stop="20260815071000 +0000" channel="starhub.premiersports">
     <title lang="en">LIVE SANZAAR International Tour Serie LIVE Australia v Japan</title>
-    <desc lang="en">Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+    <desc lang="en">The Wallabies welcome Japan to Queensland.</desc>
   </programme>
 <programme start="20260815071000 +0000" stop="20260815074000 +0000" channel="starhub.premiersports">
     <title lang="en">5 and 6 Nations Classics 2014 - Wales v Scotland</title>
@@ -116065,15 +116069,15 @@
   </programme>
 <programme start="20260815131000 +0000" stop="20260815150000 +0000" channel="starhub.premiersports">
     <title lang="en">SANZAAR International Tour Serie Australia v Japan</title>
-    <desc lang="en">Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+    <desc lang="en">The Wallabies welcome Japan to Queensland.</desc>
   </programme>
 <programme start="20260815150000 +0000" stop="20260815165000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Sharks v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
   </programme>
 <programme start="20260815165000 +0000" stop="20260815190000 +0000" channel="starhub.premiersports">
     <title lang="en">LIVE Rugby&apos;s Greatest Rivalry LIVE Bulls v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks are in Pretoria to face the Bulls in the third test of their 2026 tour of South Africa.</desc>
   </programme>
 <programme start="20260815190000 +0000" stop="20260815193000 +0000" channel="starhub.premiersports">
     <title lang="en">5 and 6 Nations Classics 2004 - Scotland v France</title>
@@ -116081,22 +116085,22 @@
   </programme>
 <programme start="20260815193000 +0000" stop="20260815212000 +0000" channel="starhub.premiersports">
     <title lang="en">SANZAAR International Tour Serie Australia v Japan</title>
-    <desc lang="en">Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+    <desc lang="en">The Wallabies welcome Japan to Queensland.</desc>
   </programme>
 <programme start="20260815212000 +0000" stop="20260815235000 +0000" channel="starhub.premiersports">
-    <title lang="en">AFL Round 23</title>
+    <title lang="en">AFL Port Adelaide v Melbourne</title>
     <desc lang="en">All the action from the 2026 season of the Toyota Australian Football League.</desc>
   </programme>
 <programme start="20260815235000 +0000" stop="20260816014000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Bulls v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks are in Pretoria to face the Bulls in the third test of their 2026 tour of South Africa.</desc>
   </programme>
 <programme start="20260816014000 +0000" stop="20260816021000 +0000" channel="starhub.premiersports">
     <title lang="en">5 and 6 Nations Classics 2014 - France v Italy</title>
     <desc lang="en">A look at some of the best matches in the history of rugby&apos;s Six Nations.</desc>
   </programme>
 <programme start="20260816021000 +0000" stop="20260816041000 +0000" channel="starhub.premiersports">
-    <title lang="en">AFLW Round 1</title>
+    <title lang="en">AFLW Richmond v Collingwood</title>
     <desc lang="en">All the pulsating action from the 2026 AFLW season.</desc>
   </programme>
 <programme start="20260816041000 +0000" stop="20260816060000 +0000" channel="starhub.premiersports">
@@ -116113,18 +116117,18 @@
   </programme>
 <programme start="20260816083000 +0000" stop="20260816102000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Bulls v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks are in Pretoria to face the Bulls in the third test of their 2026 tour of South Africa.</desc>
   </programme>
 <programme start="20260816102000 +0000" stop="20260816121000 +0000" channel="starhub.premiersports">
     <title lang="en">SANZAAR International Tour Serie Australia v Japan</title>
-    <desc lang="en">Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+    <desc lang="en">The Wallabies welcome Japan to Queensland.</desc>
   </programme>
 <programme start="20260816121000 +0000" stop="20260816140000 +0000" channel="starhub.premiersports">
     <title lang="en">NRL Tigers v Dragons</title>
     <desc lang="en">Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
   </programme>
 <programme start="20260816140000 +0000" stop="20260816163000 +0000" channel="starhub.premiersports">
-    <title lang="en">AFL Round 23</title>
+    <title lang="en">AFL Bulldogs v Carlton</title>
     <desc lang="en">All the action from the 2026 season of the Toyota Australian Football League.</desc>
   </programme>
 <programme start="20260816163000 +0000" stop="20260816170000 +0000" channel="starhub.premiersports">
@@ -116152,11 +116156,11 @@
     <desc lang="en">Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
   </programme>
 <programme start="20260817000000 +0000" stop="20260817023000 +0000" channel="starhub.premiersports">
-    <title lang="en">AFL Round 23</title>
+    <title lang="en">AFL Port Adelaide v Melbourne</title>
     <desc lang="en">All the action from the 2026 season of the Toyota Australian Football League.</desc>
   </programme>
 <programme start="20260817023000 +0000" stop="20260817050000 +0000" channel="starhub.premiersports">
-    <title lang="en">AFL Round 23</title>
+    <title lang="en">AFL Bulldogs v Carlton</title>
     <desc lang="en">All the action from the 2026 season of the Toyota Australian Football League.</desc>
   </programme>
 <programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="starhub.premiersports">
@@ -116165,11 +116169,11 @@
   </programme>
 <programme start="20260817060000 +0000" stop="20260817075000 +0000" channel="starhub.premiersports">
     <title lang="en">SANZAAR International Tour Serie Australia v Japan</title>
-    <desc lang="en">Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+    <desc lang="en">The Wallabies welcome Japan to Queensland.</desc>
   </programme>
 <programme start="20260817075000 +0000" stop="20260817094000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Bulls v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks are in Pretoria to face the Bulls in the third test of their 2026 tour of South Africa.</desc>
   </programme>
 <programme start="20260817094000 +0000" stop="20260817113000 +0000" channel="starhub.premiersports">
     <title lang="en">NRL Tigers v Dragons</title>
@@ -116324,19 +116328,19 @@
     <desc lang="en">Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
   </programme>
 <programme start="20260818035000 +0000" stop="20260818054000 +0000" channel="starhub.premiersports">
-    <title lang="en">SANZAAR International Tour Serie Argentina v South Africa</title>
-    <desc lang="en">Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+    <title lang="en">Champions Cup Leinster v Bordeaux</title>
+    <desc lang="en">Coverage of the Investec Champions Cup Final as Leinster and Bordeaux Begles collide at San Mames Stadium in a winner-takes-all showdown.</desc>
   </programme>
 <programme start="20260818054000 +0000" stop="20260818073000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Stormers v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks kick off their tour of South Africa against the Stormers in Cape Town.</desc>
   </programme>
 <programme start="20260818073000 +0000" stop="20260818092000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Sharks v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
   </programme>
 <programme start="20260818092000 +0000" stop="20260818115000 +0000" channel="starhub.premiersports">
-    <title lang="en">AFL Round 23</title>
+    <title lang="en">AFL Port Adelaide v Melbourne</title>
     <desc lang="en">All the action from the 2026 season of the Toyota Australian Football League.</desc>
   </programme>
 <programme start="20260818115000 +0000" stop="20260818122000 +0000" channel="starhub.premiersports">
@@ -116345,11 +116349,11 @@
   </programme>
 <programme start="20260818122000 +0000" stop="20260818141000 +0000" channel="starhub.premiersports">
     <title lang="en">SANZAAR International Tour Serie Australia v Japan</title>
-    <desc lang="en">Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+    <desc lang="en">The Wallabies welcome Japan to Queensland.</desc>
   </programme>
 <programme start="20260818141000 +0000" stop="20260818160000 +0000" channel="starhub.premiersports">
     <title lang="en">Rugby&apos;s Greatest Rivalry Bulls v New Zealand</title>
-    <desc lang="en">Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+    <desc lang="en">The All Blacks are in Pretoria to face the Bulls in the third test of their 2026 tour of South Africa.</desc>
   </programme>
 <programme start="20260811160000 +0000" stop="20260811220000 +0000" channel="starhub.previewchannel">
     <title lang="en">Preview Channel</title>
@@ -125209,7 +125213,7 @@
     <desc lang="en">Annamalai seeks a bride for her son Varun, finding Vennila with traditional values, but complications arise when Vennila&apos;s sister Vaanmathy stirs tension.</desc>
   </programme>
 <programme start="20260813060000 +0000" stop="20260813090000 +0000" channel="starhub.zeetamil">
-    <title lang="en">Maargan</title>
+    <title lang="en">Maargan (130826)</title>
     <desc lang="en">Mystery and suspense weave a dark journey, as hidden secrets and shocking truths place characters in peril at every twist and turn. Release Year: 2025 Director: Leo John Paul</desc>
   </programme>
 <programme start="20260813090000 +0000" stop="20260813093000 +0000" channel="starhub.zeetamil">
