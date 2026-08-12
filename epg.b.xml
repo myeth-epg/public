@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- ETH EPG XML (Strict START Priority) generated on 12/08/2026, 16:11:31 -->
+<!-- ETH EPG XML (Strict START Priority) generated on 12/08/2026, 18:45:18 -->
 <tv>
 <channel id="homeplus.TaiwanPlus"><display-name lang="TW">[TW-I] 01 TAIWAN PLUS+</display-name><icon src="https://myeth-epg.github.io/icons/t01.png"></icon></channel>
 <channel id="homeplus.NHKWORLDPREMIUM"><display-name lang="TW">[TW-I] 02 NHK</display-name><icon src="https://myeth-epg.github.io/icons/t02.png"></icon></channel>
@@ -27434,6 +27434,150 @@
   <programme channel="pw.TW.eltv生活英語台.mod" start="20260812153000 +0000" stop="20260812160000 +0000">
     <title lang="zh">桌遊新樂園8普</title>
   </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812160000 +0000" stop="20260812163000 +0000">
+    <title lang="zh">童話任意門雙語版25普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812163000 +0000" stop="20260812170000 +0000">
+    <title lang="zh">童話任意門雙語版25普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812170000 +0000" stop="20260812173000 +0000">
+    <title lang="zh">跳舞童樂會28普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812173000 +0000" stop="20260812180000 +0000">
+    <title lang="zh">跳舞童樂會28普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812180000 +0000" stop="20260812183000 +0000">
+    <title lang="zh">聰明學文法4普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812183000 +0000" stop="20260812190000 +0000">
+    <title lang="zh">聰明學文法4普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812190000 +0000" stop="20260812193000 +0000">
+    <title lang="zh">DT踹貢4普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812193000 +0000" stop="20260812200000 +0000">
+    <title lang="zh">DT踹貢4普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812200000 +0000" stop="20260812203000 +0000">
+    <title lang="zh">快樂DoReMi99普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812203000 +0000" stop="20260812210000 +0000">
+    <title lang="zh">快樂DoReMi99普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812210000 +0000" stop="20260812213000 +0000">
+    <title lang="zh">淘氣鬼小鎮35普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812213000 +0000" stop="20260812220000 +0000">
+    <title lang="zh">淘氣鬼小鎮35普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812220000 +0000" stop="20260812223000 +0000">
+    <title lang="zh">貓頭鷹探險隊34普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812223000 +0000" stop="20260812230000 +0000">
+    <title lang="zh">貓頭鷹探險隊34普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812230000 +0000" stop="20260812233000 +0000">
+    <title lang="zh">大眼萌娃4普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260812233000 +0000" stop="20260813000000 +0000">
+    <title lang="zh">大眼萌娃4普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813000000 +0000" stop="20260813003000 +0000">
+    <title lang="zh">可可蒙15普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813003000 +0000" stop="20260813010000 +0000">
+    <title lang="zh">可可蒙15普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813010000 +0000" stop="20260813013000 +0000">
+    <title lang="zh">Pororo18普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813013000 +0000" stop="20260813020000 +0000">
+    <title lang="zh">Pororo18普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813020000 +0000" stop="20260813023000 +0000">
+    <title lang="zh">可愛琪琪9普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813023000 +0000" stop="20260813030000 +0000">
+    <title lang="zh">可愛琪琪9普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813030000 +0000" stop="20260813033000 +0000">
+    <title lang="zh">FOOD超人6普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813033000 +0000" stop="20260813040000 +0000">
+    <title lang="zh">FOOD超人6普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813040000 +0000" stop="20260813043000 +0000">
+    <title lang="zh">快樂DoReMi170普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813043000 +0000" stop="20260813050000 +0000">
+    <title lang="zh">TAYO小巴士3普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813050000 +0000" stop="20260813053000 +0000">
+    <title lang="zh">Pororo18普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813053000 +0000" stop="20260813060000 +0000">
+    <title lang="zh">Pororo18普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813060000 +0000" stop="20260813063000 +0000">
+    <title lang="zh">哈皮樂奇鬧翻天29普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813063000 +0000" stop="20260813070000 +0000">
+    <title lang="zh">哈皮樂奇鬧翻天29普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813070000 +0000" stop="20260813073000 +0000">
+    <title lang="zh">小螞蟻巴布4普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813073000 +0000" stop="20260813080000 +0000">
+    <title lang="zh">小螞蟻巴布4普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813080000 +0000" stop="20260813083000 +0000">
+    <title lang="zh">可愛琪琪10普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813083000 +0000" stop="20260813090000 +0000">
+    <title lang="zh">可愛琪琪10普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813090000 +0000" stop="20260813093000 +0000">
+    <title lang="zh">可可蒙16普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813093000 +0000" stop="20260813100000 +0000">
+    <title lang="zh">可可蒙16普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813100000 +0000" stop="20260813103000 +0000">
+    <title lang="zh">Pororo19普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813103000 +0000" stop="20260813110000 +0000">
+    <title lang="zh">Pororo19普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813110000 +0000" stop="20260813113000 +0000">
+    <title lang="zh">哈皮樂奇鬧翻天30普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813113000 +0000" stop="20260813120000 +0000">
+    <title lang="zh">哈皮樂奇鬧翻天30普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813120000 +0000" stop="20260813123000 +0000">
+    <title lang="zh">Badanamu說故事19普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813123000 +0000" stop="20260813130000 +0000">
+    <title lang="zh">Badanamu說故事19普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813130000 +0000" stop="20260813133000 +0000">
+    <title lang="zh">歡迎來到Wiggle Town37普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813133000 +0000" stop="20260813140000 +0000">
+    <title lang="zh">歡迎來到Wiggle Town60普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813140000 +0000" stop="20260813143000 +0000">
+    <title lang="zh">快樂DoReMi171普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813143000 +0000" stop="20260813150000 +0000">
+    <title lang="zh">TAYO小巴士4普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813150000 +0000" stop="20260813153000 +0000">
+    <title lang="zh">桌遊新樂園9普</title>
+  </programme>
+  <programme channel="pw.TW.eltv生活英語台.mod" start="20260813153000 +0000" stop="20260813160000 +0000">
+    <title lang="zh">桌遊新樂園9普</title>
+  </programme>
   <programme channel="pw.TW.eltv生活英語台.mod" start="20260813160000 +0000" stop="20260813163000 +0000">
     <title lang="zh">童話任意門雙語版26普</title>
   </programme>
@@ -27637,6 +27781,228 @@
   </programme>
   <programme channel="pw.TW.euronews.mod" start="20260812154600 +0000" stop="20260812160000 +0000">
     <title lang="zh">News普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812160000 +0000" stop="20260812161500 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812161500 +0000" stop="20260812163100 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812163100 +0000" stop="20260812170000 +0000">
+    <title lang="zh">12 minutes with普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812170000 +0000" stop="20260812171500 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812171500 +0000" stop="20260812173000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812173000 +0000" stop="20260812180000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812180000 +0000" stop="20260812181400 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812181400 +0000" stop="20260812183000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812183000 +0000" stop="20260812190000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812190000 +0000" stop="20260812191500 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812191500 +0000" stop="20260812193000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812193000 +0000" stop="20260812200000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812200000 +0000" stop="20260812201500 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812201500 +0000" stop="20260812203000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812203000 +0000" stop="20260812210000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812210000 +0000" stop="20260812211500 +0000">
+    <title lang="zh">Wake up Europe普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812211500 +0000" stop="20260812213000 +0000">
+    <title lang="zh">Wake up Europe普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812213000 +0000" stop="20260812220000 +0000">
+    <title lang="zh">Wake up Europe普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812220000 +0000" stop="20260812221500 +0000">
+    <title lang="zh">Wake up Europe普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812221500 +0000" stop="20260812223000 +0000">
+    <title lang="zh">Wake up Europe普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812223000 +0000" stop="20260812233000 +0000">
+    <title lang="zh">Wake up Europe普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812233000 +0000" stop="20260812234600 +0000">
+    <title lang="zh">Wake up Europe普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260812234600 +0000" stop="20260813003000 +0000">
+    <title lang="zh">The Ring普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813003000 +0000" stop="20260813004600 +0000">
+    <title lang="zh">Wake up Europe普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813004600 +0000" stop="20260813013000 +0000">
+    <title lang="zh">News普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813013000 +0000" stop="20260813014600 +0000">
+    <title lang="zh">Euronews Now普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813014600 +0000" stop="20260813020000 +0000">
+    <title lang="zh">The Ring普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813020000 +0000" stop="20260813023000 +0000">
+    <title lang="zh">Euronews Now普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813023000 +0000" stop="20260813030000 +0000">
+    <title lang="zh">Euronews Now普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813030000 +0000" stop="20260813031500 +0000">
+    <title lang="zh">Euronews Now普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813031500 +0000" stop="20260813032900 +0000">
+    <title lang="zh">Euronews Now普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813032900 +0000" stop="20260813035200 +0000">
+    <title lang="zh">The Ring普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813035200 +0000" stop="20260813040000 +0000">
+    <title lang="zh">The Ring普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813040000 +0000" stop="20260813041500 +0000">
+    <title lang="zh">Euronews Now普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813041500 +0000" stop="20260813043000 +0000">
+    <title lang="zh">Euronews Now普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813043000 +0000" stop="20260813044600 +0000">
+    <title lang="zh">Euronews Now普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813044600 +0000" stop="20260813050000 +0000">
+    <title lang="zh">Made in europe普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813050000 +0000" stop="20260813051500 +0000">
+    <title lang="zh">Euronews Now普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813051500 +0000" stop="20260813053100 +0000">
+    <title lang="zh">Euronews Now普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813053100 +0000" stop="20260813054200 +0000">
+    <title lang="zh">Europe conversation普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813054200 +0000" stop="20260813060000 +0000">
+    <title lang="zh">12 minutes with普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813060000 +0000" stop="20260813061500 +0000">
+    <title lang="zh">Euronews Now普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813061500 +0000" stop="20260813063000 +0000">
+    <title lang="zh">Euronews Now普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813063000 +0000" stop="20260813070000 +0000">
+    <title lang="zh">Euronews Now普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813070000 +0000" stop="20260813073000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813073000 +0000" stop="20260813074800 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813074800 +0000" stop="20260813080000 +0000">
+    <title lang="zh">Business Line普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813080000 +0000" stop="20260813081500 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813081500 +0000" stop="20260813083000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813083000 +0000" stop="20260813084600 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813084600 +0000" stop="20260813090000 +0000">
+    <title lang="zh">Made in europe普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813090000 +0000" stop="20260813091500 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813091500 +0000" stop="20260813093000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813093000 +0000" stop="20260813100000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813100000 +0000" stop="20260813101400 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813101400 +0000" stop="20260813102900 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813102900 +0000" stop="20260813105200 +0000">
+    <title lang="zh">The Ring普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813105200 +0000" stop="20260813110000 +0000">
+    <title lang="zh">The Ring普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813110000 +0000" stop="20260813111400 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813111400 +0000" stop="20260813114400 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813114400 +0000" stop="20260813120000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813120000 +0000" stop="20260813121500 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813121500 +0000" stop="20260813123000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813123000 +0000" stop="20260813130000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813130000 +0000" stop="20260813131400 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813131400 +0000" stop="20260813133100 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813133100 +0000" stop="20260813134600 +0000">
+    <title lang="zh">Europe conversation普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813134600 +0000" stop="20260813140000 +0000">
+    <title lang="zh">12 minutes with普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813140000 +0000" stop="20260813141500 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813141500 +0000" stop="20260813143000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813143000 +0000" stop="20260813150000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813150000 +0000" stop="20260813151500 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813151500 +0000" stop="20260813153000 +0000">
+    <title lang="zh">The European debrief普</title>
+  </programme>
+  <programme channel="pw.TW.euronews.mod" start="20260813153000 +0000" stop="20260813160000 +0000">
+    <title lang="zh">The European debrief普</title>
   </programme>
   <programme channel="pw.TW.euronews.mod" start="20260813160000 +0000" stop="20260813161500 +0000">
     <title lang="zh">The European debrief普</title>
@@ -28448,6 +28814,63 @@
   <programme channel="pw.TW.台視財經.mod" start="20260812153000 +0000" stop="20260812160000 +0000">
     <title lang="zh">全球新觀點2402普</title>
   </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260812160000 +0000" stop="20260812163000 +0000">
+    <title lang="zh">財經新聞通2145普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260812163000 +0000" stop="20260812173000 +0000">
+    <title lang="zh">國際財經脈動3030普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260812173000 +0000" stop="20260812183000 +0000">
+    <title lang="zh">益起看世界0431普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260812183000 +0000" stop="20260812210000 +0000">
+    <title lang="zh">錢線百分百（重）4032普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260812210000 +0000" stop="20260812213000 +0000">
+    <title lang="zh">全球新觀點2402普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260812213000 +0000" stop="20260812220500 +0000">
+    <title lang="zh">財經新聞通2145普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260812220500 +0000" stop="20260813004500 +0000">
+    <title lang="zh">錢線百分百（重）4032普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260813004500 +0000" stop="20260813060000 +0000">
+    <title lang="zh">股市即時通3455普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260813060000 +0000" stop="20260813063000 +0000">
+    <title lang="zh">健康醫聊站0182普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260813063000 +0000" stop="20260813070000 +0000">
+    <title lang="zh">尋找台灣感動力0182普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260813070000 +0000" stop="20260813073000 +0000">
+    <title lang="zh">消費情報讚2810普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260813073000 +0000" stop="20260813080000 +0000">
+    <title lang="zh">消費情報讚2810普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260813080000 +0000" stop="20260813085800 +0000">
+    <title lang="zh">國際財經脈動3031普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260813085800 +0000" stop="20260813095500 +0000">
+    <title lang="zh">ＮＥＷＳ金探號0660普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260813095500 +0000" stop="20260813105800 +0000">
+    <title lang="zh">台視新聞全球現場0836普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260813105800 +0000" stop="20260813115800 +0000">
+    <title lang="zh">國際財經脈動3031普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260813115800 +0000" stop="20260813130000 +0000">
+    <title lang="zh">台視晚間新聞3034普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260813130000 +0000" stop="20260813153000 +0000">
+    <title lang="zh">錢線百分百4033普</title>
+  </programme>
+  <programme channel="pw.TW.台視財經.mod" start="20260813153000 +0000" stop="20260813160000 +0000">
+    <title lang="zh">全球新觀點2403普</title>
+  </programme>
   <programme channel="pw.TW.台視財經.mod" start="20260813160000 +0000" stop="20260813163000 +0000">
     <title lang="zh">財經新聞通2146普</title>
   </programme>
@@ -28546,6 +28969,111 @@
   </programme>
   <programme channel="pw.TW.客家電視.mod" start="20260812153000 +0000" stop="20260812160000 +0000">
     <title lang="zh">客家戲曲723普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260812160000 +0000" stop="20260812170000 +0000">
+    <title lang="zh">暗夜新聞224普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260812170000 +0000" stop="20260812180000 +0000">
+    <title lang="zh">客家回聲劇場彬與瑛7普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260812180000 +0000" stop="20260812210000 +0000">
+    <title lang="zh">訊號測試普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260812210000 +0000" stop="20260812213000 +0000">
+    <title lang="zh">日頭下月光光110普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260812213000 +0000" stop="20260812220000 +0000">
+    <title lang="zh">國際新聞-客觀世界217普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260812220000 +0000" stop="20260812223000 +0000">
+    <title lang="zh">停動停動好健康414普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260812223000 +0000" stop="20260812230000 +0000">
+    <title lang="zh">奧林P客1566普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260812230000 +0000" stop="20260812233000 +0000">
+    <title lang="zh">繪聲繪影22普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260812233000 +0000" stop="20260813000000 +0000">
+    <title lang="zh">客家戲曲723普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813000000 +0000" stop="20260813010000 +0000">
+    <title lang="zh">溜麵線雜貨店24普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813010000 +0000" stop="20260813020000 +0000">
+    <title lang="zh">福氣來了南方篇79普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813020000 +0000" stop="20260813025500 +0000">
+    <title lang="zh">一家之煮527普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813025500 +0000" stop="20260813030000 +0000">
+    <title lang="zh">學學嘴學學鼻S311普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813030000 +0000" stop="20260813031500 +0000">
+    <title lang="zh">森林偵探隊7普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813031500 +0000" stop="20260813033000 +0000">
+    <title lang="zh">牯牯咕咕咕183普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813033000 +0000" stop="20260813043000 +0000">
+    <title lang="zh">誰來作客105普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813043000 +0000" stop="20260813052500 +0000">
+    <title lang="zh">當晝新聞225普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813052500 +0000" stop="20260813053000 +0000">
+    <title lang="zh">大自然生趣29普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813053000 +0000" stop="20260813063000 +0000">
+    <title lang="zh">客家回聲劇場彬與瑛7普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813063000 +0000" stop="20260813070000 +0000">
+    <title lang="zh">客家戲曲723普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813070000 +0000" stop="20260813080000 +0000">
+    <title lang="zh">一家之煮528普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813080000 +0000" stop="20260813085500 +0000">
+    <title lang="zh">福氣來了南方篇80普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813085500 +0000" stop="20260813090000 +0000">
+    <title lang="zh">學學嘴學學鼻S311普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813090000 +0000" stop="20260813091500 +0000">
+    <title lang="zh">森林偵探隊7普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813091500 +0000" stop="20260813093000 +0000">
+    <title lang="zh">牯牯咕咕咕183普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813093000 +0000" stop="20260813100000 +0000">
+    <title lang="zh">Bilibolo唱唱跳跳617普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813100000 +0000" stop="20260813103000 +0000">
+    <title lang="zh">奧林P客1569普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813103000 +0000" stop="20260813110000 +0000">
+    <title lang="zh">客家戲曲724普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813110000 +0000" stop="20260813115500 +0000">
+    <title lang="zh">暗夜新聞225普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813115500 +0000" stop="20260813120000 +0000">
+    <title lang="zh">客客客棧29普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813120000 +0000" stop="20260813130000 +0000">
+    <title lang="zh">Hakka Night 我的觀點世紀的寶貝35普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813130000 +0000" stop="20260813140000 +0000">
+    <title lang="zh">通往世界的護照12普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813140000 +0000" stop="20260813150000 +0000">
+    <title lang="zh">客家回聲劇場彬與瑛8普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813150000 +0000" stop="20260813153000 +0000">
+    <title lang="zh">國際新聞-客觀世界218普</title>
+  </programme>
+  <programme channel="pw.TW.客家電視.mod" start="20260813153000 +0000" stop="20260813160000 +0000">
+    <title lang="zh">客家戲曲724普</title>
   </programme>
   <programme channel="pw.TW.客家電視.mod" start="20260813160000 +0000" stop="20260813170000 +0000">
     <title lang="zh">暗夜新聞225普</title>
@@ -29687,6 +30215,78 @@
   <programme channel="pw.TW.東森購物4.mod" start="20260812150000 +0000" stop="20260812160000 +0000">
     <title lang="zh">新朋友首購送200詳按888普</title>
   </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260812160000 +0000" stop="20260812170000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260812170000 +0000" stop="20260812180000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260812180000 +0000" stop="20260812190000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260812190000 +0000" stop="20260812200000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260812200000 +0000" stop="20260812210000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260812210000 +0000" stop="20260812220000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260812220000 +0000" stop="20260812230000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260812230000 +0000" stop="20260813000000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813000000 +0000" stop="20260813010000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813010000 +0000" stop="20260813020000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813020000 +0000" stop="20260813030000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813030000 +0000" stop="20260813040000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813040000 +0000" stop="20260813050000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813050000 +0000" stop="20260813060000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813060000 +0000" stop="20260813070000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813070000 +0000" stop="20260813080000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813080000 +0000" stop="20260813090000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813090000 +0000" stop="20260813100000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813100000 +0000" stop="20260813110000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813110000 +0000" stop="20260813120000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813120000 +0000" stop="20260813130000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813130000 +0000" stop="20260813140000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813140000 +0000" stop="20260813150000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物4.mod" start="20260813150000 +0000" stop="20260813160000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
   <programme channel="pw.TW.東森購物4.mod" start="20260813160000 +0000" stop="20260813170000 +0000">
     <title lang="zh">新朋友首購送200詳按888普</title>
   </programme>
@@ -29754,6 +30354,78 @@
     <title lang="zh">新朋友首購送200詳按888普</title>
   </programme>
   <programme channel="pw.TW.東森購物5.mod" start="20260812150000 +0000" stop="20260812160000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260812160000 +0000" stop="20260812170000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260812170000 +0000" stop="20260812180000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260812180000 +0000" stop="20260812190000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260812190000 +0000" stop="20260812200000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260812200000 +0000" stop="20260812210000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260812210000 +0000" stop="20260812220000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260812220000 +0000" stop="20260812230000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260812230000 +0000" stop="20260813000000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813000000 +0000" stop="20260813010000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813010000 +0000" stop="20260813020000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813020000 +0000" stop="20260813030000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813030000 +0000" stop="20260813040000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813040000 +0000" stop="20260813050000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813050000 +0000" stop="20260813060000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813060000 +0000" stop="20260813070000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813070000 +0000" stop="20260813080000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813080000 +0000" stop="20260813090000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813090000 +0000" stop="20260813100000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813100000 +0000" stop="20260813110000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813110000 +0000" stop="20260813120000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813120000 +0000" stop="20260813130000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813130000 +0000" stop="20260813140000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813140000 +0000" stop="20260813150000 +0000">
+    <title lang="zh">新朋友首購送200詳按888普</title>
+  </programme>
+  <programme channel="pw.TW.東森購物5.mod" start="20260813150000 +0000" stop="20260813160000 +0000">
     <title lang="zh">新朋友首購送200詳按888普</title>
   </programme>
   <programme channel="pw.TW.東森購物5.mod" start="20260813160000 +0000" stop="20260813170000 +0000">
@@ -30977,6 +31649,75 @@
   <programme channel="pw.TW.鏡電視新聞台.mod" start="20260812153000 +0000" stop="20260812160000 +0000">
     <title lang="zh">全球聊天室12普</title>
   </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260812160000 +0000" stop="20260812180000 +0000">
+    <title lang="zh">有話鏡來講12普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260812180000 +0000" stop="20260812183000 +0000">
+    <title lang="zh">台語新聞手語12普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260812183000 +0000" stop="20260812193000 +0000">
+    <title lang="zh">新聞鏡現場12普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260812193000 +0000" stop="20260812200000 +0000">
+    <title lang="zh">台語新聞手語12普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260812200000 +0000" stop="20260812203000 +0000">
+    <title lang="zh">另一種注目74護</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260812203000 +0000" stop="20260812210000 +0000">
+    <title lang="zh">文藝賦格25普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260812210000 +0000" stop="20260812213000 +0000">
+    <title lang="zh">台語新聞手語12普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260812213000 +0000" stop="20260812220000 +0000">
+    <title lang="zh">鏡轉全球12普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260812220000 +0000" stop="20260812230000 +0000">
+    <title lang="zh">新聞鏡現場12普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260812230000 +0000" stop="20260813010000 +0000">
+    <title lang="zh">早安進行式13普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260813010000 +0000" stop="20260813020000 +0000">
+    <title lang="zh">0900整點新聞13普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260813020000 +0000" stop="20260813030000 +0000">
+    <title lang="zh">1000整點新聞13普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260813030000 +0000" stop="20260813035500 +0000">
+    <title lang="zh">1100整點新聞13普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260813035500 +0000" stop="20260813060000 +0000">
+    <title lang="zh">午間新聞13普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260813060000 +0000" stop="20260813080000 +0000">
+    <title lang="zh">大選鏡來講13普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260813080000 +0000" stop="20260813083000 +0000">
+    <title lang="zh">台語新聞13普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260813083000 +0000" stop="20260813090000 +0000">
+    <title lang="zh">1630整點新聞13普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260813090000 +0000" stop="20260813100000 +0000">
+    <title lang="zh">1700整點新聞13普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260813100000 +0000" stop="20260813120000 +0000">
+    <title lang="zh">晚間新聞13普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260813120000 +0000" stop="20260813140000 +0000">
+    <title lang="zh">有話鏡來講13普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260813140000 +0000" stop="20260813150000 +0000">
+    <title lang="zh">新聞鏡現場13普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260813150000 +0000" stop="20260813153000 +0000">
+    <title lang="zh">鏡轉全球13普</title>
+  </programme>
+  <programme channel="pw.TW.鏡電視新聞台.mod" start="20260813153000 +0000" stop="20260813160000 +0000">
+    <title lang="zh">全球聊天室13普</title>
+  </programme>
   <programme channel="pw.TW.鏡電視新聞台.mod" start="20260813160000 +0000" stop="20260813180000 +0000">
     <title lang="zh">有話鏡來講13普</title>
   </programme>
@@ -31051,6 +31792,78 @@
   </programme>
   <programme channel="pw.TW.靖天綜合.mod" start="20260812150000 +0000" stop="20260812160000 +0000">
     <title lang="zh">請你跟我這樣過285普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260812160000 +0000" stop="20260812170000 +0000">
+    <title lang="zh">台灣1001個故事409普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260812170000 +0000" stop="20260812180000 +0000">
+    <title lang="zh">台灣啟示錄344普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260812180000 +0000" stop="20260812190000 +0000">
+    <title lang="zh">MIT台灣誌69普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260812190000 +0000" stop="20260812200000 +0000">
+    <title lang="zh">請你跟我這樣過285普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260812200000 +0000" stop="20260812210000 +0000">
+    <title lang="zh">台灣1001個故事409普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260812210000 +0000" stop="20260812220000 +0000">
+    <title lang="zh">進擊的台灣482普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260812220000 +0000" stop="20260812230000 +0000">
+    <title lang="zh">大陸尋奇160普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260812230000 +0000" stop="20260813000000 +0000">
+    <title lang="zh">台灣啟示錄344普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813000000 +0000" stop="20260813010000 +0000">
+    <title lang="zh">型男大主廚81普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813010000 +0000" stop="20260813020000 +0000">
+    <title lang="zh">進擊的台灣482普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813020000 +0000" stop="20260813030000 +0000">
+    <title lang="zh">保健搶先報58普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813030000 +0000" stop="20260813040000 +0000">
+    <title lang="zh">台灣1001個故事409普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813040000 +0000" stop="20260813050000 +0000">
+    <title lang="zh">台灣啟示錄344普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813050000 +0000" stop="20260813060000 +0000">
+    <title lang="zh">進擊的台灣482普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813060000 +0000" stop="20260813070000 +0000">
+    <title lang="zh">保健搶先報67普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813070000 +0000" stop="20260813080000 +0000">
+    <title lang="zh">型男大主廚81普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813080000 +0000" stop="20260813090000 +0000">
+    <title lang="zh">大陸尋奇160普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813090000 +0000" stop="20260813100000 +0000">
+    <title lang="zh">MIT台灣誌70普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813100000 +0000" stop="20260813110000 +0000">
+    <title lang="zh">台灣啟示錄345普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813110000 +0000" stop="20260813120000 +0000">
+    <title lang="zh">台灣1001個故事410普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813120000 +0000" stop="20260813130000 +0000">
+    <title lang="zh">型男大主廚82普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813130000 +0000" stop="20260813140000 +0000">
+    <title lang="zh">大陸尋奇161普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813140000 +0000" stop="20260813150000 +0000">
+    <title lang="zh">進擊的台灣483普</title>
+  </programme>
+  <programme channel="pw.TW.靖天綜合.mod" start="20260813150000 +0000" stop="20260813160000 +0000">
+    <title lang="zh">請你跟我這樣過286普</title>
   </programme>
   <programme channel="pw.TW.靖天綜合.mod" start="20260813160000 +0000" stop="20260813170000 +0000">
     <title lang="zh">台灣1001個故事410普</title>
@@ -31168,6 +31981,150 @@
   </programme>
   <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812153000 +0000" stop="20260812160000 +0000">
     <title lang="zh">保齡球少女！1普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812160000 +0000" stop="20260812163000 +0000">
+    <title lang="zh">刑警X戰士美少女12普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812163000 +0000" stop="20260812170000 +0000">
+    <title lang="zh">刑警X戰士美少女13普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812170000 +0000" stop="20260812173000 +0000">
+    <title lang="zh">動物發明家23普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812173000 +0000" stop="20260812180000 +0000">
+    <title lang="zh">動物發明家24普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812180000 +0000" stop="20260812183000 +0000">
+    <title lang="zh">月刊妄想科學12普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812183000 +0000" stop="20260812190000 +0000">
+    <title lang="zh">保齡球少女！1普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812190000 +0000" stop="20260812193000 +0000">
+    <title lang="zh">頑皮豹25普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812193000 +0000" stop="20260812200000 +0000">
+    <title lang="zh">頑皮豹31普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812200000 +0000" stop="20260812203000 +0000">
+    <title lang="zh">偶像X戰士美少女23普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812203000 +0000" stop="20260812210000 +0000">
+    <title lang="zh">偶像X戰士美少女24普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812210000 +0000" stop="20260812213000 +0000">
+    <title lang="zh">刑警X戰士美少女12普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812213000 +0000" stop="20260812220000 +0000">
+    <title lang="zh">刑警X戰士美少女13普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812220000 +0000" stop="20260812223000 +0000">
+    <title lang="zh">動物發明家23普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812223000 +0000" stop="20260812230000 +0000">
+    <title lang="zh">動物發明家24普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812230000 +0000" stop="20260812233000 +0000">
+    <title lang="zh">頑皮豹25普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260812233000 +0000" stop="20260813000000 +0000">
+    <title lang="zh">頑皮豹31普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813000000 +0000" stop="20260813003000 +0000">
+    <title lang="zh">月刊妄想科學12普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813003000 +0000" stop="20260813010000 +0000">
+    <title lang="zh">保齡球少女！1普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813010000 +0000" stop="20260813013000 +0000">
+    <title lang="zh">偶像X戰士美少女23普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813013000 +0000" stop="20260813020000 +0000">
+    <title lang="zh">偶像X戰士美少女24普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813020000 +0000" stop="20260813023000 +0000">
+    <title lang="zh">刑警X戰士美少女12普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813023000 +0000" stop="20260813030000 +0000">
+    <title lang="zh">刑警X戰士美少女13普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813030000 +0000" stop="20260813033000 +0000">
+    <title lang="zh">動物發明家23普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813033000 +0000" stop="20260813040000 +0000">
+    <title lang="zh">動物發明家24普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813040000 +0000" stop="20260813043000 +0000">
+    <title lang="zh">機甲戰龍12普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813043000 +0000" stop="20260813050000 +0000">
+    <title lang="zh">機甲戰龍13普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813050000 +0000" stop="20260813053000 +0000">
+    <title lang="zh">頑皮豹25普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813053000 +0000" stop="20260813060000 +0000">
+    <title lang="zh">頑皮豹31普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813060000 +0000" stop="20260813063000 +0000">
+    <title lang="zh">偶像X戰士美少女23普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813063000 +0000" stop="20260813070000 +0000">
+    <title lang="zh">偶像X戰士美少女24普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813070000 +0000" stop="20260813073000 +0000">
+    <title lang="zh">保齡球少女！1普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813073000 +0000" stop="20260813080000 +0000">
+    <title lang="zh">保齡球少女！2普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813080000 +0000" stop="20260813083000 +0000">
+    <title lang="zh">機甲戰龍12普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813083000 +0000" stop="20260813090000 +0000">
+    <title lang="zh">機甲戰龍13普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813090000 +0000" stop="20260813093000 +0000">
+    <title lang="zh">頑皮豹31普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813093000 +0000" stop="20260813100000 +0000">
+    <title lang="zh">頑皮豹32普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813100000 +0000" stop="20260813103000 +0000">
+    <title lang="zh">偶像X戰士美少女24普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813103000 +0000" stop="20260813110000 +0000">
+    <title lang="zh">偶像X戰士美少女25普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813110000 +0000" stop="20260813113000 +0000">
+    <title lang="zh">機甲戰龍13普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813113000 +0000" stop="20260813120000 +0000">
+    <title lang="zh">機甲戰龍14普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813120000 +0000" stop="20260813123000 +0000">
+    <title lang="zh">刑警X戰士美少女13普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813123000 +0000" stop="20260813130000 +0000">
+    <title lang="zh">刑警X戰士美少女14普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813130000 +0000" stop="20260813133000 +0000">
+    <title lang="zh">動物發明家24普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813133000 +0000" stop="20260813140000 +0000">
+    <title lang="zh">動物發明家25普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813140000 +0000" stop="20260813143000 +0000">
+    <title lang="zh">機甲戰龍13普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813143000 +0000" stop="20260813150000 +0000">
+    <title lang="zh">機甲戰龍14普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813150000 +0000" stop="20260813153000 +0000">
+    <title lang="zh">保齡球少女！1普</title>
+  </programme>
+  <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813153000 +0000" stop="20260813160000 +0000">
+    <title lang="zh">保齡球少女！2普</title>
   </programme>
   <programme channel="pw.TW.靖洋卡通nice.bingo.mod" start="20260813160000 +0000" stop="20260813163000 +0000">
     <title lang="zh">刑警X戰士美少女13普</title>
