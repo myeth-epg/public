@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260811225005 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="TW-EPG-Multi-Merger">
+<tv date="20260812052754 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="TW-EPG-Multi-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -5613,6 +5613,120 @@
   </programme>
 <programme start="20260815140000 +0000" stop="20260815155959 +0000" channel="hami.CTVJingCai">
     <title lang="zh">綜藝大本營普</title>
+  </programme>
+<programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">MIT台灣誌普</title>
+  </programme>
+<programme start="20260815170000 +0000" stop="20260815180000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">台灣真棒普</title>
+  </programme>
+<programme start="20260815180000 +0000" stop="20260815200000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">飢餓遊戲普</title>
+  </programme>
+<programme start="20260815200000 +0000" stop="20260815210000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">大陸尋奇英才文教基金會普</title>
+  </programme>
+<programme start="20260815210000 +0000" stop="20260815220000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">康熙來了護</title>
+  </programme>
+<programme start="20260815220000 +0000" stop="20260815230000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">台灣真棒普</title>
+  </programme>
+<programme start="20260815230000 +0000" stop="20260816000000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">中視早安新聞普</title>
+  </programme>
+<programme start="20260816000000 +0000" stop="20260816020000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">歌聲滿天下普</title>
+  </programme>
+<programme start="20260816020000 +0000" stop="20260816035800 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">開心俱樂部普</title>
+  </programme>
+<programme start="20260816035800 +0000" stop="20260816050000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">中視午間新聞普</title>
+  </programme>
+<programme start="20260816050000 +0000" stop="20260816060000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">康熙來了護</title>
+  </programme>
+<programme start="20260816060000 +0000" stop="20260816070000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">健康一點靈普</title>
+  </programme>
+<programme start="20260816070000 +0000" stop="20260816080000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">繞著幸福轉普</title>
+  </programme>
+<programme start="20260816080000 +0000" stop="20260816100000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">黃昏的約會普</title>
+  </programme>
+<programme start="20260816100000 +0000" stop="20260816105700 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">大陸尋奇英才文教基金會普</title>
+  </programme>
+<programme start="20260816105700 +0000" stop="20260816120000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">中視新聞全球報導普</title>
+  </programme>
+<programme start="20260816120000 +0000" stop="20260816140000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">最強大國民普</title>
+  </programme>
+<programme start="20260816140000 +0000" stop="20260816155959 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">周日八點黨普</title>
+  </programme>
+<programme start="20260816160000 +0000" stop="20260816170000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">大陸尋奇英才文教基金會普</title>
+  </programme>
+<programme start="20260816170000 +0000" stop="20260816180000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">台灣真棒普</title>
+  </programme>
+<programme start="20260816180000 +0000" stop="20260816190000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">美麗藝能界普</title>
+  </programme>
+<programme start="20260816190000 +0000" stop="20260816200000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">MIT台灣誌普</title>
+  </programme>
+<programme start="20260816200000 +0000" stop="20260816210000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">大陸見聞錄普</title>
+  </programme>
+<programme start="20260816210000 +0000" stop="20260816220000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">罌粟花普</title>
+  </programme>
+<programme start="20260816220000 +0000" stop="20260816230000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">MIT台灣誌普</title>
+  </programme>
+<programme start="20260816230000 +0000" stop="20260817000000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">中視早安新聞普</title>
+  </programme>
+<programme start="20260817000000 +0000" stop="20260817020000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">歌聲滿天下普</title>
+  </programme>
+<programme start="20260817020000 +0000" stop="20260817035800 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">開心俱樂部普</title>
+  </programme>
+<programme start="20260817035800 +0000" stop="20260817050000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">中視午間新聞普</title>
+  </programme>
+<programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">美麗藝能界普</title>
+  </programme>
+<programme start="20260817060000 +0000" stop="20260817070000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">健康一點靈普</title>
+  </programme>
+<programme start="20260817070000 +0000" stop="20260817080000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">繞著幸福轉普</title>
+  </programme>
+<programme start="20260817080000 +0000" stop="20260817100000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">黃昏的約會普</title>
+  </programme>
+<programme start="20260817100000 +0000" stop="20260817105800 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">罌粟花普</title>
+  </programme>
+<programme start="20260817105800 +0000" stop="20260817120000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">中視新聞全球報導普</title>
+  </programme>
+<programme start="20260817120000 +0000" stop="20260817140000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">飢餓遊戲普</title>
+  </programme>
+<programme start="20260817140000 +0000" stop="20260817150000 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">罌粟花普</title>
+  </programme>
+<programme start="20260817150000 +0000" stop="20260817155959 +0000" channel="hami.CTVJingCai">
+    <title lang="zh">美麗藝能界普</title>
   </programme>
 <programme start="20260810160600 +0000" stop="20260810160900 +0000" channel="hami.DaVinci">
     <title lang="zh">超級英雄飛毛腿－要吃綠色蔬菜(普)</title>
@@ -11551,6 +11665,78 @@
 <programme start="20260816150000 +0000" stop="20260816155959 +0000" channel="hami.CTiNews">
     <title lang="zh">綠也掀桌普</title>
   </programme>
+<programme start="20260816160000 +0000" stop="20260816170000 +0000" channel="hami.CTiNews">
+    <title lang="zh">18中天辣晚報普</title>
+  </programme>
+<programme start="20260816170000 +0000" stop="20260816180000 +0000" channel="hami.CTiNews">
+    <title lang="zh">19中天辣晚報普</title>
+  </programme>
+<programme start="20260816180000 +0000" stop="20260816190000 +0000" channel="hami.CTiNews">
+    <title lang="zh">20中天新聞普</title>
+  </programme>
+<programme start="20260816190000 +0000" stop="20260816200000 +0000" channel="hami.CTiNews">
+    <title lang="zh">CTI TALK國際直球對決普</title>
+  </programme>
+<programme start="20260816200000 +0000" stop="20260816210000 +0000" channel="hami.CTiNews">
+    <title lang="zh">CTI TALK國際直球對決普</title>
+  </programme>
+<programme start="20260816210000 +0000" stop="20260816220000 +0000" channel="hami.CTiNews">
+    <title lang="zh">綠也掀桌普</title>
+  </programme>
+<programme start="20260816220000 +0000" stop="20260816230000 +0000" channel="hami.CTiNews">
+    <title lang="zh">06中天晨報普</title>
+  </programme>
+<programme start="20260816230000 +0000" stop="20260817000000 +0000" channel="hami.CTiNews">
+    <title lang="zh">07中天晨報普</title>
+  </programme>
+<programme start="20260817000000 +0000" stop="20260817010000 +0000" channel="hami.CTiNews">
+    <title lang="zh">08中天晨報普</title>
+  </programme>
+<programme start="20260817010000 +0000" stop="20260817020000 +0000" channel="hami.CTiNews">
+    <title lang="zh">09中天新聞普</title>
+  </programme>
+<programme start="20260817020000 +0000" stop="20260817030000 +0000" channel="hami.CTiNews">
+    <title lang="zh">10中天新聞普</title>
+  </programme>
+<programme start="20260817030000 +0000" stop="20260817040000 +0000" channel="hami.CTiNews">
+    <title lang="zh">11中天新聞普</title>
+  </programme>
+<programme start="20260817040000 +0000" stop="20260817050000 +0000" channel="hami.CTiNews">
+    <title lang="zh">12午間新聞普</title>
+  </programme>
+<programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="hami.CTiNews">
+    <title lang="zh">13午間新聞普</title>
+  </programme>
+<programme start="20260817060000 +0000" stop="20260817070000 +0000" channel="hami.CTiNews">
+    <title lang="zh">14大新聞大爆卦普</title>
+  </programme>
+<programme start="20260817070000 +0000" stop="20260817080000 +0000" channel="hami.CTiNews">
+    <title lang="zh">15大新聞大爆卦普</title>
+  </programme>
+<programme start="20260817080000 +0000" stop="20260817090000 +0000" channel="hami.CTiNews">
+    <title lang="zh">16中天新聞普</title>
+  </programme>
+<programme start="20260817090000 +0000" stop="20260817100000 +0000" channel="hami.CTiNews">
+    <title lang="zh">17中天新聞普</title>
+  </programme>
+<programme start="20260817100000 +0000" stop="20260817110000 +0000" channel="hami.CTiNews">
+    <title lang="zh">18中天辣晚報普</title>
+  </programme>
+<programme start="20260817110000 +0000" stop="20260817120000 +0000" channel="hami.CTiNews">
+    <title lang="zh">19中天辣晚報普</title>
+  </programme>
+<programme start="20260817120000 +0000" stop="20260817130000 +0000" channel="hami.CTiNews">
+    <title lang="zh">20頭條開講普</title>
+  </programme>
+<programme start="20260817130000 +0000" stop="20260817140000 +0000" channel="hami.CTiNews">
+    <title lang="zh">21頭條開講普</title>
+  </programme>
+<programme start="20260817140000 +0000" stop="20260817150000 +0000" channel="hami.CTiNews">
+    <title lang="zh">22中天SUPER夜線普</title>
+  </programme>
+<programme start="20260817150000 +0000" stop="20260817155959 +0000" channel="hami.CTiNews">
+    <title lang="zh">23全球大視野普</title>
+  </programme>
 <programme start="20260810160000 +0000" stop="20260810170000 +0000" channel="hami.ETTVNews">
     <title lang="zh">東森夜線新聞</title>
   </programme>
@@ -12724,6 +12910,150 @@
 <programme start="20260815140000 +0000" stop="20260815155959 +0000" channel="hami.CTVClassic">
     <title lang="zh">綜藝玩很大福爾血糖機普</title>
   </programme>
+<programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">大陸尋奇普</title>
+  </programme>
+<programme start="20260815170000 +0000" stop="20260815173000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">台灣味道4普</title>
+  </programme>
+<programme start="20260815173000 +0000" stop="20260815180000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">台灣味道4普</title>
+  </programme>
+<programme start="20260815180000 +0000" stop="20260815200000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">綜藝玩很大福爾血糖機普</title>
+  </programme>
+<programme start="20260815200000 +0000" stop="20260815203000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">台灣味道4普</title>
+  </programme>
+<programme start="20260815203000 +0000" stop="20260815210000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">台灣味道4普</title>
+  </programme>
+<programme start="20260815210000 +0000" stop="20260815220000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">台灣保庇普</title>
+  </programme>
+<programme start="20260815220000 +0000" stop="20260815230000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">大陸尋奇普</title>
+  </programme>
+<programme start="20260815230000 +0000" stop="20260816000000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">中視早安新聞普</title>
+  </programme>
+<programme start="20260816000000 +0000" stop="20260816020000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">綜藝玩很大福爾血糖機普</title>
+  </programme>
+<programme start="20260816020000 +0000" stop="20260816040000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">樂活青春GO普</title>
+  </programme>
+<programme start="20260816040000 +0000" stop="20260816050000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">大陸尋奇普</title>
+  </programme>
+<programme start="20260816050000 +0000" stop="20260816060000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">台灣保庇普</title>
+  </programme>
+<programme start="20260816060000 +0000" stop="20260816070000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">繞著幸福轉普</title>
+  </programme>
+<programme start="20260816070000 +0000" stop="20260816080000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">SS小燕之夜普</title>
+  </programme>
+<programme start="20260816080000 +0000" stop="20260816090000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">繞著幸福轉普</title>
+  </programme>
+<programme start="20260816090000 +0000" stop="20260816105700 +0000" channel="hami.CTVClassic">
+    <title lang="zh">綜藝玩很大福爾血糖機普</title>
+  </programme>
+<programme start="20260816105700 +0000" stop="20260816120000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">中視新聞全球報導普</title>
+  </programme>
+<programme start="20260816120000 +0000" stop="20260816140000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">飢餓遊戲愛妮雅化妝品絲瓜露普</title>
+  </programme>
+<programme start="20260816140000 +0000" stop="20260816155959 +0000" channel="hami.CTVClassic">
+    <title lang="zh">歡迎光臨等你來家1第二季普</title>
+  </programme>
+<programme start="20260816160000 +0000" stop="20260816170000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">大陸尋奇普</title>
+  </programme>
+<programme start="20260816170000 +0000" stop="20260816173000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">台灣味道4普</title>
+  </programme>
+<programme start="20260816173000 +0000" stop="20260816180000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">台灣味道4普</title>
+  </programme>
+<programme start="20260816180000 +0000" stop="20260816190000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">大陸尋奇普</title>
+  </programme>
+<programme start="20260816190000 +0000" stop="20260816193000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">家和萬事興普</title>
+  </programme>
+<programme start="20260816193000 +0000" stop="20260816200000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">家和萬事興普</title>
+  </programme>
+<programme start="20260816200000 +0000" stop="20260816203000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">台灣味道4普</title>
+  </programme>
+<programme start="20260816203000 +0000" stop="20260816210000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">台灣味道4普</title>
+  </programme>
+<programme start="20260816210000 +0000" stop="20260816220000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">光陰的故事普</title>
+  </programme>
+<programme start="20260816220000 +0000" stop="20260816223000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">封神榜普</title>
+  </programme>
+<programme start="20260816223000 +0000" stop="20260816230000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">封神榜普</title>
+  </programme>
+<programme start="20260816230000 +0000" stop="20260817000000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">中視早安新聞普</title>
+  </programme>
+<programme start="20260817000000 +0000" stop="20260817010000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">金色時光普</title>
+  </programme>
+<programme start="20260817010000 +0000" stop="20260817020000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">大陸尋奇普</title>
+  </programme>
+<programme start="20260817020000 +0000" stop="20260817040000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">樂活青春GO普</title>
+  </programme>
+<programme start="20260817040000 +0000" stop="20260817050000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">光陰的故事普</title>
+  </programme>
+<programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">冰冰好料理普</title>
+  </programme>
+<programme start="20260817060000 +0000" stop="20260817070000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">繞著幸福轉普</title>
+  </programme>
+<programme start="20260817070000 +0000" stop="20260817080000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">SS小燕之夜普</title>
+  </programme>
+<programme start="20260817080000 +0000" stop="20260817090000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">繞著幸福轉普</title>
+  </programme>
+<programme start="20260817090000 +0000" stop="20260817100000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">大陸尋奇普</title>
+  </programme>
+<programme start="20260817100000 +0000" stop="20260817103000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">家和萬事興普</title>
+  </programme>
+<programme start="20260817103000 +0000" stop="20260817105800 +0000" channel="hami.CTVClassic">
+    <title lang="zh">家和萬事興普</title>
+  </programme>
+<programme start="20260817105800 +0000" stop="20260817120000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">中視新聞全球報導普</title>
+  </programme>
+<programme start="20260817120000 +0000" stop="20260817130000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">SS小燕之夜普</title>
+  </programme>
+<programme start="20260817130000 +0000" stop="20260817140000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">冰冰好料理普</title>
+  </programme>
+<programme start="20260817140000 +0000" stop="20260817150000 +0000" channel="hami.CTVClassic">
+    <title lang="zh">金色時光普</title>
+  </programme>
+<programme start="20260817150000 +0000" stop="20260817155959 +0000" channel="hami.CTVClassic">
+    <title lang="zh">書劍恩仇錄普</title>
+  </programme>
 <programme start="20260810160000 +0000" stop="20260810170000 +0000" channel="hami.CTVNews">
     <title lang="zh">即時新聞現場普</title>
   </programme>
@@ -13083,6 +13413,150 @@
   </programme>
 <programme start="20260815150000 +0000" stop="20260815155959 +0000" channel="hami.CTVNews">
     <title lang="zh">即時新聞現場普</title>
+  </programme>
+<programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="hami.CTVNews">
+    <title lang="zh">2100整點新聞普</title>
+  </programme>
+<programme start="20260815170000 +0000" stop="20260815180000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導6點搶先報普</title>
+  </programme>
+<programme start="20260815180000 +0000" stop="20260815190000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導普</title>
+  </programme>
+<programme start="20260815190000 +0000" stop="20260815200000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導6點搶先報普</title>
+  </programme>
+<programme start="20260815200000 +0000" stop="20260815210000 +0000" channel="hami.CTVNews">
+    <title lang="zh">2100整點新聞普</title>
+  </programme>
+<programme start="20260815210000 +0000" stop="20260815220000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導6點搶先報普</title>
+  </programme>
+<programme start="20260815220000 +0000" stop="20260815230000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導普</title>
+  </programme>
+<programme start="20260815230000 +0000" stop="20260816000000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視早安新聞普</title>
+  </programme>
+<programme start="20260816000000 +0000" stop="20260816010000 +0000" channel="hami.CTVNews">
+    <title lang="zh">整點新聞普</title>
+  </programme>
+<programme start="20260816010000 +0000" stop="20260816020000 +0000" channel="hami.CTVNews">
+    <title lang="zh">即時新聞現場普</title>
+  </programme>
+<programme start="20260816020000 +0000" stop="20260816030000 +0000" channel="hami.CTVNews">
+    <title lang="zh">60分鐘普</title>
+  </programme>
+<programme start="20260816030000 +0000" stop="20260816035800 +0000" channel="hami.CTVNews">
+    <title lang="zh">即時新聞現場普</title>
+  </programme>
+<programme start="20260816035800 +0000" stop="20260816050000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視午間新聞普</title>
+  </programme>
+<programme start="20260816050000 +0000" stop="20260816060000 +0000" channel="hami.CTVNews">
+    <title lang="zh">即時新聞現場普</title>
+  </programme>
+<programme start="20260816060000 +0000" stop="20260816070000 +0000" channel="hami.CTVNews">
+    <title lang="zh">即時新聞現場普</title>
+  </programme>
+<programme start="20260816070000 +0000" stop="20260816080000 +0000" channel="hami.CTVNews">
+    <title lang="zh">即時新聞現場普</title>
+  </programme>
+<programme start="20260816080000 +0000" stop="20260816090000 +0000" channel="hami.CTVNews">
+    <title lang="zh">即時新聞現場普</title>
+  </programme>
+<programme start="20260816090000 +0000" stop="20260816100000 +0000" channel="hami.CTVNews">
+    <title lang="zh">60分鐘普</title>
+  </programme>
+<programme start="20260816100000 +0000" stop="20260816105700 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導6點搶先報普</title>
+  </programme>
+<programme start="20260816105700 +0000" stop="20260816120000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導普</title>
+  </programme>
+<programme start="20260816120000 +0000" stop="20260816130000 +0000" channel="hami.CTVNews">
+    <title lang="zh">即時新聞現場普</title>
+  </programme>
+<programme start="20260816130000 +0000" stop="20260816140000 +0000" channel="hami.CTVNews">
+    <title lang="zh">整點新聞普</title>
+  </programme>
+<programme start="20260816140000 +0000" stop="20260816150000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導普</title>
+  </programme>
+<programme start="20260816150000 +0000" stop="20260816155959 +0000" channel="hami.CTVNews">
+    <title lang="zh">即時新聞現場普</title>
+  </programme>
+<programme start="20260816160000 +0000" stop="20260816170000 +0000" channel="hami.CTVNews">
+    <title lang="zh">2100整點新聞普</title>
+  </programme>
+<programme start="20260816170000 +0000" stop="20260816180000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導6點搶先報普</title>
+  </programme>
+<programme start="20260816180000 +0000" stop="20260816190000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導普</title>
+  </programme>
+<programme start="20260816190000 +0000" stop="20260816200000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導6點搶先報普</title>
+  </programme>
+<programme start="20260816200000 +0000" stop="20260816210000 +0000" channel="hami.CTVNews">
+    <title lang="zh">2100整點新聞普</title>
+  </programme>
+<programme start="20260816210000 +0000" stop="20260816220000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導6點搶先報普</title>
+  </programme>
+<programme start="20260816220000 +0000" stop="20260816230000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導普</title>
+  </programme>
+<programme start="20260816230000 +0000" stop="20260817000000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視早安新聞普</title>
+  </programme>
+<programme start="20260817000000 +0000" stop="20260817010000 +0000" channel="hami.CTVNews">
+    <title lang="zh">整點新聞普</title>
+  </programme>
+<programme start="20260817010000 +0000" stop="20260817020000 +0000" channel="hami.CTVNews">
+    <title lang="zh">即時新聞現場普</title>
+  </programme>
+<programme start="20260817020000 +0000" stop="20260817030000 +0000" channel="hami.CTVNews">
+    <title lang="zh">新庶民大頭家普</title>
+  </programme>
+<programme start="20260817030000 +0000" stop="20260817035800 +0000" channel="hami.CTVNews">
+    <title lang="zh">新庶民大頭家普</title>
+  </programme>
+<programme start="20260817035800 +0000" stop="20260817050000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視午間新聞普</title>
+  </programme>
+<programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="hami.CTVNews">
+    <title lang="zh">即時新聞現場普</title>
+  </programme>
+<programme start="20260817060000 +0000" stop="20260817070000 +0000" channel="hami.CTVNews">
+    <title lang="zh">即時新聞現場普</title>
+  </programme>
+<programme start="20260817070000 +0000" stop="20260817080000 +0000" channel="hami.CTVNews">
+    <title lang="zh">即時新聞現場普</title>
+  </programme>
+<programme start="20260817080000 +0000" stop="20260817090000 +0000" channel="hami.CTVNews">
+    <title lang="zh">新庶民大頭家普</title>
+  </programme>
+<programme start="20260817090000 +0000" stop="20260817100000 +0000" channel="hami.CTVNews">
+    <title lang="zh">新庶民大頭家普</title>
+  </programme>
+<programme start="20260817100000 +0000" stop="20260817105800 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導6點搶先報普</title>
+  </programme>
+<programme start="20260817105800 +0000" stop="20260817120000 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導普</title>
+  </programme>
+<programme start="20260817120000 +0000" stop="20260817130000 +0000" channel="hami.CTVNews">
+    <title lang="zh">新庶民大頭家普</title>
+  </programme>
+<programme start="20260817130000 +0000" stop="20260817140000 +0000" channel="hami.CTVNews">
+    <title lang="zh">新庶民大頭家普</title>
+  </programme>
+<programme start="20260817140000 +0000" stop="20260817150000 +0000" channel="hami.CTVNews">
+    <title lang="zh">即時新聞現場普</title>
+  </programme>
+<programme start="20260817150000 +0000" stop="20260817155959 +0000" channel="hami.CTVNews">
+    <title lang="zh">中視新聞全球報導普</title>
   </programme>
 <programme start="20260810160000 +0000" stop="20260810180000 +0000" channel="hami.CTV">
     <title lang="zh">樓上樓下</title>
@@ -13499,6 +13973,81 @@
     <title lang="zh">全能美食秀普</title>
   </programme>
 <programme start="20260816155000 +0000" stop="20260816155959 +0000" channel="hami.CTV">
+    <title lang="zh">大陸尋奇普</title>
+  </programme>
+<programme start="20260816160000 +0000" stop="20260816163000 +0000" channel="hami.CTV">
+    <title lang="zh">大陸尋奇普</title>
+  </programme>
+<programme start="20260816163000 +0000" stop="20260816183000 +0000" channel="hami.CTV">
+    <title lang="zh">飢餓遊戲愛妮雅化妝品絲瓜露普</title>
+  </programme>
+<programme start="20260816183000 +0000" stop="20260816203000 +0000" channel="hami.CTV">
+    <title lang="zh">綜藝玩很大褔爾血糖機普</title>
+  </programme>
+<programme start="20260816203000 +0000" stop="20260816210000 +0000" channel="hami.CTV">
+    <title lang="zh">台灣味道3普</title>
+  </programme>
+<programme start="20260816210000 +0000" stop="20260816220000 +0000" channel="hami.CTV">
+    <title lang="zh">大陸尋奇普</title>
+  </programme>
+<programme start="20260816220000 +0000" stop="20260816230000 +0000" channel="hami.CTV">
+    <title lang="zh">中視新聞-全球報導普</title>
+  </programme>
+<programme start="20260816230000 +0000" stop="20260817000000 +0000" channel="hami.CTV">
+    <title lang="zh">中視早安新聞普</title>
+  </programme>
+<programme start="20260817000000 +0000" stop="20260817003000 +0000" channel="hami.CTV">
+    <title lang="zh">財經早點名普</title>
+  </programme>
+<programme start="20260817003000 +0000" stop="20260817010000 +0000" channel="hami.CTV">
+    <title lang="zh">股市貴公子普</title>
+  </programme>
+<programme start="20260817010000 +0000" stop="20260817020000 +0000" channel="hami.CTV">
+    <title lang="zh">繞著幸福轉普</title>
+  </programme>
+<programme start="20260817020000 +0000" stop="20260817030000 +0000" channel="hami.CTV">
+    <title lang="zh">樓上樓下</title>
+  </programme>
+<programme start="20260817030000 +0000" stop="20260817035800 +0000" channel="hami.CTV">
+    <title lang="zh">繞著幸福轉普</title>
+  </programme>
+<programme start="20260817035800 +0000" stop="20260817050000 +0000" channel="hami.CTV">
+    <title lang="zh">中視午間新聞普</title>
+  </programme>
+<programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="hami.CTV">
+    <title lang="zh">MIT台灣誌普</title>
+  </programme>
+<programme start="20260817060000 +0000" stop="20260817063000 +0000" channel="hami.CTV">
+    <title lang="zh">外資超錢線普</title>
+  </programme>
+<programme start="20260817063000 +0000" stop="20260817070000 +0000" channel="hami.CTV">
+    <title lang="zh">中視新聞-即時新聞現場普</title>
+  </programme>
+<programme start="20260817070000 +0000" stop="20260817073000 +0000" channel="hami.CTV">
+    <title lang="zh">中視新聞-即時新聞現場普</title>
+  </programme>
+<programme start="20260817073000 +0000" stop="20260817080000 +0000" channel="hami.CTV">
+    <title lang="zh">價值型投資普</title>
+  </programme>
+<programme start="20260817080000 +0000" stop="20260817085800 +0000" channel="hami.CTV">
+    <title lang="zh">樓上樓下</title>
+  </programme>
+<programme start="20260817085800 +0000" stop="20260817095800 +0000" channel="hami.CTV">
+    <title lang="zh">中視新聞-新庶民大頭家普</title>
+  </programme>
+<programme start="20260817095800 +0000" stop="20260817105800 +0000" channel="hami.CTV">
+    <title lang="zh">中視新聞-全球報導6點搶先報普</title>
+  </programme>
+<programme start="20260817105800 +0000" stop="20260817120000 +0000" channel="hami.CTV">
+    <title lang="zh">中視新聞全球報導普</title>
+  </programme>
+<programme start="20260817120000 +0000" stop="20260817140000 +0000" channel="hami.CTV">
+    <title lang="zh">樓上樓下</title>
+  </programme>
+<programme start="20260817140000 +0000" stop="20260817150000 +0000" channel="hami.CTV">
+    <title lang="zh">阿鈣八合一強效錠唱歌給你聽</title>
+  </programme>
+<programme start="20260817150000 +0000" stop="20260817155959 +0000" channel="hami.CTV">
     <title lang="zh">大陸尋奇普</title>
   </programme>
 <programme start="20260810160000 +0000" stop="20260810170000 +0000" channel="hami.CTSNews">
@@ -28431,6 +28980,15 @@
   </programme>
 <programme start="20260817154000 +0000" stop="20260817160500 +0000" channel="hami.HGTV">
     <title lang="zh">房屋獵人:明星帶看篇第1季:藝術家的好屋重生記(普)</title>
+  </programme>
+<programme start="20260810160000 +0000" stop="20260811155959 +0000" channel="hami.HamiWBC1台">
+    <title lang="zh">WBC精選賽事</title>
+  </programme>
+<programme start="20260811160000 +0000" stop="20260812155959 +0000" channel="hami.HamiWBC1台">
+    <title lang="zh">WBC精選賽事</title>
+  </programme>
+<programme start="20260812160000 +0000" stop="20260813155959 +0000" channel="hami.HamiWBC1台">
+    <title lang="zh">WBC精選賽事</title>
   </programme>
 <programme start="20260810160000 +0000" stop="20260810161900 +0000" channel="hami.LiveABC">
     <title lang="zh">ABC互動英語-20260811普</title>
@@ -54777,6 +55335,84 @@
 <programme start="20260816150000 +0000" stop="20260816160000 +0000" channel="cht.台視新聞HD">
     <title lang="zh">台視夜線新聞(1525)</title>
   </programme>
+<programme start="20260816160000 +0000" stop="20260816163000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">尋找台灣感動力(0507)</title>
+  </programme>
+<programme start="20260816163000 +0000" stop="20260816170000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">健康醫聊站(0086)</title>
+  </programme>
+<programme start="20260816170000 +0000" stop="20260816180000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">台灣名人堂(0243)</title>
+  </programme>
+<programme start="20260816180000 +0000" stop="20260816190000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">０２００台視夜線新聞(1525)</title>
+  </programme>
+<programme start="20260816190000 +0000" stop="20260816204900 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">節目收播(0580)</title>
+  </programme>
+<programme start="20260816204900 +0000" stop="20260816210000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">訊號測試(0608)</title>
+  </programme>
+<programme start="20260816210000 +0000" stop="20260816220000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">熱線追蹤(重)(1281)</title>
+  </programme>
+<programme start="20260816220000 +0000" stop="20260816223000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">尋找台灣感動力(重)(0507)</title>
+  </programme>
+<programme start="20260816223000 +0000" stop="20260816230000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">發現科學(0170)</title>
+  </programme>
+<programme start="20260816230000 +0000" stop="20260817000000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">早安您好台視新聞(3035)</title>
+  </programme>
+<programme start="20260817000000 +0000" stop="20260817010000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">０８００整點新聞(2526)</title>
+  </programme>
+<programme start="20260817010000 +0000" stop="20260817020000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">早安最前線(3022)</title>
+  </programme>
+<programme start="20260817020000 +0000" stop="20260817025800 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">台視１０點新聞(2851)</title>
+  </programme>
+<programme start="20260817025800 +0000" stop="20260817035800 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">台視１１００台語新聞(2833)</title>
+  </programme>
+<programme start="20260817035800 +0000" stop="20260817050000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">午安您好台視新聞(3035)</title>
+  </programme>
+<programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">１３００整點新聞(4246)</title>
+  </programme>
+<programme start="20260817060000 +0000" stop="20260817070000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">１４００整點新聞(3153)</title>
+  </programme>
+<programme start="20260817070000 +0000" stop="20260817080000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">１５００整點新聞(1474)</title>
+  </programme>
+<programme start="20260817080000 +0000" stop="20260817090000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">１６００整點新聞(2091)</title>
+  </programme>
+<programme start="20260817090000 +0000" stop="20260817095500 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">１７００整點新聞(3604)</title>
+  </programme>
+<programme start="20260817095500 +0000" stop="20260817105800 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">台視新聞全球現場(4000)</title>
+  </programme>
+<programme start="20260817105800 +0000" stop="20260817115900 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">台視晚間新聞(3036)</title>
+  </programme>
+<programme start="20260817115900 +0000" stop="20260817130000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">２０００整點新聞(2706)</title>
+  </programme>
+<programme start="20260817130000 +0000" stop="20260817140000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">台視新聞世界報導(2670)</title>
+  </programme>
+<programme start="20260817140000 +0000" stop="20260817150000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">晚安台灣(3015)</title>
+  </programme>
+<programme start="20260817150000 +0000" stop="20260817160000 +0000" channel="cht.台視新聞HD">
+    <title lang="zh">台視夜線新聞(1480)</title>
+  </programme>
 <programme start="20260810170000 +0000" stop="20260810180000 +0000" channel="cht.華視新聞資訊HD">
     <title lang="zh">World News 9(833)</title>
   </programme>
@@ -55178,6 +55814,75 @@
   </programme>
 <programme start="20260816150000 +0000" stop="20260816160000 +0000" channel="cht.華視新聞資訊HD">
     <title lang="zh">華視夜間新聞(3954)</title>
+  </programme>
+<programme start="20260816160000 +0000" stop="20260816170000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">華視2400夜間新聞(956)</title>
+  </programme>
+<programme start="20260816170000 +0000" stop="20260816180000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">國際線，出發！(348)</title>
+  </programme>
+<programme start="20260816180000 +0000" stop="20260816190000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">華視2400夜間新聞(956)</title>
+  </programme>
+<programme start="20260816190000 +0000" stop="20260816200000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">新聞高峰會(192)</title>
+  </programme>
+<programme start="20260816200000 +0000" stop="20260816210000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">華視2400夜間新聞(956)</title>
+  </programme>
+<programme start="20260816210000 +0000" stop="20260816220000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">國際線，出發！(348)</title>
+  </programme>
+<programme start="20260816220000 +0000" stop="20260816230000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">華視2400夜間新聞(956)</title>
+  </programme>
+<programme start="20260816230000 +0000" stop="20260817000000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">Good morning 台灣(463)</title>
+  </programme>
+<programme start="20260817000000 +0000" stop="20260817010000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">Good morning 台灣(463)</title>
+  </programme>
+<programme start="20260817010000 +0000" stop="20260817020000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">52華視0900整點新聞(1183)</title>
+  </programme>
+<programme start="20260817020000 +0000" stop="20260817030000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">52華視1000新聞搶先報(1120)</title>
+  </programme>
+<programme start="20260817030000 +0000" stop="20260817035800 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">52華視1100新聞搶先報(1233)</title>
+  </programme>
+<programme start="20260817035800 +0000" stop="20260817050000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">華視午間新聞(5065)</title>
+  </programme>
+<programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">52華視1300午間新聞(1240)</title>
+  </programme>
+<programme start="20260817060000 +0000" stop="20260817070000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">52華視1400整點新聞(1181)</title>
+  </programme>
+<programme start="20260817070000 +0000" stop="20260817080000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">52華視1500整點新聞(882)</title>
+  </programme>
+<programme start="20260817080000 +0000" stop="20260817085300 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">華視在地新聞(3542)</title>
+  </programme>
+<programme start="20260817085300 +0000" stop="20260817120000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">華視新聞晚報(1027)</title>
+  </programme>
+<programme start="20260817120000 +0000" stop="20260817130000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">52華視2000整點新聞(871)</title>
+  </programme>
+<programme start="20260817130000 +0000" stop="20260817140000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">World News 9(838)</title>
+  </programme>
+<programme start="20260817140000 +0000" stop="20260817150000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">52政經點(361)</title>
+  </programme>
+<programme start="20260817150000 +0000" stop="20260817155500 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">華視夜間新聞(3955)</title>
+  </programme>
+<programme start="20260817155500 +0000" stop="20260817170000 +0000" channel="cht.華視新聞資訊HD">
+    <title lang="zh">華視2400夜間新聞(957)</title>
   </programme>
 <programme start="20260810160000 +0000" stop="20260810170000 +0000" channel="cht.寰宇財經HD">
     <title lang="zh">股動錢潮</title>
@@ -55610,6 +56315,78 @@
   </programme>
 <programme start="20260816150000 +0000" stop="20260816160000 +0000" channel="cht.寰宇財經HD">
     <title lang="zh">寰宇追追追</title>
+  </programme>
+<programme start="20260816160000 +0000" stop="20260816170000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">台灣職人誌</title>
+  </programme>
+<programme start="20260816170000 +0000" stop="20260816180000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">超自然實驗室</title>
+  </programme>
+<programme start="20260816180000 +0000" stop="20260816190000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">巷弄美食家</title>
+  </programme>
+<programme start="20260816190000 +0000" stop="20260816200000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">台灣職人誌</title>
+  </programme>
+<programme start="20260816200000 +0000" stop="20260816210000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">巷弄美食家</title>
+  </programme>
+<programme start="20260816210000 +0000" stop="20260816220000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">超自然實驗室</title>
+  </programme>
+<programme start="20260816220000 +0000" stop="20260816230000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">小食光台味誌</title>
+  </programme>
+<programme start="20260816230000 +0000" stop="20260817000000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">理財達人秀</title>
+  </programme>
+<programme start="20260817000000 +0000" stop="20260817010000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">財經透視線</title>
+  </programme>
+<programme start="20260817010000 +0000" stop="20260817020000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">台股線上</title>
+  </programme>
+<programme start="20260817020000 +0000" stop="20260817030000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">台股線上</title>
+  </programme>
+<programme start="20260817030000 +0000" stop="20260817040000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">台股線上</title>
+  </programme>
+<programme start="20260817040000 +0000" stop="20260817050000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">台股線上</title>
+  </programme>
+<programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">台股線上</title>
+  </programme>
+<programme start="20260817060000 +0000" stop="20260817070000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">巷弄美食家</title>
+  </programme>
+<programme start="20260817070000 +0000" stop="20260817080000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">台灣職人誌</title>
+  </programme>
+<programme start="20260817080000 +0000" stop="20260817090000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">寰宇追追追</title>
+  </programme>
+<programme start="20260817090000 +0000" stop="20260817100000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">小食光台味誌</title>
+  </programme>
+<programme start="20260817100000 +0000" stop="20260817110000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">賺錢放大術</title>
+  </programme>
+<programme start="20260817110000 +0000" stop="20260817120000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">股動錢潮</title>
+  </programme>
+<programme start="20260817120000 +0000" stop="20260817130000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">理財達人秀</title>
+  </programme>
+<programme start="20260817130000 +0000" stop="20260817140000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">股動錢潮</title>
+  </programme>
+<programme start="20260817140000 +0000" stop="20260817150000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">寶傑點兵</title>
+  </programme>
+<programme start="20260817150000 +0000" stop="20260817160000 +0000" channel="cht.寰宇財經HD">
+    <title lang="zh">理財達人秀</title>
   </programme>
 <programme start="20260810160000 +0000" stop="20260810163000 +0000" channel="cht.FRANCE24E-HD">
     <title lang="zh">News</title>
@@ -57267,6 +58044,306 @@
 <programme start="20260816154500 +0000" stop="20260816160000 +0000" channel="cht.FRANCE24E-HD">
     <title lang="zh">Talking Europe</title>
   </programme>
+<programme start="20260816160000 +0000" stop="20260816163000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816163000 +0000" stop="20260816170000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816170000 +0000" stop="20260816171500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816171500 +0000" stop="20260816173000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Tte  tte</title>
+  </programme>
+<programme start="20260816173000 +0000" stop="20260816174500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816174500 +0000" stop="20260816180000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">People And Profit</title>
+  </programme>
+<programme start="20260816180000 +0000" stop="20260816183000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816183000 +0000" stop="20260816190000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816190000 +0000" stop="20260816191500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816191500 +0000" stop="20260816193000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">France In Focus</title>
+  </programme>
+<programme start="20260816193000 +0000" stop="20260816194500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816194500 +0000" stop="20260816195100 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">The Observers</title>
+  </programme>
+<programme start="20260816195100 +0000" stop="20260816200000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Focus</title>
+  </programme>
+<programme start="20260816200000 +0000" stop="20260816201000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816201000 +0000" stop="20260816203000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Revisited</title>
+  </programme>
+<programme start="20260816203000 +0000" stop="20260816204000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816204000 +0000" stop="20260816204500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Focus</title>
+  </programme>
+<programme start="20260816204500 +0000" stop="20260816210000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Tte  tte</title>
+  </programme>
+<programme start="20260816210000 +0000" stop="20260816211500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816211500 +0000" stop="20260816213000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">French Connections</title>
+  </programme>
+<programme start="20260816213000 +0000" stop="20260816214500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816214500 +0000" stop="20260816220000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Arts24</title>
+  </programme>
+<programme start="20260816220000 +0000" stop="20260816221500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816221500 +0000" stop="20260816223000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">The 51 Percent</title>
+  </programme>
+<programme start="20260816223000 +0000" stop="20260816224500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816224500 +0000" stop="20260816230000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">People And Profit</title>
+  </programme>
+<programme start="20260816230000 +0000" stop="20260816231500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816231500 +0000" stop="20260816233000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Reporters</title>
+  </programme>
+<programme start="20260816233000 +0000" stop="20260816234500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260816234500 +0000" stop="20260817000000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Arts24</title>
+  </programme>
+<programme start="20260817000000 +0000" stop="20260817001500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817001500 +0000" stop="20260817002100 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">French Connections</title>
+  </programme>
+<programme start="20260817002100 +0000" stop="20260817003000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Entre Nous</title>
+  </programme>
+<programme start="20260817003000 +0000" stop="20260817004500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817004500 +0000" stop="20260817010000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">France In Focus</title>
+  </programme>
+<programme start="20260817010000 +0000" stop="20260817011500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817011500 +0000" stop="20260817013000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Talking Europe</title>
+  </programme>
+<programme start="20260817013000 +0000" stop="20260817014500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817014500 +0000" stop="20260817020000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Talking Europe</title>
+  </programme>
+<programme start="20260817020000 +0000" stop="20260817021000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817021000 +0000" stop="20260817023000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Revisited</title>
+  </programme>
+<programme start="20260817023000 +0000" stop="20260817024000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817024000 +0000" stop="20260817025500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Paris des Arts</title>
+  </programme>
+<programme start="20260817025500 +0000" stop="20260817030000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Short Cuts</title>
+  </programme>
+<programme start="20260817030000 +0000" stop="20260817031500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817031500 +0000" stop="20260817033000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">France In Focus</title>
+  </programme>
+<programme start="20260817033000 +0000" stop="20260817034500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817034500 +0000" stop="20260817040000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Arts24</title>
+  </programme>
+<programme start="20260817040000 +0000" stop="20260817041500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817041500 +0000" stop="20260817043000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">The 51 Percent</title>
+  </programme>
+<programme start="20260817043000 +0000" stop="20260817044500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817044500 +0000" stop="20260817045000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Focus</title>
+  </programme>
+<programme start="20260817045000 +0000" stop="20260817050000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Sports</title>
+  </programme>
+<programme start="20260817050000 +0000" stop="20260817051500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817051500 +0000" stop="20260817053000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Reporters</title>
+  </programme>
+<programme start="20260817053000 +0000" stop="20260817054500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817054500 +0000" stop="20260817055000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Focus</title>
+  </programme>
+<programme start="20260817055000 +0000" stop="20260817060000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">French Connections</title>
+  </programme>
+<programme start="20260817060000 +0000" stop="20260817061500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817061500 +0000" stop="20260817063000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">France In Focus</title>
+  </programme>
+<programme start="20260817063000 +0000" stop="20260817064500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817064500 +0000" stop="20260817065000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Focus</title>
+  </programme>
+<programme start="20260817065000 +0000" stop="20260817070000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Sports</title>
+  </programme>
+<programme start="20260817070000 +0000" stop="20260817073000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817073000 +0000" stop="20260817080000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817080000 +0000" stop="20260817081200 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817081200 +0000" stop="20260817083000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Paris des Arts</title>
+  </programme>
+<programme start="20260817083000 +0000" stop="20260817084200 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817084200 +0000" stop="20260817085400 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">ENTR</title>
+  </programme>
+<programme start="20260817085400 +0000" stop="20260817090000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Short Cuts</title>
+  </programme>
+<programme start="20260817090000 +0000" stop="20260817091000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817091000 +0000" stop="20260817093000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Reporters</title>
+  </programme>
+<programme start="20260817093000 +0000" stop="20260817094000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817094000 +0000" stop="20260817100000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Revisited</title>
+  </programme>
+<programme start="20260817100000 +0000" stop="20260817101500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817101500 +0000" stop="20260817103000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Arts24</title>
+  </programme>
+<programme start="20260817103000 +0000" stop="20260817104500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817104500 +0000" stop="20260817105000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Focus</title>
+  </programme>
+<programme start="20260817105000 +0000" stop="20260817110000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Sports</title>
+  </programme>
+<programme start="20260817110000 +0000" stop="20260817113000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817113000 +0000" stop="20260817120000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817120000 +0000" stop="20260817121500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817121500 +0000" stop="20260817123000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">French Connections</title>
+  </programme>
+<programme start="20260817123000 +0000" stop="20260817124500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817124500 +0000" stop="20260817125000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Focus</title>
+  </programme>
+<programme start="20260817125000 +0000" stop="20260817130000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Entre Nous</title>
+  </programme>
+<programme start="20260817130000 +0000" stop="20260817131500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817131500 +0000" stop="20260817133000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">The 51 Percent</title>
+  </programme>
+<programme start="20260817133000 +0000" stop="20260817134500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817134500 +0000" stop="20260817140000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">France In Focus</title>
+  </programme>
+<programme start="20260817140000 +0000" stop="20260817141200 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817141200 +0000" stop="20260817143000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Paris des Arts</title>
+  </programme>
+<programme start="20260817143000 +0000" stop="20260817144200 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817144200 +0000" stop="20260817145400 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">ENTR</title>
+  </programme>
+<programme start="20260817145400 +0000" stop="20260817150000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Short Cuts</title>
+  </programme>
+<programme start="20260817150000 +0000" stop="20260817151500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817151500 +0000" stop="20260817153000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Arts24</title>
+  </programme>
+<programme start="20260817153000 +0000" stop="20260817154500 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">News</title>
+  </programme>
+<programme start="20260817154500 +0000" stop="20260817155000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">Focus</title>
+  </programme>
+<programme start="20260817155000 +0000" stop="20260817160000 +0000" channel="cht.FRANCE24E-HD">
+    <title lang="zh">French Connections</title>
+  </programme>
 <programme start="20260810160000 +0000" stop="20260810163000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
     <title lang="zh">News Live</title>
   </programme>
@@ -57951,6 +59028,120 @@
 <programme start="20260816150000 +0000" stop="20260816160000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
     <title lang="zh">Newshour</title>
   </programme>
+<programme start="20260816160000 +0000" stop="20260816163000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">News Live</title>
+  </programme>
+<programme start="20260816163000 +0000" stop="20260816170000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">101 East</title>
+  </programme>
+<programme start="20260816170000 +0000" stop="20260816173000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">News Live</title>
+  </programme>
+<programme start="20260816173000 +0000" stop="20260816180000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Inside Story</title>
+  </programme>
+<programme start="20260816180000 +0000" stop="20260816190000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Newshour</title>
+  </programme>
+<programme start="20260816190000 +0000" stop="20260816193000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">News Live</title>
+  </programme>
+<programme start="20260816193000 +0000" stop="20260816200000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Talk to Al Jazeera</title>
+  </programme>
+<programme start="20260816200000 +0000" stop="20260816203000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">News Live</title>
+  </programme>
+<programme start="20260816203000 +0000" stop="20260816210000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Studio B: The AI Series</title>
+  </programme>
+<programme start="20260816210000 +0000" stop="20260816220000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Newshour</title>
+  </programme>
+<programme start="20260816220000 +0000" stop="20260816230000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Newshour</title>
+  </programme>
+<programme start="20260816230000 +0000" stop="20260816233000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">News Live</title>
+  </programme>
+<programme start="20260816233000 +0000" stop="20260817000000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Inside Story</title>
+  </programme>
+<programme start="20260817000000 +0000" stop="20260817010000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Newshour</title>
+  </programme>
+<programme start="20260817010000 +0000" stop="20260817013000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">News Live</title>
+  </programme>
+<programme start="20260817013000 +0000" stop="20260817020000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">The Bottom Line</title>
+  </programme>
+<programme start="20260817020000 +0000" stop="20260817030000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Newshour</title>
+  </programme>
+<programme start="20260817030000 +0000" stop="20260817033000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">News Live</title>
+  </programme>
+<programme start="20260817033000 +0000" stop="20260817040000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Counting the Cost</title>
+  </programme>
+<programme start="20260817040000 +0000" stop="20260817043000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">News Live</title>
+  </programme>
+<programme start="20260817043000 +0000" stop="20260817050000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">101 East</title>
+  </programme>
+<programme start="20260817050000 +0000" stop="20260817053000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">News Live</title>
+  </programme>
+<programme start="20260817053000 +0000" stop="20260817060000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Inside Story</title>
+  </programme>
+<programme start="20260817060000 +0000" stop="20260817063000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">News Live</title>
+  </programme>
+<programme start="20260817063000 +0000" stop="20260817070000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Talk to Al Jazeera</title>
+  </programme>
+<programme start="20260817070000 +0000" stop="20260817080000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Newshour</title>
+  </programme>
+<programme start="20260817080000 +0000" stop="20260817083000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">News Live</title>
+  </programme>
+<programme start="20260817083000 +0000" stop="20260817090000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Studio B: The AI Series</title>
+  </programme>
+<programme start="20260817090000 +0000" stop="20260817093000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">News Live</title>
+  </programme>
+<programme start="20260817093000 +0000" stop="20260817100000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">A Changing World?</title>
+  </programme>
+<programme start="20260817100000 +0000" stop="20260817110000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Newshour</title>
+  </programme>
+<programme start="20260817110000 +0000" stop="20260817113000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">News Live</title>
+  </programme>
+<programme start="20260817113000 +0000" stop="20260817120000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Inside Story</title>
+  </programme>
+<programme start="20260817120000 +0000" stop="20260817130000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Newshour</title>
+  </programme>
+<programme start="20260817130000 +0000" stop="20260817140000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Newshour</title>
+  </programme>
+<programme start="20260817140000 +0000" stop="20260817143000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">News Live</title>
+  </programme>
+<programme start="20260817143000 +0000" stop="20260817150000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Talk to Al Jazeera</title>
+  </programme>
+<programme start="20260817150000 +0000" stop="20260817160000 +0000" channel="cht.半島英語新聞台Al-Jazeera-English-HD">
+    <title lang="zh">Newshour</title>
+  </programme>
 <programme start="20260810160000 +0000" stop="20260810170000 +0000" channel="cht.影迷數位紀實台HD">
     <title lang="zh">歷史轉捩點：引發戰爭</title>
   </programme>
@@ -58431,6 +59622,93 @@
 <programme start="20260816150000 +0000" stop="20260816160000 +0000" channel="cht.影迷數位紀實台HD">
     <title lang="zh">塔利班攻略</title>
   </programme>
+<programme start="20260816160000 +0000" stop="20260816170000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">野生非洲：尼羅河</title>
+  </programme>
+<programme start="20260816170000 +0000" stop="20260816180000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">野生非洲：維龍加山脈</title>
+  </programme>
+<programme start="20260816180000 +0000" stop="20260816183000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">絕美地球 法國格拉訥河畔奧拉杜爾到普伊勞倫斯城堡</title>
+  </programme>
+<programme start="20260816183000 +0000" stop="20260816190000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">絕美地球 愛爾蘭蒙恩山脈到德維尼什島</title>
+  </programme>
+<programme start="20260816190000 +0000" stop="20260816193000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">絕美地球 美國奧格拉拉國家草原到斯科茨布拉夫</title>
+  </programme>
+<programme start="20260816193000 +0000" stop="20260816200000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">絕美地球 美國蘇打孤峰河谷到大角峽谷</title>
+  </programme>
+<programme start="20260816200000 +0000" stop="20260816210000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">埃及法老圖坦卡門的寶藏</title>
+  </programme>
+<programme start="20260816210000 +0000" stop="20260816220000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">塔利班攻略</title>
+  </programme>
+<programme start="20260816220000 +0000" stop="20260816230000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">重現諾曼第登陸</title>
+  </programme>
+<programme start="20260816230000 +0000" stop="20260817000000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">放下仇恨：跨越偏見的告白</title>
+  </programme>
+<programme start="20260817000000 +0000" stop="20260817010000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">野生非洲：尼羅河</title>
+  </programme>
+<programme start="20260817010000 +0000" stop="20260817020000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">野生非洲：維龍加山脈</title>
+  </programme>
+<programme start="20260817020000 +0000" stop="20260817023000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">絕美地球 法國格拉訥河畔奧拉杜爾到普伊勞倫斯城堡</title>
+  </programme>
+<programme start="20260817023000 +0000" stop="20260817030000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">絕美地球 愛爾蘭蒙恩山脈到德維尼什島</title>
+  </programme>
+<programme start="20260817030000 +0000" stop="20260817033000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">絕美地球 美國奧格拉拉國家草原到斯科茨布拉夫</title>
+  </programme>
+<programme start="20260817033000 +0000" stop="20260817040000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">絕美地球 美國蘇打孤峰河谷到大角峽谷</title>
+  </programme>
+<programme start="20260817040000 +0000" stop="20260817050000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">埃及法老圖坦卡門的寶藏</title>
+  </programme>
+<programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">塔利班攻略</title>
+  </programme>
+<programme start="20260817060000 +0000" stop="20260817070000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">重現諾曼第登陸</title>
+  </programme>
+<programme start="20260817070000 +0000" stop="20260817080000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">放下仇恨：跨越偏見的告白</title>
+  </programme>
+<programme start="20260817080000 +0000" stop="20260817090000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">極限大改造：歐洲最快雲霄飛車</title>
+  </programme>
+<programme start="20260817090000 +0000" stop="20260817100000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">社會主義之路</title>
+  </programme>
+<programme start="20260817100000 +0000" stop="20260817103000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">麗莎的田園秘境：緬因楓糖日</title>
+  </programme>
+<programme start="20260817103000 +0000" stop="20260817110000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">麗莎的田園秘境：草莓萬歲</title>
+  </programme>
+<programme start="20260817110000 +0000" stop="20260817123000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">珍珠港回憶錄</title>
+  </programme>
+<programme start="20260817123000 +0000" stop="20260817130000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">世紀犯罪特輯：情人節大屠殺</title>
+  </programme>
+<programme start="20260817130000 +0000" stop="20260817140000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">失落的金字塔 阿茲提克</title>
+  </programme>
+<programme start="20260817140000 +0000" stop="20260817150000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">死亡約會：克萊兒伍德</title>
+  </programme>
+<programme start="20260817150000 +0000" stop="20260817160000 +0000" channel="cht.影迷數位紀實台HD">
+    <title lang="zh">諾曼第之鷹：醫護兵的戰場日記</title>
+  </programme>
 <programme start="20260810173000 +0000" stop="20260810191000 +0000" channel="cht.美亞電影HD">
     <title lang="zh">鐵三角(郭南宏導演)</title>
   </programme>
@@ -58692,6 +59970,51 @@
 <programme start="20260816142000 +0000" stop="20260816161500 +0000" channel="cht.美亞電影HD">
     <title lang="zh">斷網</title>
   </programme>
+<programme start="20260816161500 +0000" stop="20260816175000 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">中國鐵人</title>
+  </programme>
+<programme start="20260816175000 +0000" stop="20260816193000 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">財神爺</title>
+  </programme>
+<programme start="20260816193000 +0000" stop="20260816211000 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">超級無敵追女仔</title>
+  </programme>
+<programme start="20260816211000 +0000" stop="20260816225500 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">我家有一隻河東獅</title>
+  </programme>
+<programme start="20260816225500 +0000" stop="20260817003500 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">一見鍾情</title>
+  </programme>
+<programme start="20260817003500 +0000" stop="20260817032500 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">紅柿子</title>
+  </programme>
+<programme start="20260817032500 +0000" stop="20260817051000 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">快餐車</title>
+  </programme>
+<programme start="20260817051000 +0000" stop="20260817055500 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">非常檢控官(11)</title>
+  </programme>
+<programme start="20260817055500 +0000" stop="20260817074500 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">殺手之王</title>
+  </programme>
+<programme start="20260817074500 +0000" stop="20260817094000 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">汪洋中的一條船</title>
+  </programme>
+<programme start="20260817094000 +0000" stop="20260817111500 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">最佳女婿</title>
+  </programme>
+<programme start="20260817111500 +0000" stop="20260817130000 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">絕世好賓</title>
+  </programme>
+<programme start="20260817130000 +0000" stop="20260817135000 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">烈火如歌(23)</title>
+  </programme>
+<programme start="20260817135000 +0000" stop="20260817154000 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">英雄本色II</title>
+  </programme>
+<programme start="20260817154000 +0000" stop="20260817172500 +0000" channel="cht.美亞電影HD">
+    <title lang="zh">人嚇人</title>
+  </programme>
 <programme start="20260810171000 +0000" stop="20260810190000 +0000" channel="cht.龍華電影HD">
     <title lang="zh">破浪而出</title>
   </programme>
@@ -58893,6 +60216,39 @@
 <programme start="20260816153500 +0000" stop="20260816173500 +0000" channel="cht.龍華電影HD">
     <title lang="zh">洗黑錢</title>
   </programme>
+<programme start="20260816173500 +0000" stop="20260816193000 +0000" channel="cht.龍華電影HD">
+    <title lang="zh">化劫</title>
+  </programme>
+<programme start="20260816193000 +0000" stop="20260816221000 +0000" channel="cht.龍華電影HD">
+    <title lang="zh">瓦達拉驚爆點</title>
+  </programme>
+<programme start="20260816221000 +0000" stop="20260817000500 +0000" channel="cht.龍華電影HD">
+    <title lang="zh">無敵幸運星</title>
+  </programme>
+<programme start="20260817000500 +0000" stop="20260817021500 +0000" channel="cht.龍華電影HD">
+    <title lang="zh">師弟出馬</title>
+  </programme>
+<programme start="20260817021500 +0000" stop="20260817041500 +0000" channel="cht.龍華電影HD">
+    <title lang="zh">新蜀山劍俠</title>
+  </programme>
+<programme start="20260817041500 +0000" stop="20260817064500 +0000" channel="cht.龍華電影HD">
+    <title lang="zh">西遊記之大鬧天宮</title>
+  </programme>
+<programme start="20260817064500 +0000" stop="20260817084500 +0000" channel="cht.龍華電影HD">
+    <title lang="zh">新天龍八部之天山童姥</title>
+  </programme>
+<programme start="20260817084500 +0000" stop="20260817110000 +0000" channel="cht.龍華電影HD">
+    <title lang="zh">從你的全世界路過</title>
+  </programme>
+<programme start="20260817110000 +0000" stop="20260817130000 +0000" channel="cht.龍華電影HD">
+    <title lang="zh">賭俠大戰拉斯維加斯</title>
+  </programme>
+<programme start="20260817130000 +0000" stop="20260817153500 +0000" channel="cht.龍華電影HD">
+    <title lang="zh">雞排英雄</title>
+  </programme>
+<programme start="20260817153500 +0000" stop="20260817173500 +0000" channel="cht.龍華電影HD">
+    <title lang="zh">極道追踪</title>
+  </programme>
 <programme start="20260810161500 +0000" stop="20260810180000 +0000" channel="cht.龍華洋片HD">
     <title lang="zh">惡夜性追緝</title>
   </programme>
@@ -59058,6 +60414,126 @@
 <programme start="20260814151000 +0000" stop="20260814171500 +0000" channel="cht.龍華洋片HD">
     <title lang="zh">野蠻真相</title>
   </programme>
+<programme start="20260814171500 +0000" stop="20260814185500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">超完美劫案</title>
+  </programme>
+<programme start="20260814185500 +0000" stop="20260814203000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">週末夜狂熱祕室逃脫</title>
+  </programme>
+<programme start="20260814203000 +0000" stop="20260814220000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">少年炸彈客</title>
+  </programme>
+<programme start="20260814220000 +0000" stop="20260814233000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">好萊塢幕後解密(新)</title>
+  </programme>
+<programme start="20260814233000 +0000" stop="20260815011000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">雪魔球</title>
+  </programme>
+<programme start="20260815011000 +0000" stop="20260815031000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">罪惡對決</title>
+  </programme>
+<programme start="20260815031000 +0000" stop="20260815050500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">追殺胖老爹</title>
+  </programme>
+<programme start="20260815050500 +0000" stop="20260815071500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">玩命左輪</title>
+  </programme>
+<programme start="20260815071500 +0000" stop="20260815090000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">北極戰隊</title>
+  </programme>
+<programme start="20260815090000 +0000" stop="20260815110500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">放牛班足球隊</title>
+  </programme>
+<programme start="20260815110500 +0000" stop="20260815130000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">我要活下去</title>
+  </programme>
+<programme start="20260815130000 +0000" stop="20260815150000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">極地追擊</title>
+  </programme>
+<programme start="20260815150000 +0000" stop="20260815164000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">催眠狙擊</title>
+  </programme>
+<programme start="20260815164000 +0000" stop="20260815183500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">地球重生(首)</title>
+  </programme>
+<programme start="20260815183500 +0000" stop="20260815202500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">週末夜狂熱幽闇迷宮</title>
+  </programme>
+<programme start="20260815202500 +0000" stop="20260815220000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">玩命鎗火</title>
+  </programme>
+<programme start="20260815220000 +0000" stop="20260815233000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">好萊塢幕後解密(新)</title>
+  </programme>
+<programme start="20260815233000 +0000" stop="20260816014500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">鋼鐵勳章</title>
+  </programme>
+<programme start="20260816014500 +0000" stop="20260816033500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">前線狙擊手</title>
+  </programme>
+<programme start="20260816033500 +0000" stop="20260816052000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">即刻反擊</title>
+  </programme>
+<programme start="20260816052000 +0000" stop="20260816071500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">特務殺很大</title>
+  </programme>
+<programme start="20260816071500 +0000" stop="20260816092000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">瞞天機密</title>
+  </programme>
+<programme start="20260816092000 +0000" stop="20260816112000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">香米小情歌</title>
+  </programme>
+<programme start="20260816112000 +0000" stop="20260816130000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">玩命特區</title>
+  </programme>
+<programme start="20260816130000 +0000" stop="20260816145500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">星光首映場地球重生</title>
+  </programme>
+<programme start="20260816145500 +0000" stop="20260816164000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">玩命快遞：肆意橫行</title>
+  </programme>
+<programme start="20260816164000 +0000" stop="20260816182000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">殺戮特遣隊</title>
+  </programme>
+<programme start="20260816182000 +0000" stop="20260816194000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">極道之家：王子復仇記(首)</title>
+  </programme>
+<programme start="20260816194000 +0000" stop="20260816213500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">巫術</title>
+  </programme>
+<programme start="20260816213500 +0000" stop="20260816230500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">淘金網美</title>
+  </programme>
+<programme start="20260816230500 +0000" stop="20260817003500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">邊防戰區</title>
+  </programme>
+<programme start="20260817003500 +0000" stop="20260817021000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">獵魔人</title>
+  </programme>
+<programme start="20260817021000 +0000" stop="20260817041000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">黑夜看守人</title>
+  </programme>
+<programme start="20260817041000 +0000" stop="20260817060500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">冰血殺機</title>
+  </programme>
+<programme start="20260817060500 +0000" stop="20260817080000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">地球重生</title>
+  </programme>
+<programme start="20260817080000 +0000" stop="20260817093000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">森林傳說：水之魔法石</title>
+  </programme>
+<programme start="20260817093000 +0000" stop="20260817111000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">伊莉莎白二世：榮耀年華</title>
+  </programme>
+<programme start="20260817111000 +0000" stop="20260817130000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">致命遺產</title>
+  </programme>
+<programme start="20260817130000 +0000" stop="20260817142000 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">戰狼部隊5：戰略機密</title>
+  </programme>
+<programme start="20260817142000 +0000" stop="20260817162500 +0000" channel="cht.龍華洋片HD">
+    <title lang="zh">寒冬戰士</title>
+  </programme>
 <programme start="20260810165500 +0000" stop="20260810180000 +0000" channel="cht.龍華經典HD">
     <title lang="zh">戰狼堡壘4：準備行動</title>
   </programme>
@@ -59090,6 +60566,201 @@
   </programme>
 <programme start="20260811152500 +0000" stop="20260811180000 +0000" channel="cht.龍華經典HD">
     <title lang="zh">西蒙娜：世紀之聲</title>
+  </programme>
+<programme start="20260811180000 +0000" stop="20260811220000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">收播</title>
+  </programme>
+<programme start="20260811220000 +0000" stop="20260812000000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">英雄訣(15-16)(首)</title>
+  </programme>
+<programme start="20260812000000 +0000" stop="20260812014000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">小心黑夜</title>
+  </programme>
+<programme start="20260812014000 +0000" stop="20260812040000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">五億探長雷洛傳I：雷老虎</title>
+  </programme>
+<programme start="20260812040000 +0000" stop="20260812065000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">藍徽特攻隊</title>
+  </programme>
+<programme start="20260812065000 +0000" stop="20260812091500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">只有蕓知道</title>
+  </programme>
+<programme start="20260812091500 +0000" stop="20260812110000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">633轟炸大隊</title>
+  </programme>
+<programme start="20260812110000 +0000" stop="20260812130000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">英雄訣(15-16)</title>
+  </programme>
+<programme start="20260812130000 +0000" stop="20260812143500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">御前夜巡使</title>
+  </programme>
+<programme start="20260812143500 +0000" stop="20260812162000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">哥吉拉</title>
+  </programme>
+<programme start="20260812162000 +0000" stop="20260812180000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">浴血奮戰</title>
+  </programme>
+<programme start="20260812180000 +0000" stop="20260812220000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">收播</title>
+  </programme>
+<programme start="20260812220000 +0000" stop="20260813000000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">英雄訣(17-18)(首)</title>
+  </programme>
+<programme start="20260813000000 +0000" stop="20260813021000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">鋼鐵勳章</title>
+  </programme>
+<programme start="20260813021000 +0000" stop="20260813043500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">飛行世紀</title>
+  </programme>
+<programme start="20260813043500 +0000" stop="20260813065500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">赤狐書生</title>
+  </programme>
+<programme start="20260813065500 +0000" stop="20260813090000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">浩劫餘生：人猿星球</title>
+  </programme>
+<programme start="20260813090000 +0000" stop="20260813110000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">香米小情歌</title>
+  </programme>
+<programme start="20260813110000 +0000" stop="20260813130000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">英雄訣(17-18)</title>
+  </programme>
+<programme start="20260813130000 +0000" stop="20260813150000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">虎豹小霸王</title>
+  </programme>
+<programme start="20260813150000 +0000" stop="20260813162500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">戰狼部隊6：誓死如歸</title>
+  </programme>
+<programme start="20260813162500 +0000" stop="20260813180000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">地球攻擊命令：哥吉拉對蓋剛</title>
+  </programme>
+<programme start="20260813180000 +0000" stop="20260813220000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">收播</title>
+  </programme>
+<programme start="20260813220000 +0000" stop="20260814000000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">英雄訣(19-20)(首)</title>
+  </programme>
+<programme start="20260814000000 +0000" stop="20260814021500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">大進擊</title>
+  </programme>
+<programme start="20260814021500 +0000" stop="20260814043500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">極地先鋒</title>
+  </programme>
+<programme start="20260814043500 +0000" stop="20260814063500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">諜報飛龍</title>
+  </programme>
+<programme start="20260814063500 +0000" stop="20260814090500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">大稻埕</title>
+  </programme>
+<programme start="20260814090500 +0000" stop="20260814110000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">蝙蝠俠1966</title>
+  </programme>
+<programme start="20260814110000 +0000" stop="20260814130000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">英雄訣(19-20)</title>
+  </programme>
+<programme start="20260814130000 +0000" stop="20260814153000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">空中急診英雄：海空災難最終救援(首)</title>
+  </programme>
+<programme start="20260814153000 +0000" stop="20260814180000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">失嬰記</title>
+  </programme>
+<programme start="20260814180000 +0000" stop="20260814220000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">收播</title>
+  </programme>
+<programme start="20260814220000 +0000" stop="20260814233500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">哥吉拉對黑多拉</title>
+  </programme>
+<programme start="20260814233500 +0000" stop="20260815010500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">九尾狐與飛天貓</title>
+  </programme>
+<programme start="20260815010500 +0000" stop="20260815030000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">A計劃</title>
+  </programme>
+<programme start="20260815030000 +0000" stop="20260815050000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">A計劃續集</title>
+  </programme>
+<programme start="20260815050000 +0000" stop="20260815064500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">獨行鐵金鋼</title>
+  </programme>
+<programme start="20260815064500 +0000" stop="20260815082000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">我出去醫下</title>
+  </programme>
+<programme start="20260815082000 +0000" stop="20260815111000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">決死突擊隊</title>
+  </programme>
+<programme start="20260815111000 +0000" stop="20260815130000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">霹靂先鋒</title>
+  </programme>
+<programme start="20260815130000 +0000" stop="20260815154000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">戰略大作戰</title>
+  </programme>
+<programme start="20260815154000 +0000" stop="20260815180000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">荒蕪之地應許之心</title>
+  </programme>
+<programme start="20260815180000 +0000" stop="20260815220000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">收播</title>
+  </programme>
+<programme start="20260815220000 +0000" stop="20260815232500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">外太空九號計畫</title>
+  </programme>
+<programme start="20260815232500 +0000" stop="20260816012000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">師弟出馬</title>
+  </programme>
+<programme start="20260816012000 +0000" stop="20260816032000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">虎豹小霸王</title>
+  </programme>
+<programme start="20260816032000 +0000" stop="20260816045000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">新流星蝴蝶劍</title>
+  </programme>
+<programme start="20260816045000 +0000" stop="20260816071500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">空中急診英雄：海空災難最終救援</title>
+  </programme>
+<programme start="20260816071500 +0000" stop="20260816085500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">大洪荒</title>
+  </programme>
+<programme start="20260816085500 +0000" stop="20260816105000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">本日公休</title>
+  </programme>
+<programme start="20260816105000 +0000" stop="20260816130000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">吊人索</title>
+  </programme>
+<programme start="20260816130000 +0000" stop="20260816150000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">精武門</title>
+  </programme>
+<programme start="20260816150000 +0000" stop="20260816170500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">外科醫生</title>
+  </programme>
+<programme start="20260816170500 +0000" stop="20260816180000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">戰狼堡壘6：救贖之路</title>
+  </programme>
+<programme start="20260816180000 +0000" stop="20260816220000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">收播</title>
+  </programme>
+<programme start="20260816220000 +0000" stop="20260817000000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">英雄訣(21-22)(首)</title>
+  </programme>
+<programme start="20260817000000 +0000" stop="20260817021000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">惡水真相</title>
+  </programme>
+<programme start="20260817021000 +0000" stop="20260817034500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">卜派小子</title>
+  </programme>
+<programme start="20260817034500 +0000" stop="20260817065000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">狂沙十萬里</title>
+  </programme>
+<programme start="20260817065000 +0000" stop="20260817085000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">失孤</title>
+  </programme>
+<programme start="20260817085000 +0000" stop="20260817110000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">馴悍記</title>
+  </programme>
+<programme start="20260817110000 +0000" stop="20260817130000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">英雄訣(21-22)</title>
+  </programme>
+<programme start="20260817130000 +0000" stop="20260817145500 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">靈犬雪麗(首)</title>
+  </programme>
+<programme start="20260817145500 +0000" stop="20260817180000 +0000" channel="cht.龍華經典HD">
+    <title lang="zh">巴頓將軍</title>
   </programme>
 <programme start="20260810173000 +0000" stop="20260810193000 +0000" channel="cht.壹電視電影台HD">
     <title lang="zh">顫慄時空</title>
@@ -59141,6 +60812,273 @@
   </programme>
 <programme start="20260811154500 +0000" stop="20260811180000 +0000" channel="cht.壹電視電影台HD">
     <title lang="zh">歡迎來到超自然森林</title>
+  </programme>
+<programme start="20260811180000 +0000" stop="20260811200000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">神鬼獵殺</title>
+  </programme>
+<programme start="20260811200000 +0000" stop="20260811213000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">雪魔入侵</title>
+  </programme>
+<programme start="20260811213000 +0000" stop="20260811220000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">幻境京都與安倍晴明 赤山禪院 篇</title>
+  </programme>
+<programme start="20260811220000 +0000" stop="20260811230000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">金裝四大才子(首播)(47)</title>
+  </programme>
+<programme start="20260811230000 +0000" stop="20260812000000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">富貴門(首播)(13)</title>
+  </programme>
+<programme start="20260812000000 +0000" stop="20260812020000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">四個好日子</title>
+  </programme>
+<programme start="20260812020000 +0000" stop="20260812034500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">再見太空人</title>
+  </programme>
+<programme start="20260812034500 +0000" stop="20260812053000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">按讚訂閱開啟小鈴鐺</title>
+  </programme>
+<programme start="20260812053000 +0000" stop="20260812080000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">北齋：浮世繪傳奇</title>
+  </programme>
+<programme start="20260812080000 +0000" stop="20260812083000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">比利治玩家２七武士篇(新播)(3)</title>
+  </programme>
+<programme start="20260812083000 +0000" stop="20260812103000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">去看小洋蔥媽媽</title>
+  </programme>
+<programme start="20260812103000 +0000" stop="20260812104500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">百首詩中的愛情故事(2)</title>
+  </programme>
+<programme start="20260812104500 +0000" stop="20260812110000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">百首詩中的愛情故事(3)</title>
+  </programme>
+<programme start="20260812110000 +0000" stop="20260812130000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">被偷走的五十年</title>
+  </programme>
+<programme start="20260812130000 +0000" stop="20260812151500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">甜蜜殺機</title>
+  </programme>
+<programme start="20260812151500 +0000" stop="20260812173000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">突然發財</title>
+  </programme>
+<programme start="20260812173000 +0000" stop="20260812194500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">岸邊露伴在羅浮</title>
+  </programme>
+<programme start="20260812194500 +0000" stop="20260812213000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">索命留言板</title>
+  </programme>
+<programme start="20260812213000 +0000" stop="20260812220000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">幻境京都與安倍晴明 大將軍八神社 篇</title>
+  </programme>
+<programme start="20260812220000 +0000" stop="20260812230000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">金裝四大才子(首播)(48)</title>
+  </programme>
+<programme start="20260812230000 +0000" stop="20260813000000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">富貴門(首播)(14)</title>
+  </programme>
+<programme start="20260813000000 +0000" stop="20260813020000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">命運鞋奏曲</title>
+  </programme>
+<programme start="20260813020000 +0000" stop="20260813034500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">愛子歸來</title>
+  </programme>
+<programme start="20260813034500 +0000" stop="20260813053000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">海邊的貓咪偵探社</title>
+  </programme>
+<programme start="20260813053000 +0000" stop="20260813080000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">那些得不到保護的人</title>
+  </programme>
+<programme start="20260813080000 +0000" stop="20260813083000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">比利治玩家２七武士篇(新播)(4)</title>
+  </programme>
+<programme start="20260813083000 +0000" stop="20260813111500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">想再聽見你</title>
+  </programme>
+<programme start="20260813111500 +0000" stop="20260813130000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">太陽王與人魚：新帝國</title>
+  </programme>
+<programme start="20260813130000 +0000" stop="20260813151500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">妖怪大戰爭(新播)</title>
+  </programme>
+<programme start="20260813151500 +0000" stop="20260813170000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">冥通銀行特約：翻生爭霸戰</title>
+  </programme>
+<programme start="20260813170000 +0000" stop="20260813190000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">換宿夜驚魂</title>
+  </programme>
+<programme start="20260813190000 +0000" stop="20260813210000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">哭泣的憂羅娜</title>
+  </programme>
+<programme start="20260813210000 +0000" stop="20260813213000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">辮子</title>
+  </programme>
+<programme start="20260813213000 +0000" stop="20260813220000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">幻境京都與安倍晴明 八坂神社 篇</title>
+  </programme>
+<programme start="20260813220000 +0000" stop="20260813230000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">金裝四大才子(首播)(49)</title>
+  </programme>
+<programme start="20260813230000 +0000" stop="20260814000000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">富貴門(首播)(15)</title>
+  </programme>
+<programme start="20260814000000 +0000" stop="20260814014500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">美味午餐大作戰</title>
+  </programme>
+<programme start="20260814014500 +0000" stop="20260814033000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">爸爸的守護者</title>
+  </programme>
+<programme start="20260814033000 +0000" stop="20260814054500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">高山上的熱氣球</title>
+  </programme>
+<programme start="20260814054500 +0000" stop="20260814061500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">電影快搜(新播)(507)</title>
+  </programme>
+<programme start="20260814061500 +0000" stop="20260814080000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">星際特務</title>
+  </programme>
+<programme start="20260814080000 +0000" stop="20260814083000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">比利治玩家２七武士篇(新播)(5)</title>
+  </programme>
+<programme start="20260814083000 +0000" stop="20260814103000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">我是聲林之王</title>
+  </programme>
+<programme start="20260814103000 +0000" stop="20260814130000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">ＨＥＲＯ電影版</title>
+  </programme>
+<programme start="20260814130000 +0000" stop="20260814144500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">限時狙殺(新播)</title>
+  </programme>
+<programme start="20260814144500 +0000" stop="20260814170000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">妖怪大戰爭</title>
+  </programme>
+<programme start="20260814170000 +0000" stop="20260814190000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">Ｋ先生夢遊仙境</title>
+  </programme>
+<programme start="20260814190000 +0000" stop="20260814210000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">打不死的男人</title>
+  </programme>
+<programme start="20260814210000 +0000" stop="20260814213000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">電影快搜(506)</title>
+  </programme>
+<programme start="20260814213000 +0000" stop="20260814220000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">幻境京都與安倍晴明 神泉苑 篇</title>
+  </programme>
+<programme start="20260814220000 +0000" stop="20260814230000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">幸福蒲公英(37)</title>
+  </programme>
+<programme start="20260814230000 +0000" stop="20260815000000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">幸福蒲公英(38)</title>
+  </programme>
+<programme start="20260815000000 +0000" stop="20260815021500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">美味午餐大作戰：畢業篇</title>
+  </programme>
+<programme start="20260815021500 +0000" stop="20260815034500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">超人力霸王雅克 THE MOVIE 超次元大決戰！光與暗的雅克</title>
+  </programme>
+<programme start="20260815034500 +0000" stop="20260815053000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">太陽王與人魚：新帝國</title>
+  </programme>
+<programme start="20260815053000 +0000" stop="20260815073000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">靈犬雪麗</title>
+  </programme>
+<programme start="20260815073000 +0000" stop="20260815084500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">蘇維埃巴士站</title>
+  </programme>
+<programme start="20260815084500 +0000" stop="20260815104500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">被偷走的五十年</title>
+  </programme>
+<programme start="20260815104500 +0000" stop="20260815130000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">ＨＥＲＯ電影版２</title>
+  </programme>
+<programme start="20260815130000 +0000" stop="20260815150000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">結婚那件事(新播)</title>
+  </programme>
+<programme start="20260815150000 +0000" stop="20260815164500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">限時狙殺</title>
+  </programme>
+<programme start="20260815164500 +0000" stop="20260815194500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">蒙古英豪</title>
+  </programme>
+<programme start="20260815194500 +0000" stop="20260815214500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">三角窗外是黑夜</title>
+  </programme>
+<programme start="20260815214500 +0000" stop="20260815220000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">ｍｅｍ：共享自然恩惠的阿伊努食文化 特輯</title>
+  </programme>
+<programme start="20260815220000 +0000" stop="20260815230000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">幸福蒲公英(39)</title>
+  </programme>
+<programme start="20260815230000 +0000" stop="20260816000000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">幸福蒲公英(40)</title>
+  </programme>
+<programme start="20260816000000 +0000" stop="20260816021500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">美味午餐大作戰：函館篇</title>
+  </programme>
+<programme start="20260816021500 +0000" stop="20260816034500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">不逞強 不受傷 明天還要上班！新根室職業摔角物語</title>
+  </programme>
+<programme start="20260816034500 +0000" stop="20260816060000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">智淑的娘家旅程</title>
+  </programme>
+<programme start="20260816060000 +0000" stop="20260816080000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">結婚那件事</title>
+  </programme>
+<programme start="20260816080000 +0000" stop="20260816094500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">愛子歸來</title>
+  </programme>
+<programme start="20260816094500 +0000" stop="20260816120000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">關於我老婆寫的死亡筆記本</title>
+  </programme>
+<programme start="20260816120000 +0000" stop="20260816140000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">武士老師</title>
+  </programme>
+<programme start="20260816140000 +0000" stop="20260816143000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">匠人魂 說台灣的故事 特輯(新播)(3)</title>
+  </programme>
+<programme start="20260816143000 +0000" stop="20260816163000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">實習男生存法則</title>
+  </programme>
+<programme start="20260816163000 +0000" stop="20260816183000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">人妖打排球</title>
+  </programme>
+<programme start="20260816183000 +0000" stop="20260816203000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">媽媽附身我女友</title>
+  </programme>
+<programme start="20260816203000 +0000" stop="20260816220000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">種種相遇</title>
+  </programme>
+<programme start="20260816220000 +0000" stop="20260816230000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">金裝四大才子(首播)(50)</title>
+  </programme>
+<programme start="20260816230000 +0000" stop="20260817000000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">富貴門(首播)(16)</title>
+  </programme>
+<programme start="20260817000000 +0000" stop="20260817020000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">我們的青春冒險</title>
+  </programme>
+<programme start="20260817020000 +0000" stop="20260817034500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">Ｓｔｒｉｋｅ！娜英</title>
+  </programme>
+<programme start="20260817034500 +0000" stop="20260817060000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">每天上班總是累得要死</title>
+  </programme>
+<programme start="20260817060000 +0000" stop="20260817063000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">比利治玩家(1)</title>
+  </programme>
+<programme start="20260817063000 +0000" stop="20260817084500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">海邊的朝日與騙子們</title>
+  </programme>
+<programme start="20260817084500 +0000" stop="20260817091500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">匠人魂 說台灣的故事 特輯(3)</title>
+  </programme>
+<programme start="20260817091500 +0000" stop="20260817113000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">撼山河 撼向世界</title>
+  </programme>
+<programme start="20260817113000 +0000" stop="20260817140000 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">在那開滿花的山丘，我想見到妳</title>
+  </programme>
+<programme start="20260817140000 +0000" stop="20260817161500 +0000" channel="cht.壹電視電影台HD">
+    <title lang="zh">妖怪大戰爭</title>
   </programme>
 <programme start="20260810160000 +0000" stop="20260810162000 +0000" channel="cht.Arirang-TV-HD">
     <title lang="zh">K-CULTURE MINUTES: K-NOW</title>
@@ -177212,16 +179150,7 @@
     </rating>
   </programme>
 
-<!-- Programme9 --><programme start="20260811203000 +0000" stop="20260811230000 +0000" channel="myvideo.博斯運動一台">
-    <title lang="zh">2026溫布頓網球錦標賽混雙決賽POL/HUN vs ARE/OST</title>
-  </programme>
-<programme start="20260811230000 +0000" stop="20260812013000 +0000" channel="myvideo.博斯運動一台">
-    <title lang="zh">2026歐冠男排聯賽八強 LEG1華沙項目 vs波蘭盧布林</title>
-  </programme>
-<programme start="20260812013000 +0000" stop="20260812040000 +0000" channel="myvideo.博斯運動一台">
-    <title lang="zh">2026普林瑟伯慈善菁英賽 第三天</title>
-  </programme>
-<programme start="20260812040000 +0000" stop="20260812063000 +0000" channel="myvideo.博斯運動一台">
+<!-- Programme9 --><programme start="20260812040000 +0000" stop="20260812063000 +0000" channel="myvideo.博斯運動一台">
     <title lang="zh">首播2026企業女子壘球聯賽第九周總管家石虎 vs 臺北臺產熊讚</title>
   </programme>
 <programme start="20260812063000 +0000" stop="20260812090000 +0000" channel="myvideo.博斯運動一台">
@@ -177305,12 +179234,6 @@
 <programme start="20260814103000 +0000" stop="20260814140000 +0000" channel="myvideo.博斯運動一台">
     <title lang="zh">LIVE2026中華職棒場次 263樂天桃猿 vs 味全龍</title>
   </programme>
-<programme start="20260811220000 +0000" stop="20260812020000 +0000" channel="myvideo.博斯網球">
-    <title lang="zh">LIVE2026蒙特婁大師賽八強0600-1000</title>
-  </programme>
-<programme start="20260812020000 +0000" stop="20260812044500 +0000" channel="myvideo.博斯網球">
-    <title lang="zh">2026華盛頓男網賽十六強NAKvsMEN1245</title>
-  </programme>
 <programme start="20260812044500 +0000" stop="20260812073000 +0000" channel="myvideo.博斯網球">
     <title lang="zh">2026埃斯托里爾男網賽八強BURvsBLO</title>
   </programme>
@@ -177371,12 +179294,6 @@
 <programme start="20260814130000 +0000" stop="20260814150000 +0000" channel="myvideo.博斯網球">
     <title lang="zh">2026埃斯托里爾男網賽四強ASSvsGAS</title>
   </programme>
-<programme start="20260811220000 +0000" stop="20260811230000 +0000" channel="myvideo.博斯高球">
-    <title lang="zh">2026PGA約翰迪爾菁英賽精華</title>
-  </programme>
-<programme start="20260811230000 +0000" stop="20260812040000 +0000" channel="myvideo.博斯高球">
-    <title lang="zh">2026歐巡荷蘭公開賽第一天</title>
-  </programme>
 <programme start="20260812040000 +0000" stop="20260812070000 +0000" channel="myvideo.博斯高球">
     <title lang="zh">2026PGA溫德翰姆錦標賽第二天</title>
   </programme>
@@ -177427,12 +179344,6 @@
   </programme>
 <programme start="20260814100000 +0000" stop="20260814110000 +0000" channel="myvideo.博斯高球">
     <title lang="zh">2026PGA溫德翰姆錦標賽精華</title>
-  </programme>
-<programme start="20260811220000 +0000" stop="20260812010000 +0000" channel="myvideo.東森新聞">
-    <title lang="zh">Hello台灣</title>
-  </programme>
-<programme start="20260812010000 +0000" stop="20260812020000 +0000" channel="myvideo.東森新聞">
-    <title lang="zh">東森新聞</title>
   </programme>
 <programme start="20260812020000 +0000" stop="20260812070000 +0000" channel="myvideo.東森新聞">
     <title lang="zh">東森午安新聞</title>
@@ -177511,27 +179422,6 @@
   </programme>
 <programme start="20260814120000 +0000" stop="20260814140000 +0000" channel="myvideo.東森新聞">
     <title lang="zh">東森世界日報</title>
-  </programme>
-<programme start="20260811220000 +0000" stop="20260811230000 +0000" channel="myvideo.民視新聞">
-    <title lang="zh">民視六點晨間新聞</title>
-  </programme>
-<programme start="20260811230000 +0000" stop="20260812000000 +0000" channel="myvideo.民視新聞">
-    <title lang="zh">民視七點晨間新聞</title>
-  </programme>
-<programme start="20260812000000 +0000" stop="20260812003000 +0000" channel="myvideo.民視新聞">
-    <title lang="zh">民視八點晨間新聞</title>
-  </programme>
-<programme start="20260812003000 +0000" stop="20260812010000 +0000" channel="myvideo.民視新聞">
-    <title lang="zh">國際早報</title>
-  </programme>
-<programme start="20260812010000 +0000" stop="20260812020000 +0000" channel="myvideo.民視新聞">
-    <title lang="zh">民視九點新聞</title>
-  </programme>
-<programme start="20260812020000 +0000" stop="20260812030000 +0000" channel="myvideo.民視新聞">
-    <title lang="zh">民視十點台語新聞</title>
-  </programme>
-<programme start="20260812030000 +0000" stop="20260812035000 +0000" channel="myvideo.民視新聞">
-    <title lang="zh">民視十一點新聞</title>
   </programme>
 <programme start="20260812035000 +0000" stop="20260812055000 +0000" channel="myvideo.民視新聞">
     <title lang="zh">民視午間新聞</title>
@@ -177697,9 +179587,6 @@
   </programme>
 <programme start="20260814135500 +0000" stop="20260814153000 +0000" channel="myvideo.民視新聞">
     <title lang="zh">台灣向前行</title>
-  </programme>
-<programme start="20260811220000 +0000" stop="20260812003000 +0000" channel="myvideo.東森財經新聞">
-    <title lang="zh">57股MORNING</title>
   </programme>
 <programme start="20260812003000 +0000" stop="20260812053500 +0000" channel="myvideo.東森財經新聞">
     <title lang="zh">股動錢潮 LIVE</title>
@@ -177877,138 +179764,6 @@
   </programme>
 <programme start="20260814143000 +0000" stop="20260814150000 +0000" channel="myvideo.東森財經新聞">
     <title lang="zh">趨勢造夢者</title>
-  </programme>
-<programme start="20260811221500 +0000" stop="20260811222500 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">梅西去OKIDO</title>
-  </programme>
-<programme start="20260811222500 +0000" stop="20260811224000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">變形魔車</title>
-  </programme>
-<programme start="20260811224000 +0000" stop="20260811224700 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">妙妙犬布麗第3季</title>
-  </programme>
-<programme start="20260811224700 +0000" stop="20260811230000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">妙妙犬布麗第3季</title>
-  </programme>
-<programme start="20260811230000 +0000" stop="20260811230700 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">阿奇幼幼園第5季</title>
-  </programme>
-<programme start="20260811230700 +0000" stop="20260811231500 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">阿奇幼幼園第5季</title>
-  </programme>
-<programme start="20260811231500 +0000" stop="20260811232200 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">阿奇幼幼園-小朋友俱樂部</title>
-  </programme>
-<programme start="20260811232200 +0000" stop="20260811233000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">阿奇幼幼園-小朋友俱樂部</title>
-  </programme>
-<programme start="20260811233000 +0000" stop="20260811234500 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">全球探險衝衝衝第2季</title>
-  </programme>
-<programme start="20260811234500 +0000" stop="20260811235200 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">妙妙犬布麗</title>
-  </programme>
-<programme start="20260811235200 +0000" stop="20260812000000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">妙妙犬布麗第2季</title>
-  </programme>
-<programme start="20260812000000 +0000" stop="20260812000700 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">妙妙犬布麗第3季</title>
-  </programme>
-<programme start="20260812000700 +0000" stop="20260812001500 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">妙妙犬布麗第3季</title>
-  </programme>
-<programme start="20260812001500 +0000" stop="20260812003000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">安迪的恐龍島大冒險</title>
-  </programme>
-<programme start="20260812003000 +0000" stop="20260812005500 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">遊戲時間塔</title>
-  </programme>
-<programme start="20260812005500 +0000" stop="20260812010200 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">阿奇幼幼園第3季</title>
-  </programme>
-<programme start="20260812010200 +0000" stop="20260812010900 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">阿奇幼幼園第3季</title>
-  </programme>
-<programme start="20260812010900 +0000" stop="20260812011500 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">阿奇幼幼園第3季</title>
-  </programme>
-<programme start="20260812011500 +0000" stop="20260812012500 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">全球探險衝衝衝</title>
-  </programme>
-<programme start="20260812012500 +0000" stop="20260812014000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">全球探險衝衝衝</title>
-  </programme>
-<programme start="20260812014000 +0000" stop="20260812015000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">湯瑪士小火車第23季</title>
-  </programme>
-<programme start="20260812015000 +0000" stop="20260812015700 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">莎拉與乖乖鴨第2季</title>
-  </programme>
-<programme start="20260812015700 +0000" stop="20260812020500 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">莎拉與乖乖鴨第2季</title>
-  </programme>
-<programme start="20260812020500 +0000" stop="20260812021100 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">小倉鼠史丹利</title>
-  </programme>
-<programme start="20260812021100 +0000" stop="20260812022000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">小倉鼠史丹利</title>
-  </programme>
-<programme start="20260812022000 +0000" stop="20260812022500 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">爆笑動物生活</title>
-  </programme>
-<programme start="20260812022500 +0000" stop="20260812023800 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">啾啾與奶奶第2季</title>
-  </programme>
-<programme start="20260812023800 +0000" stop="20260812024500 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">妙妙犬布麗第3季</title>
-  </programme>
-<programme start="20260812024500 +0000" stop="20260812025000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">妙妙犬布麗第3季</title>
-  </programme>
-<programme start="20260812025000 +0000" stop="20260812030000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">妙妙犬布麗第3季</title>
-  </programme>
-<programme start="20260812030000 +0000" stop="20260812030700 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">阿奇幼幼園第4季</title>
-  </programme>
-<programme start="20260812030700 +0000" stop="20260812031400 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">阿奇幼幼園第4季</title>
-  </programme>
-<programme start="20260812031400 +0000" stop="20260812032000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">阿奇幼幼園-小朋友俱樂部</title>
-  </programme>
-<programme start="20260812032000 +0000" stop="20260812033000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">全球探險衝衝衝</title>
-  </programme>
-<programme start="20260812033000 +0000" stop="20260812033500 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">蔬果達人秀</title>
-  </programme>
-<programme start="20260812033500 +0000" stop="20260812034500 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">蔬果達人秀第2季</title>
-  </programme>
-<programme start="20260812034500 +0000" stop="20260812035200 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">馬鈴薯超人</title>
-  </programme>
-<programme start="20260812035200 +0000" stop="20260812040000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">馬鈴薯超人</title>
-  </programme>
-<programme start="20260812040000 +0000" stop="20260812041000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">天線寶寶</title>
-  </programme>
-<programme start="20260812041000 +0000" stop="20260812041500 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">蒂蒂說英語第7季</title>
-  </programme>
-<programme start="20260812041500 +0000" stop="20260812042500 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">梅西去OKIDO</title>
-  </programme>
-<programme start="20260812042500 +0000" stop="20260812044000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">變形魔車</title>
-  </programme>
-<programme start="20260812044000 +0000" stop="20260812044700 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">妙妙犬布麗第3季</title>
-  </programme>
-<programme start="20260812044700 +0000" stop="20260812050000 +0000" channel="myvideo.BBCCBeebies">
-    <title lang="zh">妙妙犬布麗第3季</title>
   </programme>
 <programme start="20260812050000 +0000" stop="20260812050700 +0000" channel="myvideo.BBCCBeebies">
     <title lang="zh">阿奇幼幼園第5季</title>
@@ -179189,36 +180944,6 @@
 <programme start="20260814154500 +0000" stop="20260814155200 +0000" channel="myvideo.BBCCBeebies">
     <title lang="zh">馬鈴薯超人</title>
   </programme>
-<programme start="20260811220000 +0000" stop="20260811223000 +0000" channel="myvideo.BBCEARTH">
-    <title lang="zh">羅布森週末逍遙遊第4季</title>
-  </programme>
-<programme start="20260811223000 +0000" stop="20260811230500 +0000" channel="myvideo.BBCEARTH">
-    <title lang="zh">羅布森週末逍遙遊第4季</title>
-  </programme>
-<programme start="20260811230500 +0000" stop="20260812000000 +0000" channel="myvideo.BBCEARTH">
-    <title lang="zh">長城探秘</title>
-  </programme>
-<programme start="20260812000000 +0000" stop="20260812005000 +0000" channel="myvideo.BBCEARTH">
-    <title lang="zh">追蹤大怪物第3季</title>
-  </programme>
-<programme start="20260812005000 +0000" stop="20260812012000 +0000" channel="myvideo.BBCEARTH">
-    <title lang="zh">致命鯊魚救星</title>
-  </programme>
-<programme start="20260812012000 +0000" stop="20260812015500 +0000" channel="myvideo.BBCEARTH">
-    <title lang="zh">致命鯊魚救星</title>
-  </programme>
-<programme start="20260812015500 +0000" stop="20260812022500 +0000" channel="myvideo.BBCEARTH">
-    <title lang="zh">羅布森週末逍遙遊第4季</title>
-  </programme>
-<programme start="20260812022500 +0000" stop="20260812030000 +0000" channel="myvideo.BBCEARTH">
-    <title lang="zh">羅布森週末逍遙遊第4季</title>
-  </programme>
-<programme start="20260812030000 +0000" stop="20260812040000 +0000" channel="myvideo.BBCEARTH">
-    <title lang="zh">長城探秘</title>
-  </programme>
-<programme start="20260812040000 +0000" stop="20260812050000 +0000" channel="myvideo.BBCEARTH">
-    <title lang="zh">王朝</title>
-  </programme>
 <programme start="20260812050000 +0000" stop="20260812053000 +0000" channel="myvideo.BBCEARTH">
     <title lang="zh">致命鯊魚救星</title>
   </programme>
@@ -179435,30 +181160,6 @@
 <programme start="20260814145000 +0000" stop="20260814154000 +0000" channel="myvideo.BBCEARTH">
     <title lang="zh">追蹤大怪物第4季</title>
   </programme>
-<programme start="20260811220000 +0000" stop="20260811225000 +0000" channel="myvideo.BBCLifestyle">
-    <title lang="zh">少年烘焙大賽第11季</title>
-  </programme>
-<programme start="20260811225000 +0000" stop="20260811235000 +0000" channel="myvideo.BBCLifestyle">
-    <title lang="zh">絕佳飯店-登堂入室第5季</title>
-  </programme>
-<programme start="20260811235000 +0000" stop="20260812002000 +0000" channel="myvideo.BBCLifestyle">
-    <title lang="zh">赫母斯利姐妹-健康又美味第1季</title>
-  </programme>
-<programme start="20260812002000 +0000" stop="20260812005000 +0000" channel="myvideo.BBCLifestyle">
-    <title lang="zh">星級主廚遊巴黎第1季</title>
-  </programme>
-<programme start="20260812005000 +0000" stop="20260812014500 +0000" channel="myvideo.BBCLifestyle">
-    <title lang="zh">宏觀設計第24季</title>
-  </programme>
-<programme start="20260812014500 +0000" stop="20260812024000 +0000" channel="myvideo.BBCLifestyle">
-    <title lang="zh">傑米的健康美味第1季</title>
-  </programme>
-<programme start="20260812024000 +0000" stop="20260812033000 +0000" channel="myvideo.BBCLifestyle">
-    <title lang="zh">少年烘焙大賽第11季</title>
-  </programme>
-<programme start="20260812033000 +0000" stop="20260812043000 +0000" channel="myvideo.BBCLifestyle">
-    <title lang="zh">絕佳飯店-登堂入室第5季</title>
-  </programme>
 <programme start="20260812043000 +0000" stop="20260812052500 +0000" channel="myvideo.BBCLifestyle">
     <title lang="zh">宏觀設計第24季</title>
   </programme>
@@ -179674,39 +181375,6 @@
   </programme>
 <programme start="20260814142000 +0000" stop="20260814151500 +0000" channel="myvideo.BBCLifestyle">
     <title lang="zh">烘焙大賽-專業廚師第8季</title>
-  </programme>
-<programme start="20260811220000 +0000" stop="20260811230000 +0000" channel="myvideo.民視">
-    <title lang="zh">民視六點晨間新聞</title>
-  </programme>
-<programme start="20260811230000 +0000" stop="20260812000000 +0000" channel="myvideo.民視">
-    <title lang="zh">民視七點晨間新聞</title>
-  </programme>
-<programme start="20260812000000 +0000" stop="20260812010000 +0000" channel="myvideo.民視">
-    <title lang="zh">醫學大聯盟</title>
-  </programme>
-<programme start="20260812010000 +0000" stop="20260812013000 +0000" channel="myvideo.民視">
-    <title lang="zh">元氣加油站</title>
-  </programme>
-<programme start="20260812013000 +0000" stop="20260812020000 +0000" channel="myvideo.民視">
-    <title lang="zh">美鳳有約</title>
-  </programme>
-<programme start="20260812020000 +0000" stop="20260812023000 +0000" channel="myvideo.民視">
-    <title lang="zh">消費高手</title>
-  </programme>
-<programme start="20260812023000 +0000" stop="20260812030000 +0000" channel="myvideo.民視">
-    <title lang="zh">消費高手</title>
-  </programme>
-<programme start="20260812030000 +0000" stop="20260812033000 +0000" channel="myvideo.民視">
-    <title lang="zh">元氣加油站</title>
-  </programme>
-<programme start="20260812033000 +0000" stop="20260812040000 +0000" channel="myvideo.民視">
-    <title lang="zh">消費高手</title>
-  </programme>
-<programme start="20260812040000 +0000" stop="20260812043000 +0000" channel="myvideo.民視">
-    <title lang="zh">民視無線午間新聞</title>
-  </programme>
-<programme start="20260812043000 +0000" stop="20260812050000 +0000" channel="myvideo.民視">
-    <title lang="zh">美鳳有約</title>
   </programme>
 <programme start="20260812050000 +0000" stop="20260812061500 +0000" channel="myvideo.民視">
     <title lang="zh">豆腐媽媽</title>
