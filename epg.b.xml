@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- ETH EPG XML (Strict START Priority) generated on 13/08/2026, 19:11:14 -->
+<!-- ETH EPG XML (Strict START Priority) generated on 13/08/2026, 19:22:35 -->
 <tv>
 <channel id="pw.TW.taiwanplus.mod"><display-name lang="TW">[TW-I] 01 TAIWAN PLUS+</display-name><icon src="https://myeth-epg.github.io/icons/t01.png"></icon></channel>
 <channel id="homeplus.NHKWORLDPREMIUM"><display-name lang="TW">[TW-I] 02 NHK</display-name><icon src="https://myeth-epg.github.io/icons/t02.png"></icon></channel>
@@ -781,11 +781,6 @@
 <channel id="nowtv.now.sports.4k.1"><display-name lang="zh-HK">[NowTV] 611 Sports 4K-1|比賽時開放</display-name><icon src="https://myeth-epg.github.io/icons/now611.png"></icon></channel>
 <channel id="nowtv.now.sports.4k.2"><display-name lang="zh-HK">[NowTV] 612 Sports 4K-2|比賽時開放</display-name><icon src="https://myeth-epg.github.io/icons/now612.png"></icon></channel>
 <channel id="nowtv.now.sports.4k.3"><display-name lang="zh-HK">[NowTV] 613 Sports 4K-3|比賽時開放</display-name><icon src="https://myeth-epg.github.io/icons/now613.png"></icon></channel>
-<channel id="nowtv.now.sports.4k.616"><display-name lang="zh-HK">[NowTV] 616 Now Sports 4K 616|比賽時開放</display-name><icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch616_170_122"></icon></channel>
-<channel id="nowtv.now.sports.4k.617"><display-name lang="zh-HK">[NowTV] 617 Now Sports 4K 617|比賽時開放</display-name><icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch617_170_122"></icon></channel>
-<channel id="nowtv.now.sports.618"><display-name lang="zh-HK">[NowTV] 618 Now Sports 618</display-name><icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch618_170_122"></icon></channel>
-<channel id="nowtv.now.sports.618"><display-name lang="zh-HK">[NowTV] 618 Now Sports 618|比賽時開放</display-name><icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch618_170_122"></icon></channel>
-<channel id="nowtv.now.sports.619"><display-name lang="zh-HK">[NowTV] 619 Now Sports 619|比賽時開放</display-name><icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch619_170_122"></icon></channel>
 <channel id="nowtv.now.sports.premier.league.tv"><display-name lang="zh-HK">[NowTV] 620 Sports 英超TV</display-name><icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch620_425_305"></icon></channel>
 <channel id="nowtv.now.sports.premier.league.1"><display-name lang="zh-HK">[NowTV] 621 Sports 英超1台</display-name><icon src="https://myeth-epg.github.io/icons/now621.png"></icon></channel>
 <channel id="nowtv.now.sports.premier.league.1"><display-name lang="zh-HK">[NowTV] 621 Sports 英超1台|比賽時開放</display-name><icon src="https://myeth-epg.github.io/icons/now621.png"></icon></channel>
@@ -980,7 +975,7 @@
 <channel id="astro.369.crimeandinvestigation"><display-name>[astro] 714 Crime &amp; Investigation HD</display-name><icon src="https://myeth-epg.github.io/icons/crime.png"></icon></channel>
 <channel id="astro.198.hgtv"><display-name>[astro] 715 HGTV HD</display-name><icon src="https://myeth-epg.github.io/icons/hgtv.png"></icon></channel>
 <channel id="astro.235.arena"><display-name>[astro] 801 Astro Arena</display-name><icon src="https://myeth-epg.github.io/icons3/mys801.png"></icon></channel>
-<channel id="astro.457.arena2"><display-name>[astro] 802 Astro Arena 2</display-name><icon src="https://myeth-epg.github.io/icons3/mys802.png"></icon></channel>
+<channel id="0"><display-name>[astro] 802 Stadium Astro</display-name><icon src="https://myeth-epg.github.io/icons3/0.png"></icon></channel>
 <channel id="astro.486.arenabola"><display-name>[astro] 803 Arena Bola</display-name><icon src="https://myeth-epg.github.io/icons3/mys803.png"></icon></channel>
 <channel id="astro.487.arenabola2"><display-name>[astro] 804 Arena Bola 2</display-name><icon src="https://myeth-epg.github.io/icons3/mys804.png"></icon></channel>
 <channel id="0"><display-name>[astro] 806 Sukan+</display-name><icon src="https://myeth-epg.github.io/icons3/0.png"></icon></channel>
@@ -65188,10 +65183,6 @@
     <title lang="zh">Sorotan Sepak Takraw Piala Emas Khir Johari 2026</title>
     <desc>Sorotan aksi-aksi menarik Kejohanan Sepak Takraw Piala Emas Khir Johari 2026.</desc>
   </programme>
-  <programme channel="astro.457.arena2" start="20260814160000 +0000" stop="20260814220000 +0000">
-    <title lang="zh">D Hari Pertama: Counter-Strike 2 CS2  EWC 2026</title>
-    <desc>Counter-Strike 2 CS2 Esports World Cup 2026 dari Paris.</desc>
-  </programme>
   <programme channel="astro.486.arenabola" start="20260814160000 +0000" stop="20260814180000 +0000">
     <title lang="zh">MSL 202526: PEN lwn SAB</title>
     <desc>Liga Super 202526 perlawanan ke-137: Penang lwn Sabah dari Stadium Bandaraya, George Town, Pulau Pinang.</desc>
@@ -85243,110 +85234,6 @@
   <programme channel="astro.235.arena" start="20260814122000 +0000" stop="20260814143000 +0000">
     <title lang="zh">L Sukma Selangor 2026 Bolasepak: SEL lwn KUL</title>
     <desc>Langsung Temasya Sukan Malaysia ke-22 Bolasepak: Selangor lwn Kuala Lumpur dari Selangor.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813000000 +0000" stop="20260813013000 +0000">
-    <title lang="zh">ATP 250 Nordea Open 2026: Akhir</title>
-    <desc>ATP 250 Nordea Open 2026: Akhir dari Sweden.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813013000 +0000" stop="20260813020000 +0000">
-    <title lang="zh">Sorotan PL 202526</title>
-    <desc>Sorotan aksi-aksi menarik perlawanan Liga Perdana 202526.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813020000 +0000" stop="20260813023000 +0000">
-    <title lang="zh">Own The Moment Ep6 - Gojes</title>
-    <desc>Sebagai juara bertahan, SRG.OG menuju ke EWC 2025. Namun di sebalik sorakan, tersimpan kisah yang belum pernah terungkap, perjalanan penuh tekad, perjuangan senyap dan ikatan yang terbina di antara mereka.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813023000 +0000" stop="20260813033000 +0000">
-    <title lang="zh">The Bangmed Show S3 eps.12</title>
-    <desc>The Bangmed Show adalah sebuah rancangan TV podcast yang akan membawa anda ke dunia belakang tabir badminton. Bersama BangMed dalam mengupas kisah-kisah dan pengalaman yang mewarnai sukan dinamik ini.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813033000 +0000" stop="20260813040000 +0000">
-    <title lang="zh">Sorotan PL 202526</title>
-    <desc>Sorotan aksi-aksi menarik perlawanan Liga Perdana 202526.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813040000 +0000" stop="20260813041500 +0000">
-    <title lang="zh">L Nadi World</title>
-    <desc>Langsung Berita terkini dari dunia sukan antarabangsa.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813041500 +0000" stop="20260813080000 +0000">
-    <title lang="zh">Kriket: LPL 2026 Qualifier</title>
-    <desc>Lanka Premier League 2026: Qualifier dari Sri Lanka.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813080000 +0000" stop="20260813081500 +0000">
-    <title lang="zh">Kisah Di Sebalik Harimau: Legasi</title>
-    <desc>Legasi Sang Harimau, mengimbau kenangan dan kegemilangan Datuk Santokh Singh bersama Harimau Malaya. Legasi beliau terus menjadi inspirasi kepada generasi pemain bola sepak negara hingga ke hari ini.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813081500 +0000" stop="20260813083000 +0000">
-    <title lang="zh">Nadi World</title>
-    <desc>Berita terkini dari dunia sukan antarabangsa.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813083000 +0000" stop="20260813103000 +0000">
-    <title lang="zh">PL 202526</title>
-    <desc>Liga Perdana 202526</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813103000 +0000" stop="20260813104500 +0000">
-    <title lang="zh">Nadi World</title>
-    <desc>Berita terkini dari dunia sukan antarabangsa.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813104500 +0000" stop="20260813110000 +0000">
-    <title lang="zh">Kisah Di Sebalik Harimau: Legasi</title>
-    <desc>Legasi Sang Harimau, mengimbau kenangan dan kegemilangan Datuk Santokh Singh bersama Harimau Malaya. Legasi beliau terus menjadi inspirasi kepada generasi pemain bola sepak negara hingga ke hari ini.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813110000 +0000" stop="20260813190000 +0000">
-    <title lang="zh">L Hari ke-2: Counter-Strike 2 CS2  EWC 2026</title>
-    <desc>Langsung Counter-Strike 2 CS2 Esports World Cup 2026 dari Paris.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813190000 +0000" stop="20260813191500 +0000">
-    <title lang="zh">Kisah Di Sebalik Harimau: Legasi</title>
-    <desc>Legasi Sang Harimau, mengimbau kenangan dan kegemilangan Datuk Santokh Singh bersama Harimau Malaya. Legasi beliau terus menjadi inspirasi kepada generasi pemain bola sepak negara hingga ke hari ini.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813191500 +0000" stop="20260813213000 +0000">
-    <title lang="zh">ATP 250 Boss Open 2026: Akhir</title>
-    <desc>ATP 250s Boss Open 2026: Akhir dari Tennis Club Weissenhof, Stuttgart.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813213000 +0000" stop="20260813220000 +0000">
-    <title lang="zh">Own The Moment Ep5 - Kramm</title>
-    <desc>Sebagai juara bertahan, SRG.OG menuju ke EWC 2025. Namun di sebalik sorakan, tersimpan kisah yang belum pernah terungkap, perjalanan penuh tekad, perjuangan senyap dan ikatan yang terbina di antara mereka.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813220000 +0000" stop="20260813230000 +0000">
-    <title lang="zh">Sorotan Hari ke-3: 5th WDSF MO 2026</title>
-    <desc>Sorotan aksi-aksi menarik 5th WDSF Malaysia Open Dancesport Championship 2026.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813230000 +0000" stop="20260813233000 +0000">
-    <title lang="zh">Sorotan PL 202526</title>
-    <desc>Sorotan aksi-aksi menarik perlawanan Liga Perdana 202526.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260813233000 +0000" stop="20260814033000 +0000">
-    <title lang="zh">Hari Pertama Motor: ARRC 2026 Rnd 4</title>
-    <desc>Motor: Asia Road Race Championship 2026 Pusingan ke-4 dari Sirkit Antarabangsa Pertamina Mandalika, Lombok, Indonesia.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260814033000 +0000" stop="20260814040000 +0000">
-    <title lang="zh">Sorotan PL 202526</title>
-    <desc>Sorotan aksi-aksi menarik perlawanan Liga Perdana 202526.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260814040000 +0000" stop="20260814041500 +0000">
-    <title lang="zh">L Nadi World</title>
-    <desc>Langsung Berita terkini dari dunia sukan antarabangsa.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260814041500 +0000" stop="20260814081500 +0000">
-    <title lang="zh">Kriket: LPL 2026 Final</title>
-    <desc>Lanka Premier League 2026: Final dari Sri Lanka.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260814081500 +0000" stop="20260814083000 +0000">
-    <title lang="zh">Nadi World</title>
-    <desc>Berita terkini dari dunia sukan antarabangsa.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260814083000 +0000" stop="20260814084500 +0000">
-    <title lang="zh">Kisah Di Sebalik Harimau: Faisal Halim</title>
-    <desc>Bangkit Semula, tragedi yang menimpa Faisal Halim tidak mematahkan semangatnya. Sebaliknya, ia menjadi pembakar semangat untuk terus berjuang demi jersi kebangsaan dan harapan penyokong Harimau Malaya.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260814084500 +0000" stop="20260814090000 +0000">
-    <title lang="zh">Nadi World</title>
-    <desc>Berita terkini dari dunia sukan antarabangsa.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260814090000 +0000" stop="20260814110000 +0000">
-    <title lang="zh">L MPL MY S18 2026: Match 1</title>
-    <desc>Langsung Mobile Legends Professional League Malaysia Season 18.</desc>
   </programme>
   <programme channel="astro.486.arenabola" start="20260813000000 +0000" stop="20260813020000 +0000">
     <title lang="zh">MFL Challenge Cup 202526: PEN lwn SAB</title>
@@ -190666,10 +190553,6 @@
   <programme channel="astro.235.arena" start="20260814143000 +0000" stop="20260814190000 +0000">
     <title lang="zh">L Hari ke-3: Counter-Strike 2  EWC 2026</title>
     <desc>Langsung Counter-Strike 2 CS2 Esports World Cup 2026 dari Paris.</desc>
-  </programme>
-  <programme channel="astro.457.arena2" start="20260814110000 +0000" stop="20260814160000 +0000">
-    <title lang="zh">L Hari ke-7: PUBGM  EWC 2026</title>
-    <desc>Langsung PUBG Mobile Esports World Cup 2026 dari Paris.</desc>
   </programme>
   <programme channel="astro.486.arenabola" start="20260814140000 +0000" stop="20260814160000 +0000">
     <title lang="zh">MSL 202526: MEL lwn JDT</title>
