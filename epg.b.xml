@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- ETH EPG XML (Strict START Priority) generated on 13/08/2026, 06:59:11 -->
+<!-- ETH EPG XML (Strict START Priority) generated on 13/08/2026, 19:11:14 -->
 <tv>
-<channel id="homeplus.TaiwanPlus"><display-name lang="TW">[TW-I] 01 TAIWAN PLUS+</display-name><icon src="https://myeth-epg.github.io/icons/t01.png"></icon></channel>
+<channel id="pw.TW.taiwanplus.mod"><display-name lang="TW">[TW-I] 01 TAIWAN PLUS+</display-name><icon src="https://myeth-epg.github.io/icons/t01.png"></icon></channel>
 <channel id="homeplus.NHKWORLDPREMIUM"><display-name lang="TW">[TW-I] 02 NHK</display-name><icon src="https://myeth-epg.github.io/icons/t02.png"></icon></channel>
 <channel id="homeplus.東森幼幼台"><display-name lang="TW">[TW-I] 03 東森幼幼YOYO</display-name><icon src="https://myeth-epg.github.io/icons/t03.png"></icon></channel>
 <channel id="homeplus.東森幼幼台"><display-name lang="TW">[TW-I] 03 東森幼幼YOYO (a)</display-name><icon src="https://myeth-epg.github.io/icons/t03.png"></icon></channel>
@@ -195,7 +195,7 @@
 <channel id="hami.CNEX"><display-name lang="TW">[TW-I] 96 CNEX紀實頻道</display-name><icon src="https://myeth-epg.github.io/icons/t96.png"></icon></channel>
 <channel id="hami.TravelChannel"><display-name lang="TW">[TW-I] 97 Travel Channel</display-name><icon src="https://myeth-epg.github.io/icons/t97.png"></icon></channel>
 <channel id="homeplus.Eurosport"><display-name lang="TW">[TW-I] 98 EUROSPORT</display-name><icon src="https://myeth-epg.github.io/icons/t98.png"></icon></channel>
-<channel id="0"><display-name lang="TW">[TW-I] 99 華藝中文台</display-name><icon src="https://myeth-epg.github.io/icons/t99.png"></icon></channel>
+<channel id="homeplus.華藝中文台"><display-name lang="TW">[TW-I] 99 華藝中文台</display-name><icon src="https://myeth-epg.github.io/icons/t99.png"></icon></channel>
 <channel id="hami.RockExtreme"><display-name lang="TW">[TW-I] 100 ROCK Extreme</display-name><icon src="https://myeth-epg.github.io/icons/t100.png"></icon></channel>
 <channel id="homeplus.WarnerTV"><display-name lang="TW">[TW-I] 101 Warner TV</display-name><icon src="https://myeth-epg.github.io/icons/warnertv.png"></icon></channel>
 <channel id="hami.NHK"><display-name lang="TW">[TW-I] 102 NHK新聞資訊台</display-name><icon src="https://myeth-epg.github.io/icons/t102.png"></icon></channel>
@@ -390,8 +390,8 @@
 <channel id="cht.華視新聞資訊HD"><display-name lang="TW">[TW-III] 100 華視新聞台</display-name><icon src="https://myeth-epg.github.io/icons/華視新聞.png"></icon></channel>
 <channel id="homeplus.寰宇新聞台灣台"><display-name lang="TW">[TW-III] 101 寰宇新聞台灣台</display-name><icon src="https://myeth-epg.github.io/icons2/t.png"></icon></channel>
 <channel id="homeplus.寰宇新聞台"><display-name lang="TW">[TW-III] 102 寰宇新聞台</display-name><icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110923398442_35.png"></icon></channel>
-<channel id="0"><display-name lang="TW">[TW-III] 103 寰宇財經台</display-name><icon src="https://myeth-epg.github.io/icons2/t3108.png"></icon></channel>
-<channel id="0"><display-name lang="TW">[TW-III] 104 台視新聞台</display-name><icon src="https://myeth-epg.github.io/icons2/t3101.png"></icon></channel>
+<channel id="homeplus.寰宇新聞台"><display-name lang="TW">[TW-III] 103 寰宇財經台</display-name><icon src="https://myeth-epg.github.io/icons2/t3108.png"></icon></channel>
+<channel id="hami.TTVNews"><display-name lang="TW">[TW-III] 104 台視新聞台</display-name><icon src="https://myeth-epg.github.io/icons2/t3101.png"></icon></channel>
 <channel id="homeplus.東森購物2台"><display-name lang="TW">[TW-III] 105 東森購物2台</display-name><icon src="https://myeth-epg.github.io/icons2/t3105.png"></icon></channel>
 <channel id="0"><display-name lang="TW">[TW-III] 107 軍武大觀</display-name><icon src="https://myeth-epg.github.io/icons2/t.png"></icon></channel>
 <channel id="0"><display-name lang="TW">[TW-III] 106 永康情報局</display-name><icon src="https://myeth-epg.github.io/icons2/t.png"></icon></channel>
@@ -424,7 +424,7 @@
 <channel id="pw.TW.東森購物4.mod"><display-name lang="TW">[TW-III] 305 東森購物4台</display-name><icon src="https://myeth-epg.github.io/icons2/t3305.png"></icon></channel>
 <channel id="gtctv.international"><display-name lang="TW">[TW-III] 306 靖天國際台</display-name><icon src="https://myeth-epg.github.io/icons2/t3223.png"></icon></channel>
 <channel id="homeplus.靖天日本台"><display-name lang="TW">[TW-III] 307 靖天日本台</display-name><icon src="https://myeth-epg.github.io/icons2/t3222.png"></icon></channel>
-<channel id="0"><display-name lang="TW">[TW-III] 308 靖天育樂台</display-name><icon src="https://myeth-epg.github.io/icons2/t3210.png"></icon></channel>
+<channel id="gtctv.entertainment"><display-name lang="TW">[TW-III] 308 靖天育樂台</display-name><icon src="https://myeth-epg.github.io/icons2/t3210.png"></icon></channel>
 <channel id="0"><display-name lang="TW">[TW-III] 309 全民星攻略</display-name><icon src="https://myeth-epg.github.io/icons2/t.png"></icon></channel>
 <channel id="0"><display-name lang="TW">[TW-III] 310 行動電源出發吧</display-name><icon src="https://myeth-epg.github.io/icons2/t.png"></icon></channel>
 <channel id="cht.龍華電影HD"><display-name lang="TW">[TW-III] 400 龍華電影台</display-name><icon src="https://myeth-epg.github.io/icons2/t3300.png"></icon></channel>
@@ -1875,155 +1875,332 @@
 <channel id="0"><display-name>[CRAVE] 11 Starz1</display-name><icon src="https://myeth-epg.github.io/icons/starz1.png"></icon></channel>
 <channel id="0"><display-name>[CRAVE] 12 Starz2</display-name><icon src="https://myeth-epg.github.io/icons/starz2.png"></icon></channel>
 <channel id="0"><display-name>[MOVIE] 01 Lstimes</display-name><icon src="https://myeth-epg.github.io/icons/ls_times.png"></icon></channel>
-<channel id="0"><display-name>001 A&amp;E Canada</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>002 Alberta Legislature</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>004 Al Jazeera</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>005 AMC</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>006 AMI Télé</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>007 AMI TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>008 CTV Wild</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>009 APTN</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>010 ATN Aapka</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>011 ATN Alpha Punjabi SD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>014 BBC Earth</display-name><icon src="https://myeth-epg.github.io/icons/bbcearth.png"></icon></channel>
-<channel id="0"><display-name>017 BeIN Espanol</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>018 BeIN Sports</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>019 BNN Bloomberg</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>020 CTV Drama Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>021 Crime + Investigation</display-name><icon src="https://myeth-epg.github.io/icons/crime.png"></icon></channel>
-<channel id="0"><display-name>023 CBC Calgary</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>025 CBC Halifax</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>026 CBC News Network</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>027 CBC Toronto</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>044 CMT</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>045 CNBC</display-name><icon src="https://myeth-epg.github.io/icons/cnbc.png"></icon></channel>
-<channel id="0"><display-name>046 CNN</display-name><icon src="https://myeth-epg.github.io/icons/cnn.png"></icon></channel>
-<channel id="0"><display-name>049 Cottage Life</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>050 CPAC English</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>058 CTV News Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>063 Daystar</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>064 Dejaview</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>066 CTV Nature</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>067 CTV Speed</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>068 USA Network</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>074 Documentary</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>075 DTour</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>076 E Canada</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>078 Fairchild 2</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>079 Fairchild East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>080 Fairchild West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>083 Fight</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>084 Game Plus</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>085 Flavour Network</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>088 FX East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>089 FXX East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>090 GameTV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>091 Global BC1</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>101 Golf Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>102 GSN</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>104 CTV Life Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>105 H2</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>108 Home Network</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>109 BBC First</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>110 History East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>117 Oxygen True Crime</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>118 JoyTV BC</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>125 PBS</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>129 Lifetime</display-name><icon src="https://myeth-epg.github.io/icons/lifetime.png"></icon></channel>
-<channel id="0"><display-name>130 Love Nature</display-name><icon src="https://myeth-epg.github.io/icons/lovenature.png"></icon></channel>
-<channel id="0"><display-name>133 Movietime</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>134 MS NOW</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>137 MUCH</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>138 National Geographic</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>139 National Geographic Wild</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>141 NFL Network</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>178 OMNI Prairies</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>180 OUT tv</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>183 PTC Punjabi</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>184 ICI RDI</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>187 Showcase</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>188 Slice</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>189 Smithsonian Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>191 Sportsnet 360</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>193 Sportsnet East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>194 Sportsnet Flames</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>195 Sportsnet Oilers</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>196 Sportsnet Ontario</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>197 Sportsnet Pacific</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>200 Sportsnet West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>203 CTV Sci-Fi Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>208 Super Channel Fuse</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>209 Super Channel Quest</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>210 Super Channel Heart &amp; Home</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>212 Talentvision</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>213 TCM</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>214 Cartoon Network</display-name><icon src="https://myeth-epg.github.io/icons/cartoonnetwork.png"></icon></channel>
-<channel id="0"><display-name>223 Treehouse</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>224 TSC</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>225 TSN 1</display-name><icon src="https://myeth-epg.github.io/icons/tsn1.png"></icon></channel>
-<channel id="0"><display-name>226 TSN 2</display-name><icon src="https://myeth-epg.github.io/icons/tsn2.png"></icon></channel>
-<channel id="0"><display-name>228 TSN 3</display-name><icon src="https://myeth-epg.github.io/icons/tsn3.png"></icon></channel>
-<channel id="0"><display-name>229 TSN 4</display-name><icon src="https://myeth-epg.github.io/icons/tsn4.png"></icon></channel>
-<channel id="0"><display-name>230 TSN 5</display-name><icon src="https://myeth-epg.github.io/icons/tsn5.png"></icon></channel>
-<channel id="0"><display-name>233 TV5 West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>235 TVA Montreal East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>240 TWN AB</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>244 Unis West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>245 Noovo Québec</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>248 Vision TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>249 W Network East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>252 Sportsman Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>254 PBS Boston</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>256 Wild TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>257 WOW TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>258 CW New York</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>266 Adult Swim</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>267 ATN</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>268 BBC World News</display-name><icon src="https://myeth-epg.github.io/icons/bbc.news.png"></icon></channel>
-<channel id="0"><display-name>270 ATN Sony</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>322 Baby TV Mandarin SD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>383 CTV Winnipeg</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>528 CBC Winnipeg</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>533 Channel Punjabi</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>536 CNNi SD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>542 Euronews</display-name><icon src="https://myeth-epg.github.io/icons2/t3501.png"></icon></channel>
-<channel id="0"><display-name>547 Future TV SD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>551 Historia</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>552 History West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>555 Museum</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>568 Makeful</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>570 Mezzo</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>576 Rai Italia</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>579 REV TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>580 Rewind</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>583 Silverscreen</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>584 Stingray Classica</display-name><icon src="https://myeth-epg.github.io/icons2/t4087.png"></icon></channel>
-<channel id="0"><display-name>585 Stingray Country</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>586 Stingray Hits</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>587 Stingray Loud</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>588 Stingray Palmarès</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>589 Stingray Retro</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>590 Stingray Vibe</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>595 TVA Ouest</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>601 W Network West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>612 Abu Dhabi SD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>613 ADDIK</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>618 ARTV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>623 ATN CBN</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>624 ATN Cricket Plus</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>631 ATN Punjabi TV SD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>636 Baby TV SD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>638 Canal D</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>685 One Soccer</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>691 Willow TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>694 One</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>801 CBC Edmonton</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>803 CBC Vancouver</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>827 Inuit TV Network SD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>848 News Forum West HD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>879 HLN</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>922 YTVP HD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
-<channel id="0"><display-name>927 APTN Languages</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0100 CBC Calgary</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0101 CTV Calgary</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0102 CTV2 Alberta</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0104 Global Calgary</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0106 Citytv Calgary</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0114 APTN Languages</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0118 Uvagut TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0119 OMNI Calgary</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0120 OMNI Prairies</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0123 JoyTV BC</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0124 Yes TV Calgary</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0125 APTN</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0127 TWN Calgary</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0128 TWN AB</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0129 TSC</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0131 ABC Seattle</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0133 CBS Seattle</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0135 NBC Seattle</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0137 FOX Seattle</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0140 PBS</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0143 CW Seattle</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0145 CW LA</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0200 CBC Halifax</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0201 CBC Toronto</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0202 CBC Winnipeg</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0203 CBC Edmonton</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0205 CBC Vancouver</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0208 CTV Winnipeg</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0209 CTV Montreal</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0210 CTV Halifax</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0211 CTV Toronto</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0212 CTV Edmonton</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0214 CTV Vancouver</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0220 Global Halifax</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0221 Global Toronto</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0222 Global Edmonton</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0224 Global Vancouver</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0230 Citytv Toronto</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0231 Citytv Edmonton</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0233 Citytv Vancouver</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0240 NTV STJN</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0250 ABC Boston</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0255 CBS Boston</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0260 WBTS NBC</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0265 FOX Boston</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0270 PBS Boston</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0275 MyTV New York HD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0280 WSBK MyTV TV38 Boston</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0285 CW Chicago</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0286 CW New York</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0300 A&amp;E Canada</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0301 Showcase</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0302 CTV Drama Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0303 AMC</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0304 TLC Canada</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0306 Home Network</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0308 Home &amp; Garden TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0312 Magnolia</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0313 Flavour Network</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0314 Food Network</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0315 CTV Life Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0319 Makeful</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0328 W Network West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0329 W Network East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0331 Slice</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0332 Bravo</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0333 E Canada</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0347 OUT tv</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0348 OUTTV Pacific</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0349 One</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0355 Cottage Life</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0356 Rural Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0359 Wild TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0360 RFD TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0361 Sportsman Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0370 GSN</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0372 GameTV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0375 BBC First</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0378 Oxygen True Crime</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0379 Investigation Discovery</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0380 Crime + Investigation</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0382 T+E</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0386 Lifetime</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0392 CTV Sci-Fi Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0393 FX East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0394 FXX East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0395 FXX West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0396 FX West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0400 HBO 1 West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0401 HBO 2 East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0406 Crave 1 West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0407 Crave 2 West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0408 Crave 3 West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0409 Crave 1 East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0417 Super Channel Fuse</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0418 Super Channel Heart &amp; Home</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0419 Super Channel Vault</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0420 Super Channel Quest</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0426 Hollywood Suite 70s+</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0427 Hollywood Suite 80s &amp; 90s</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0428 Hollywood Suite 2000s</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0429 Hollywood Suite 2010s+</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0431 STARZ 1 West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0432 STARZ 2 West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0441 AMC+ Canada</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0445 Movietime</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0449 Adult Swim</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0457 Rewind</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0460 Silverscreen</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0462 TCM</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0500 CTV Comedy Channel East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0501 CTV Comedy Channel West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0504 DTour</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0506 Dejaview</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0511 Peachtree</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0555 CMT</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0557 MUCH</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0580 Stingray Vibe</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0581 Stingray Loud</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0582 Stingray Retro</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0583 Stingray Country</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0585 Stingray Classica</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0600 YTV East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0601 Treehouse</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0606 Disney West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0607 Disney East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0613 YTVP HD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0622 Cartoon Network</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0623 Cartoon Network</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0627 Boomerang Network Canada</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0700 National Geographic</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0701 USA Network</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0702 CTV Nature</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0704 History West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0705 History East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0706 H2</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0708 Discovery</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0711 CTV Speed</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0713 Love Nature</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0715 Smithsonian Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0721 CTV Wild</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0723 National Geographic Wild</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0725 BBC Earth</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0730 Water</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0731 Documentary</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0735 CGTN Documentary</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0750 Mezzo</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0752 Museum</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0800 CBC News Network</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0801 CTV News Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0802 CNN</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0804 MS NOW</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0806 CNBC</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0811 FOX News Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0815 BNN Bloomberg</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0819 HLN</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0821 BBC World News</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0825 Al Jazeera</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0831 Euronews</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0834 CGTN News</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0841 CPAC English</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0842 News Forum West HD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0843 Alberta Legislature</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0845 Global BC1</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0870 Miracle Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0871 Vision TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0872 Daystar</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0873 Salt and Light</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0875 Faith TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0888 AMI TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0900 TSN 1</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0901 TSN 2</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0902 TSN 3</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0903 TSN 4</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0904 TSN 5</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0911 Sportsnet West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0912 Sportsnet 1</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0913 Sportsnet Oilers</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0914 Sportsnet Flames</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0915 Sportsnet Pacific</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0916 Sportsnet Ontario</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0917 Sportsnet East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0918 Sportsnet 360</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0924 Game Plus</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0925 Golf Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0926 NFL Network</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0937 NBA TV Canada</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0945 Fight</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0960 FOX Sports Racing</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0962 REV TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0971 Cowboy Channel</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0980 One Soccer</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>0983 BeIN Sports</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1001 Sportsnet World</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1002 SNET World 1 HD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1003 SNET World 2 HD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1004 SNET World 3 HD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1005 SNET World 4 HD</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1101 NHL Center Ice 1</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1102 NHL Center Ice 2</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1103 NHL Center Ice 3</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1104 NHL Center Ice 4</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1105 NHL Center Ice 5</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1106 NHL Center Ice 6</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1107 NHL Center Ice 7</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1108 NHL Center Ice 8</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1109 NHL Center Ice 9</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1110 NHL Center Ice 10</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1111 NHL Center Ice 11</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1112 NHL Center Ice 12</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1113 NHL Center Ice 13</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1114 NHL Center Ice 14</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1115 NHL Center Ice 15</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1116 NHL Center Ice 16</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1301 MLB Extra Innings 1</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1302 MLB Extra Innings 2</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1303 MLB Extra Innings 3</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1304 MLB Extra Innings 4</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1305 MLB Extra Innings 5</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1306 MLB Extra Innings 6</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1307 MLB Extra Innings 7</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1308 MLB Extra Innings 8</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1309 MLB Extra Innings 9</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1310 MLB Extra Innings 10</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1311 MLB Extra Innings 11</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1401 NBA League Pass 1</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1402 NBA League Pass 2</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1403 NBA League Pass 3</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1404 NBA League Pass 4</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1405 NBA League Pass 5</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1406 NBA League Pass 6</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1407 NBA League Pass 7</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1408 NBA League Pass 8</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1409 NBA League Pass 9</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1501 NFL Sunday Ticket 1</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1502 NFL Sunday Ticket 2</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1503 NFL Sunday Ticket 3</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1504 NFL Sunday Ticket 4</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1505 NFL Sunday Ticket 5</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1506 NFL Sunday Ticket 6</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1507 NFL Sunday Ticket 7</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1508 NFL Sunday Ticket 8</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1509 NFL Sunday TIcket 9</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1510 NFL Sunday Ticket 10</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1511 NFL Sunday Ticket 11</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1512 NFL Sunday Ticket 12</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1513 NFL Sunday Ticket 13</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1514 NFL Sunday Ticket 14</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1515 NFL Sunday Ticket 15</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>1516 NFL Sunday Ticket 16</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2001 ICI Alberta</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2002 ICI Montreal</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2003 ICI Toronto</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2005 TVA Ouest</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2006 TVA Montreal East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2007 Noovo Québec</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2008 Canal D</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2009 Canal Vie</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2010 Zeste</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2011 ARTV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2013 ADDIK</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2015 Evasion</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2017 Historia</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2019 Z Tele</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2025 TFO</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2032 QUB</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2033 Télétoon</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2040 ELLE FICTIONS</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2041 MAX</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2045 Stingray Hits</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2046 Stingray Palmarès</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2050 Meteo Calgary</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2051 CPAC Français</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2053 ICI RDI</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2055 LCN</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2059 Séries Plus</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2070 Planète+</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2071 Explora</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2080 RDS</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2081 RDS2 West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2084 RDSi</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2085 TVA Sports 1</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2086 TVA Sports 2</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2088 Unis West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2089 TV5 East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2090 TV5 West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2091 Euronews Français</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2288 AMI Télé</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2303 ATN</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2310 ATN Sony</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2315 ATN Aapka</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2318 Zee TV Canada</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2350 NEWS ONLY</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2363 NDTV 24X7</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2370 ATN Cricket Plus</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2371 ATN CBN</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2372 Willow TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2391 ATN Movies</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2400 Halla Bol</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2418 Channel Y</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2423 Channel Punjabi</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2424 Sanjha TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2601 FILIPINO TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2603 TFC East Canada</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2605 Kapatid</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2653 Rai Italia</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2655 Canale Quattro</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2657 Mediaset Italia Canada</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2661 Univision</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2670 BeIN Espanol</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2690 SIC Noticias</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2692 FPTV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2701 Afroglobal</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2801 Fairchild West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2802 Fairchild East</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2803 Fairchild 2</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2810 LS Times</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2813 CCTV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2828 WOW TV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2831 Talentvision</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2835 Phoenix</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2836 CNTV</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2863 New Tang Dynasty Canada (Pacific)</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2911 All TV West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2912 All TV K West</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
+<channel id="0"><display-name>2923 Nippon</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
 <channel id="0"><display-name>[NBA LIVE] 01 NBA TV (APP)</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
 <channel id="0"><display-name>Miami TV Latino</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
 <channel id="0"><display-name>Miami TV Jenny Live</display-name><icon src="https://myeth-epg.github.io/icons5/0.png"></icon></channel>
@@ -29550,6 +29727,366 @@
   </programme>
   <programme channel="pw.TW.liveabc互動英語頻道.4gtv" start="20260814232400 +0000" stop="20260814234600 +0000">
     <title lang="zh">Live互動英語-20260810普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813000000 +0000" stop="20260813003000 +0000">
+    <title lang="zh">Whats Up Taiwan!600普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813003000 +0000" stop="20260813010000 +0000">
+    <title lang="zh">Taiwan Talks901普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813010000 +0000" stop="20260813011500 +0000">
+    <title lang="zh">Happy Fisherman S59普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813011500 +0000" stop="20260813013000 +0000">
+    <title lang="zh">Let＇s Go Diving9普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813013000 +0000" stop="20260813020000 +0000">
+    <title lang="zh">Master Class1普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813020000 +0000" stop="20260813023000 +0000">
+    <title lang="zh">Whats Up Taiwan!601普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813023000 +0000" stop="20260813024500 +0000">
+    <title lang="zh">Zoom In, Zoom Out258普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813024500 +0000" stop="20260813030000 +0000">
+    <title lang="zh">Taiwan Top5 S213普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813030000 +0000" stop="20260813033000 +0000">
+    <title lang="zh">Resound S26普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813033000 +0000" stop="20260813040000 +0000">
+    <title lang="zh">The Bikeman in Taiwan6普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813040000 +0000" stop="20260813041500 +0000">
+    <title lang="zh">Whats Up Taiwan!602普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813041500 +0000" stop="20260813045500 +0000">
+    <title lang="zh">Frontline Residents6普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813045500 +0000" stop="20260813050000 +0000">
+    <title lang="zh">Eye on the Weather161普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813050000 +0000" stop="20260813051500 +0000">
+    <title lang="zh">Whats Up Taiwan!603普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813051500 +0000" stop="20260813053000 +0000">
+    <title lang="zh">Oh My God1普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813053000 +0000" stop="20260813060000 +0000">
+    <title lang="zh">The Chain Maker2普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813060000 +0000" stop="20260813061500 +0000">
+    <title lang="zh">Whats Up Taiwan!604普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813061500 +0000" stop="20260813065500 +0000">
+    <title lang="zh">Master Class1普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813065500 +0000" stop="20260813070000 +0000">
+    <title lang="zh">Eye on the Weather161普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813070000 +0000" stop="20260813071500 +0000">
+    <title lang="zh">Whats Up Taiwan!602普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813071500 +0000" stop="20260813073000 +0000">
+    <title lang="zh">Zoom In, Zoom Out258普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813073000 +0000" stop="20260813074500 +0000">
+    <title lang="zh">Happy Fisherman S59普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813074500 +0000" stop="20260813080000 +0000">
+    <title lang="zh">Let＇s Go Diving9普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813080000 +0000" stop="20260813083000 +0000">
+    <title lang="zh">Taiwan Talks901普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813083000 +0000" stop="20260813090000 +0000">
+    <title lang="zh">City Escape4普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813090000 +0000" stop="20260813091500 +0000">
+    <title lang="zh">Whats Up Taiwan!604普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813091500 +0000" stop="20260813093000 +0000">
+    <title lang="zh">Jasons Table：Fruit Laboratory6普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813093000 +0000" stop="20260813095500 +0000">
+    <title lang="zh">Frontline Residents6普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813095500 +0000" stop="20260813100000 +0000">
+    <title lang="zh">Eye on the Weather161普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813100000 +0000" stop="20260813103000 +0000">
+    <title lang="zh">TaiwanPlus News161普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813103000 +0000" stop="20260813110000 +0000">
+    <title lang="zh">Resound S26普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813110000 +0000" stop="20260813113000 +0000">
+    <title lang="zh">Master Class1普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813113000 +0000" stop="20260813120000 +0000">
+    <title lang="zh">TaiwanPlus News161普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813120000 +0000" stop="20260813123000 +0000">
+    <title lang="zh">Whats Up Taiwan!605普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813123000 +0000" stop="20260813124500 +0000">
+    <title lang="zh">Happy Fisherman S59普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813124500 +0000" stop="20260813130000 +0000">
+    <title lang="zh">Let＇s Go Diving9普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813130000 +0000" stop="20260813133000 +0000">
+    <title lang="zh">Taiwan Talks902普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813133000 +0000" stop="20260813140000 +0000">
+    <title lang="zh">TaiwanPlus News161普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813140000 +0000" stop="20260813143000 +0000">
+    <title lang="zh">Frontline Residents6普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813143000 +0000" stop="20260813144500 +0000">
+    <title lang="zh">Zoom In, Zoom Out258普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813144500 +0000" stop="20260813150000 +0000">
+    <title lang="zh">Explore With Mandarin Radicals9普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813150000 +0000" stop="20260813153000 +0000">
+    <title lang="zh">Whats Up Taiwan!605普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813153000 +0000" stop="20260813160000 +0000">
+    <title lang="zh">The Bikeman in Taiwan6普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813160000 +0000" stop="20260813163000 +0000">
+    <title lang="zh">TaiwanPlus News161普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813163000 +0000" stop="20260813170000 +0000">
+    <title lang="zh">Taiwan Talks902普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813170000 +0000" stop="20260813173000 +0000">
+    <title lang="zh">Hidden Gem Taiwan1普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813173000 +0000" stop="20260813180000 +0000">
+    <title lang="zh">Whats Up Taiwan!605普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813180000 +0000" stop="20260813183000 +0000">
+    <title lang="zh">The Chain Maker3普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813183000 +0000" stop="20260813190000 +0000">
+    <title lang="zh">Shipwrecks Taiwan4普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813190000 +0000" stop="20260813193000 +0000">
+    <title lang="zh">Taiwan Talks902普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813193000 +0000" stop="20260813194500 +0000">
+    <title lang="zh">Happy Fisherman S59普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813194500 +0000" stop="20260813200000 +0000">
+    <title lang="zh">Let＇s Go Diving9普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813200000 +0000" stop="20260813203000 +0000">
+    <title lang="zh">Frontline Residents6普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813203000 +0000" stop="20260813210000 +0000">
+    <title lang="zh">Hidden Gem Taiwan1普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813210000 +0000" stop="20260813213000 +0000">
+    <title lang="zh">Whirlwind Trip7普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813213000 +0000" stop="20260813214500 +0000">
+    <title lang="zh">Finding Formosa33普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813214500 +0000" stop="20260813220000 +0000">
+    <title lang="zh">In Case You Missed It154普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813220000 +0000" stop="20260813223000 +0000">
+    <title lang="zh">TaiwanPlus News161普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813223000 +0000" stop="20260813230000 +0000">
+    <title lang="zh">Resound S26普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813230000 +0000" stop="20260813233000 +0000">
+    <title lang="zh">Whats Up Taiwan!606普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260813233000 +0000" stop="20260814000000 +0000">
+    <title lang="zh">The Chain Maker3普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814000000 +0000" stop="20260814003000 +0000">
+    <title lang="zh">Whats Up Taiwan!605普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814003000 +0000" stop="20260814010000 +0000">
+    <title lang="zh">Taiwan Talks902普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814010000 +0000" stop="20260814013000 +0000">
+    <title lang="zh">Hidden Gem Taiwan1普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814013000 +0000" stop="20260814014500 +0000">
+    <title lang="zh">Finding Formosa33普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814014500 +0000" stop="20260814020000 +0000">
+    <title lang="zh">In Case You Missed It154普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814020000 +0000" stop="20260814023000 +0000">
+    <title lang="zh">Whats Up Taiwan!606普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814023000 +0000" stop="20260814030000 +0000">
+    <title lang="zh">Resound S26普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814030000 +0000" stop="20260814033000 +0000">
+    <title lang="zh">Whirlwind Trip7普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814033000 +0000" stop="20260814034500 +0000">
+    <title lang="zh">Happy Fisherman S59普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814034500 +0000" stop="20260814040000 +0000">
+    <title lang="zh">Let＇s Go Diving9普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814040000 +0000" stop="20260814041500 +0000">
+    <title lang="zh">Whats Up Taiwan!607普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814041500 +0000" stop="20260814045500 +0000">
+    <title lang="zh">Shipwrecks Taiwan4普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814045500 +0000" stop="20260814050000 +0000">
+    <title lang="zh">Eye on the Weather162普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814050000 +0000" stop="20260814051500 +0000">
+    <title lang="zh">Whats Up Taiwan!608普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814051500 +0000" stop="20260814053000 +0000">
+    <title lang="zh">Explore With Mandarin Radicals9普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814053000 +0000" stop="20260814060000 +0000">
+    <title lang="zh">The Chain Maker3普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814060000 +0000" stop="20260814061500 +0000">
+    <title lang="zh">Whats Up Taiwan!609普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814061500 +0000" stop="20260814063000 +0000">
+    <title lang="zh">Finding Formosa33普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814063000 +0000" stop="20260814065500 +0000">
+    <title lang="zh">In Case You Missed It154普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814065500 +0000" stop="20260814070000 +0000">
+    <title lang="zh">Eye on the Weather162普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814070000 +0000" stop="20260814071500 +0000">
+    <title lang="zh">Whats Up Taiwan!607普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814071500 +0000" stop="20260814073000 +0000">
+    <title lang="zh">Taiwan Top5 S213普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814073000 +0000" stop="20260814080000 +0000">
+    <title lang="zh">Hidden Gem Taiwan1普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814080000 +0000" stop="20260814083000 +0000">
+    <title lang="zh">Taiwan Talks902普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814083000 +0000" stop="20260814090000 +0000">
+    <title lang="zh">Frontline Residents6普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814090000 +0000" stop="20260814091500 +0000">
+    <title lang="zh">Whats Up Taiwan!609普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814091500 +0000" stop="20260814093000 +0000">
+    <title lang="zh">Oh My God1普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814093000 +0000" stop="20260814095500 +0000">
+    <title lang="zh">Shipwrecks Taiwan4普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814095500 +0000" stop="20260814100000 +0000">
+    <title lang="zh">Eye on the Weather162普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814100000 +0000" stop="20260814103000 +0000">
+    <title lang="zh">TaiwanPlus News162普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814103000 +0000" stop="20260814110000 +0000">
+    <title lang="zh">Whirlwind Trip7普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814110000 +0000" stop="20260814111500 +0000">
+    <title lang="zh">Finding Formosa33普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814111500 +0000" stop="20260814113000 +0000">
+    <title lang="zh">In Case You Missed It154普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814113000 +0000" stop="20260814120000 +0000">
+    <title lang="zh">TaiwanPlus News162普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814120000 +0000" stop="20260814123000 +0000">
+    <title lang="zh">Whats Up Taiwan!610普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814123000 +0000" stop="20260814130000 +0000">
+    <title lang="zh">Hidden Gem Taiwan1普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814130000 +0000" stop="20260814133000 +0000">
+    <title lang="zh">Taiwan Talks903普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814133000 +0000" stop="20260814140000 +0000">
+    <title lang="zh">TaiwanPlus News162普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814140000 +0000" stop="20260814143000 +0000">
+    <title lang="zh">Shipwrecks Taiwan4普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814143000 +0000" stop="20260814150000 +0000">
+    <title lang="zh">The Chain Maker4普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814150000 +0000" stop="20260814153000 +0000">
+    <title lang="zh">Whats Up Taiwan!610普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814153000 +0000" stop="20260814154500 +0000">
+    <title lang="zh">Happy Fisherman S59普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814154500 +0000" stop="20260814160000 +0000">
+    <title lang="zh">Let＇s Go Diving9普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814160000 +0000" stop="20260814163000 +0000">
+    <title lang="zh">TaiwanPlus News162普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814163000 +0000" stop="20260814170000 +0000">
+    <title lang="zh">Taiwan Talks903普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814170000 +0000" stop="20260814171500 +0000">
+    <title lang="zh">Between Us5普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814171500 +0000" stop="20260814173000 +0000">
+    <title lang="zh">Between Us6普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814173000 +0000" stop="20260814180000 +0000">
+    <title lang="zh">Whats Up Taiwan!610普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814180000 +0000" stop="20260814190000 +0000">
+    <title lang="zh">Come Away With Me1普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814190000 +0000" stop="20260814193000 +0000">
+    <title lang="zh">Taiwan Talks903普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814193000 +0000" stop="20260814200000 +0000">
+    <title lang="zh">Hidden Gem Taiwan1普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814200000 +0000" stop="20260814203000 +0000">
+    <title lang="zh">A Table For One Is Great Too11普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814203000 +0000" stop="20260814210000 +0000">
+    <title lang="zh">A Table For One Is Great Too12普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814210000 +0000" stop="20260814220000 +0000">
+    <title lang="zh">Inside Taiwan46普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814220000 +0000" stop="20260814223000 +0000">
+    <title lang="zh">TaiwanPlus News162普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814223000 +0000" stop="20260814224500 +0000">
+    <title lang="zh">Between Us5普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814224500 +0000" stop="20260814230000 +0000">
+    <title lang="zh">Between Us6普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814230000 +0000" stop="20260814231500 +0000">
+    <title lang="zh">Heres What Happened352普</title>
+  </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814231500 +0000" stop="20260814233000 +0000">
+    <title lang="zh">Zoom In, Zoom Out305普</title>
   </programme>
   <programme channel="pw.TW.公視戲劇.4gtv" start="20260812230600 +0000" stop="20260813003100 +0000">
     <title lang="zh">辣妹釘孤支普</title>
@@ -127074,486 +127611,6 @@
     <title lang="zh">LE JOURNAL DE LA RTS</title>
     <desc>LE JOURNAL DE LA RTS</desc>
   </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813000000 +0000" stop="20260813003000 +0000">
-    <title lang="zh">Whats Up Taiwan！第600集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813003000 +0000" stop="20260813010000 +0000">
-    <title lang="zh">Taiwan Talks第901集</title>
-    <desc>這個節目是一個國際時事論壇，重要的意見領袖們會在這裡進行對談，討論各種國際時事議題</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813010000 +0000" stop="20260813011500 +0000">
-    <title lang="zh">Happy Fisherman第5季:第9集</title>
-    <desc>Happy Fisherman第5季</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813011500 +0000" stop="20260813013000 +0000">
-    <title lang="zh">Let＇s Go Diving第9集</title>
-    <desc>Let＇s Go Diving</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813013000 +0000" stop="20260813020000 +0000">
-    <title lang="zh">Master Class第1集</title>
-    <desc>Master Class</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813020000 +0000" stop="20260813023000 +0000">
-    <title lang="zh">Whats Up Taiwan！第601集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813023000 +0000" stop="20260813024500 +0000">
-    <title lang="zh">Zoom In, Zoom Out第258集</title>
-    <desc>Zoom In, Zoom Out</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813024500 +0000" stop="20260813030000 +0000">
-    <title lang="zh">Taiwan Top5第2季:第13集</title>
-    <desc>Taiwan Top5第2季</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813030000 +0000" stop="20260813033000 +0000">
-    <title lang="zh">Resound第2季:第6集</title>
-    <desc>Resound第2季</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813033000 +0000" stop="20260813040000 +0000">
-    <title lang="zh">The Bikeman in Taiwan第6集</title>
-    <desc>The Bikeman in Taiwan</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813040000 +0000" stop="20260813041500 +0000">
-    <title lang="zh">Whats Up Taiwan！第602集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813041500 +0000" stop="20260813045500 +0000">
-    <title lang="zh">Frontline Residents第6集</title>
-    <desc>Frontline Residents</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813045500 +0000" stop="20260813050000 +0000">
-    <title lang="zh">Eye on the Weather第161集</title>
-    <desc>Eye on the Weather</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813050000 +0000" stop="20260813051500 +0000">
-    <title lang="zh">Whats Up Taiwan！第603集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813051500 +0000" stop="20260813053000 +0000">
-    <title lang="zh">Oh My God第1集</title>
-    <desc>Oh My God</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813053000 +0000" stop="20260813060000 +0000">
-    <title lang="zh">The Chain Maker第2集</title>
-    <desc>The Chain Maker</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813060000 +0000" stop="20260813061500 +0000">
-    <title lang="zh">Whats Up Taiwan！第604集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813061500 +0000" stop="20260813065500 +0000">
-    <title lang="zh">Master Class第1集</title>
-    <desc>Master Class</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813065500 +0000" stop="20260813070000 +0000">
-    <title lang="zh">Eye on the Weather第161集</title>
-    <desc>Eye on the Weather</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813070000 +0000" stop="20260813071500 +0000">
-    <title lang="zh">Whats Up Taiwan！第602集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813071500 +0000" stop="20260813073000 +0000">
-    <title lang="zh">Zoom In, Zoom Out第258集</title>
-    <desc>Zoom In, Zoom Out</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813073000 +0000" stop="20260813074500 +0000">
-    <title lang="zh">Happy Fisherman第5季:第9集</title>
-    <desc>Happy Fisherman第5季</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813074500 +0000" stop="20260813080000 +0000">
-    <title lang="zh">Let＇s Go Diving第9集</title>
-    <desc>Let＇s Go Diving</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813080000 +0000" stop="20260813083000 +0000">
-    <title lang="zh">Taiwan Talks第901集</title>
-    <desc>這個節目是一個國際時事論壇，重要的意見領袖們會在這裡進行對談，討論各種國際時事議題</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813083000 +0000" stop="20260813090000 +0000">
-    <title lang="zh">City Escape第4集</title>
-    <desc>City Escape</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813090000 +0000" stop="20260813091500 +0000">
-    <title lang="zh">Whats Up Taiwan！第604集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813091500 +0000" stop="20260813093000 +0000">
-    <title lang="zh">Jasons Table-Fruit Laboratory第6集</title>
-    <desc>Jasons Table-Fruit Laboratory</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813093000 +0000" stop="20260813095500 +0000">
-    <title lang="zh">Frontline Residents第6集</title>
-    <desc>Frontline Residents</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813095500 +0000" stop="20260813100000 +0000">
-    <title lang="zh">Eye on the Weather第161集</title>
-    <desc>Eye on the Weather</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813100000 +0000" stop="20260813103000 +0000">
-    <title lang="zh">Taiwan＋ News第161集</title>
-    <desc>這個節目注重於每條消息的內容和正確性，並由優秀的主播和新聞團隊共同打造它致力於提供更國際化更深度的全方位報導，讓您獲得最重要的第一手資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813103000 +0000" stop="20260813110000 +0000">
-    <title lang="zh">Resound第2季:第6集</title>
-    <desc>Resound第2季</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813110000 +0000" stop="20260813113000 +0000">
-    <title lang="zh">Master Class第1集</title>
-    <desc>Master Class</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813113000 +0000" stop="20260813120000 +0000">
-    <title lang="zh">Taiwan＋ News第161集</title>
-    <desc>這個節目注重於每條消息的內容和正確性，並由優秀的主播和新聞團隊共同打造它致力於提供更國際化更深度的全方位報導，讓您獲得最重要的第一手資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813120000 +0000" stop="20260813123000 +0000">
-    <title lang="zh">Whats Up Taiwan！第605集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813123000 +0000" stop="20260813124500 +0000">
-    <title lang="zh">Happy Fisherman第5季:第9集</title>
-    <desc>Happy Fisherman第5季</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813124500 +0000" stop="20260813130000 +0000">
-    <title lang="zh">Let＇s Go Diving第9集</title>
-    <desc>Let＇s Go Diving</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813130000 +0000" stop="20260813133000 +0000">
-    <title lang="zh">Taiwan Talks第902集</title>
-    <desc>這個節目是一個國際時事論壇，重要的意見領袖們會在這裡進行對談，討論各種國際時事議題</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813133000 +0000" stop="20260813140000 +0000">
-    <title lang="zh">Taiwan＋ News第161集</title>
-    <desc>這個節目注重於每條消息的內容和正確性，並由優秀的主播和新聞團隊共同打造它致力於提供更國際化更深度的全方位報導，讓您獲得最重要的第一手資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813140000 +0000" stop="20260813143000 +0000">
-    <title lang="zh">Frontline Residents第6集</title>
-    <desc>Frontline Residents</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813143000 +0000" stop="20260813144500 +0000">
-    <title lang="zh">Zoom In, Zoom Out第258集</title>
-    <desc>Zoom In, Zoom Out</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813144500 +0000" stop="20260813150000 +0000">
-    <title lang="zh">Explore With Mandarin Radicals第9集</title>
-    <desc>Explore With Mandarin Radicals</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813150000 +0000" stop="20260813153000 +0000">
-    <title lang="zh">Whats Up Taiwan！第605集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813153000 +0000" stop="20260813160000 +0000">
-    <title lang="zh">The Bikeman in Taiwan第6集</title>
-    <desc>The Bikeman in Taiwan</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813160000 +0000" stop="20260813163000 +0000">
-    <title lang="zh">Taiwan＋ News第161集</title>
-    <desc>這個節目注重於每條消息的內容和正確性，並由優秀的主播和新聞團隊共同打造它致力於提供更國際化更深度的全方位報導，讓您獲得最重要的第一手資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813163000 +0000" stop="20260813170000 +0000">
-    <title lang="zh">Taiwan Talks第902集</title>
-    <desc>這個節目是一個國際時事論壇，重要的意見領袖們會在這裡進行對談，討論各種國際時事議題</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813170000 +0000" stop="20260813173000 +0000">
-    <title lang="zh">Hidden Gem Taiwan第1集</title>
-    <desc>Hidden Gem Taiwan</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813173000 +0000" stop="20260813180000 +0000">
-    <title lang="zh">Whats Up Taiwan！第605集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813180000 +0000" stop="20260813183000 +0000">
-    <title lang="zh">The Chain Maker第3集</title>
-    <desc>The Chain Maker</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813183000 +0000" stop="20260813190000 +0000">
-    <title lang="zh">Shipwrecks Taiwan第4集</title>
-    <desc>Shipwrecks Taiwan</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813190000 +0000" stop="20260813193000 +0000">
-    <title lang="zh">Taiwan Talks第902集</title>
-    <desc>這個節目是一個國際時事論壇，重要的意見領袖們會在這裡進行對談，討論各種國際時事議題</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813193000 +0000" stop="20260813194500 +0000">
-    <title lang="zh">Happy Fisherman第5季:第9集</title>
-    <desc>Happy Fisherman第5季</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813194500 +0000" stop="20260813200000 +0000">
-    <title lang="zh">Let＇s Go Diving第9集</title>
-    <desc>Let＇s Go Diving</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813200000 +0000" stop="20260813203000 +0000">
-    <title lang="zh">Frontline Residents第6集</title>
-    <desc>Frontline Residents</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813203000 +0000" stop="20260813210000 +0000">
-    <title lang="zh">Hidden Gem Taiwan第1集</title>
-    <desc>Hidden Gem Taiwan</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813210000 +0000" stop="20260813213000 +0000">
-    <title lang="zh">Whirlwind Trip第7集</title>
-    <desc>Whirlwind Trip</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813213000 +0000" stop="20260813214500 +0000">
-    <title lang="zh">Finding Formosa第33集</title>
-    <desc>Finding Formosa</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813214500 +0000" stop="20260813220000 +0000">
-    <title lang="zh">In Case You Missed It第154集</title>
-    <desc>In Case You Missed It</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813220000 +0000" stop="20260813223000 +0000">
-    <title lang="zh">Taiwan＋ News第161集</title>
-    <desc>這個節目注重於每條消息的內容和正確性，並由優秀的主播和新聞團隊共同打造它致力於提供更國際化更深度的全方位報導，讓您獲得最重要的第一手資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813223000 +0000" stop="20260813230000 +0000">
-    <title lang="zh">Resound第2季:第6集</title>
-    <desc>Resound第2季</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813230000 +0000" stop="20260813233000 +0000">
-    <title lang="zh">Whats Up Taiwan！第606集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260813233000 +0000" stop="20260814000000 +0000">
-    <title lang="zh">The Chain Maker第3集</title>
-    <desc>The Chain Maker</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814000000 +0000" stop="20260814003000 +0000">
-    <title lang="zh">Whats Up Taiwan！第605集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814003000 +0000" stop="20260814010000 +0000">
-    <title lang="zh">Taiwan Talks第902集</title>
-    <desc>這個節目是一個國際時事論壇，重要的意見領袖們會在這裡進行對談，討論各種國際時事議題</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814010000 +0000" stop="20260814013000 +0000">
-    <title lang="zh">Hidden Gem Taiwan第1集</title>
-    <desc>Hidden Gem Taiwan</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814013000 +0000" stop="20260814014500 +0000">
-    <title lang="zh">Finding Formosa第33集</title>
-    <desc>Finding Formosa</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814014500 +0000" stop="20260814020000 +0000">
-    <title lang="zh">In Case You Missed It第154集</title>
-    <desc>In Case You Missed It</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814020000 +0000" stop="20260814023000 +0000">
-    <title lang="zh">Whats Up Taiwan！第606集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814023000 +0000" stop="20260814030000 +0000">
-    <title lang="zh">Resound第2季:第6集</title>
-    <desc>Resound第2季</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814030000 +0000" stop="20260814033000 +0000">
-    <title lang="zh">Whirlwind Trip第7集</title>
-    <desc>Whirlwind Trip</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814033000 +0000" stop="20260814034500 +0000">
-    <title lang="zh">Happy Fisherman第5季:第9集</title>
-    <desc>Happy Fisherman第5季</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814034500 +0000" stop="20260814040000 +0000">
-    <title lang="zh">Let＇s Go Diving第9集</title>
-    <desc>Let＇s Go Diving</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814040000 +0000" stop="20260814041500 +0000">
-    <title lang="zh">Whats Up Taiwan！第607集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814041500 +0000" stop="20260814045500 +0000">
-    <title lang="zh">Shipwrecks Taiwan第4集</title>
-    <desc>Shipwrecks Taiwan</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814045500 +0000" stop="20260814050000 +0000">
-    <title lang="zh">Eye on the Weather第162集</title>
-    <desc>Eye on the Weather</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814050000 +0000" stop="20260814051500 +0000">
-    <title lang="zh">Whats Up Taiwan！第608集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814051500 +0000" stop="20260814053000 +0000">
-    <title lang="zh">Explore With Mandarin Radicals第9集</title>
-    <desc>Explore With Mandarin Radicals</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814053000 +0000" stop="20260814060000 +0000">
-    <title lang="zh">The Chain Maker第3集</title>
-    <desc>The Chain Maker</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814060000 +0000" stop="20260814061500 +0000">
-    <title lang="zh">Whats Up Taiwan！第609集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814061500 +0000" stop="20260814063000 +0000">
-    <title lang="zh">Finding Formosa第33集</title>
-    <desc>Finding Formosa</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814063000 +0000" stop="20260814065500 +0000">
-    <title lang="zh">In Case You Missed It第154集</title>
-    <desc>In Case You Missed It</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814065500 +0000" stop="20260814070000 +0000">
-    <title lang="zh">Eye on the Weather第162集</title>
-    <desc>Eye on the Weather</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814070000 +0000" stop="20260814071500 +0000">
-    <title lang="zh">Whats Up Taiwan！第607集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814071500 +0000" stop="20260814073000 +0000">
-    <title lang="zh">Taiwan Top5第2季:第13集</title>
-    <desc>Taiwan Top5第2季</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814073000 +0000" stop="20260814080000 +0000">
-    <title lang="zh">Hidden Gem Taiwan第1集</title>
-    <desc>Hidden Gem Taiwan</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814080000 +0000" stop="20260814083000 +0000">
-    <title lang="zh">Taiwan Talks第902集</title>
-    <desc>這個節目是一個國際時事論壇，重要的意見領袖們會在這裡進行對談，討論各種國際時事議題</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814083000 +0000" stop="20260814090000 +0000">
-    <title lang="zh">Frontline Residents第6集</title>
-    <desc>Frontline Residents</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814090000 +0000" stop="20260814091500 +0000">
-    <title lang="zh">Whats Up Taiwan！第609集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814091500 +0000" stop="20260814093000 +0000">
-    <title lang="zh">Oh My God第1集</title>
-    <desc>Oh My God</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814093000 +0000" stop="20260814095500 +0000">
-    <title lang="zh">Shipwrecks Taiwan第4集</title>
-    <desc>Shipwrecks Taiwan</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814095500 +0000" stop="20260814100000 +0000">
-    <title lang="zh">Eye on the Weather第162集</title>
-    <desc>Eye on the Weather</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814100000 +0000" stop="20260814103000 +0000">
-    <title lang="zh">Taiwan＋ News第162集</title>
-    <desc>這個節目注重於每條消息的內容和正確性，並由優秀的主播和新聞團隊共同打造它致力於提供更國際化更深度的全方位報導，讓您獲得最重要的第一手資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814103000 +0000" stop="20260814110000 +0000">
-    <title lang="zh">Whirlwind Trip第7集</title>
-    <desc>Whirlwind Trip</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814110000 +0000" stop="20260814111500 +0000">
-    <title lang="zh">Finding Formosa第33集</title>
-    <desc>Finding Formosa</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814111500 +0000" stop="20260814113000 +0000">
-    <title lang="zh">In Case You Missed It第154集</title>
-    <desc>In Case You Missed It</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814113000 +0000" stop="20260814120000 +0000">
-    <title lang="zh">Taiwan＋ News第162集</title>
-    <desc>這個節目注重於每條消息的內容和正確性，並由優秀的主播和新聞團隊共同打造它致力於提供更國際化更深度的全方位報導，讓您獲得最重要的第一手資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814120000 +0000" stop="20260814123000 +0000">
-    <title lang="zh">Whats Up Taiwan！第610集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814123000 +0000" stop="20260814130000 +0000">
-    <title lang="zh">Hidden Gem Taiwan第1集</title>
-    <desc>Hidden Gem Taiwan</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814130000 +0000" stop="20260814133000 +0000">
-    <title lang="zh">Taiwan Talks第903集</title>
-    <desc>這個節目是一個國際時事論壇，重要的意見領袖們會在這裡進行對談，討論各種國際時事議題</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814133000 +0000" stop="20260814140000 +0000">
-    <title lang="zh">Taiwan＋ News第162集</title>
-    <desc>這個節目注重於每條消息的內容和正確性，並由優秀的主播和新聞團隊共同打造它致力於提供更國際化更深度的全方位報導，讓您獲得最重要的第一手資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814140000 +0000" stop="20260814143000 +0000">
-    <title lang="zh">Shipwrecks Taiwan第4集</title>
-    <desc>Shipwrecks Taiwan</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814143000 +0000" stop="20260814150000 +0000">
-    <title lang="zh">The Chain Maker第4集</title>
-    <desc>The Chain Maker</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814150000 +0000" stop="20260814153000 +0000">
-    <title lang="zh">Whats Up Taiwan！第610集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814153000 +0000" stop="20260814154500 +0000">
-    <title lang="zh">Happy Fisherman第5季:第9集</title>
-    <desc>Happy Fisherman第5季</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814154500 +0000" stop="20260814160000 +0000">
-    <title lang="zh">Let＇s Go Diving第9集</title>
-    <desc>Let＇s Go Diving</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814160000 +0000" stop="20260814163000 +0000">
-    <title lang="zh">Taiwan＋ News第162集</title>
-    <desc>這個節目注重於每條消息的內容和正確性，並由優秀的主播和新聞團隊共同打造它致力於提供更國際化更深度的全方位報導，讓您獲得最重要的第一手資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814163000 +0000" stop="20260814170000 +0000">
-    <title lang="zh">Taiwan Talks第903集</title>
-    <desc>這個節目是一個國際時事論壇，重要的意見領袖們會在這裡進行對談，討論各種國際時事議題</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814170000 +0000" stop="20260814171500 +0000">
-    <title lang="zh">Between Us第5集</title>
-    <desc>Between Us</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814171500 +0000" stop="20260814173000 +0000">
-    <title lang="zh">Between Us第6集</title>
-    <desc>Between Us</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814173000 +0000" stop="20260814180000 +0000">
-    <title lang="zh">Whats Up Taiwan！第610集</title>
-    <desc>這個節目提供了每日的重點新聞在地文化對談以及深度國際議題，同時也將過濾掉不雅或低俗的內容，以提供觀眾們優質的新聞資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814180000 +0000" stop="20260814190000 +0000">
-    <title lang="zh">Come Away With Me第1集</title>
-    <desc>Come Away With Me</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814190000 +0000" stop="20260814193000 +0000">
-    <title lang="zh">Taiwan Talks第903集</title>
-    <desc>這個節目是一個國際時事論壇，重要的意見領袖們會在這裡進行對談，討論各種國際時事議題</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814193000 +0000" stop="20260814200000 +0000">
-    <title lang="zh">Hidden Gem Taiwan第1集</title>
-    <desc>Hidden Gem Taiwan</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814200000 +0000" stop="20260814203000 +0000">
-    <title lang="zh">A Table For One Is Great Too第11集</title>
-    <desc>A Table For One Is Great Too</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814203000 +0000" stop="20260814210000 +0000">
-    <title lang="zh">A Table For One Is Great Too第12集</title>
-    <desc>A Table For One Is Great Too</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814210000 +0000" stop="20260814220000 +0000">
-    <title lang="zh">Inside Taiwan第46集</title>
-    <desc>Inside Taiwan</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814220000 +0000" stop="20260814223000 +0000">
-    <title lang="zh">Taiwan＋ News第162集</title>
-    <desc>這個節目注重於每條消息的內容和正確性，並由優秀的主播和新聞團隊共同打造它致力於提供更國際化更深度的全方位報導，讓您獲得最重要的第一手資訊</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814223000 +0000" stop="20260814224500 +0000">
-    <title lang="zh">Between Us第5集</title>
-    <desc>Between Us</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814224500 +0000" stop="20260814230000 +0000">
-    <title lang="zh">Between Us第6集</title>
-    <desc>Between Us</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814230000 +0000" stop="20260814231500 +0000">
-    <title lang="zh">Heres What Happened第352集</title>
-    <desc>Heres What Happened</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814231500 +0000" stop="20260814233000 +0000">
-    <title lang="zh">Zoom In, Zoom Out第305集</title>
-    <desc>Zoom In, Zoom Out</desc>
-  </programme>
   <programme channel="homeplus.LOVENATURE4K" start="20260812232000 +0000" stop="20260813001500 +0000">
     <title lang="zh">獮猴島第2集</title>
     <desc>跟隨街頭部族穿梭大街小巷，享受一次充滿垃圾食物的城市假期鏡頭一轉，看看深山部族趁機入侵街頭部族的領地後，情勢如何急轉直下目擊姐妹團如何組織綁架莎拉寶寶的陰謀，而新上任的領袖洛基則發現他的老對手已經重返城鎮</desc>
@@ -189640,6 +189697,9 @@
   <programme channel="pw.TW.liveabc互動英語頻道.4gtv" start="20260814234600 +0000" stop="20260815000500 +0000">
     <title lang="zh">ABC互動英語-20260811普</title>
   </programme>
+  <programme channel="pw.TW.taiwanplus.mod" start="20260814233000 +0000" stop="20260815000000 +0000">
+    <title lang="zh">The Chain Maker4普</title>
+  </programme>
   <programme channel="pw.TW.公視戲劇.4gtv" start="20260814230200 +0000" stop="20260815002900 +0000">
     <title lang="zh">當我們同在一起保</title>
   </programme>
@@ -191360,10 +191420,6 @@
   <programme channel="homeplus.TV5MONDE" start="20260814235600 +0000" stop="20260815000000 +0000">
     <title lang="zh">MERCI PROFESSEUR !</title>
     <desc>A short review of the French language, its quirks, accents and news. Presented by: Bernard Cerquiglini.</desc>
-  </programme>
-  <programme channel="homeplus.TaiwanPlus" start="20260814233000 +0000" stop="20260815000000 +0000">
-    <title lang="zh">The Chain Maker第4集</title>
-    <desc>The Chain Maker</desc>
   </programme>
   <programme channel="homeplus.LOVENATURE4K" start="20260814232000 +0000" stop="20260815001500 +0000">
     <title lang="zh">巨象同盟-長牙兄弟情</title>
