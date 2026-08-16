@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', () => {
     { name: 'Adult', url: 'index-x.html' }
   ];
 
-  const currentPath = window.location.pathname.split('/').pop() || 'index.html';
+
 
   const menu = document.createElement('div');
   menu.style.position = 'fixed';
