@@ -124,10 +124,13 @@ clear(){this.parts=[]}}
 
 // --- Floating Region Selector UI ---
 document.addEventListener('DOMContentLoaded', () => {
+  const currentPath = window.location.pathname.split('/').pop() || 'index.html';
+  if (currentPath === 'index-2t.html' || currentPath === 'index-all.html') return;
+  
   const regions = [
     { name: 'Main a', url: 'index.html' },
-    { name: 'Main b', url: 'index-2.html' },
-    { name: 'Main 2', url: 'index-2t.html' },
+    { name: 'Main b', url: 'index-b.html' },
+    { name: 'Main 2', url: 'index-2.html' },
     { name: 'Hong Kong', url: 'index-hk.html' },
     { name: 'Taiwan', url: 'index-tw.html' },
     { name: 'Malaysia', url: 'index-my.html' },
