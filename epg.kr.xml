@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260817225040 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
+<tv date="20260818115407 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -4669,26 +4669,26 @@
     <desc>KBS예능 디지털전문스튜디오 &apos;스튜디오K&apos;가 만드는 새로운 감성의 디지털 콘텐츠!</desc>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260817151000 +0000" stop="20260817160000 +0000" channel="skylife.kbs1">
+<programme start="20260817152000 +0000" stop="20260817161000 +0000" channel="skylife.kbs1">
     <title>이웃집 찰스</title>
     <desc>언어, 문화의 차이 속에서 좌충우돌 하는 이방인들의 모습을 통해 우리가 미처 깨닫지 못했던 우리 사회의 장점과 단점, 문화적 가치 등을 다시 한 번 알게 한다.</desc>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260817160000 +0000" stop="20260817165000 +0000" channel="skylife.kbs1">
+<programme start="20260817161000 +0000" stop="20260817170000 +0000" channel="skylife.kbs1">
     <title>KBS 네트워크 특선 세상다반사</title>
     <desc>KBS 네트워크 특선</desc>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260817165000 +0000" stop="20260817171500 +0000" channel="skylife.kbs1">
+<programme start="20260817170000 +0000" stop="20260817172500 +0000" channel="skylife.kbs1">
     <title>걸어서 세계속으로 트래블홀릭</title>
     <category>시사/다큐 / 풍물/기행</category>
   </programme>
-<programme start="20260817171500 +0000" stop="20260817180500 +0000" channel="skylife.kbs1">
+<programme start="20260817172500 +0000" stop="20260817181500 +0000" channel="skylife.kbs1">
     <title>생활의 발견</title>
     <desc>생활 속에서 직면하게 되는 때로는 간단하기도. 때로는 버겁기도 한 문제들을 해결하기 위한 살림 노하우와 생활정보, 건강, 음식 정보등 실생활에 꼭 필요한 정보들을 소개한다.</desc>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260817180500 +0000" stop="20260817200000 +0000" channel="skylife.kbs1">
+<programme start="20260817181500 +0000" stop="20260817200000 +0000" channel="skylife.kbs1">
     <title>방송 시간이 아닙니다(5시부터 방송 예정)</title>
     <category>교양/정보 / 일반</category>
   </programme>
@@ -5275,16 +5275,16 @@
     <desc>K컬처가 세계적으로 확산되는 과장을 보여주는 과장을 보여주는 CNN 제작 다큐멘터리</desc>
     <category>시사/다큐 / 문화</category>
   </programme>
-<programme start="20260818111000 +0000" stop="20260818114000 +0000" channel="skylife.tvn">
+<programme start="20260818111000 +0000" stop="20260818114500 +0000" channel="skylife.tvn">
     <title>유 퀴즈 온 더 블럭 특별판 - 스타 자기님을 찾아서</title>
     <desc>You Quiz On The Block.  Step by step    보통날을 살아가는 당신 앞에 나타난 유재석x조세호.  두 사람이 건넨 한마디.  quot;You Quiz...?quot;    평범한 사람들의 인생 무대인 &apos;길거리&apos;를 &apos;세트&apos;로 빌리고 세상 누구에게나 공평한 &apos;태양&apos;을 &apos;조명&apos; 삼아 여러분을 주인공으로 모시는 유쾌한 서프라이즈!</desc>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260818114000 +0000" stop="20260818130000 +0000" channel="skylife.tvn">
+<programme start="20260818114500 +0000" stop="20260818130500 +0000" channel="skylife.tvn">
     <title>최애의 사원</title>
     <category>드라마 / 로맨틱코메디</category>
   </programme>
-<programme start="20260818130000 +0000" stop="20260818160000 +0000" channel="skylife.tvn">
+<programme start="20260818130500 +0000" stop="20260818160000 +0000" channel="skylife.tvn">
     <title>스트릿 월드 파이터 : 디렉터스 워</title>
     <category>연예/오락 / 일반</category>
   </programme>
@@ -6309,11 +6309,11 @@
     <category>연예/오락 / 인포테인먼트</category>
   </programme>
 <programme start="20260818040000 +0000" stop="20260818053000 +0000" channel="skylife.sbs.biz">
-    <title>마켓&amp;머니</title>
+    <title>[외인 순매수에 7100선 돌파]마켓&amp;머니</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260818053000 +0000" stop="20260818063000 +0000" channel="skylife.sbs.biz">
-    <title>경제현장 오늘</title>
+    <title>[매수 패턴 바뀐 외국인]경제현장 오늘</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260818063000 +0000" stop="20260818065000 +0000" channel="skylife.sbs.biz">
@@ -6321,7 +6321,7 @@
     <category>뉴스 / 경제(산업/부동산)</category>
   </programme>
 <programme start="20260818065000 +0000" stop="20260818080000 +0000" channel="skylife.sbs.biz">
-    <title>오늘 경제, 안녕하십니까?</title>
+    <title>[&apos;삼전-닉스&apos;가 이끈 7천피 회복]오늘 경제, 안녕하십니까?</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260818080000 +0000" stop="20260818090000 +0000" channel="skylife.sbs.biz">
@@ -6343,7 +6343,7 @@
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260818103000 +0000" stop="20260818113000 +0000" channel="skylife.sbs.biz">
-    <title>오늘 경제 안녕하십니까?</title>
+    <title>[&apos;삼전-닉스&apos;가 이끈 7천피 회복]오늘 경제, 안녕하십니까?</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260818113000 +0000" stop="20260818123000 +0000" channel="skylife.sbs.biz">
@@ -8753,8 +8753,8 @@
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260819045000 +0000" stop="20260819050000 +0000" channel="skylife.kbs1">
-    <title>생활의 발견 스페셜</title>
-    <desc>생활 속에서 직면하게 되는 때로는 간단하기도. 때로는 버겁기도 한 문제들을 해결하기 위한 살림 노하우와 생활정보, 건강, 음식 정보등 실생활에 꼭 필요한 정보들을 소개한다.</desc>
+    <title>세계는 지금 스페셜</title>
+    <desc>세계 곳곳에서 일어나고 있는 사건들을 알기 쉽게 소개해 주는 프로그램</desc>
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260819050000 +0000" stop="20260819051000 +0000" channel="skylife.kbs1">
@@ -9238,15 +9238,15 @@
     <title>우주떡집</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260818173000 +0000" stop="20260818191000 +0000" channel="skylife.tvn">
+<programme start="20260818173000 +0000" stop="20260818191500 +0000" channel="skylife.tvn">
     <title>스트릿 레스토랑 파이터</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260818191000 +0000" stop="20260818195000 +0000" channel="skylife.tvn">
+<programme start="20260818191500 +0000" stop="20260818195500 +0000" channel="skylife.tvn">
     <title>언니네 산지직송3 - 네 식구 산지 라이프</title>
     <category>연예/오락 / 일반</category>
   </programme>
-<programme start="20260818195000 +0000" stop="20260818210000 +0000" channel="skylife.tvn">
+<programme start="20260818195500 +0000" stop="20260818210000 +0000" channel="skylife.tvn">
     <title>잡학자들</title>
     <category>연예/오락 / 일반</category>
   </programme>
@@ -10267,7 +10267,7 @@
     <category>뉴스 / 뉴스</category>
   </programme>
 <programme start="20260818153000 +0000" stop="20260818163000 +0000" channel="skylife.sbs.biz">
-    <title>오늘 경제 안녕하십니까?</title>
+    <title>[&apos;삼전-닉스&apos;가 이끈 7천피 회복]오늘 경제, 안녕하십니까?</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260818163000 +0000" stop="20260818173000 +0000" channel="skylife.sbs.biz">
@@ -10544,25 +10544,25 @@
     <title>UFC CLASSIC : Special Edition</title>
     <category>스포츠 / 격투기</category>
   </programme>
-<programme start="20260819010000 +0000" stop="20260819013000 +0000" channel="skylife.tvn.sports">
-    <title>UFC REVIEW Fight Show</title>
-    <category>스포츠 / 격투기</category>
-  </programme>
-<programme start="20260819013000 +0000" stop="20260819030000 +0000" channel="skylife.tvn.sports">
+<programme start="20260819010000 +0000" stop="20260819020000 +0000" channel="skylife.tvn.sports">
     <title>UFC FIGHT NIGHT 하이라이트</title>
     <category>스포츠 / 격투기</category>
   </programme>
-<programme start="20260819030000 +0000" stop="20260819050000 +0000" channel="skylife.tvn.sports">
+<programme start="20260819020000 +0000" stop="20260819050000 +0000" channel="skylife.tvn.sports">
+    <title>2026 메디힐 KBO 퓨처스리그</title>
+    <category>스포츠 / 야구</category>
+  </programme>
+<programme start="20260819050000 +0000" stop="20260819070000 +0000" channel="skylife.tvn.sports">
     <title>UFC 326 하이라이트</title>
     <category>스포츠 / 격투기</category>
   </programme>
-<programme start="20260819050000 +0000" stop="20260819070000 +0000" channel="skylife.tvn.sports">
+<programme start="20260819070000 +0000" stop="20260819090000 +0000" channel="skylife.tvn.sports">
     <title>UFC PREVIEW Fight Show</title>
     <category>스포츠 / 격투기</category>
   </programme>
-<programme start="20260819070000 +0000" stop="20260819100000 +0000" channel="skylife.tvn.sports">
-    <title>(생)2026 메디힐 KBO 퓨처스리그</title>
-    <category>스포츠 / 야구</category>
+<programme start="20260819090000 +0000" stop="20260819100000 +0000" channel="skylife.tvn.sports">
+    <title>UFC 330 하이라이트</title>
+    <category>스포츠 / 격투기</category>
   </programme>
 <programme start="20260819100000 +0000" stop="20260819103000 +0000" channel="skylife.tvn.sports">
     <title>UFC REVIEW Fight Show</title>
@@ -17709,9 +17709,9 @@
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260821134000 +0000" stop="20260821150000 +0000" channel="skylife.mbn플러스">
-    <title>신과 한판</title>
-    <desc>다시 환생할 수 있는 기회가 주어진다면? 저승 문턱에서 다시 한번 &apos;2회차 인생&apos;을 열기 위한 토크쇼가 시작된다!</desc>
-    <category>연예/오락 / 일반</category>
+    <title>대한민국 정치비사</title>
+    <desc>우리나라 현대 정치사 속에 숨겨진 이야기를 바탕으로 꾸민 재연 드라마</desc>
+    <category>드라마 / 논픽션</category>
   </programme>
 <programme start="20260821150000 +0000" stop="20260821161000 +0000" channel="skylife.mbn플러스">
     <title>내가 만난 사이코패스</title>
@@ -20548,8 +20548,8 @@
     <category>교양/정보 / 의료건강</category>
   </programme>
 <programme start="20260821230000 +0000" stop="20260821233000 +0000" channel="skylife.tv조선">
-    <title>ABC 니니키즈</title>
-    <category>만화 / 교육</category>
+    <title>코코비</title>
+    <category>교육 / 유아</category>
   </programme>
 <programme start="20260821233000 +0000" stop="20260822000500 +0000" channel="skylife.tv조선">
     <title>건강한 아침 해뜰날</title>
@@ -23883,7 +23883,8 @@
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260822201000 +0000" stop="20260822210000 +0000" channel="skylife.kbs1">
-    <title>KBS 네트워크 특선 해드림 컴퍼니 [광주총국]</title>
+    <title>내고향 스페셜</title>
+    <desc>내 고향 스페셜은 중장년층의 사랑을 받고 있는 6시 내고향과 한국 재발견, 한국인의 밥상 등을 재구성한 프로그램이다</desc>
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260822210000 +0000" stop="20260822211000 +0000" channel="skylife.kbs1">
@@ -24012,10 +24013,15 @@
     <title>KBS 뉴스</title>
     <category>뉴스 / 뉴스</category>
   </programme>
-<programme start="20260823141000 +0000" stop="20260823150500 +0000" channel="skylife.kbs1">
+<programme start="20260823141000 +0000" stop="20260823150000 +0000" channel="skylife.kbs1">
     <title>생로병사의 비밀</title>
     <desc>국민의 삶의 질을 높이고, 국민의 건강을 지키기 위해 필수 의학 정보와 실용적인 맞춤 건강 정보를 새로운 형식으로 정확하고 빠르게 제공하는 신 의학다큐멘터리</desc>
     <category>교양/정보 / 의료건강</category>
+  </programme>
+<programme start="20260823150000 +0000" stop="20260823155000 +0000" channel="skylife.kbs1">
+    <title>걸어서 세계속으로</title>
+    <desc>순수한 여행자의 시각으로 한 도시가 가지고 있는 생활 문화를 특징적으로 보여 줄 수 있는 그들의 생활, 공간, 건축물 등 다양한 모습들을 카메라에 담아 볼거리와 재미 속에 차분하고 여유로운 터치로 보여주는 다큐멘터리 프로그램.</desc>
+    <category>시사/다큐 / 풍물/기행</category>
   </programme>
 <programme start="20260822160000 +0000" stop="20260822172000 +0000" channel="skylife.mbc">
     <title>유부녀 킬러</title>
