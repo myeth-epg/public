@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260817225038 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="SG-EPG-Merger">
+<tv date="20260818115405 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="SG-EPG-Merger">
 
 <!-- Channels -->
 
@@ -3539,9 +3539,131 @@
     <title lang="en">寻味</title>
     <desc lang="zh">寻味</desc>
   </programme>
-<programme start="20260817164500 +0000" stop="20260817184500 +0000" channel="singtel.dragontvintl">
+<programme start="20260817164500 +0000" stop="20260817164800 +0000" channel="singtel.dragontvintl">
     <title lang="en">ShanghaiEye</title>
     <desc lang="en">ShanghaiEye</desc>
+  </programme>
+<programme start="20260817164800 +0000" stop="20260817170000 +0000" channel="singtel.dragontvintl">
+    <title lang="en">ShanghaiEye</title>
+    <desc lang="en">ShanghaiEye</desc>
+  </programme>
+<programme start="20260817170000 +0000" stop="20260817220000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新闻</title>
+    <title lang="en">东方新闻</title>
+    <desc lang="zh">东方新闻</desc>
+  </programme>
+<programme start="20260817220000 +0000" stop="20260817223500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260817223500 +0000" stop="20260817230000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260817230000 +0000" stop="20260818010000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">看东方</title>
+    <title lang="en">看东方</title>
+    <desc lang="zh">看东方</desc>
+  </programme>
+<programme start="20260818010000 +0000" stop="20260818014700 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260818014700 +0000" stop="20260818033400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">爱乐之都</title>
+    <title lang="en">爱乐之都</title>
+    <desc lang="zh">爱乐之都</desc>
+  </programme>
+<programme start="20260818033400 +0000" stop="20260818040000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260818040000 +0000" stop="20260818043000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">午间30分</title>
+    <title lang="en">午间30分</title>
+    <desc lang="zh">午间30分</desc>
+  </programme>
+<programme start="20260818043000 +0000" stop="20260818044200 +0000" channel="singtel.dragontvintl">
+    <title lang="en">ShanghaiEye</title>
+    <desc lang="en">ShanghaiEye</desc>
+  </programme>
+<programme start="20260818044200 +0000" stop="20260818063300 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">未来中国</title>
+    <title lang="en">未来中国</title>
+    <desc lang="zh">未来中国</desc>
+  </programme>
+<programme start="20260818063300 +0000" stop="20260818070400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">这就是中国</title>
+    <title lang="en">这就是中国</title>
+    <desc lang="zh">这就是中国</desc>
+  </programme>
+<programme start="20260818070400 +0000" stop="20260818073200 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">下一站</title>
+    <title lang="en">下一站</title>
+    <desc lang="zh">下一站</desc>
+  </programme>
+<programme start="20260818073200 +0000" stop="20260818090900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">爱乐之都</title>
+    <title lang="en">爱乐之都</title>
+    <desc lang="zh">爱乐之都</desc>
+  </programme>
+<programme start="20260818090900 +0000" stop="20260818093400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260818093400 +0000" stop="20260818100000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260818100000 +0000" stop="20260818105800 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新闻</title>
+    <title lang="en">东方新闻</title>
+    <desc lang="zh">东方新闻</desc>
+  </programme>
+<programme start="20260818105800 +0000" stop="20260818111000 +0000" channel="singtel.dragontvintl">
+    <title lang="en">ShanghaiEye</title>
+    <desc lang="en">ShanghaiEye</desc>
+  </programme>
+<programme start="20260818111000 +0000" stop="20260818114200 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">这就是中国</title>
+    <title lang="en">这就是中国</title>
+    <desc lang="zh">这就是中国</desc>
+  </programme>
+<programme start="20260818114200 +0000" stop="20260818120700 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">下一站</title>
+    <title lang="en">下一站</title>
+    <desc lang="zh">下一站</desc>
+  </programme>
+<programme start="20260818120700 +0000" stop="20260818125400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260818125400 +0000" stop="20260818134400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">未来中国</title>
+    <title lang="en">未来中国</title>
+    <desc lang="zh">未来中国</desc>
+  </programme>
+<programme start="20260818134400 +0000" stop="20260818140900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260818140900 +0000" stop="20260818143400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260818143400 +0000" stop="20260818160000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">爱乐之都</title>
+    <title lang="en">爱乐之都</title>
+    <desc lang="zh">爱乐之都</desc>
   </programme>
 <programme start="20260817153000 +0000" stop="20260817163000 +0000" channel="singtel.dramachannel">
     <title lang="en">MAHLIGAI UNTUK CINTA 6-7</title>
@@ -11286,6 +11408,153 @@
     <title lang="en">In The Eye Of The Storm (S2)</title>
     <desc lang="en">In May 2024, dozens of eyewitnesses capture rare twin tornadoes as they carve a parallel path of destruction across Iowa.</desc>
   </programme>
+<programme start="20260818160000 +0000" stop="20260818163100 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">爱乐之都</title>
+    <title lang="en">爱乐之都</title>
+    <desc lang="zh">爱乐之都</desc>
+  </programme>
+<programme start="20260818163100 +0000" stop="20260818165600 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">爱上海</title>
+    <title lang="en">爱上海</title>
+    <desc lang="zh">爱上海</desc>
+  </programme>
+<programme start="20260818165600 +0000" stop="20260818170800 +0000" channel="singtel.dragontvintl">
+    <title lang="en">ShanghaiEye</title>
+    <desc lang="en">ShanghaiEye</desc>
+  </programme>
+<programme start="20260818170800 +0000" stop="20260818180700 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新闻</title>
+    <title lang="en">东方新闻</title>
+    <desc lang="zh">东方新闻</desc>
+  </programme>
+<programme start="20260818180700 +0000" stop="20260818195200 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">未来中国</title>
+    <title lang="en">未来中国</title>
+    <desc lang="zh">未来中国</desc>
+  </programme>
+<programme start="20260818195200 +0000" stop="20260818204900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">今晚不加班</title>
+    <title lang="en">今晚不加班</title>
+    <desc lang="zh">今晚不加班</desc>
+  </programme>
+<programme start="20260818204900 +0000" stop="20260818214500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260818214500 +0000" stop="20260818221000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">下一站</title>
+    <title lang="en">下一站</title>
+    <desc lang="zh">下一站</desc>
+  </programme>
+<programme start="20260818221000 +0000" stop="20260818223500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260818223500 +0000" stop="20260818230000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260818230000 +0000" stop="20260819010000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">看东方</title>
+    <title lang="en">看东方</title>
+    <desc lang="zh">看东方</desc>
+  </programme>
+<programme start="20260819010000 +0000" stop="20260819014300 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260819014300 +0000" stop="20260819030900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">因Ai相约</title>
+    <title lang="en">因Ai相约</title>
+    <desc lang="zh">因Ai相约</desc>
+  </programme>
+<programme start="20260819030900 +0000" stop="20260819033400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260819033400 +0000" stop="20260819040000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260819040000 +0000" stop="20260819043000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">午间30分</title>
+    <title lang="en">午间30分</title>
+    <desc lang="zh">午间30分</desc>
+  </programme>
+<programme start="20260819043000 +0000" stop="20260819044200 +0000" channel="singtel.dragontvintl">
+    <title lang="en">ShanghaiEye</title>
+    <desc lang="en">ShanghaiEye</desc>
+  </programme>
+<programme start="20260819044200 +0000" stop="20260819062400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">未来中国</title>
+    <title lang="en">未来中国</title>
+    <desc lang="zh">未来中国</desc>
+  </programme>
+<programme start="20260819062400 +0000" stop="20260819074400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">梦想改造家</title>
+    <title lang="en">梦想改造家</title>
+    <desc lang="zh">梦想改造家</desc>
+  </programme>
+<programme start="20260819074400 +0000" stop="20260819090900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">因Ai相约</title>
+    <title lang="en">因Ai相约</title>
+    <desc lang="zh">因Ai相约</desc>
+  </programme>
+<programme start="20260819090900 +0000" stop="20260819093500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260819093500 +0000" stop="20260819100000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260819100000 +0000" stop="20260819105800 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新闻</title>
+    <title lang="en">东方新闻</title>
+    <desc lang="zh">东方新闻</desc>
+  </programme>
+<programme start="20260819105800 +0000" stop="20260819111000 +0000" channel="singtel.dragontvintl">
+    <title lang="en">ShanghaiEye</title>
+    <desc lang="en">ShanghaiEye</desc>
+  </programme>
+<programme start="20260819111000 +0000" stop="20260819123100 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">梦想改造家</title>
+    <title lang="en">梦想改造家</title>
+    <desc lang="zh">梦想改造家</desc>
+  </programme>
+<programme start="20260819123100 +0000" stop="20260819131400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260819131400 +0000" stop="20260819140500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">未来中国</title>
+    <title lang="en">未来中国</title>
+    <desc lang="zh">未来中国</desc>
+  </programme>
+<programme start="20260819140500 +0000" stop="20260819143000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260819143000 +0000" stop="20260819145500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260819145500 +0000" stop="20260819160000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">因Ai相约</title>
+    <title lang="en">因Ai相约</title>
+    <desc lang="zh">因Ai相约</desc>
+  </programme>
 <programme start="20260818163000 +0000" stop="20260818173000 +0000" channel="singtel.dramachannel">
     <title lang="en">CAHAYA CINTA AZZURA 23</title>
     <desc lang="en">Cahaya is a beautiful young woman who works at a fish farm owned by Adipura, a wealthy businessman in a village in Sukabumi. One day, Cahaya&apos;s father is involved in an accident and is hospitalized. Desperate to find money for his treatment, Cahaya turns to Adipura for help. Adipura agrees, but on one condition: Cahaya must marry him.</desc>
@@ -16605,8 +16874,8 @@
     <desc lang="en">Ketaatan Zulfa kepada ayahnya, sehingga sanggup mengorbankan cintanya bersama Afghan demi berkahwin dengan Jamali, pilihan bapanya. Menyangka pengorbanan itu adalah jalan bahagia, tanpa menyedari keputusan itu membawa dirinya ke dalam perkahwinan yang sengsara.</desc>
   </programme>
 <programme start="20260820150000 +0000" stop="20260820153000 +0000" channel="singtel.astroria">
-    <title lang="en">Meet Your Idol</title>
-    <desc lang="en">Berjuta peminat ingin bertemu idola, namun halangan akses menyukarkannya. Meet Your Idol merapatkan jurang ini melalui jaringan Daniel, mencipta pengalaman eksklusif dan gelaran Ultimate Fan&apos;.</desc>
+    <title lang="en">RSVP Kilauan Emas Selebriti</title>
+    <desc lang="en">Saksikan kejutan buat 10 selebriti terpilih apabila mereka menerima notifikasi RSVP yang tidak disangka-sangka. Lihat reaksi spontan mereka saat ditawarkan peluang untuk menyertai Kilauan Emas Selebriti.</desc>
   </programme>
 <programme start="20260820153000 +0000" stop="20260820163000 +0000" channel="singtel.astroria">
     <title lang="en">Podcast Big Stage Rocketfuel</title>
@@ -17759,7 +18028,7 @@
 <programme start="20260820143000 +0000" stop="20260820150000 +0000" channel="singtel.ch8">
     <title lang="zh">焦点</title>
     <title lang="en">焦点</title>
-    <desc lang="zh">焦点追踪国际时事实地报道区域课题以新加坡的视角分析时局发展的前因后果和潜在影响</desc>
+    <desc lang="zh">欧洲移民潮冲击边界也重塑政治版图经济需要移民选民却日益抗拒欧洲如何化解矛盾新加坡三大独特政治制度走过近40年当年的政治考量是否依然成立贾古玛教授带我们重看制度背后的故事与时代考验</desc>
   </programme>
 <programme start="20260820150000 +0000" stop="20260820160000 +0000" channel="singtel.ch8">
     <title lang="zh">无忧渡</title>
@@ -18983,6 +19252,148 @@
 <programme start="20260820154500 +0000" stop="20260820164000 +0000" channel="singtel.discoverychannel">
     <title lang="en">Mud Madness (S1)</title>
     <desc lang="en">Racers gear up for the circuit&apos;s wildest event, the Rednecks with Paychecks Fall Mud Crawl. Bryce Sparks sends it to win his daughter a new UTV.</desc>
+  </programme>
+<programme start="20260819160000 +0000" stop="20260819171500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">因Ai相约</title>
+    <title lang="en">因Ai相约</title>
+    <desc lang="zh">因Ai相约</desc>
+  </programme>
+<programme start="20260819171500 +0000" stop="20260819172700 +0000" channel="singtel.dragontvintl">
+    <title lang="en">ShanghaiEye</title>
+    <desc lang="en">ShanghaiEye</desc>
+  </programme>
+<programme start="20260819172700 +0000" stop="20260819182600 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新闻</title>
+    <title lang="en">东方新闻</title>
+    <desc lang="zh">东方新闻</desc>
+  </programme>
+<programme start="20260819182600 +0000" stop="20260819185100 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">下一站</title>
+    <title lang="en">下一站</title>
+    <desc lang="zh">下一站</desc>
+  </programme>
+<programme start="20260819185100 +0000" stop="20260819202900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">爱乐之都</title>
+    <title lang="en">爱乐之都</title>
+    <desc lang="zh">爱乐之都</desc>
+  </programme>
+<programme start="20260819202900 +0000" stop="20260819221000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260819221000 +0000" stop="20260819223500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260819223500 +0000" stop="20260819230000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260819230000 +0000" stop="20260820010000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">看东方</title>
+    <title lang="en">看东方</title>
+    <desc lang="zh">看东方</desc>
+  </programme>
+<programme start="20260820010000 +0000" stop="20260820015400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260820015400 +0000" stop="20260820030900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">加油！小店</title>
+    <title lang="en">加油！小店</title>
+    <desc lang="zh">加油！小店</desc>
+  </programme>
+<programme start="20260820030900 +0000" stop="20260820033400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260820033400 +0000" stop="20260820040000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260820040000 +0000" stop="20260820043000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">午间30分</title>
+    <title lang="en">午间30分</title>
+    <desc lang="zh">午间30分</desc>
+  </programme>
+<programme start="20260820043000 +0000" stop="20260820044200 +0000" channel="singtel.dragontvintl">
+    <title lang="en">ShanghaiEye</title>
+    <desc lang="en">ShanghaiEye</desc>
+  </programme>
+<programme start="20260820044200 +0000" stop="20260820062300 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">未来中国</title>
+    <title lang="en">未来中国</title>
+    <desc lang="zh">未来中国</desc>
+  </programme>
+<programme start="20260820062300 +0000" stop="20260820064800 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">寻味</title>
+    <title lang="en">寻味</title>
+    <desc lang="zh">寻味</desc>
+  </programme>
+<programme start="20260820064800 +0000" stop="20260820073100 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">爱上海</title>
+    <title lang="en">爱上海</title>
+    <desc lang="zh">爱上海</desc>
+  </programme>
+<programme start="20260820073100 +0000" stop="20260820090900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">加油！小店</title>
+    <title lang="en">加油！小店</title>
+    <desc lang="zh">加油！小店</desc>
+  </programme>
+<programme start="20260820090900 +0000" stop="20260820093400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260820093400 +0000" stop="20260820100000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260820100000 +0000" stop="20260820105800 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新闻</title>
+    <title lang="en">东方新闻</title>
+    <desc lang="zh">东方新闻</desc>
+  </programme>
+<programme start="20260820105800 +0000" stop="20260820111000 +0000" channel="singtel.dragontvintl">
+    <title lang="en">ShanghaiEye</title>
+    <desc lang="en">ShanghaiEye</desc>
+  </programme>
+<programme start="20260820111000 +0000" stop="20260820120000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">寻味</title>
+    <title lang="en">寻味</title>
+    <desc lang="zh">寻味</desc>
+  </programme>
+<programme start="20260820120000 +0000" stop="20260820122500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">爱上海</title>
+    <title lang="en">爱上海</title>
+    <desc lang="zh">爱上海</desc>
+  </programme>
+<programme start="20260820122500 +0000" stop="20260820131900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260820131900 +0000" stop="20260820150000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">未来中国</title>
+    <title lang="en">未来中国</title>
+    <desc lang="zh">未来中国</desc>
+  </programme>
+<programme start="20260820150000 +0000" stop="20260820152500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260820152500 +0000" stop="20260820160000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
   </programme>
 <programme start="20260819163000 +0000" stop="20260819173000 +0000" channel="singtel.dramachannel">
     <title lang="en">CAHAYA CINTA AZZURA 24</title>
@@ -23067,7 +23478,7 @@
     <title lang="en">Dear X</title>
     <desc lang="en">&lt;Dear X&gt; follows Baek Ah-jin, a top actress who leverages her beauty and popularity to further her career through manipulation. She harbors a lot of grudges behind her somewhat good-natured demeanor.</desc>
   </programme>
-<programme start="20260820143000 +0000" stop="20260820162000 +0000" channel="singtel.tvnmalay">
+<programme start="20260820143000 +0000" stop="20260820160000 +0000" channel="singtel.tvnmalay">
     <title lang="en">Space Rice Cake</title>
     <desc lang="en">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
   </programme>
@@ -23151,7 +23562,7 @@
     <title lang="en">Dear X</title>
     <desc lang="zh">&lt;親愛的X&gt;講述為了生存而戴上假面的女人與試圖拯救她的男人之間，殘酷而美麗的驚悚愛情故事</desc>
   </programme>
-<programme start="20260820143000 +0000" stop="20260820162000 +0000" channel="singtel.tvnmandarin">
+<programme start="20260820143000 +0000" stop="20260820160000 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">宇宙年糕店</title>
     <title lang="en">Space Rice Cake</title>
     <desc lang="zh">蹦蹦地球娛樂室的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力</desc>
@@ -31862,8 +32273,8 @@
     <desc lang="en">Big Stage Rocketfuel kembali dengan musim baharu mencari bintang nyanyian seterusnya. Bertemakan Dominasi For Real, siapa bakal juara musim ini?</desc>
   </programme>
 <programme start="20260822080000 +0000" stop="20260822083000 +0000" channel="singtel.astroria">
-    <title lang="en">Meet Your Idol</title>
-    <desc lang="en">Berjuta peminat ingin bertemu idola, namun halangan akses menyukarkannya. Meet Your Idol merapatkan jurang ini melalui jaringan Daniel, mencipta pengalaman eksklusif dan gelaran Ultimate Fan&apos;.</desc>
+    <title lang="en">Podcast Kilauan Emas Selebriti</title>
+    <desc lang="en">Sebuah sesi perkongsian eksklusif yang menyelami kisah perjalanan 10 selebriti sejak mula menapak dalam industri hiburan, termasuk pengalaman, cabaran dan sisi peribadi yang jarang dikongsikan.</desc>
   </programme>
 <programme start="20260822083000 +0000" stop="20260822093000 +0000" channel="singtel.astroria">
     <title lang="en">Syurga Itu Bukan Mudah</title>
@@ -32945,7 +33356,7 @@
 <programme start="20260822033000 +0000" stop="20260822040000 +0000" channel="singtel.ch8">
     <title lang="zh">焦点</title>
     <title lang="en">焦点</title>
-    <desc lang="zh">焦点追踪国际时事实地报道区域课题以新加坡的视角分析时局发展的前因后果和潜在影响</desc>
+    <desc lang="zh">欧洲移民潮冲击边界也重塑政治版图经济需要移民选民却日益抗拒欧洲如何化解矛盾新加坡三大独特政治制度走过近40年当年的政治考量是否依然成立贾古玛教授带我们重看制度背后的故事与时代考验</desc>
   </programme>
 <programme start="20260822040000 +0000" stop="20260822050000 +0000" channel="singtel.ch8">
     <title lang="zh">三把刀: 再战擂台</title>
@@ -34199,6 +34610,140 @@
 <programme start="20260822154500 +0000" stop="20260822164000 +0000" channel="singtel.discoverychannel">
     <title lang="en">American Monster: Abuse Of Power (S1)</title>
     <desc lang="en">When a medical board strikes off Arkansas pain doctor Randeep Mann amid accusations about his practice, he launches a volatile plot to regain power.</desc>
+  </programme>
+<programme start="20260821160000 +0000" stop="20260821171300 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">极限挑战</title>
+    <title lang="en">极限挑战</title>
+    <desc lang="zh">极限挑战</desc>
+  </programme>
+<programme start="20260821171300 +0000" stop="20260821173800 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">下一站</title>
+    <title lang="en">下一站</title>
+    <desc lang="zh">下一站</desc>
+  </programme>
+<programme start="20260821173800 +0000" stop="20260821175000 +0000" channel="singtel.dragontvintl">
+    <title lang="en">ShanghaiEye</title>
+    <desc lang="en">ShanghaiEye</desc>
+  </programme>
+<programme start="20260821175000 +0000" stop="20260821183900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新闻</title>
+    <title lang="en">东方新闻</title>
+    <desc lang="zh">东方新闻</desc>
+  </programme>
+<programme start="20260821183900 +0000" stop="20260821191400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">寻味</title>
+    <title lang="en">寻味</title>
+    <desc lang="zh">寻味</desc>
+  </programme>
+<programme start="20260821191400 +0000" stop="20260821204700 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">加油！小店</title>
+    <title lang="en">加油！小店</title>
+    <desc lang="zh">加油！小店</desc>
+  </programme>
+<programme start="20260821204700 +0000" stop="20260821221000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260821221000 +0000" stop="20260821223500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260821223500 +0000" stop="20260821230000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260821230000 +0000" stop="20260822010000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">看东方</title>
+    <title lang="en">看东方</title>
+    <desc lang="zh">看东方</desc>
+  </programme>
+<programme start="20260822010000 +0000" stop="20260822020600 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260822020600 +0000" stop="20260822030400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">妈妈咪呀</title>
+    <title lang="en">妈妈咪呀</title>
+    <desc lang="zh">妈妈咪呀</desc>
+  </programme>
+<programme start="20260822030400 +0000" stop="20260822032900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260822032900 +0000" stop="20260822035400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">下一站</title>
+    <title lang="en">下一站</title>
+    <desc lang="zh">下一站</desc>
+  </programme>
+<programme start="20260822035400 +0000" stop="20260822042100 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">中国考古报道</title>
+    <title lang="en">中国考古报道</title>
+    <desc lang="zh">中国考古报道</desc>
+  </programme>
+<programme start="20260822042100 +0000" stop="20260822050200 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">双城记</title>
+    <title lang="en">双城记</title>
+    <desc lang="zh">双城记</desc>
+  </programme>
+<programme start="20260822050200 +0000" stop="20260822055400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">未来中国</title>
+    <title lang="en">未来中国</title>
+    <desc lang="zh">未来中国</desc>
+  </programme>
+<programme start="20260822055400 +0000" stop="20260822070000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260822070000 +0000" stop="20260822081000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">因Ai相约</title>
+    <title lang="en">因Ai相约</title>
+    <desc lang="zh">因Ai相约</desc>
+  </programme>
+<programme start="20260822081000 +0000" stop="20260822091000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">妈妈咪呀</title>
+    <title lang="en">妈妈咪呀</title>
+    <desc lang="zh">妈妈咪呀</desc>
+  </programme>
+<programme start="20260822091000 +0000" stop="20260822100000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">下一站</title>
+    <title lang="en">下一站</title>
+    <desc lang="zh">下一站</desc>
+  </programme>
+<programme start="20260822100000 +0000" stop="20260822105800 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新闻</title>
+    <title lang="en">东方新闻</title>
+    <desc lang="zh">东方新闻</desc>
+  </programme>
+<programme start="20260822105800 +0000" stop="20260822120400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260822120400 +0000" stop="20260822125600 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">未来中国</title>
+    <title lang="en">未来中国</title>
+    <desc lang="zh">未来中国</desc>
+  </programme>
+<programme start="20260822125600 +0000" stop="20260822140200 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">加油！小店</title>
+    <title lang="en">加油！小店</title>
+    <desc lang="zh">加油！小店</desc>
+  </programme>
+<programme start="20260822140200 +0000" stop="20260822151400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">因Ai相约</title>
+    <title lang="en">因Ai相约</title>
+    <desc lang="zh">因Ai相约</desc>
+  </programme>
+<programme start="20260822151400 +0000" stop="20260822162000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
   </programme>
 <programme start="20260821163000 +0000" stop="20260821173000 +0000" channel="singtel.dramachannel">
     <title lang="en">CURHATAN ORANG DALAM 2</title>
@@ -35514,6 +36059,11 @@
     <title lang="zh">我们仨</title>
     <title lang="en">我们仨</title>
     <desc lang="zh">我们仨</desc>
+  </programme>
+<programme start="20260821153500 +0000" stop="20260821161500 +0000" channel="singtel.julecool">
+    <title lang="zh">淮水竹亭</title>
+    <title lang="en">Love in Pavilion</title>
+    <desc lang="zh">淮水竹亭是狐妖小红娘的第二部曲，讲述了在人妖势不两立的局势下，两大家族东方家和王权家的掌舵人东方淮竹和王权弘业为了重振一气盟，共同努力安定局势的故事The second installment of the popular Fox Spirit Matchmaker series  Love in Pavilion depicts the story of Dongfang Huaizhu and Wangquan Hongye, leaders of the two major families, Dongfang and Wangquan. In a time when humans and demons are in conflict, they work together to stabilize the situation to revive the Unity Alliance. On the seventh day of the seventh month, at the Bamboo Pavilion by the Huai River, th...</desc>
   </programme>
 <programme start="20260821161500 +0000" stop="20260821170000 +0000" channel="singtel.julecool">
     <title lang="zh">淮水竹亭</title>
@@ -37623,36 +38173,36 @@
     <desc lang="en">Someone, Someday</desc>
   </programme>
 <programme start="20260821173500 +0000" stop="20260821181500 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">INCOGNITO</title>
-    <desc lang="en">INCOGNITO</desc>
+    <title lang="en">Incognito</title>
+    <desc lang="en">Incognito</desc>
   </programme>
 <programme start="20260821181500 +0000" stop="20260821185000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">The Iron Heart</title>
-    <desc lang="en">The Iron Heart</desc>
+    <title lang="en">Iron Heart </title>
+    <desc lang="en">Iron Heart </desc>
   </programme>
 <programme start="20260821185000 +0000" stop="20260821193000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">LINLANG</title>
-    <desc lang="en">LINLANG</desc>
+    <title lang="en">Linlang </title>
+    <desc lang="en">Linlang </desc>
   </programme>
 <programme start="20260821193000 +0000" stop="20260821200000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">Are You G? With MJ Felipe</title>
-    <desc lang="en">Are You G? With MJ Felipe</desc>
+    <title lang="en">Are You G? With MJ Felipe S2</title>
+    <desc lang="en">Are You G? With MJ Felipe S2</desc>
   </programme>
 <programme start="20260821200000 +0000" stop="20260821213000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">TV PATROL GLOBAL EDITION</title>
-    <desc lang="en">TV PATROL GLOBAL EDITION</desc>
+    <title lang="en">TV Patrol Weekday Global Edition</title>
+    <desc lang="en">TV Patrol Weekday Global Edition</desc>
   </programme>
 <programme start="20260821213000 +0000" stop="20260821223000 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">TABING ILOG</title>
     <desc lang="en">TABING ILOG</desc>
   </programme>
 <programme start="20260821223000 +0000" stop="20260821233000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">MAALAALA MO KAYA</title>
-    <desc lang="en">MAALAALA MO KAYA</desc>
+    <title lang="en">Maalaala Mo Kaya </title>
+    <desc lang="en">Maalaala Mo Kaya </desc>
   </programme>
 <programme start="20260821233000 +0000" stop="20260822000000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">MY PUHUNAN: KAYA MO!</title>
-    <desc lang="en">MY PUHUNAN: KAYA MO!</desc>
+    <title lang="en">My Puhunan: Kaya Mo! </title>
+    <desc lang="en">My Puhunan: Kaya Mo! </desc>
   </programme>
 <programme start="20260822000000 +0000" stop="20260822003000 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">WOW</title>
@@ -37667,8 +38217,8 @@
     <desc lang="en">TULONG KO, PASA MO</desc>
   </programme>
 <programme start="20260822020000 +0000" stop="20260822023000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">ANO NA, BEV S6</title>
-    <desc lang="en">ANO NA, BEV S6</desc>
+    <title lang="en">Ano Na Bev S6</title>
+    <desc lang="en">Ano Na Bev S6</desc>
   </programme>
 <programme start="20260822023000 +0000" stop="20260822030000 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">KAPAMILYA DAILY MASS</title>
@@ -37679,20 +38229,20 @@
     <desc lang="en">DARNA</desc>
   </programme>
 <programme start="20260822040000 +0000" stop="20260822063000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">IT&apos;S SHOWTIME SATURDAY</title>
-    <desc lang="en">IT&apos;S SHOWTIME SATURDAY</desc>
+    <title lang="en">IT&apos;S SHOWTIME</title>
+    <desc lang="en">IT&apos;S SHOWTIME</desc>
   </programme>
 <programme start="20260822063000 +0000" stop="20260822070500 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">Wrizzards: Underground Uprising</title>
-    <desc lang="en">Wrizzards: Underground Uprising</desc>
+    <title lang="en">Wrizzards: Underground Uprising </title>
+    <desc lang="en">Wrizzards: Underground Uprising </desc>
   </programme>
 <programme start="20260822070500 +0000" stop="20260822073500 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">Pamilya Talk With Tita Jing S7</title>
     <desc lang="en">Pamilya Talk With Tita Jing S7</desc>
   </programme>
 <programme start="20260822073500 +0000" stop="20260822083500 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">TULONG KO, PASA MO</title>
-    <desc lang="en">TULONG KO, PASA MO</desc>
+    <title lang="en">Tulong Ko, Pasa Mo</title>
+    <desc lang="en">Tulong Ko, Pasa Mo</desc>
   </programme>
 <programme start="20260822083500 +0000" stop="20260822091000 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">Home Away From Home S6</title>
@@ -37703,8 +38253,8 @@
     <desc lang="en">Juan Conversations with Rose Eclarinal S4</desc>
   </programme>
 <programme start="20260822094500 +0000" stop="20260822104500 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">TV PATROL SABADO</title>
-    <desc lang="en">TV PATROL SABADO</desc>
+    <title lang="en">TV Patrol Sabado Live</title>
+    <desc lang="en">TV Patrol Sabado Live</desc>
   </programme>
 <programme start="20260822104500 +0000" stop="20260822113000 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">Ibang Level &apos;To</title>
@@ -37715,8 +38265,8 @@
     <desc lang="en">KAPAMILYA DEAL OR NO DEAL</desc>
   </programme>
 <programme start="20260822123000 +0000" stop="20260822134500 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">EVERYBODY SING!</title>
-    <desc lang="en">EVERYBODY SING!</desc>
+    <title lang="en">Everybody Sing</title>
+    <desc lang="en">Everybody Sing</desc>
   </programme>
 <programme start="20260822134500 +0000" stop="20260822145500 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">The Crossings: Finding Our Way Home Through Stories</title>
@@ -37727,8 +38277,8 @@
     <desc lang="en">The B Side S2</desc>
   </programme>
 <programme start="20260822154500 +0000" stop="20260822173000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">IT&apos;S SHOWTIME SATURDAY</title>
-    <desc lang="en">IT&apos;S SHOWTIME SATURDAY</desc>
+    <title lang="en">It&apos;s Showtime </title>
+    <desc lang="en">It&apos;s Showtime </desc>
   </programme>
 <programme start="20260821160000 +0000" stop="20260821170000 +0000" channel="singtel.timesnow">
     <title lang="en">NEWS NOW OVERNIGHT</title>
@@ -38274,19 +38824,23 @@
     <title lang="en">The Legend of Kitchen Soldier</title>
     <desc lang="en">Instead of a rifle, he grabs a kitchen knife! Private Kang Seong-jae uses a mysterious gaming quest system to transform into a legendary military cook soldier.</desc>
   </programme>
-<programme start="20260822030000 +0000" stop="20260822045000 +0000" channel="singtel.tvnmalay">
+<programme start="20260822030000 +0000" stop="20260822044500 +0000" channel="singtel.tvnmalay">
     <title lang="en">Space Rice Cake</title>
     <desc lang="en">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
   </programme>
-<programme start="20260822045000 +0000" stop="20260822064000 +0000" channel="singtel.tvnmalay">
+<programme start="20260822044500 +0000" stop="20260822061500 +0000" channel="singtel.tvnmalay">
     <title lang="en">Space Rice Cake</title>
     <desc lang="en">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
   </programme>
-<programme start="20260822064000 +0000" stop="20260822080000 +0000" channel="singtel.tvnmalay">
+<programme start="20260822061500 +0000" stop="20260822073500 +0000" channel="singtel.tvnmalay">
     <title lang="en">Mr. Eo&apos;s Food World Tour</title>
     <desc lang="en">Ryu Soo-young, Yoon Kyung-ho and Kihyun set out into the unknown for new recipes, cooking up one-of-a-kind dishes along the way.</desc>
   </programme>
-<programme start="20260822080000 +0000" stop="20260822082000 +0000" channel="singtel.tvnmalay">
+<programme start="20260822073500 +0000" stop="20260822080500 +0000" channel="singtel.tvnmalay">
+    <title lang="en">Chansung&apos;s Cooking</title>
+    <desc lang="en">2PM&apos;s Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
+  </programme>
+<programme start="20260822080500 +0000" stop="20260822082000 +0000" channel="singtel.tvnmalay">
     <title lang="en">You Can Cook With Sam Kim</title>
     <desc lang="en">Star chef Sam Kim will teach you how to make all kinds of delicious dishes  from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
   </programme>
@@ -38302,11 +38856,11 @@
     <title lang="en">Dear X</title>
     <desc lang="en">&lt;Dear X&gt; follows Baek Ah-jin, a top actress who leverages her beauty and popularity to further her career through manipulation. She harbors a lot of grudges behind her somewhat good-natured demeanor.</desc>
   </programme>
-<programme start="20260822131500 +0000" stop="20260822152500 +0000" channel="singtel.tvnmalay">
+<programme start="20260822131500 +0000" stop="20260822151500 +0000" channel="singtel.tvnmalay">
     <title lang="en">Fresh Off the Sea 3</title>
     <desc lang="en">The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
   </programme>
-<programme start="20260822152500 +0000" stop="20260822171500 +0000" channel="singtel.tvnmalay">
+<programme start="20260822151500 +0000" stop="20260822164000 +0000" channel="singtel.tvnmalay">
     <title lang="en">Space Rice Cake</title>
     <desc lang="en">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
   </programme>
@@ -38355,22 +38909,27 @@
     <title lang="en">The Legend of Kitchen Soldier</title>
     <desc lang="zh">拋下步槍拿起菜刀！二等兵姜聖宰利用神祕的遊戲任務系統，在軍中蛻變成傳奇的伙房兵</desc>
   </programme>
-<programme start="20260822030000 +0000" stop="20260822045000 +0000" channel="singtel.tvnmandarin">
+<programme start="20260822030000 +0000" stop="20260822044500 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">宇宙年糕店</title>
     <title lang="en">Space Rice Cake</title>
     <desc lang="zh">蹦蹦地球娛樂室的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力</desc>
   </programme>
-<programme start="20260822045000 +0000" stop="20260822064000 +0000" channel="singtel.tvnmandarin">
+<programme start="20260822044500 +0000" stop="20260822061500 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">宇宙年糕店</title>
     <title lang="en">Space Rice Cake</title>
     <desc lang="zh">蹦蹦地球娛樂室的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力</desc>
   </programme>
-<programme start="20260822064000 +0000" stop="20260822080000 +0000" channel="singtel.tvnmandarin">
+<programme start="20260822061500 +0000" stop="20260822073500 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">柳先生的美食遊學團</title>
     <title lang="en">Mr. Eo&apos;s Food World Tour</title>
     <desc lang="zh">柳秀榮尹敬浩與基賢走遍世界各地品嚐在地美食並挑戰完美重現獨特風味</desc>
   </programme>
-<programme start="20260822080000 +0000" stop="20260822082000 +0000" channel="singtel.tvnmandarin">
+<programme start="20260822073500 +0000" stop="20260822080500 +0000" channel="singtel.tvnmandarin">
+    <title lang="zh">燦盛這料理</title>
+    <title lang="en">Chansung&apos;s Cooking</title>
+    <desc lang="zh">2PM燦盛將帶你探索不同餐廳嚐遍人氣料理，並以創意方式把食譜重新演繹！</desc>
+  </programme>
+<programme start="20260822080500 +0000" stop="20260822082000 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">Sam Kim名廚煮意</title>
     <title lang="en">You Can Cook With Sam Kim</title>
     <desc lang="zh">從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
@@ -38390,12 +38949,12 @@
     <title lang="en">Dear X</title>
     <desc lang="zh">&lt;親愛的X&gt;講述為了生存而戴上假面的女人與試圖拯救她的男人之間，殘酷而美麗的驚悚愛情故事</desc>
   </programme>
-<programme start="20260822131500 +0000" stop="20260822152500 +0000" channel="singtel.tvnmandarin">
+<programme start="20260822131500 +0000" stop="20260822151500 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">姐姐們的產地直送3</title>
     <title lang="en">Fresh Off the Sea 3</title>
     <desc lang="zh">成員們前往新的地點體驗漁村生活，透過海邊工作烹飪當季食材料理，記錄大家一同勞動與日常互動的溫暖過程</desc>
   </programme>
-<programme start="20260822152500 +0000" stop="20260822171500 +0000" channel="singtel.tvnmandarin">
+<programme start="20260822151500 +0000" stop="20260822164000 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">宇宙年糕店</title>
     <title lang="en">Space Rice Cake</title>
     <desc lang="zh">蹦蹦地球娛樂室的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力</desc>
@@ -40375,13 +40934,21 @@
     <title lang="en">Famous Foodies S3</title>
     <desc lang="en">Famous Foodies tells you about what &amp; where the celebrities eat, from healthy lifestyles to haute cuisine.</desc>
   </programme>
-<programme start="20260823080000 +0000" stop="20260823111500 +0000" channel="singtel.ch5">
+<programme start="20260823080000 +0000" stop="20260823104500 +0000" channel="singtel.ch5">
     <title lang="en">National Day Parade 2026</title>
     <desc lang="en">NDP 2026 celebrates the nation&apos;s 61st birthday at the National Stadium. Besides showcasing Singapore&apos;s sporting achievements, the parade also pays tribute to the spirit of Singaporeans from all walks of life.</desc>
   </programme>
-<programme start="20260823111500 +0000" stop="20260823133000 +0000" channel="singtel.ch5">
+<programme start="20260823104500 +0000" stop="20260823111500 +0000" channel="singtel.ch5">
+    <title lang="en">National Day Rally 2026</title>
+    <desc lang="en">(Live) Prime Minister Lawrence Wong delivers his National Day Rally Speech, live&apos; from Institute of Technical Education Headquarters. (Malay &amp; Mandarin Speeches - With English subtitles and Sign Language Interpretation)</desc>
+  </programme>
+<programme start="20260823111500 +0000" stop="20260823120000 +0000" channel="singtel.ch5">
     <title lang="en">On The Red Dot</title>
     <desc lang="en">On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+  </programme>
+<programme start="20260823120000 +0000" stop="20260823133000 +0000" channel="singtel.ch5">
+    <title lang="en">National Day Rally 2026</title>
+    <desc lang="en">(Live) Prime Minister Lawrence Wong delivers his National Day Rally Speech, live&apos; from Institute of Technical Education Headquarters. (English Speech - With English subtitles and Sign Language Interpretation)</desc>
   </programme>
 <programme start="20260823133000 +0000" stop="20260823141500 +0000" channel="singtel.ch5">
     <title lang="en">News Tonight</title>
@@ -40513,20 +41080,30 @@
     <title lang="en">国庆庆典 2026</title>
     <desc lang="zh">国庆庆典2026将在国家体育场欢庆新加坡61岁生日 今年的庆典除了展现我国体坛的成就也将向来自各行各业的新加坡人致敬</desc>
   </programme>
-<programme start="20260823101500 +0000" stop="20260823111500 +0000" channel="singtel.ch8">
+<programme start="20260823101500 +0000" stop="20260823104500 +0000" channel="singtel.ch8">
     <title lang="zh">狮城六点半</title>
     <title lang="en">狮城六点半</title>
     <desc lang="zh">(Live) 狮城6点半每日为您提供最全面的本地新闻头条与报道</desc>
+  </programme>
+<programme start="20260823104500 +0000" stop="20260823111500 +0000" channel="singtel.ch8">
+    <title lang="zh">国庆群众大会2026</title>
+    <title lang="en">国庆群众大会2026</title>
+    <desc lang="zh">(Live) 黄循财总理在工艺教育学院总部发表国庆群众大会演讲</desc>
   </programme>
 <programme start="20260823111500 +0000" stop="20260823114500 +0000" channel="singtel.ch8">
     <title lang="zh">稀游记之世界我的舞台</title>
     <title lang="en">稀游记之世界我的舞台</title>
     <desc lang="zh">年纪轻轻的墨士廉已经是奥运奖牌得主稀游记主持人欧菁仙特地前往法国南部耶尔探访这位正在全力迎战世界级赛事的新加坡水翼风筝板好手了解他是如何在速度与优雅之间高压与挑战之中不忘初心地勇往前行</desc>
   </programme>
-<programme start="20260823114500 +0000" stop="20260823133000 +0000" channel="singtel.ch8">
+<programme start="20260823114500 +0000" stop="20260823120000 +0000" channel="singtel.ch8">
     <title lang="zh">古早味侦探 4</title>
     <title lang="en">古早味侦探 4</title>
     <desc lang="zh">美食随着时空的推移往往与最初的版本不同虽说岁月可造就传统与正宗但岁月的剥离却让美食不再是最初的面貌节目以传统的在地味道为基础让主持人进行一次访古溯今的饮食体验再通过一名厨师来重现古早味</desc>
+  </programme>
+<programme start="20260823120000 +0000" stop="20260823133000 +0000" channel="singtel.ch8">
+    <title lang="zh">国庆群众大会2026</title>
+    <title lang="en">国庆群众大会2026</title>
+    <desc lang="zh">(Live) 黄循财总理在工艺教育学院总部发表国庆群众大会演讲</desc>
   </programme>
 <programme start="20260823133000 +0000" stop="20260823134500 +0000" channel="singtel.ch8">
     <title lang="zh">看不见的设计</title>
@@ -40551,7 +41128,7 @@
 <programme start="20260823154500 +0000" stop="20260823161500 +0000" channel="singtel.ch8">
     <title lang="zh">前线追踪</title>
     <title lang="en">前线追踪</title>
-    <desc lang="zh">民情民生民意前线追踪紧跟社会民生步伐追踪调查时事动态探讨新加坡人关心的课题针对问题的核心追根究底</desc>
+    <desc lang="zh">新加坡伴手礼玩出新花样从南洋风味巧克力爆款零食到充满本地文化特色的创意纪念品哪一款最能代表新加坡另外滨海湾花园高达几十米的擎天树如何清洁维护看幕后团队如何结合高空作业和无人机完成任务</desc>
   </programme>
 <programme start="20260822163000 +0000" stop="20260822183000 +0000" channel="singtel.chu">
     <title lang="zh">星厨之战</title>
@@ -40646,20 +41223,30 @@
     <title lang="en">成为饭吧</title>
     <desc lang="zh">(双声道 - 中/韩) 崔淑晶听说郑庆秀只想帮姜俊英掌管公司不愿当继承人和郑庆秀大吵一架 金英信担心郑庆秀难过不敢说自己是被崔淑晶绑架的事实反替崔淑晶圆谎</desc>
   </programme>
-<programme start="20260823095000 +0000" stop="20260823111500 +0000" channel="singtel.chu">
+<programme start="20260823095000 +0000" stop="20260823104500 +0000" channel="singtel.chu">
     <title lang="zh">成为饭吧</title>
     <title lang="en">成为饭吧</title>
     <desc lang="zh">(双声道 - 中/韩) 崔淑晶想让郑庆秀另娶有钱人的女儿, 姜钟权有意撮合郑庆秀和金英信立刻遭崔淑晶反对金英信为了郑庆秀好决心和他分手说了一堆狠话伤他的心但郑庆秀说什么都放不下金英信并向她求婚</desc>
+  </programme>
+<programme start="20260823104500 +0000" stop="20260823111500 +0000" channel="singtel.chu">
+    <title lang="zh">国庆群众大会2026</title>
+    <title lang="en">国庆群众大会2026</title>
+    <desc lang="zh">(Live) 黄循财总理在工艺教育学院总部发表国庆群众大会演讲</desc>
   </programme>
 <programme start="20260823111500 +0000" stop="20260823114500 +0000" channel="singtel.chu">
     <title lang="zh">三吃客</title>
     <title lang="en">三吃客</title>
     <desc lang="zh">螃蟹的美味人人爱螃蟹的煮法也千变万化三吃客将在节目中介绍三道不同的螃蟹料理一道是旅客来到新加坡必吃的国菜辣椒螃蟹还有创新煮法的螃蟹以及软壳蟹包都是让人垂涎三尺的美食他们也到访螃蟹批发店学习怎么分辨公蟹母蟹及认识不同种类的螃蟹</desc>
   </programme>
-<programme start="20260823114500 +0000" stop="20260823133000 +0000" channel="singtel.chu">
+<programme start="20260823114500 +0000" stop="20260823120000 +0000" channel="singtel.chu">
     <title lang="zh">养生有妙方</title>
     <title lang="en">养生有妙方</title>
     <desc lang="zh">养生有妙方以养出美丽人生为主题思想通过科学的演示医学营养学等专家给予的专业解说让观众把简易的养生知识贯彻在日常生活中帮他们走出养生误区为观众打造一档最实用的养生保健节目</desc>
+  </programme>
+<programme start="20260823120000 +0000" stop="20260823133000 +0000" channel="singtel.chu">
+    <title lang="zh">国庆群众大会2026</title>
+    <title lang="en">国庆群众大会2026</title>
+    <desc lang="zh">(Live) 黄循财总理在工艺教育学院总部发表国庆群众大会演讲</desc>
   </programme>
 <programme start="20260823133000 +0000" stop="20260823134500 +0000" channel="singtel.chu">
     <title lang="zh">在地好食材</title>
@@ -41722,6 +42309,116 @@
 <programme start="20260823151500 +0000" stop="20260823161000 +0000" channel="singtel.discoverychannel">
     <title lang="en">Expedition Files (S2)</title>
     <desc lang="en">Josh Gates investigates Dracula&apos;s reign of terror, psychic spying and mind control during the Cold War, and Spartacus: the gladiator that defied Rome.</desc>
+  </programme>
+<programme start="20260822162000 +0000" stop="20260822171100 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">未来中国</title>
+    <title lang="en">未来中国</title>
+    <desc lang="zh">未来中国</desc>
+  </programme>
+<programme start="20260822171100 +0000" stop="20260822181300 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新闻</title>
+    <title lang="en">东方新闻</title>
+    <desc lang="zh">东方新闻</desc>
+  </programme>
+<programme start="20260822181300 +0000" stop="20260822184300 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">家国万里</title>
+    <title lang="en">家国万里</title>
+    <desc lang="zh">家国万里</desc>
+  </programme>
+<programme start="20260822184300 +0000" stop="20260822200800 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">极限挑战</title>
+    <title lang="en">极限挑战</title>
+    <desc lang="zh">极限挑战</desc>
+  </programme>
+<programme start="20260822200800 +0000" stop="20260822212800 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260822212800 +0000" stop="20260822215300 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">下一站</title>
+    <title lang="en">下一站</title>
+    <desc lang="zh">下一站</desc>
+  </programme>
+<programme start="20260822215300 +0000" stop="20260822222000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">中国考古报道</title>
+    <title lang="en">中国考古报道</title>
+    <desc lang="zh">中国考古报道</desc>
+  </programme>
+<programme start="20260822222000 +0000" stop="20260822230000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">双城记</title>
+    <title lang="en">双城记</title>
+    <desc lang="zh">双城记</desc>
+  </programme>
+<programme start="20260822230000 +0000" stop="20260823010000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">看东方</title>
+    <title lang="en">看东方</title>
+    <desc lang="zh">看东方</desc>
+  </programme>
+<programme start="20260823010000 +0000" stop="20260823020900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260823020900 +0000" stop="20260823032400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">开播！情景喜剧</title>
+    <title lang="en">开播！情景喜剧</title>
+    <desc lang="zh">开播！情景喜剧</desc>
+  </programme>
+<programme start="20260823032400 +0000" stop="20260823034900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">爱上海</title>
+    <title lang="en">爱上海</title>
+    <desc lang="zh">爱上海</desc>
+  </programme>
+<programme start="20260823034900 +0000" stop="20260823043000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">环球交叉点</title>
+    <title lang="en">环球交叉点</title>
+    <desc lang="zh">环球交叉点</desc>
+  </programme>
+<programme start="20260823043000 +0000" stop="20260823061400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">未来中国</title>
+    <title lang="en">未来中国</title>
+    <desc lang="zh">未来中国</desc>
+  </programme>
+<programme start="20260823061400 +0000" stop="20260823072300 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260823072300 +0000" stop="20260823084400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">梦想改造家</title>
+    <title lang="en">梦想改造家</title>
+    <desc lang="zh">梦想改造家</desc>
+  </programme>
+<programme start="20260823084400 +0000" stop="20260823100000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">开播！情景喜剧</title>
+    <title lang="en">开播！情景喜剧</title>
+    <desc lang="zh">开播！情景喜剧</desc>
+  </programme>
+<programme start="20260823100000 +0000" stop="20260823105800 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新闻</title>
+    <title lang="en">东方新闻</title>
+    <desc lang="zh">东方新闻</desc>
+  </programme>
+<programme start="20260823105800 +0000" stop="20260823113500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方综艺大赏</title>
+    <title lang="en">东方综艺大赏</title>
+    <desc lang="zh">东方综艺大赏</desc>
+  </programme>
+<programme start="20260823113500 +0000" stop="20260823125100 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">开播！情景喜剧</title>
+    <title lang="en">开播！情景喜剧</title>
+    <desc lang="zh">开播！情景喜剧</desc>
+  </programme>
+<programme start="20260823125100 +0000" stop="20260823134100 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">何以中国</title>
+    <title lang="en">何以中国</title>
+    <desc lang="zh">何以中国</desc>
+  </programme>
+<programme start="20260823134100 +0000" stop="20260823160000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
   </programme>
 <programme start="20260822163000 +0000" stop="20260822173000 +0000" channel="singtel.dramachannel">
     <title lang="en">CURHATAN ORANG DALAM 3</title>
@@ -45068,32 +45765,32 @@
     <desc lang="en">Sayali desires a fairytale romance, but fate intertwines her with Sachin, a complex figure. Will her dreams of a perfect life survive this unexpected connection?</desc>
   </programme>
 <programme start="20260822173000 +0000" stop="20260822180000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">WOW</title>
-    <desc lang="en">WOW</desc>
+    <title lang="en">Wow </title>
+    <desc lang="en">Wow </desc>
   </programme>
 <programme start="20260822180000 +0000" stop="20260822190000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">TV PATROL SABADO</title>
-    <desc lang="en">TV PATROL SABADO</desc>
+    <title lang="en">TV Patrol Sabado </title>
+    <desc lang="en">TV Patrol Sabado </desc>
   </programme>
 <programme start="20260822190000 +0000" stop="20260822200000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">KAPAMILYA DEAL OR NO DEAL</title>
-    <desc lang="en">KAPAMILYA DEAL OR NO DEAL</desc>
+    <title lang="en">Kapamilya Deal Or No Deal</title>
+    <desc lang="en">Kapamilya Deal Or No Deal</desc>
   </programme>
 <programme start="20260822200000 +0000" stop="20260822210000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">EVERYBODY SING!</title>
-    <desc lang="en">EVERYBODY SING!</desc>
+    <title lang="en">Everybody Sing</title>
+    <desc lang="en">Everybody Sing</desc>
   </programme>
 <programme start="20260822210000 +0000" stop="20260822230000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">NIGHT FLICKS</title>
-    <desc lang="en">NIGHT FLICKS</desc>
+    <title lang="en">MERCURY IS MINE</title>
+    <desc lang="en">MERCURY IS MINE</desc>
   </programme>
 <programme start="20260822230000 +0000" stop="20260822233000 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">Pamilya Talk With Tita Jing S7</title>
     <desc lang="en">Pamilya Talk With Tita Jing S7</desc>
   </programme>
 <programme start="20260822233000 +0000" stop="20260823003000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">THE B SIDE</title>
-    <desc lang="en">THE B SIDE</desc>
+    <title lang="en">The B Side </title>
+    <desc lang="en">The B Side </desc>
   </programme>
 <programme start="20260823003000 +0000" stop="20260823010000 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">CITIZEN PINOY</title>
@@ -45108,8 +45805,8 @@
     <desc lang="en">BRO. EDDIE CLASSICS</desc>
   </programme>
 <programme start="20260823023000 +0000" stop="20260823030000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">KAPAMILYA JOURNEYS OF HOPE</title>
-    <desc lang="en">KAPAMILYA JOURNEYS OF HOPE</desc>
+    <title lang="en">Kapamilya Journeys of Hope With Fr. Tito Caluag</title>
+    <desc lang="en">Kapamilya Journeys of Hope With Fr. Tito Caluag</desc>
   </programme>
 <programme start="20260823030000 +0000" stop="20260823040000 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">THE HEALING EUCHARIST</title>
@@ -45120,12 +45817,12 @@
     <desc lang="en">Y Speak 2.0</desc>
   </programme>
 <programme start="20260823050000 +0000" stop="20260823053000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">Home Away From Home S6</title>
-    <desc lang="en">Home Away From Home S6</desc>
+    <title lang="en">Home Away From Home S6 </title>
+    <desc lang="en">Home Away From Home S6 </desc>
   </programme>
 <programme start="20260823053000 +0000" stop="20260823061500 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">Ibang Level &apos;To</title>
-    <desc lang="en">Ibang Level &apos;To</desc>
+    <title lang="en">Ibang Level &apos;To </title>
+    <desc lang="en">Ibang Level &apos;To </desc>
   </programme>
 <programme start="20260823061500 +0000" stop="20260823070000 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">Kuan On One</title>
@@ -45144,8 +45841,8 @@
     <desc lang="en">Are You G? With MJ Felipe S2</desc>
   </programme>
 <programme start="20260823083000 +0000" stop="20260823093000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">TV PATROL LINGGO</title>
-    <desc lang="en">TV PATROL LINGGO</desc>
+    <title lang="en">TV Patrol Linggo Live</title>
+    <desc lang="en">TV Patrol Linggo Live</desc>
   </programme>
 <programme start="20260823093000 +0000" stop="20260823113000 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">ASAP XP</title>
@@ -45156,8 +45853,8 @@
     <desc lang="en">KAPAMILYA DEAL OR NO DEAL</desc>
   </programme>
 <programme start="20260823123000 +0000" stop="20260823134500 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">EVERYBODY SING!</title>
-    <desc lang="en">EVERYBODY SING!</desc>
+    <title lang="en">Everybody Sing</title>
+    <desc lang="en">Everybody Sing</desc>
   </programme>
 <programme start="20260823134500 +0000" stop="20260823141500 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">Wrizzards: Underground Uprising</title>
@@ -45167,9 +45864,9 @@
     <title lang="en">RATED KORINA</title>
     <desc lang="en">RATED KORINA</desc>
   </programme>
-<programme start="20260823151500 +0000" stop="20260823164500 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">Y Speak 2.0</title>
-    <desc lang="en">Y Speak 2.0</desc>
+<programme start="20260823151500 +0000" stop="20260823161500 +0000" channel="singtel.thefilipinochannel">
+    <title lang="en">Y Speak 2.0 </title>
+    <desc lang="en">Y Speak 2.0 </desc>
   </programme>
 <programme start="20260822160000 +0000" stop="20260822170000 +0000" channel="singtel.timesnow">
     <title lang="en">NEWS NOW OVERNIGHT</title>
@@ -45691,35 +46388,47 @@
     <title lang="en">LATE NIGHT VISION</title>
     <desc lang="zh">收看TVBS News，掌握实时新闻动态</desc>
   </programme>
-<programme start="20260822171500 +0000" stop="20260822190500 +0000" channel="singtel.tvnmalay">
+<programme start="20260822164000 +0000" stop="20260822183000 +0000" channel="singtel.tvnmalay">
     <title lang="en">KILL IT: Style Creator Showdown</title>
     <desc lang="en">100 women compete in this high-stakes survival show to become the next global K-fashion icon.</desc>
   </programme>
-<programme start="20260822190500 +0000" stop="20260822222000 +0000" channel="singtel.tvnmalay">
+<programme start="20260822183000 +0000" stop="20260822184500 +0000" channel="singtel.tvnmalay">
+    <title lang="en">You Can Cook With Sam Kim</title>
+    <desc lang="en">Star chef Sam Kim will teach you how to make all kinds of delicious dishes  from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
+  </programme>
+<programme start="20260822184500 +0000" stop="20260822220000 +0000" channel="singtel.tvnmalay">
     <title lang="en">World of Street Woman Fighter</title>
     <desc lang="en">The &lt;Street Woman Fighter&gt; series make a triumphant return on a global stage! 6 dance crews from different countries set to compete in an upgraded match to win the title of International Champion!</desc>
   </programme>
-<programme start="20260822222000 +0000" stop="20260823002000 +0000" channel="singtel.tvnmalay">
+<programme start="20260822220000 +0000" stop="20260822223000 +0000" channel="singtel.tvnmalay">
+    <title lang="en">Chansung&apos;s Cooking</title>
+    <desc lang="en">2PM&apos;s Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
+  </programme>
+<programme start="20260822223000 +0000" stop="20260822225000 +0000" channel="singtel.tvnmalay">
+    <title lang="en">You Can Cook With Sam Kim</title>
+    <desc lang="en">Star chef Sam Kim will teach you how to make all kinds of delicious dishes  from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
+  </programme>
+<programme start="20260822225000 +0000" stop="20260823005000 +0000" channel="singtel.tvnmalay">
     <title lang="en">Sixth Sense: City Tour</title>
     <desc lang="en">The &lt;Sixth Sense&gt; series which promised surprising twists and fun returns with new casting! Get ready to analyse and identity what is real with them!</desc>
   </programme>
-<programme start="20260823002000 +0000" stop="20260823023000 +0000" channel="singtel.tvnmalay">
+<programme start="20260823005000 +0000" stop="20260823030000 +0000" channel="singtel.tvnmalay">
     <title lang="en">Fresh Off the Sea 3</title>
     <desc lang="en">The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
   </programme>
-<programme start="20260823023000 +0000" stop="20260823044000 +0000" channel="singtel.tvnmalay">
+<programme start="20260823030000 +0000" stop="20260823050000 +0000" channel="singtel.tvnmalay">
     <title lang="en">Fresh Off the Sea 3</title>
     <desc lang="en">The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
   </programme>
-<programme start="20260823044000 +0000" stop="20260823060000 +0000" channel="singtel.tvnmalay">
+<programme start="20260823050000 +0000" stop="20260823062000 +0000" channel="singtel.tvnmalay">
     <title lang="en">Mr. Eo&apos;s Food World Tour</title>
     <desc lang="en">Ryu Soo-young, Yoon Kyung-ho and Kihyun set out into the unknown for new recipes, cooking up one-of-a-kind dishes along the way.</desc>
   </programme>
-<programme start="20260823060000 +0000" stop="20260823075000 +0000" channel="singtel.tvnmalay">
+<programme start="20260823062000 +0000" stop="20260823081000 +0000" channel="singtel.tvnmalay">
     <title lang="en">Space Rice Cake</title>
     <desc lang="en">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
   </programme>
-<programme start="20260823075000 +0000" stop="20260823094000 +0000" channel="singtel.tvnmalay">
+<programme start="20260823081000 +0000" stop="20260823094000 +0000" channel="singtel.tvnmalay">
     <title lang="en">Space Rice Cake</title>
     <desc lang="en">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
   </programme>
@@ -45743,42 +46452,57 @@
     <title lang="en">Dear X</title>
     <desc lang="en">&lt;Dear X&gt; follows Baek Ah-jin, a top actress who leverages her beauty and popularity to further her career through manipulation. She harbors a lot of grudges behind her somewhat good-natured demeanor.</desc>
   </programme>
-<programme start="20260822171500 +0000" stop="20260822190500 +0000" channel="singtel.tvnmandarin">
+<programme start="20260822164000 +0000" stop="20260822183000 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">KILL IT：衣決高下</title>
     <title lang="en">KILL IT: Style Creator Showdown</title>
     <desc lang="zh">100位女性參與激烈的時尚生存戰，爭奪成為全球K-fashion新一代的領頭羊</desc>
   </programme>
-<programme start="20260822190500 +0000" stop="20260822222000 +0000" channel="singtel.tvnmandarin">
+<programme start="20260822183000 +0000" stop="20260822184500 +0000" channel="singtel.tvnmandarin">
+    <title lang="zh">Sam Kim名廚煮意</title>
+    <title lang="en">You Can Cook With Sam Kim</title>
+    <desc lang="zh">從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
+  </programme>
+<programme start="20260822184500 +0000" stop="20260822220000 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">街舞女王 - 國際戰</title>
     <title lang="en">World of Street Woman Fighter</title>
     <desc lang="zh">韓國大熱街舞系列載譽歸來！全新賽制將決定6隊來自世界各地的女子舞團中，冠軍寶座花落誰家！</desc>
   </programme>
-<programme start="20260822222000 +0000" stop="20260823002000 +0000" channel="singtel.tvnmandarin">
+<programme start="20260822220000 +0000" stop="20260822223000 +0000" channel="singtel.tvnmandarin">
+    <title lang="zh">燦盛這料理</title>
+    <title lang="en">Chansung&apos;s Cooking</title>
+    <desc lang="zh">2PM燦盛將帶你探索不同餐廳嚐遍人氣料理，並以創意方式把食譜重新演繹！</desc>
+  </programme>
+<programme start="20260822223000 +0000" stop="20260822225000 +0000" channel="singtel.tvnmandarin">
+    <title lang="zh">Sam Kim名廚煮意</title>
+    <title lang="en">You Can Cook With Sam Kim</title>
+    <desc lang="zh">從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
+  </programme>
+<programme start="20260822225000 +0000" stop="20260823005000 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">第六感：趣遊都市</title>
     <title lang="en">Sixth Sense: City Tour</title>
     <desc lang="zh">保證驚喜反轉的＜第六感＞系列以新陣容強勢回歸，準備好和出演者們一起分辨真實與虛假吧！</desc>
   </programme>
-<programme start="20260823002000 +0000" stop="20260823023000 +0000" channel="singtel.tvnmandarin">
+<programme start="20260823005000 +0000" stop="20260823030000 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">姐姐們的產地直送3</title>
     <title lang="en">Fresh Off the Sea 3</title>
     <desc lang="zh">成員們前往新的地點體驗漁村生活，透過海邊工作烹飪當季食材料理，記錄大家一同勞動與日常互動的溫暖過程</desc>
   </programme>
-<programme start="20260823023000 +0000" stop="20260823044000 +0000" channel="singtel.tvnmandarin">
+<programme start="20260823030000 +0000" stop="20260823050000 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">姐姐們的產地直送3</title>
     <title lang="en">Fresh Off the Sea 3</title>
     <desc lang="zh">成員們前往新的地點體驗漁村生活，透過海邊工作烹飪當季食材料理，記錄大家一同勞動與日常互動的溫暖過程</desc>
   </programme>
-<programme start="20260823044000 +0000" stop="20260823060000 +0000" channel="singtel.tvnmandarin">
+<programme start="20260823050000 +0000" stop="20260823062000 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">柳先生的美食遊學團</title>
     <title lang="en">Mr. Eo&apos;s Food World Tour</title>
     <desc lang="zh">柳秀榮尹敬浩與基賢走遍世界各地品嚐在地美食並挑戰完美重現獨特風味</desc>
   </programme>
-<programme start="20260823060000 +0000" stop="20260823075000 +0000" channel="singtel.tvnmandarin">
+<programme start="20260823062000 +0000" stop="20260823081000 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">宇宙年糕店</title>
     <title lang="en">Space Rice Cake</title>
     <desc lang="zh">蹦蹦地球娛樂室的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力</desc>
   </programme>
-<programme start="20260823075000 +0000" stop="20260823094000 +0000" channel="singtel.tvnmandarin">
+<programme start="20260823081000 +0000" stop="20260823094000 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">宇宙年糕店</title>
     <title lang="en">Space Rice Cake</title>
     <desc lang="zh">蹦蹦地球娛樂室的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力</desc>
@@ -47531,7 +48255,7 @@
 <programme start="20260823233500 +0000" stop="20260824000000 +0000" channel="singtel.ch8">
     <title lang="zh">前线追踪</title>
     <title lang="en">前线追踪</title>
-    <desc lang="zh">民情民生民意前线追踪紧跟社会民生步伐追踪调查时事动态探讨新加坡人关心的课题针对问题的核心追根究底</desc>
+    <desc lang="zh">新加坡伴手礼玩出新花样从南洋风味巧克力爆款零食到充满本地文化特色的创意纪念品哪一款最能代表新加坡另外滨海湾花园高达几十米的擎天树如何清洁维护看幕后团队如何结合高空作业和无人机完成任务</desc>
   </programme>
 <programme start="20260824000000 +0000" stop="20260824010000 +0000" channel="singtel.ch8">
     <title lang="zh">青春老鸟</title>
@@ -47551,7 +48275,7 @@
 <programme start="20260824020000 +0000" stop="20260824023000 +0000" channel="singtel.ch8">
     <title lang="zh">焦点</title>
     <title lang="en">焦点</title>
-    <desc lang="zh">焦点追踪国际时事实地报道区域课题以新加坡的视角分析时局发展的前因后果和潜在影响</desc>
+    <desc lang="zh">欧洲移民潮冲击边界也重塑政治版图经济需要移民选民却日益抗拒欧洲如何化解矛盾新加坡三大独特政治制度走过近40年当年的政治考量是否依然成立贾古玛教授带我们重看制度背后的故事与时代考验</desc>
   </programme>
 <programme start="20260824023000 +0000" stop="20260824033000 +0000" channel="singtel.ch8">
     <title lang="zh">金家好媳婦</title>
@@ -48773,6 +49497,144 @@
 <programme start="20260824154500 +0000" stop="20260824164000 +0000" channel="singtel.discoverychannel">
     <title lang="en">Ultimate Shark Dive</title>
     <desc lang="en">From 50 feet above the Caribbean Sea, world-class Red Bull high diver Molly Carlson will step off onto a helicopter skid and attempt a dive.</desc>
+  </programme>
+<programme start="20260823160000 +0000" stop="20260823163600 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">未来中国</title>
+    <title lang="en">未来中国</title>
+    <desc lang="zh">未来中国</desc>
+  </programme>
+<programme start="20260823163600 +0000" stop="20260823173500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新闻</title>
+    <title lang="en">东方新闻</title>
+    <desc lang="zh">东方新闻</desc>
+  </programme>
+<programme start="20260823173500 +0000" stop="20260823184400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260823184400 +0000" stop="20260823200000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">开播！情景喜剧</title>
+    <title lang="en">开播！情景喜剧</title>
+    <desc lang="zh">开播！情景喜剧</desc>
+  </programme>
+<programme start="20260823200000 +0000" stop="20260823213000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">家国万里</title>
+    <title lang="en">家国万里</title>
+    <desc lang="zh">家国万里</desc>
+  </programme>
+<programme start="20260823213000 +0000" stop="20260823215500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">下一站</title>
+    <title lang="en">下一站</title>
+    <desc lang="zh">下一站</desc>
+  </programme>
+<programme start="20260823215500 +0000" stop="20260823222000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">爱上海</title>
+    <title lang="en">爱上海</title>
+    <desc lang="zh">爱上海</desc>
+  </programme>
+<programme start="20260823222000 +0000" stop="20260823230000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">环球交叉点</title>
+    <title lang="en">环球交叉点</title>
+    <desc lang="zh">环球交叉点</desc>
+  </programme>
+<programme start="20260823230000 +0000" stop="20260824010000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">看东方</title>
+    <title lang="en">看东方</title>
+    <desc lang="zh">看东方</desc>
+  </programme>
+<programme start="20260824010000 +0000" stop="20260824020500 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260824020500 +0000" stop="20260824030900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">今晚不加班</title>
+    <title lang="en">今晚不加班</title>
+    <desc lang="zh">今晚不加班</desc>
+  </programme>
+<programme start="20260824030900 +0000" stop="20260824033400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260824033400 +0000" stop="20260824040000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260824040000 +0000" stop="20260824043000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">午间30分</title>
+    <title lang="en">午间30分</title>
+    <desc lang="zh">午间30分</desc>
+  </programme>
+<programme start="20260824043000 +0000" stop="20260824044200 +0000" channel="singtel.dragontvintl">
+    <title lang="en">ShanghaiEye</title>
+    <desc lang="en">ShanghaiEye</desc>
+  </programme>
+<programme start="20260824044200 +0000" stop="20260824062700 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">未来中国</title>
+    <title lang="en">未来中国</title>
+    <desc lang="zh">未来中国</desc>
+  </programme>
+<programme start="20260824062700 +0000" stop="20260824073200 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260824073200 +0000" stop="20260824081900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">今晚不加班</title>
+    <title lang="en">今晚不加班</title>
+    <desc lang="zh">今晚不加班</desc>
+  </programme>
+<programme start="20260824081900 +0000" stop="20260824090900 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">寻味</title>
+    <title lang="en">寻味</title>
+    <desc lang="zh">寻味</desc>
+  </programme>
+<programme start="20260824090900 +0000" stop="20260824093400 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260824093400 +0000" stop="20260824100000 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260824100000 +0000" stop="20260824105800 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新闻</title>
+    <title lang="en">东方新闻</title>
+    <desc lang="zh">东方新闻</desc>
+  </programme>
+<programme start="20260824105800 +0000" stop="20260824111000 +0000" channel="singtel.dragontvintl">
+    <title lang="en">ShanghaiEye</title>
+    <desc lang="en">ShanghaiEye</desc>
+  </programme>
+<programme start="20260824111000 +0000" stop="20260824125700 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">未来中国</title>
+    <title lang="en">未来中国</title>
+    <desc lang="zh">未来中国</desc>
+  </programme>
+<programme start="20260824125700 +0000" stop="20260824140200 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">一路前行</title>
+    <title lang="en">一路前行</title>
+    <desc lang="zh">一路前行</desc>
+  </programme>
+<programme start="20260824140200 +0000" stop="20260824142700 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">东方新娱乐</title>
+    <title lang="en">东方新娱乐</title>
+    <desc lang="zh">东方新娱乐</desc>
+  </programme>
+<programme start="20260824142700 +0000" stop="20260824145200 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">名医话养生</title>
+    <title lang="en">名医话养生</title>
+    <desc lang="zh">名医话养生</desc>
+  </programme>
+<programme start="20260824145200 +0000" stop="20260824165200 +0000" channel="singtel.dragontvintl">
+    <title lang="zh">今晚不加班</title>
+    <title lang="en">今晚不加班</title>
+    <desc lang="zh">今晚不加班</desc>
   </programme>
 <programme start="20260823163000 +0000" stop="20260823173000 +0000" channel="singtel.dramachannel">
     <title lang="en">CURHATAN ORANG DALAM 4</title>
@@ -51966,29 +52828,33 @@
     <title lang="en">Udne Ki Aasha</title>
     <desc lang="en">Sayali desires a fairytale romance, but fate intertwines her with Sachin, a complex figure. Will her dreams of a perfect life survive this unexpected connection?</desc>
   </programme>
+<programme start="20260823161500 +0000" stop="20260823164500 +0000" channel="singtel.thefilipinochannel">
+    <title lang="en">Kuan On One</title>
+    <desc lang="en">Kuan On One</desc>
+  </programme>
 <programme start="20260823164500 +0000" stop="20260823173000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">TV PATROL LINGGO</title>
-    <desc lang="en">TV PATROL LINGGO</desc>
+    <title lang="en">TV Patrol Linggo </title>
+    <desc lang="en">TV Patrol Linggo </desc>
   </programme>
 <programme start="20260823173000 +0000" stop="20260823183000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">KAPAMILYA DEAL OR NO DEAL</title>
-    <desc lang="en">KAPAMILYA DEAL OR NO DEAL</desc>
+    <title lang="en">Kapamilya Deal Or No Deal</title>
+    <desc lang="en">Kapamilya Deal Or No Deal</desc>
   </programme>
 <programme start="20260823183000 +0000" stop="20260823193000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">EVERYBODY SING!</title>
-    <desc lang="en">EVERYBODY SING!</desc>
+    <title lang="en">Everybody Sing</title>
+    <desc lang="en">Everybody Sing</desc>
   </programme>
 <programme start="20260823193000 +0000" stop="20260823210000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">ASAP XP</title>
-    <desc lang="en">ASAP XP</desc>
+    <title lang="en">ASAP XP </title>
+    <desc lang="en">ASAP XP </desc>
   </programme>
 <programme start="20260823210000 +0000" stop="20260823220000 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">MAALAALA MO KAYA</title>
     <desc lang="en">MAALAALA MO KAYA</desc>
   </programme>
 <programme start="20260823220000 +0000" stop="20260823230000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">RATED KORINA</title>
-    <desc lang="en">RATED KORINA</desc>
+    <title lang="en">Rated Korina</title>
+    <desc lang="en">Rated Korina</desc>
   </programme>
 <programme start="20260823230000 +0000" stop="20260823233000 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">Chef RV&apos;s Kitchen S21</title>
@@ -52011,12 +52877,12 @@
     <desc lang="en">2 GOOD 2 BE TRUE</desc>
   </programme>
 <programme start="20260824013000 +0000" stop="20260824020000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">GOIN&apos; BULILIT</title>
-    <desc lang="en">GOIN&apos; BULILIT</desc>
+    <title lang="en">GOIN&apos; BULILIT S15</title>
+    <desc lang="en">GOIN&apos; BULILIT S15</desc>
   </programme>
 <programme start="20260824020000 +0000" stop="20260824023000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">TFC KIDS&apos; ZONE</title>
-    <desc lang="en">TFC KIDS&apos; ZONE</desc>
+    <title lang="en">TFC Kids Zone</title>
+    <desc lang="en">TFC Kids Zone</desc>
   </programme>
 <programme start="20260824023000 +0000" stop="20260824030000 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">KAPAMILYA DAILY MASS</title>
@@ -52027,8 +52893,8 @@
     <desc lang="en">GISING PILIPINAS</desc>
   </programme>
 <programme start="20260824040000 +0000" stop="20260824063000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">IT&apos;S SHOWTIME</title>
-    <desc lang="en">IT&apos;S SHOWTIME</desc>
+    <title lang="en">It&apos;s Showtime LIVE</title>
+    <desc lang="en">It&apos;s Showtime LIVE</desc>
   </programme>
 <programme start="20260824063000 +0000" stop="20260824070000 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">Radyo Patrol Balita</title>
@@ -52043,24 +52909,24 @@
     <desc lang="en">Oh My Gan!</desc>
   </programme>
 <programme start="20260824083000 +0000" stop="20260824090000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">TFC KID&apos;S ZONE</title>
-    <desc lang="en">TFC KID&apos;S ZONE</desc>
+    <title lang="en">TFC Kids Zone </title>
+    <desc lang="en">TFC Kids Zone </desc>
   </programme>
 <programme start="20260824090000 +0000" stop="20260824093000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">GOIN&apos; BULILIT</title>
-    <desc lang="en">GOIN&apos; BULILIT</desc>
+    <title lang="en">Goin&apos; Bulilit S15</title>
+    <desc lang="en">Goin&apos; Bulilit S15</desc>
   </programme>
 <programme start="20260824093000 +0000" stop="20260824094500 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">TV PATROL EXPRESS</title>
-    <desc lang="en">TV PATROL EXPRESS</desc>
+    <title lang="en">TV Patrol Express Live</title>
+    <desc lang="en">TV Patrol Express Live</desc>
   </programme>
 <programme start="20260824094500 +0000" stop="20260824103000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">2 GOOD 2 BE TRUE</title>
-    <desc lang="en">2 GOOD 2 BE TRUE</desc>
+    <title lang="en">2 Good 2 Be True</title>
+    <desc lang="en">2 Good 2 Be True</desc>
   </programme>
 <programme start="20260824103000 +0000" stop="20260824120000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">TV PATROL</title>
-    <desc lang="en">TV PATROL</desc>
+    <title lang="en">TV Patrol Live</title>
+    <desc lang="en">TV Patrol Live</desc>
   </programme>
 <programme start="20260824120000 +0000" stop="20260824124500 +0000" channel="singtel.thefilipinochannel">
     <title lang="en">Sigabo</title>
@@ -52071,12 +52937,12 @@
     <desc lang="en">Someone, Someday</desc>
   </programme>
 <programme start="20260824133000 +0000" stop="20260824140000 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">Oh My Gan!</title>
-    <desc lang="en">Oh My Gan!</desc>
+    <title lang="en">Oh My Gan! </title>
+    <desc lang="en">Oh My Gan! </desc>
   </programme>
 <programme start="20260824140000 +0000" stop="20260824161500 +0000" channel="singtel.thefilipinochannel">
-    <title lang="en">IT&apos;S SHOWTIME</title>
-    <desc lang="en">IT&apos;S SHOWTIME</desc>
+    <title lang="en">It&apos;s Showtime </title>
+    <desc lang="en">It&apos;s Showtime </desc>
   </programme>
 <programme start="20260823160000 +0000" stop="20260823170000 +0000" channel="singtel.timesnow">
     <title lang="en">INDIA UPFRONT</title>
@@ -52610,15 +53476,15 @@
     <title lang="en">Mr. Eo&apos;s Food World Tour</title>
     <desc lang="en">Ryu Soo-young, Yoon Kyung-ho and Kihyun set out into the unknown for new recipes, cooking up one-of-a-kind dishes along the way.</desc>
   </programme>
-<programme start="20260824083500 +0000" stop="20260824100000 +0000" channel="singtel.tvnmalay">
+<programme start="20260824083500 +0000" stop="20260824095500 +0000" channel="singtel.tvnmalay">
     <title lang="en">Mr. Eo&apos;s Food World Tour</title>
     <desc lang="en">Ryu Soo-young, Yoon Kyung-ho and Kihyun set out into the unknown for new recipes, cooking up one-of-a-kind dishes along the way.</desc>
   </programme>
-<programme start="20260824100000 +0000" stop="20260824103000 +0000" channel="singtel.tvnmalay">
-    <title lang="en">Chansung&apos;s Cooking</title>
-    <desc lang="en">2PM&apos;s Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
+<programme start="20260824095500 +0000" stop="20260824105000 +0000" channel="singtel.tvnmalay">
+    <title lang="en">Walking Through The Village</title>
+    <desc lang="en">Actor Gu Bon-seung shows the warmth and purity of life in the village along the river, and presents how new history was made and became one&apos;s memory.</desc>
   </programme>
-<programme start="20260824103000 +0000" stop="20260824122000 +0000" channel="singtel.tvnmalay">
+<programme start="20260824105000 +0000" stop="20260824122000 +0000" channel="singtel.tvnmalay">
     <title lang="en">Space Rice Cake</title>
     <desc lang="en">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
   </programme>
@@ -52689,17 +53555,17 @@
     <title lang="en">Mr. Eo&apos;s Food World Tour</title>
     <desc lang="zh">柳秀榮尹敬浩與基賢走遍世界各地品嚐在地美食並挑戰完美重現獨特風味</desc>
   </programme>
-<programme start="20260824083500 +0000" stop="20260824100000 +0000" channel="singtel.tvnmandarin">
+<programme start="20260824083500 +0000" stop="20260824095500 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">柳先生的美食遊學團</title>
     <title lang="en">Mr. Eo&apos;s Food World Tour</title>
     <desc lang="zh">柳秀榮尹敬浩與基賢走遍世界各地品嚐在地美食並挑戰完美重現獨特風味</desc>
   </programme>
-<programme start="20260824100000 +0000" stop="20260824103000 +0000" channel="singtel.tvnmandarin">
-    <title lang="zh">燦盛這料理</title>
-    <title lang="en">Chansung&apos;s Cooking</title>
-    <desc lang="zh">2PM燦盛將帶你探索不同餐廳嚐遍人氣料理，並以創意方式把食譜重新演繹！</desc>
+<programme start="20260824095500 +0000" stop="20260824105000 +0000" channel="singtel.tvnmandarin">
+    <title lang="zh">慢遊韓國鄉村</title>
+    <title lang="en">Walking Through The Village</title>
+    <desc lang="zh">演員具本承帶大家慢遊江畔的韓國鄉村，感受當地的溫暖和純淨，並展示沿江村莊的歷史與風土人情 </desc>
   </programme>
-<programme start="20260824103000 +0000" stop="20260824122000 +0000" channel="singtel.tvnmandarin">
+<programme start="20260824105000 +0000" stop="20260824122000 +0000" channel="singtel.tvnmandarin">
     <title lang="zh">宇宙年糕店</title>
     <title lang="en">Space Rice Cake</title>
     <desc lang="zh">蹦蹦地球娛樂室的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力</desc>
@@ -53639,25 +54505,25 @@
     <title lang="en">(Live) Asia Now</title>
     <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
   </programme>
-<programme start="20260823103000 +0000" stop="20260823110000 +0000" channel="mewatch.cna">
-    <title lang="en">Talking Point - EP 14</title>
-    <desc lang="en">8 months ago, Australia&apos;s under-16 social media ban began. But many teens are still online. Just why is the ban struggling to keep teens off?</desc>
+<programme start="20260823103000 +0000" stop="20260823111500 +0000" channel="mewatch.cna">
+    <title lang="en">(Live) National Day Rally 2026 - EP 1</title>
+    <desc lang="en">Prime Minister Lawrence Wong delivers his National Day Rally Speech, live from Institute of Technical Education Headquarters.(Malay &amp; Mandarin Speeches - With English subtitles)</desc>
   </programme>
-<programme start="20260823110000 +0000" stop="20260823120000 +0000" channel="mewatch.cna">
-    <title lang="en">(Live) Headline News</title>
-    <desc lang="en">The latest top stories of the hour.</desc>
+<programme start="20260823111500 +0000" stop="20260823120000 +0000" channel="mewatch.cna">
+    <title lang="en">(Live) Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
   </programme>
-<programme start="20260823120000 +0000" stop="20260823130000 +0000" channel="mewatch.cna">
-    <title lang="en">(Live) Asia Tonight</title>
-    <desc lang="en">News and views from around the region, delivered with uniquely Asian perspectives.</desc>
+<programme start="20260823120000 +0000" stop="20260823133000 +0000" channel="mewatch.cna">
+    <title lang="en">(Live) National Day Rally 2026 - EP 2</title>
+    <desc lang="en">Prime Minister Lawrence Wong delivers his National Day Rally Speech, live from Institute of Technical Education Headquarters. (English Speech - With English subtitles)</desc>
   </programme>
-<programme start="20260823130000 +0000" stop="20260823133000 +0000" channel="mewatch.cna">
-    <title lang="en">(Live) Headline News</title>
-    <desc lang="en">The latest top stories of the hour.</desc>
+<programme start="20260823133000 +0000" stop="20260823134500 +0000" channel="mewatch.cna">
+    <title lang="en">Singapore Hour - Around The City S2 - EP 8</title>
+    <desc lang="en">The HDB void deck is more than just an empty space - its where Singaporean life unfolds. Mural artist Biddy Low explores how people creatively reinvent this heartland icon, using imagination and heart to bring the community together.</desc>
   </programme>
-<programme start="20260823133000 +0000" stop="20260823140000 +0000" channel="mewatch.cna">
-    <title lang="en">On The Red Dot - EP 14</title>
-    <desc lang="en">On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+<programme start="20260823134500 +0000" stop="20260823140000 +0000" channel="mewatch.cna">
+    <title lang="en">Singapore Hour - EP 9</title>
+    <desc lang="en">We explore Singapore&apos;s invisible lines: view corridors, temples, hills and rivers that shape growth and preserve memory, linking old shorelines and landmarks to modern urban design.</desc>
   </programme>
 <programme start="20260823140000 +0000" stop="20260823150000 +0000" channel="mewatch.cna">
     <title lang="en">(Live) Singapore Tonight</title>
@@ -53683,13 +54549,9 @@
     <title lang="en">Insight - EP 14</title>
     <desc lang="en">Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
   </programme>
-<programme start="20260823180000 +0000" stop="20260823183000 +0000" channel="mewatch.cna">
+<programme start="20260823180000 +0000" stop="20260823190000 +0000" channel="mewatch.cna">
     <title lang="en">Singapore Tonight</title>
     <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
-  </programme>
-<programme start="20260823183000 +0000" stop="20260823190000 +0000" channel="mewatch.cna">
-    <title lang="en">Talking Point - EP 22</title>
-    <desc lang="en">Ready to heat meals are proliferating in recent years with growing variety and accessibility. Should we consume with caution? Host Steven Chia is on a mission to find out.</desc>
   </programme>
 <programme start="20260823190000 +0000" stop="20260823193000 +0000" channel="mewatch.cna">
     <title lang="en">Money Mind - EP 17</title>
@@ -53711,13 +54573,9 @@
     <title lang="en">Legend In A Day</title>
     <desc lang="en">In a world where tennis was not meant for him, Lim Bong Soo broke through. From stunning victories over colonial elites to a wartime fate few survived, his life traces a powerful and unfinished story of ambition, survival and forgotten legacy.</desc>
   </programme>
-<programme start="20260823220000 +0000" stop="20260823223000 +0000" channel="mewatch.cna">
+<programme start="20260823220000 +0000" stop="20260823230000 +0000" channel="mewatch.cna">
     <title lang="en">Singapore Tonight</title>
     <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
-  </programme>
-<programme start="20260823223000 +0000" stop="20260823230000 +0000" channel="mewatch.cna">
-    <title lang="en">Talking Point - EP 22</title>
-    <desc lang="en">Ready to heat meals are proliferating in recent years with growing variety and accessibility. Should we consume with caution? Host Steven Chia is on a mission to find out.</desc>
   </programme>
 <programme start="20260823230000 +0000" stop="20260824020000 +0000" channel="mewatch.cna">
     <title lang="en">(Live) Asia First</title>
