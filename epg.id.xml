@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260817225040 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="ID-EPG-Merger">
+<tv date="20260818115408 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="ID-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -4124,356 +4124,371 @@
 <programme start="20260817173000 +0000" stop="20260817184500 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Utama</title>
   </programme>
-<programme start="20260817184500 +0000" stop="20260817200000 +0000" channel="cubmu.sctv">
+<programme start="20260817184500 +0000" stop="20260817191100 +0000" channel="cubmu.sctv">
     <title lang="id">Sinema Malam</title>
   </programme>
-<programme start="20260817200000 +0000" stop="20260817210500 +0000" channel="cubmu.sctv">
+<programme start="20260817191100 +0000" stop="20260817194200 +0000" channel="cubmu.sctv">
+    <title lang="id">Solusi</title>
+  </programme>
+<programme start="20260817194200 +0000" stop="20260817200000 +0000" channel="cubmu.sctv">
     <title lang="id">Sinema Dini Hari</title>
+  </programme>
+<programme start="20260817200000 +0000" stop="20260817210000 +0000" channel="cubmu.sctv">
+    <title lang="id">Sinema Dini Hari</title>
+  </programme>
+<programme start="20260817210000 +0000" stop="20260817210500 +0000" channel="cubmu.sctv">
+    <title lang="id">Barakallah</title>
   </programme>
 <programme start="20260817210500 +0000" stop="20260817213000 +0000" channel="cubmu.sctv">
     <title lang="id">Barakallah</title>
   </programme>
 <programme start="20260817213000 +0000" stop="20260817220000 +0000" channel="cubmu.sctv">
-    <title lang="id">Buser</title>
+    <title lang="id">Liputan 6 Pagi</title>
   </programme>
 <programme start="20260817220000 +0000" stop="20260817230000 +0000" channel="cubmu.sctv">
     <title lang="id">Liputan 6 Pagi</title>
   </programme>
 <programme start="20260817230000 +0000" stop="20260818000000 +0000" channel="cubmu.sctv">
-    <title lang="id">Halo Selebriti</title>
+    <title lang="id">Hot Shot</title>
   </programme>
-<programme start="20260818000000 +0000" stop="20260818013000 +0000" channel="cubmu.sctv">
+<programme start="20260818000000 +0000" stop="20260818003000 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Pagi</title>
   </programme>
-<programme start="20260818013000 +0000" stop="20260818030000 +0000" channel="cubmu.sctv">
+<programme start="20260818003000 +0000" stop="20260818013000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
+  </programme>
+<programme start="20260818013000 +0000" stop="20260818023000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
+  </programme>
+<programme start="20260818023000 +0000" stop="20260818043000 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Pagi</title>
   </programme>
-<programme start="20260818030000 +0000" stop="20260818050000 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Pagi</title>
-  </programme>
-<programme start="20260818050000 +0000" stop="20260818053000 +0000" channel="cubmu.sctv">
+<programme start="20260818043000 +0000" stop="20260818050000 +0000" channel="cubmu.sctv">
     <title lang="id">Liputan 6 Siang</title>
   </programme>
-<programme start="20260818053000 +0000" stop="20260818071500 +0000" channel="cubmu.sctv">
+<programme start="20260818050000 +0000" stop="20260818063000 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Siang</title>
   </programme>
-<programme start="20260818071500 +0000" stop="20260818084500 +0000" channel="cubmu.sctv">
+<programme start="20260818063000 +0000" stop="20260818074500 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Siang</title>
   </programme>
-<programme start="20260818084500 +0000" stop="20260818101500 +0000" channel="cubmu.sctv">
-    <title lang="id">Syukurans</title>
+<programme start="20260818074500 +0000" stop="20260818090000 +0000" channel="cubmu.sctv">
+    <title lang="id">FTV Sore</title>
   </programme>
-<programme start="20260818101500 +0000" stop="20260818114500 +0000" channel="cubmu.sctv">
-    <title lang="id">Asmara Gen Z</title>
+<programme start="20260818090000 +0000" stop="20260818100000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
+  </programme>
+<programme start="20260818100000 +0000" stop="20260818114500 +0000" channel="cubmu.sctv">
+    <title lang="id">Asmara Gen Z New Era</title>
   </programme>
 <programme start="20260818114500 +0000" stop="20260818131500 +0000" channel="cubmu.sctv">
-    <title lang="id">Lautan Cinta</title>
+    <title lang="id">Seindah Masa Remaja</title>
   </programme>
-<programme start="20260818131500 +0000" stop="20260818143000 +0000" channel="cubmu.sctv">
+<programme start="20260818131500 +0000" stop="20260818144500 +0000" channel="cubmu.sctv">
     <title lang="id">Wajah Cinta Yang Lain</title>
   </programme>
-<programme start="20260818143000 +0000" stop="20260818160000 +0000" channel="cubmu.sctv">
-    <title lang="id">Sebening Cinta</title>
+<programme start="20260818144500 +0000" stop="20260818160000 +0000" channel="cubmu.sctv">
+    <title lang="id">Biarkan Hati Bicara</title>
   </programme>
-<programme start="20260818160000 +0000" stop="20260818180000 +0000" channel="cubmu.sctv">
-    <title lang="id">Film Layar Lebar</title>
+<programme start="20260818160000 +0000" stop="20260818170000 +0000" channel="cubmu.sctv">
+    <title lang="id">Vidio Original Series</title>
   </programme>
-<programme start="20260818180000 +0000" stop="20260818193000 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Utama</title>
-  </programme>
-<programme start="20260818193000 +0000" stop="20260818210500 +0000" channel="cubmu.sctv">
-    <title lang="id">Sinema Dini Hari</title>
-  </programme>
-<programme start="20260818210500 +0000" stop="20260818213000 +0000" channel="cubmu.sctv">
-    <title lang="id">Barakallah</title>
-  </programme>
-<programme start="20260818213000 +0000" stop="20260818220000 +0000" channel="cubmu.sctv">
-    <title lang="id">Buser</title>
-  </programme>
-<programme start="20260818220000 +0000" stop="20260818230000 +0000" channel="cubmu.sctv">
-    <title lang="id">Liputan 6 Pagi</title>
-  </programme>
-<programme start="20260818230000 +0000" stop="20260818233000 +0000" channel="cubmu.sctv">
-    <title lang="id">Point Of View</title>
-  </programme>
-<programme start="20260818233000 +0000" stop="20260819000000 +0000" channel="cubmu.sctv">
-    <title lang="id">Halo Selebriti</title>
-  </programme>
-<programme start="20260819000000 +0000" stop="20260819013000 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Pagi</title>
-  </programme>
-<programme start="20260819013000 +0000" stop="20260819030000 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Pagi</title>
-  </programme>
-<programme start="20260819030000 +0000" stop="20260819050000 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Pagi</title>
-  </programme>
-<programme start="20260819050000 +0000" stop="20260819053000 +0000" channel="cubmu.sctv">
-    <title lang="id">Liputan 6 Siang</title>
-  </programme>
-<programme start="20260819053000 +0000" stop="20260819070000 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Siang</title>
-  </programme>
-<programme start="20260819070000 +0000" stop="20260819083000 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Siang</title>
-  </programme>
-<programme start="20260819083000 +0000" stop="20260819101500 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Sore</title>
-  </programme>
-<programme start="20260819101500 +0000" stop="20260819114500 +0000" channel="cubmu.sctv">
-    <title lang="id">Asmara Gen Z</title>
-  </programme>
-<programme start="20260819114500 +0000" stop="20260819131500 +0000" channel="cubmu.sctv">
-    <title lang="id">Lautan Cinta</title>
-  </programme>
-<programme start="20260819131500 +0000" stop="20260819143000 +0000" channel="cubmu.sctv">
-    <title lang="id">Wajah Cinta Yang Lain</title>
-  </programme>
-<programme start="20260819143000 +0000" stop="20260819160000 +0000" channel="cubmu.sctv">
-    <title lang="id">Sebening Cinta</title>
-  </programme>
-<programme start="20260819160000 +0000" stop="20260819173000 +0000" channel="cubmu.sctv">
+<programme start="20260818170000 +0000" stop="20260818183000 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Primetime</title>
   </programme>
-<programme start="20260819173000 +0000" stop="20260819184500 +0000" channel="cubmu.sctv">
+<programme start="20260818183000 +0000" stop="20260818200000 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Utama</title>
   </programme>
-<programme start="20260819184500 +0000" stop="20260819200000 +0000" channel="cubmu.sctv">
-    <title lang="id">Sinema Malam</title>
-  </programme>
-<programme start="20260819200000 +0000" stop="20260819210500 +0000" channel="cubmu.sctv">
+<programme start="20260818200000 +0000" stop="20260818210000 +0000" channel="cubmu.sctv">
     <title lang="id">Sinema Dini Hari</title>
   </programme>
-<programme start="20260819210500 +0000" stop="20260819212700 +0000" channel="cubmu.sctv">
-    <title lang="id">Indahnya Kebersamaan</title>
-  </programme>
-<programme start="20260819212700 +0000" stop="20260819215300 +0000" channel="cubmu.sctv">
-    <title lang="id">Buser</title>
-  </programme>
-<programme start="20260819215300 +0000" stop="20260819230000 +0000" channel="cubmu.sctv">
-    <title lang="id">Liputan 6 Pagi</title>
-  </programme>
-<programme start="20260819230000 +0000" stop="20260820000600 +0000" channel="cubmu.sctv">
-    <title lang="id">Hot Shot</title>
-  </programme>
-<programme start="20260820000600 +0000" stop="20260820010500 +0000" channel="cubmu.sctv">
-    <title lang="id">Tiba Tiba Kuis</title>
-  </programme>
-<programme start="20260820010500 +0000" stop="20260820024800 +0000" channel="cubmu.sctv">
-    <title lang="id">Asmara Gen Z New Era</title>
-  </programme>
-<programme start="20260820024800 +0000" stop="20260820044500 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Pagi</title>
-  </programme>
-<programme start="20260820044500 +0000" stop="20260820052100 +0000" channel="cubmu.sctv">
-    <title lang="id">Liputan 6 Siang</title>
-  </programme>
-<programme start="20260820052100 +0000" stop="20260820065700 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Siang</title>
-  </programme>
-<programme start="20260820065700 +0000" stop="20260820083100 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Siang</title>
-  </programme>
-<programme start="20260820083100 +0000" stop="20260820100500 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Sore</title>
-  </programme>
-<programme start="20260820100500 +0000" stop="20260820114700 +0000" channel="cubmu.sctv">
-    <title lang="id">Asmara Gen Z New Era</title>
-  </programme>
-<programme start="20260820114700 +0000" stop="20260820131000 +0000" channel="cubmu.sctv">
-    <title lang="id">Lautan Cinta</title>
-  </programme>
-<programme start="20260820131000 +0000" stop="20260820143000 +0000" channel="cubmu.sctv">
-    <title lang="id">Wajah Cinta Yang Lain</title>
-  </programme>
-<programme start="20260820143000 +0000" stop="20260820172800 +0000" channel="cubmu.sctv">
-    <title lang="id">The Icon Indonesia Top 3 Final</title>
-  </programme>
-<programme start="20260820172800 +0000" stop="20260820184900 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Utama</title>
-  </programme>
-<programme start="20260820184900 +0000" stop="20260820191900 +0000" channel="cubmu.sctv">
-    <title lang="id">Solusi</title>
-  </programme>
-<programme start="20260820191900 +0000" stop="20260820201500 +0000" channel="cubmu.sctv">
-    <title lang="id">Sinema Malam</title>
-  </programme>
-<programme start="20260820201500 +0000" stop="20260820210500 +0000" channel="cubmu.sctv">
-    <title lang="id">Sinema Dini Hari</title>
-  </programme>
-<programme start="20260820210500 +0000" stop="20260820213000 +0000" channel="cubmu.sctv">
+<programme start="20260818210000 +0000" stop="20260818213000 +0000" channel="cubmu.sctv">
     <title lang="id">Barakallah</title>
   </programme>
-<programme start="20260820213000 +0000" stop="20260820220000 +0000" channel="cubmu.sctv">
+<programme start="20260818213000 +0000" stop="20260818214500 +0000" channel="cubmu.sctv">
     <title lang="id">Buser</title>
   </programme>
-<programme start="20260820220000 +0000" stop="20260820230000 +0000" channel="cubmu.sctv">
+<programme start="20260818214500 +0000" stop="20260818230000 +0000" channel="cubmu.sctv">
     <title lang="id">Liputan 6 Pagi</title>
   </programme>
-<programme start="20260820230000 +0000" stop="20260821000000 +0000" channel="cubmu.sctv">
+<programme start="20260818230000 +0000" stop="20260819003000 +0000" channel="cubmu.sctv">
     <title lang="id">Hot Shot</title>
   </programme>
-<programme start="20260821000000 +0000" stop="20260821011500 +0000" channel="cubmu.sctv">
+<programme start="20260819003000 +0000" stop="20260819013000 +0000" channel="cubmu.sctv">
     <title lang="id">Tiba Tiba Kuis</title>
   </programme>
-<programme start="20260821011500 +0000" stop="20260821030000 +0000" channel="cubmu.sctv">
-    <title lang="id">Asmara Gen Z New Era</title>
+<programme start="20260819013000 +0000" stop="20260819023000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
   </programme>
-<programme start="20260821030000 +0000" stop="20260821050000 +0000" channel="cubmu.sctv">
+<programme start="20260819023000 +0000" stop="20260819043000 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Pagi</title>
   </programme>
-<programme start="20260821050000 +0000" stop="20260821053000 +0000" channel="cubmu.sctv">
+<programme start="20260819043000 +0000" stop="20260819050000 +0000" channel="cubmu.sctv">
     <title lang="id">Liputan 6 Siang</title>
   </programme>
-<programme start="20260821053000 +0000" stop="20260821070000 +0000" channel="cubmu.sctv">
+<programme start="20260819050000 +0000" stop="20260819063000 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Siang</title>
   </programme>
-<programme start="20260821070000 +0000" stop="20260821083000 +0000" channel="cubmu.sctv">
+<programme start="20260819063000 +0000" stop="20260819074500 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Siang</title>
   </programme>
-<programme start="20260821083000 +0000" stop="20260821101500 +0000" channel="cubmu.sctv">
+<programme start="20260819074500 +0000" stop="20260819090000 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Sore</title>
   </programme>
-<programme start="20260821101500 +0000" stop="20260821114500 +0000" channel="cubmu.sctv">
+<programme start="20260819090000 +0000" stop="20260819100000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
+  </programme>
+<programme start="20260819100000 +0000" stop="20260819114500 +0000" channel="cubmu.sctv">
+    <title lang="id">Asmara Gen Z New Era</title>
+  </programme>
+<programme start="20260819114500 +0000" stop="20260819131500 +0000" channel="cubmu.sctv">
+    <title lang="id">Seindah Masa Remaja</title>
+  </programme>
+<programme start="20260819131500 +0000" stop="20260819144500 +0000" channel="cubmu.sctv">
+    <title lang="id">Wajah Cinta Yang Lain</title>
+  </programme>
+<programme start="20260819144500 +0000" stop="20260819160000 +0000" channel="cubmu.sctv">
+    <title lang="id">Biarkan Hati Bicara</title>
+  </programme>
+<programme start="20260819160000 +0000" stop="20260819170000 +0000" channel="cubmu.sctv">
+    <title lang="id">Vidio Original Series</title>
+  </programme>
+<programme start="20260819170000 +0000" stop="20260819183000 +0000" channel="cubmu.sctv">
+    <title lang="id">FTV Primetime</title>
+  </programme>
+<programme start="20260819183000 +0000" stop="20260819200000 +0000" channel="cubmu.sctv">
+    <title lang="id">FTV Utama</title>
+  </programme>
+<programme start="20260819200000 +0000" stop="20260819210000 +0000" channel="cubmu.sctv">
+    <title lang="id">Sinema Dini Hari</title>
+  </programme>
+<programme start="20260819210000 +0000" stop="20260819213000 +0000" channel="cubmu.sctv">
+    <title lang="id">Barakallah</title>
+  </programme>
+<programme start="20260819213000 +0000" stop="20260819214500 +0000" channel="cubmu.sctv">
+    <title lang="id">Buser</title>
+  </programme>
+<programme start="20260819214500 +0000" stop="20260819230000 +0000" channel="cubmu.sctv">
+    <title lang="id">Liputan 6 Pagi</title>
+  </programme>
+<programme start="20260819230000 +0000" stop="20260820003000 +0000" channel="cubmu.sctv">
+    <title lang="id">Halo Selebriti</title>
+  </programme>
+<programme start="20260820003000 +0000" stop="20260820013000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
+  </programme>
+<programme start="20260820013000 +0000" stop="20260820023000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
+  </programme>
+<programme start="20260820023000 +0000" stop="20260820043000 +0000" channel="cubmu.sctv">
+    <title lang="id">FTV Pagi</title>
+  </programme>
+<programme start="20260820043000 +0000" stop="20260820050000 +0000" channel="cubmu.sctv">
+    <title lang="id">Liputan 6 Siang</title>
+  </programme>
+<programme start="20260820050000 +0000" stop="20260820063000 +0000" channel="cubmu.sctv">
+    <title lang="id">FTV Siang</title>
+  </programme>
+<programme start="20260820063000 +0000" stop="20260820074500 +0000" channel="cubmu.sctv">
+    <title lang="id">FTV Siang</title>
+  </programme>
+<programme start="20260820074500 +0000" stop="20260820090000 +0000" channel="cubmu.sctv">
+    <title lang="id">FTV Sore</title>
+  </programme>
+<programme start="20260820090000 +0000" stop="20260820100000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
+  </programme>
+<programme start="20260820100000 +0000" stop="20260820114500 +0000" channel="cubmu.sctv">
+    <title lang="id">Asmara Gen Z New Era</title>
+  </programme>
+<programme start="20260820114500 +0000" stop="20260820131500 +0000" channel="cubmu.sctv">
+    <title lang="id">Seindah Masa Remaja</title>
+  </programme>
+<programme start="20260820131500 +0000" stop="20260820144500 +0000" channel="cubmu.sctv">
+    <title lang="id">Wajah Cinta Yang Lain</title>
+  </programme>
+<programme start="20260820144500 +0000" stop="20260820160000 +0000" channel="cubmu.sctv">
+    <title lang="id">Biarkan Hati Bicara</title>
+  </programme>
+<programme start="20260820160000 +0000" stop="20260820184500 +0000" channel="cubmu.sctv">
+    <title lang="id">Film Layar Lebar</title>
+  </programme>
+<programme start="20260820184500 +0000" stop="20260820200000 +0000" channel="cubmu.sctv">
+    <title lang="id">Sinema Malam</title>
+  </programme>
+<programme start="20260820200000 +0000" stop="20260820210000 +0000" channel="cubmu.sctv">
+    <title lang="id">Sinema Dini Hari</title>
+  </programme>
+<programme start="20260820210000 +0000" stop="20260820213000 +0000" channel="cubmu.sctv">
+    <title lang="id">Barakallah</title>
+  </programme>
+<programme start="20260820213000 +0000" stop="20260820214500 +0000" channel="cubmu.sctv">
+    <title lang="id">Buser</title>
+  </programme>
+<programme start="20260820214500 +0000" stop="20260820231500 +0000" channel="cubmu.sctv">
+    <title lang="id">Liputan 6 Pagi</title>
+  </programme>
+<programme start="20260820231500 +0000" stop="20260821003000 +0000" channel="cubmu.sctv">
+    <title lang="id">Halo Selebriti</title>
+  </programme>
+<programme start="20260821003000 +0000" stop="20260821013000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
+  </programme>
+<programme start="20260821013000 +0000" stop="20260821023000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
+  </programme>
+<programme start="20260821023000 +0000" stop="20260821043000 +0000" channel="cubmu.sctv">
+    <title lang="id">FTV Pagi</title>
+  </programme>
+<programme start="20260821043000 +0000" stop="20260821050000 +0000" channel="cubmu.sctv">
+    <title lang="id">Liputan 6 Siang</title>
+  </programme>
+<programme start="20260821050000 +0000" stop="20260821063000 +0000" channel="cubmu.sctv">
+    <title lang="id">FTV Siang</title>
+  </programme>
+<programme start="20260821063000 +0000" stop="20260821074500 +0000" channel="cubmu.sctv">
+    <title lang="id">FTV Siang</title>
+  </programme>
+<programme start="20260821074500 +0000" stop="20260821090000 +0000" channel="cubmu.sctv">
+    <title lang="id">FTV Sore</title>
+  </programme>
+<programme start="20260821090000 +0000" stop="20260821100000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
+  </programme>
+<programme start="20260821100000 +0000" stop="20260821114500 +0000" channel="cubmu.sctv">
     <title lang="id">Asmara Gen Z New Era</title>
   </programme>
 <programme start="20260821114500 +0000" stop="20260821131500 +0000" channel="cubmu.sctv">
-    <title lang="id">Lautan Cinta</title>
+    <title lang="id">Seindah Masa Remaja</title>
   </programme>
-<programme start="20260821131500 +0000" stop="20260821143000 +0000" channel="cubmu.sctv">
+<programme start="20260821131500 +0000" stop="20260821144500 +0000" channel="cubmu.sctv">
     <title lang="id">Wajah Cinta Yang Lain</title>
   </programme>
-<programme start="20260821143000 +0000" stop="20260821160000 +0000" channel="cubmu.sctv">
-    <title lang="id">Sebening  Cinta</title>
+<programme start="20260821144500 +0000" stop="20260821160000 +0000" channel="cubmu.sctv">
+    <title lang="id">Biarkan Hati Bicara</title>
   </programme>
-<programme start="20260821160000 +0000" stop="20260821173000 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Primetime</title>
-  </programme>
-<programme start="20260821173000 +0000" stop="20260821184500 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Utama</title>
+<programme start="20260821160000 +0000" stop="20260821184500 +0000" channel="cubmu.sctv">
+    <title lang="id">Film Layar Lebar</title>
   </programme>
 <programme start="20260821184500 +0000" stop="20260821200000 +0000" channel="cubmu.sctv">
     <title lang="id">Sinema Malam</title>
   </programme>
-<programme start="20260821200000 +0000" stop="20260821210500 +0000" channel="cubmu.sctv">
+<programme start="20260821200000 +0000" stop="20260821210000 +0000" channel="cubmu.sctv">
     <title lang="id">Sinema Dini Hari</title>
   </programme>
-<programme start="20260821210500 +0000" stop="20260821213000 +0000" channel="cubmu.sctv">
+<programme start="20260821210000 +0000" stop="20260821213000 +0000" channel="cubmu.sctv">
     <title lang="id">Barakallah</title>
   </programme>
-<programme start="20260821213000 +0000" stop="20260821220000 +0000" channel="cubmu.sctv">
+<programme start="20260821213000 +0000" stop="20260821214500 +0000" channel="cubmu.sctv">
     <title lang="id">Buser</title>
   </programme>
-<programme start="20260821220000 +0000" stop="20260821230000 +0000" channel="cubmu.sctv">
+<programme start="20260821214500 +0000" stop="20260821230000 +0000" channel="cubmu.sctv">
     <title lang="id">Liputan 6 Pagi</title>
   </programme>
-<programme start="20260821230000 +0000" stop="20260822000000 +0000" channel="cubmu.sctv">
-    <title lang="id">Hot Shot</title>
+<programme start="20260821230000 +0000" stop="20260822003000 +0000" channel="cubmu.sctv">
+    <title lang="id">Halo Selebriti</title>
   </programme>
-<programme start="20260822000000 +0000" stop="20260822011500 +0000" channel="cubmu.sctv">
+<programme start="20260822003000 +0000" stop="20260822013000 +0000" channel="cubmu.sctv">
     <title lang="id">Tiba Tiba Kuis</title>
   </programme>
-<programme start="20260822011500 +0000" stop="20260822030000 +0000" channel="cubmu.sctv">
-    <title lang="id">Asmara Gen Z New Era</title>
+<programme start="20260822013000 +0000" stop="20260822023000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
   </programme>
-<programme start="20260822030000 +0000" stop="20260822050000 +0000" channel="cubmu.sctv">
+<programme start="20260822023000 +0000" stop="20260822043000 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Pagi</title>
   </programme>
-<programme start="20260822050000 +0000" stop="20260822053000 +0000" channel="cubmu.sctv">
+<programme start="20260822043000 +0000" stop="20260822050000 +0000" channel="cubmu.sctv">
     <title lang="id">Liputan 6 Siang</title>
   </programme>
-<programme start="20260822053000 +0000" stop="20260822070000 +0000" channel="cubmu.sctv">
+<programme start="20260822050000 +0000" stop="20260822063000 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Siang</title>
   </programme>
-<programme start="20260822070000 +0000" stop="20260822083000 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Siang</title>
+<programme start="20260822063000 +0000" stop="20260822090000 +0000" channel="cubmu.sctv">
+    <title lang="id">Film Layar Lebar</title>
   </programme>
-<programme start="20260822083000 +0000" stop="20260822100500 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Sore</title>
+<programme start="20260822090000 +0000" stop="20260822100000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
   </programme>
-<programme start="20260822100500 +0000" stop="20260822114500 +0000" channel="cubmu.sctv">
+<programme start="20260822100000 +0000" stop="20260822114500 +0000" channel="cubmu.sctv">
     <title lang="id">Asmara Gen Z New Era</title>
   </programme>
 <programme start="20260822114500 +0000" stop="20260822131500 +0000" channel="cubmu.sctv">
-    <title lang="id">Lautan Cinta</title>
+    <title lang="id">Seindah Masa Remaja</title>
   </programme>
-<programme start="20260822131500 +0000" stop="20260822143000 +0000" channel="cubmu.sctv">
+<programme start="20260822131500 +0000" stop="20260822144500 +0000" channel="cubmu.sctv">
     <title lang="id">Wajah Cinta Yang Lain</title>
   </programme>
-<programme start="20260822143000 +0000" stop="20260822160000 +0000" channel="cubmu.sctv">
-    <title lang="id">Sebening  Cinta</title>
+<programme start="20260822144500 +0000" stop="20260822163000 +0000" channel="cubmu.sctv">
+    <title lang="id">Biarkan Hati Bicara</title>
   </programme>
-<programme start="20260822160000 +0000" stop="20260822173000 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Primetime</title>
+<programme start="20260822163000 +0000" stop="20260822183000 +0000" channel="cubmu.sctv">
+    <title lang="id">Brentford Vs Spurs - Liga Inggris</title>
   </programme>
-<programme start="20260822173000 +0000" stop="20260822184500 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Utama</title>
-  </programme>
-<programme start="20260822184500 +0000" stop="20260822200000 +0000" channel="cubmu.sctv">
+<programme start="20260822183000 +0000" stop="20260822200000 +0000" channel="cubmu.sctv">
     <title lang="id">Sinema Malam</title>
   </programme>
-<programme start="20260822200000 +0000" stop="20260822210500 +0000" channel="cubmu.sctv">
+<programme start="20260822200000 +0000" stop="20260822210000 +0000" channel="cubmu.sctv">
     <title lang="id">Sinema Dini Hari</title>
   </programme>
-<programme start="20260822210500 +0000" stop="20260822213000 +0000" channel="cubmu.sctv">
+<programme start="20260822210000 +0000" stop="20260822213000 +0000" channel="cubmu.sctv">
     <title lang="id">Barakallah</title>
   </programme>
-<programme start="20260822213000 +0000" stop="20260822220000 +0000" channel="cubmu.sctv">
+<programme start="20260822213000 +0000" stop="20260822214500 +0000" channel="cubmu.sctv">
     <title lang="id">Buser</title>
   </programme>
-<programme start="20260822220000 +0000" stop="20260822230000 +0000" channel="cubmu.sctv">
+<programme start="20260822214500 +0000" stop="20260822230000 +0000" channel="cubmu.sctv">
     <title lang="id">Liputan 6 Pagi</title>
   </programme>
-<programme start="20260822230000 +0000" stop="20260823000000 +0000" channel="cubmu.sctv">
+<programme start="20260822230000 +0000" stop="20260822233000 +0000" channel="cubmu.sctv">
+    <title lang="id">Point Of View</title>
+  </programme>
+<programme start="20260822233000 +0000" stop="20260823003000 +0000" channel="cubmu.sctv">
     <title lang="id">Halo Selebriti</title>
   </programme>
-<programme start="20260823000000 +0000" stop="20260823011500 +0000" channel="cubmu.sctv">
+<programme start="20260823003000 +0000" stop="20260823013000 +0000" channel="cubmu.sctv">
     <title lang="id">Tiba Tiba Kuis</title>
   </programme>
-<programme start="20260823011500 +0000" stop="20260823030000 +0000" channel="cubmu.sctv">
-    <title lang="id">Asmara Gen Z New Era</title>
+<programme start="20260823013000 +0000" stop="20260823023000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
   </programme>
-<programme start="20260823030000 +0000" stop="20260823050000 +0000" channel="cubmu.sctv">
+<programme start="20260823023000 +0000" stop="20260823043000 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Pagi</title>
   </programme>
-<programme start="20260823050000 +0000" stop="20260823053000 +0000" channel="cubmu.sctv">
+<programme start="20260823043000 +0000" stop="20260823050000 +0000" channel="cubmu.sctv">
     <title lang="id">Liputan 6 Siang</title>
   </programme>
-<programme start="20260823053000 +0000" stop="20260823070000 +0000" channel="cubmu.sctv">
+<programme start="20260823050000 +0000" stop="20260823064500 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Siang</title>
   </programme>
-<programme start="20260823070000 +0000" stop="20260823083000 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Siang</title>
+<programme start="20260823064500 +0000" stop="20260823090000 +0000" channel="cubmu.sctv">
+    <title lang="id">Film Layar Lebar</title>
   </programme>
-<programme start="20260823083000 +0000" stop="20260823100500 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Sore</title>
+<programme start="20260823090000 +0000" stop="20260823100000 +0000" channel="cubmu.sctv">
+    <title lang="id">Tiba Tiba Kuis</title>
   </programme>
-<programme start="20260823100500 +0000" stop="20260823114500 +0000" channel="cubmu.sctv">
+<programme start="20260823100000 +0000" stop="20260823114500 +0000" channel="cubmu.sctv">
     <title lang="id">Asmara Gen Z New Era</title>
   </programme>
 <programme start="20260823114500 +0000" stop="20260823131500 +0000" channel="cubmu.sctv">
-    <title lang="id">Lautan Cinta</title>
+    <title lang="id">Seindah Masa Remaja</title>
   </programme>
-<programme start="20260823131500 +0000" stop="20260823143000 +0000" channel="cubmu.sctv">
+<programme start="20260823131500 +0000" stop="20260823144500 +0000" channel="cubmu.sctv">
     <title lang="id">Wajah Cinta Yang Lain</title>
   </programme>
-<programme start="20260823143000 +0000" stop="20260823160000 +0000" channel="cubmu.sctv">
-    <title lang="id">Sebening  Cinta</title>
+<programme start="20260823144500 +0000" stop="20260823160000 +0000" channel="cubmu.sctv">
+    <title lang="id">Biarkan Hati Bicara</title>
   </programme>
-<programme start="20260823160000 +0000" stop="20260823173000 +0000" channel="cubmu.sctv">
-    <title lang="id">FTV Primetime</title>
+<programme start="20260823160000 +0000" stop="20260823180000 +0000" channel="cubmu.sctv">
+    <title lang="id">Film Layar Lebar</title>
   </programme>
-<programme start="20260823173000 +0000" stop="20260823184500 +0000" channel="cubmu.sctv">
+<programme start="20260823180000 +0000" stop="20260823190000 +0000" channel="cubmu.sctv">
     <title lang="id">FTV Utama</title>
   </programme>
-<programme start="20260823184500 +0000" stop="20260823200000 +0000" channel="cubmu.sctv">
+<programme start="20260823190000 +0000" stop="20260823200000 +0000" channel="cubmu.sctv">
     <title lang="id">Sinema Malam</title>
   </programme>
-<programme start="20260823200000 +0000" stop="20260823210500 +0000" channel="cubmu.sctv">
+<programme start="20260823200000 +0000" stop="20260823213000 +0000" channel="cubmu.sctv">
     <title lang="id">Sinema Dini Hari</title>
-  </programme>
-<programme start="20260823210500 +0000" stop="20260823213000 +0000" channel="cubmu.sctv">
-    <title lang="id">Barakallah</title>
   </programme>
 <programme start="20260823213000 +0000" stop="20260823220000 +0000" channel="cubmu.sctv">
     <title lang="id">Buser</title>
@@ -7217,26 +7232,38 @@
 <programme start="20260817172500 +0000" stop="20260817175500 +0000" channel="cubmu.mdtv">
     <title lang="id">86</title>
   </programme>
-<programme start="20260817175500 +0000" stop="20260817190000 +0000" channel="cubmu.mdtv">
+<programme start="20260817175500 +0000" stop="20260817180000 +0000" channel="cubmu.mdtv">
     <title lang="id">Eve</title>
   </programme>
-<programme start="20260817190000 +0000" stop="20260817200000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Oasis</title>
+<programme start="20260817180000 +0000" stop="20260817190000 +0000" channel="cubmu.mdtv">
+    <title lang="id">My Happy Ending</title>
   </programme>
-<programme start="20260817200000 +0000" stop="20260817210500 +0000" channel="cubmu.mdtv">
+<programme start="20260817190000 +0000" stop="20260817200000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Are You Human?</title>
+  </programme>
+<programme start="20260817200000 +0000" stop="20260817200500 +0000" channel="cubmu.mdtv">
     <title lang="id">What&apos;s Wrong With Secretary Kim?</title>
   </programme>
-<programme start="20260817210500 +0000" stop="20260817225000 +0000" channel="cubmu.mdtv">
+<programme start="20260817200500 +0000" stop="20260817210500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Cheat On Me If You Can</title>
+  </programme>
+<programme start="20260817210500 +0000" stop="20260817211000 +0000" channel="cubmu.mdtv">
     <title lang="id">Top Spot</title>
   </programme>
-<programme start="20260817225000 +0000" stop="20260817234500 +0000" channel="cubmu.mdtv">
+<programme start="20260817211000 +0000" stop="20260817225000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Top Spot</title>
+  </programme>
+<programme start="20260817225000 +0000" stop="20260817225500 +0000" channel="cubmu.mdtv">
     <title lang="id">Jelajah Masjid Nusantara</title>
+  </programme>
+<programme start="20260817225500 +0000" stop="20260817234500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Menjemput Berkah</title>
   </programme>
 <programme start="20260817234500 +0000" stop="20260818010000 +0000" channel="cubmu.mdtv">
     <title lang="id">AADD - Ada Apa Dengan Dunia</title>
   </programme>
 <programme start="20260818010000 +0000" stop="20260818015500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Fakta +62 Weekend</title>
+    <title lang="id">Fakta +62</title>
   </programme>
 <programme start="20260818015500 +0000" stop="20260818030000 +0000" channel="cubmu.mdtv">
     <title lang="id">Sensasihot</title>
@@ -7244,62 +7271,62 @@
 <programme start="20260818030000 +0000" stop="20260818035000 +0000" channel="cubmu.mdtv">
     <title lang="id">Bawang Merah Bawang Putih</title>
   </programme>
-<programme start="20260818035000 +0000" stop="20260818050000 +0000" channel="cubmu.mdtv">
+<programme start="20260818035000 +0000" stop="20260818045500 +0000" channel="cubmu.mdtv">
     <title lang="id">Suci</title>
   </programme>
-<programme start="20260818050000 +0000" stop="20260818070500 +0000" channel="cubmu.mdtv">
+<programme start="20260818045500 +0000" stop="20260818055500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Resep Chef Devina Spesial Kemerdekaan</title>
+  </programme>
+<programme start="20260818055500 +0000" stop="20260818073000 +0000" channel="cubmu.mdtv">
     <title lang="id">Makan Enak</title>
   </programme>
-<programme start="20260818070500 +0000" stop="20260818090000 +0000" channel="cubmu.mdtv">
+<programme start="20260818073000 +0000" stop="20260818083000 +0000" channel="cubmu.mdtv">
     <title lang="id">Laper Mata</title>
   </programme>
-<programme start="20260818090000 +0000" stop="20260818100000 +0000" channel="cubmu.mdtv">
+<programme start="20260818083000 +0000" stop="20260818093000 +0000" channel="cubmu.mdtv">
     <title lang="id">Masak Gesss!!!</title>
   </programme>
-<programme start="20260818100000 +0000" stop="20260818103000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Adit Sopo Jarwo</title>
-  </programme>
-<programme start="20260818103000 +0000" stop="20260818123000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Teledrama: Carita De Angel</title>
-  </programme>
-<programme start="20260818123000 +0000" stop="20260818133000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Series: Ipar adalah Maut the Series</title>
-  </programme>
-<programme start="20260818133000 +0000" stop="20260818143000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Series: Kupu Malam</title>
-  </programme>
-<programme start="20260818143000 +0000" stop="20260818152000 +0000" channel="cubmu.mdtv">
+<programme start="20260818093000 +0000" stop="20260818103500 +0000" channel="cubmu.mdtv">
     <title lang="id">Main Drama Casting</title>
   </programme>
-<programme start="20260818152000 +0000" stop="20260818163000 +0000" channel="cubmu.mdtv">
+<programme start="20260818103500 +0000" stop="20260818122500 +0000" channel="cubmu.mdtv">
+    <title lang="id">MD Teledrama: Carita De Angel</title>
+  </programme>
+<programme start="20260818122500 +0000" stop="20260818143000 +0000" channel="cubmu.mdtv">
+    <title lang="id">MD Series: Kupu Malam</title>
+  </programme>
+<programme start="20260818143000 +0000" stop="20260818162000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Gala Cinema Kemerdekaan: Patriot</title>
+  </programme>
+<programme start="20260818162000 +0000" stop="20260818165500 +0000" channel="cubmu.mdtv">
     <title lang="id">Jatanras</title>
   </programme>
-<programme start="20260818163000 +0000" stop="20260818172500 +0000" channel="cubmu.mdtv">
+<programme start="20260818165500 +0000" stop="20260818173000 +0000" channel="cubmu.mdtv">
     <title lang="id">Customs Protection</title>
   </programme>
-<programme start="20260818172500 +0000" stop="20260818175500 +0000" channel="cubmu.mdtv">
+<programme start="20260818173000 +0000" stop="20260818180000 +0000" channel="cubmu.mdtv">
     <title lang="id">86</title>
   </programme>
-<programme start="20260818175500 +0000" stop="20260818190000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Eve</title>
+<programme start="20260818180000 +0000" stop="20260818190000 +0000" channel="cubmu.mdtv">
+    <title lang="id">My Happy Ending</title>
   </programme>
-<programme start="20260818190000 +0000" stop="20260818200000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Oasis</title>
+<programme start="20260818190000 +0000" stop="20260818200500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Are You Human?</title>
   </programme>
-<programme start="20260818200000 +0000" stop="20260818210500 +0000" channel="cubmu.mdtv">
-    <title lang="id">What&apos;s Wrong With Secretary Kim?</title>
+<programme start="20260818200500 +0000" stop="20260818211000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Cheat On Me If You Can</title>
   </programme>
-<programme start="20260818210500 +0000" stop="20260818225000 +0000" channel="cubmu.mdtv">
+<programme start="20260818211000 +0000" stop="20260818225500 +0000" channel="cubmu.mdtv">
     <title lang="id">Top Spot</title>
   </programme>
-<programme start="20260818225000 +0000" stop="20260818234500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Jelajah Masjid Nusantara</title>
+<programme start="20260818225500 +0000" stop="20260818234500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Menjemput Berkah</title>
   </programme>
 <programme start="20260818234500 +0000" stop="20260819010000 +0000" channel="cubmu.mdtv">
     <title lang="id">AADD - Ada Apa Dengan Dunia</title>
   </programme>
 <programme start="20260819010000 +0000" stop="20260819015500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Fakta +62 Weekend</title>
+    <title lang="id">Fakta +62</title>
   </programme>
 <programme start="20260819015500 +0000" stop="20260819030000 +0000" channel="cubmu.mdtv">
     <title lang="id">Sensasihot</title>
@@ -7307,55 +7334,52 @@
 <programme start="20260819030000 +0000" stop="20260819035000 +0000" channel="cubmu.mdtv">
     <title lang="id">Bawang Merah Bawang Putih</title>
   </programme>
-<programme start="20260819035000 +0000" stop="20260819050000 +0000" channel="cubmu.mdtv">
+<programme start="20260819035000 +0000" stop="20260819045500 +0000" channel="cubmu.mdtv">
     <title lang="id">Suci</title>
   </programme>
-<programme start="20260819050000 +0000" stop="20260819070500 +0000" channel="cubmu.mdtv">
+<programme start="20260819045500 +0000" stop="20260819055500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Resep Chef Devina</title>
+  </programme>
+<programme start="20260819055500 +0000" stop="20260819073000 +0000" channel="cubmu.mdtv">
     <title lang="id">Makan Enak</title>
   </programme>
-<programme start="20260819070500 +0000" stop="20260819090000 +0000" channel="cubmu.mdtv">
+<programme start="20260819073000 +0000" stop="20260819090000 +0000" channel="cubmu.mdtv">
     <title lang="id">Laper Mata</title>
   </programme>
 <programme start="20260819090000 +0000" stop="20260819100000 +0000" channel="cubmu.mdtv">
     <title lang="id">Masak Gesss!!!</title>
   </programme>
-<programme start="20260819100000 +0000" stop="20260819103000 +0000" channel="cubmu.mdtv">
+<programme start="20260819100000 +0000" stop="20260819103500 +0000" channel="cubmu.mdtv">
     <title lang="id">Adit Sopo Jarwo</title>
   </programme>
-<programme start="20260819103000 +0000" stop="20260819123000 +0000" channel="cubmu.mdtv">
+<programme start="20260819103500 +0000" stop="20260819122500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Teledrama: Carita De Angel</title>
   </programme>
-<programme start="20260819123000 +0000" stop="20260819133000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Series: Ipar adalah Maut the Series</title>
-  </programme>
-<programme start="20260819133000 +0000" stop="20260819143000 +0000" channel="cubmu.mdtv">
+<programme start="20260819122500 +0000" stop="20260819143000 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Series: Kupu Malam</title>
   </programme>
-<programme start="20260819143000 +0000" stop="20260819152000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Main Drama Casting</title>
+<programme start="20260819143000 +0000" stop="20260819160500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Gala Cinema MD: Ayah Menyayangi Tanpa Akhir</title>
   </programme>
-<programme start="20260819152000 +0000" stop="20260819163000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Jatanras</title>
-  </programme>
-<programme start="20260819163000 +0000" stop="20260819172500 +0000" channel="cubmu.mdtv">
+<programme start="20260819160500 +0000" stop="20260819170000 +0000" channel="cubmu.mdtv">
     <title lang="id">Customs Protection</title>
   </programme>
-<programme start="20260819172500 +0000" stop="20260819175500 +0000" channel="cubmu.mdtv">
+<programme start="20260819170000 +0000" stop="20260819175500 +0000" channel="cubmu.mdtv">
     <title lang="id">86</title>
   </programme>
 <programme start="20260819175500 +0000" stop="20260819190000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Eve</title>
+    <title lang="id">My Happy Ending</title>
   </programme>
-<programme start="20260819190000 +0000" stop="20260819200000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Oasis</title>
+<programme start="20260819190000 +0000" stop="20260819200500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Are You Human?</title>
   </programme>
-<programme start="20260819200000 +0000" stop="20260819210500 +0000" channel="cubmu.mdtv">
-    <title lang="id">What&apos;s Wrong With Secretary Kim?</title>
+<programme start="20260819200500 +0000" stop="20260819211000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Cheat On Me If You Can</title>
   </programme>
-<programme start="20260819210500 +0000" stop="20260819225000 +0000" channel="cubmu.mdtv">
+<programme start="20260819211000 +0000" stop="20260819225500 +0000" channel="cubmu.mdtv">
     <title lang="id">Top Spot</title>
   </programme>
-<programme start="20260819225000 +0000" stop="20260819234500 +0000" channel="cubmu.mdtv">
+<programme start="20260819225500 +0000" stop="20260819234500 +0000" channel="cubmu.mdtv">
     <title lang="id">Menjemput Berkah</title>
   </programme>
 <programme start="20260819234500 +0000" stop="20260820010000 +0000" channel="cubmu.mdtv">
@@ -7370,55 +7394,52 @@
 <programme start="20260820030000 +0000" stop="20260820035000 +0000" channel="cubmu.mdtv">
     <title lang="id">Bawang Merah Bawang Putih</title>
   </programme>
-<programme start="20260820035000 +0000" stop="20260820050000 +0000" channel="cubmu.mdtv">
+<programme start="20260820035000 +0000" stop="20260820045500 +0000" channel="cubmu.mdtv">
     <title lang="id">Suci</title>
   </programme>
-<programme start="20260820050000 +0000" stop="20260820060000 +0000" channel="cubmu.mdtv">
+<programme start="20260820045500 +0000" stop="20260820055500 +0000" channel="cubmu.mdtv">
     <title lang="id">Resep Chef Devina</title>
   </programme>
-<programme start="20260820060000 +0000" stop="20260820073000 +0000" channel="cubmu.mdtv">
+<programme start="20260820055500 +0000" stop="20260820073000 +0000" channel="cubmu.mdtv">
     <title lang="id">Makan Enak</title>
   </programme>
 <programme start="20260820073000 +0000" stop="20260820090000 +0000" channel="cubmu.mdtv">
     <title lang="id">Laper Mata</title>
   </programme>
-<programme start="20260820090000 +0000" stop="20260820103000 +0000" channel="cubmu.mdtv">
+<programme start="20260820090000 +0000" stop="20260820100000 +0000" channel="cubmu.mdtv">
     <title lang="id">Masak Gesss!!!</title>
   </programme>
-<programme start="20260820103000 +0000" stop="20260820123000 +0000" channel="cubmu.mdtv">
+<programme start="20260820100000 +0000" stop="20260820103500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Adit Sopo Jarwo</title>
+  </programme>
+<programme start="20260820103500 +0000" stop="20260820122500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Teledrama: Carita De Angel</title>
   </programme>
-<programme start="20260820123000 +0000" stop="20260820133000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Series: Ipar adalah Maut the Series</title>
-  </programme>
-<programme start="20260820133000 +0000" stop="20260820143000 +0000" channel="cubmu.mdtv">
+<programme start="20260820122500 +0000" stop="20260820143000 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Series: Kupu Malam</title>
   </programme>
-<programme start="20260820143000 +0000" stop="20260820153500 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Teledrama: Betty La Fea</title>
+<programme start="20260820143000 +0000" stop="20260820160500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Gala Cinema MD: Bisikan Iblis</title>
   </programme>
-<programme start="20260820153500 +0000" stop="20260820163500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Jatanras</title>
-  </programme>
-<programme start="20260820163500 +0000" stop="20260820173000 +0000" channel="cubmu.mdtv">
+<programme start="20260820160500 +0000" stop="20260820170000 +0000" channel="cubmu.mdtv">
     <title lang="id">Customs Protection</title>
   </programme>
-<programme start="20260820173000 +0000" stop="20260820175500 +0000" channel="cubmu.mdtv">
+<programme start="20260820170000 +0000" stop="20260820175500 +0000" channel="cubmu.mdtv">
     <title lang="id">86</title>
   </programme>
 <programme start="20260820175500 +0000" stop="20260820190000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Eve</title>
+    <title lang="id">My Happy Ending</title>
   </programme>
-<programme start="20260820190000 +0000" stop="20260820200000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Oasis</title>
+<programme start="20260820190000 +0000" stop="20260820200500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Are You Human?</title>
   </programme>
-<programme start="20260820200000 +0000" stop="20260820210500 +0000" channel="cubmu.mdtv">
-    <title lang="id">What&apos;s Wrong With Secretary Kim?</title>
+<programme start="20260820200500 +0000" stop="20260820211000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Cheat On Me If You Can</title>
   </programme>
-<programme start="20260820210500 +0000" stop="20260820225000 +0000" channel="cubmu.mdtv">
+<programme start="20260820211000 +0000" stop="20260820225500 +0000" channel="cubmu.mdtv">
     <title lang="id">Top Spot</title>
   </programme>
-<programme start="20260820225000 +0000" stop="20260820234500 +0000" channel="cubmu.mdtv">
+<programme start="20260820225500 +0000" stop="20260820234500 +0000" channel="cubmu.mdtv">
     <title lang="id">Menjemput Berkah</title>
   </programme>
 <programme start="20260820234500 +0000" stop="20260821010000 +0000" channel="cubmu.mdtv">
@@ -7433,74 +7454,74 @@
 <programme start="20260821030000 +0000" stop="20260821035000 +0000" channel="cubmu.mdtv">
     <title lang="id">Bawang Merah Bawang Putih</title>
   </programme>
-<programme start="20260821035000 +0000" stop="20260821050000 +0000" channel="cubmu.mdtv">
+<programme start="20260821035000 +0000" stop="20260821045500 +0000" channel="cubmu.mdtv">
     <title lang="id">Suci</title>
   </programme>
-<programme start="20260821050000 +0000" stop="20260821060000 +0000" channel="cubmu.mdtv">
+<programme start="20260821045500 +0000" stop="20260821055500 +0000" channel="cubmu.mdtv">
     <title lang="id">Resep Chef Devina</title>
   </programme>
-<programme start="20260821060000 +0000" stop="20260821073000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Makan Enak</title>
+<programme start="20260821055500 +0000" stop="20260821073000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Makan Enak Lagiii</title>
   </programme>
 <programme start="20260821073000 +0000" stop="20260821090000 +0000" channel="cubmu.mdtv">
     <title lang="id">Laper Mata</title>
   </programme>
-<programme start="20260821090000 +0000" stop="20260821103000 +0000" channel="cubmu.mdtv">
+<programme start="20260821090000 +0000" stop="20260821100000 +0000" channel="cubmu.mdtv">
     <title lang="id">Masak Gesss!!!</title>
   </programme>
-<programme start="20260821103000 +0000" stop="20260821123000 +0000" channel="cubmu.mdtv">
+<programme start="20260821100000 +0000" stop="20260821103500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Adit Sopo Jarwo</title>
+  </programme>
+<programme start="20260821103500 +0000" stop="20260821122500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Teledrama: Carita De Angel</title>
   </programme>
-<programme start="20260821123000 +0000" stop="20260821133000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Series: Ipar adalah Maut the Series</title>
-  </programme>
-<programme start="20260821133000 +0000" stop="20260821143000 +0000" channel="cubmu.mdtv">
+<programme start="20260821122500 +0000" stop="20260821143000 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Series: Kupu Malam</title>
   </programme>
-<programme start="20260821143000 +0000" stop="20260821153500 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Teledrama: Betty La Fea</title>
+<programme start="20260821143000 +0000" stop="20260821160500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Gala Cinema MD: Ruqyah The Exorcism</title>
   </programme>
-<programme start="20260821153500 +0000" stop="20260821163500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Jatanras</title>
-  </programme>
-<programme start="20260821163500 +0000" stop="20260821175500 +0000" channel="cubmu.mdtv">
+<programme start="20260821160500 +0000" stop="20260821170000 +0000" channel="cubmu.mdtv">
     <title lang="id">Customs Protection</title>
   </programme>
+<programme start="20260821170000 +0000" stop="20260821175500 +0000" channel="cubmu.mdtv">
+    <title lang="id">86</title>
+  </programme>
 <programme start="20260821175500 +0000" stop="20260821190000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Eve</title>
+    <title lang="id">My Happy Ending</title>
   </programme>
-<programme start="20260821190000 +0000" stop="20260821200000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Oasis</title>
+<programme start="20260821190000 +0000" stop="20260821200500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Are You Human?</title>
   </programme>
-<programme start="20260821200000 +0000" stop="20260821210500 +0000" channel="cubmu.mdtv">
-    <title lang="id">What&apos;s Wrong With Secretary Kim?</title>
+<programme start="20260821200500 +0000" stop="20260821211000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Cheat On Me If You Can</title>
   </programme>
-<programme start="20260821210500 +0000" stop="20260821225000 +0000" channel="cubmu.mdtv">
+<programme start="20260821211000 +0000" stop="20260821225500 +0000" channel="cubmu.mdtv">
     <title lang="id">Top Spot</title>
   </programme>
-<programme start="20260821225000 +0000" stop="20260821234500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Menjemput Berkah</title>
+<programme start="20260821225500 +0000" stop="20260821234500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Jelajah Masjid Nusantara</title>
   </programme>
 <programme start="20260821234500 +0000" stop="20260822010000 +0000" channel="cubmu.mdtv">
     <title lang="id">AADD - Ada Apa Dengan Dunia</title>
   </programme>
 <programme start="20260822010000 +0000" stop="20260822015500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Fakta +62</title>
+    <title lang="id">Fakta +62 Weekend</title>
   </programme>
 <programme start="20260822015500 +0000" stop="20260822030000 +0000" channel="cubmu.mdtv">
     <title lang="id">Sensasihot</title>
   </programme>
-<programme start="20260822030000 +0000" stop="20260822035000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Bawang Merah Bawang Putih</title>
+<programme start="20260822030000 +0000" stop="20260822040000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Main Drama Casting</title>
   </programme>
-<programme start="20260822035000 +0000" stop="20260822050000 +0000" channel="cubmu.mdtv">
+<programme start="20260822040000 +0000" stop="20260822050000 +0000" channel="cubmu.mdtv">
     <title lang="id">Suci</title>
   </programme>
 <programme start="20260822050000 +0000" stop="20260822060000 +0000" channel="cubmu.mdtv">
     <title lang="id">Resep Chef Devina</title>
   </programme>
 <programme start="20260822060000 +0000" stop="20260822073000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Makan Enak</title>
+    <title lang="id">Makan Enak Lagiii</title>
   </programme>
 <programme start="20260822073000 +0000" stop="20260822090000 +0000" channel="cubmu.mdtv">
     <title lang="id">Laper Mata</title>
@@ -7508,65 +7529,62 @@
 <programme start="20260822090000 +0000" stop="20260822100000 +0000" channel="cubmu.mdtv">
     <title lang="id">Masak Gesss!!!</title>
   </programme>
-<programme start="20260822100000 +0000" stop="20260822103000 +0000" channel="cubmu.mdtv">
+<programme start="20260822100000 +0000" stop="20260822103500 +0000" channel="cubmu.mdtv">
     <title lang="id">Adit Sopo Jarwo</title>
   </programme>
-<programme start="20260822103000 +0000" stop="20260822123000 +0000" channel="cubmu.mdtv">
+<programme start="20260822103500 +0000" stop="20260822122500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Teledrama: Carita De Angel</title>
   </programme>
-<programme start="20260822123000 +0000" stop="20260822133000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Series: Ipar adalah Maut the Series</title>
-  </programme>
-<programme start="20260822133000 +0000" stop="20260822143000 +0000" channel="cubmu.mdtv">
+<programme start="20260822122500 +0000" stop="20260822143500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Series: Kupu Malam</title>
   </programme>
-<programme start="20260822143000 +0000" stop="20260822153000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Fatamorgana</title>
+<programme start="20260822143500 +0000" stop="20260822153000 +0000" channel="cubmu.mdtv">
+    <title lang="id">MD Series: Dunia Tanpa Tuhan</title>
   </programme>
-<programme start="20260822153000 +0000" stop="20260822163000 +0000" channel="cubmu.mdtv">
+<programme start="20260822153000 +0000" stop="20260822163500 +0000" channel="cubmu.mdtv">
     <title lang="id">Jatanras</title>
   </programme>
-<programme start="20260822163000 +0000" stop="20260822173000 +0000" channel="cubmu.mdtv">
+<programme start="20260822163500 +0000" stop="20260822172500 +0000" channel="cubmu.mdtv">
     <title lang="id">Customs Protection</title>
   </programme>
-<programme start="20260822173000 +0000" stop="20260822175500 +0000" channel="cubmu.mdtv">
+<programme start="20260822172500 +0000" stop="20260822175500 +0000" channel="cubmu.mdtv">
     <title lang="id">86</title>
   </programme>
 <programme start="20260822175500 +0000" stop="20260822190000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Eve</title>
+    <title lang="id">My Happy Ending</title>
   </programme>
 <programme start="20260822190000 +0000" stop="20260822200500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Oasis</title>
+    <title lang="id">Are You Human?</title>
   </programme>
 <programme start="20260822200500 +0000" stop="20260822211000 +0000" channel="cubmu.mdtv">
-    <title lang="id">What&apos;s Wrong With Secretary Kim?</title>
+    <title lang="id">Cheat On Me If You Can</title>
   </programme>
-<programme start="20260822211000 +0000" stop="20260822225000 +0000" channel="cubmu.mdtv">
+<programme start="20260822211000 +0000" stop="20260822225500 +0000" channel="cubmu.mdtv">
     <title lang="id">Top Spot</title>
   </programme>
-<programme start="20260822225000 +0000" stop="20260822234500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Menjemput Berkah</title>
+<programme start="20260822225500 +0000" stop="20260822234500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Jelajah Masjid Nusantara</title>
   </programme>
 <programme start="20260822234500 +0000" stop="20260823010000 +0000" channel="cubmu.mdtv">
     <title lang="id">AADD - Ada Apa Dengan Dunia</title>
   </programme>
-<programme start="20260823010000 +0000" stop="20260823020000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Fakta +62</title>
+<programme start="20260823010000 +0000" stop="20260823015500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Fakta +62 Weekend</title>
   </programme>
-<programme start="20260823020000 +0000" stop="20260823030000 +0000" channel="cubmu.mdtv">
+<programme start="20260823015500 +0000" stop="20260823030000 +0000" channel="cubmu.mdtv">
     <title lang="id">Sensasihot</title>
   </programme>
-<programme start="20260823030000 +0000" stop="20260823035500 +0000" channel="cubmu.mdtv">
-    <title lang="id">Bawang Merah Bawang Putih</title>
+<programme start="20260823030000 +0000" stop="20260823040000 +0000" channel="cubmu.mdtv">
+    <title lang="id">Main Drama Casting</title>
   </programme>
-<programme start="20260823035500 +0000" stop="20260823050000 +0000" channel="cubmu.mdtv">
+<programme start="20260823040000 +0000" stop="20260823050000 +0000" channel="cubmu.mdtv">
     <title lang="id">Suci</title>
   </programme>
 <programme start="20260823050000 +0000" stop="20260823060000 +0000" channel="cubmu.mdtv">
     <title lang="id">Resep Chef Devina</title>
   </programme>
 <programme start="20260823060000 +0000" stop="20260823073000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Makan Enak</title>
+    <title lang="id">Makan Enak Lagiii</title>
   </programme>
 <programme start="20260823073000 +0000" stop="20260823090000 +0000" channel="cubmu.mdtv">
     <title lang="id">Laper Mata</title>
@@ -7574,25 +7592,25 @@
 <programme start="20260823090000 +0000" stop="20260823100000 +0000" channel="cubmu.mdtv">
     <title lang="id">Masak Gesss!!!</title>
   </programme>
-<programme start="20260823100000 +0000" stop="20260823103000 +0000" channel="cubmu.mdtv">
+<programme start="20260823100000 +0000" stop="20260823103500 +0000" channel="cubmu.mdtv">
     <title lang="id">Adit Sopo Jarwo</title>
   </programme>
-<programme start="20260823103000 +0000" stop="20260823123000 +0000" channel="cubmu.mdtv">
+<programme start="20260823103500 +0000" stop="20260823122500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Teledrama: Carita De Angel</title>
   </programme>
-<programme start="20260823123000 +0000" stop="20260823133000 +0000" channel="cubmu.mdtv">
-    <title lang="id">MD Series: Ipar adalah Maut the Series</title>
-  </programme>
-<programme start="20260823133000 +0000" stop="20260823143500 +0000" channel="cubmu.mdtv">
+<programme start="20260823122500 +0000" stop="20260823143500 +0000" channel="cubmu.mdtv">
     <title lang="id">MD Series: Kupu Malam</title>
   </programme>
-<programme start="20260823143500 +0000" stop="20260823160000 +0000" channel="cubmu.mdtv">
-    <title lang="id">Gala Cinema MD: Danur: I Can See Ghosts</title>
+<programme start="20260823143500 +0000" stop="20260823153000 +0000" channel="cubmu.mdtv">
+    <title lang="id">MD Series: Dunia Tanpa Tuhan</title>
   </programme>
-<programme start="20260823160000 +0000" stop="20260823171000 +0000" channel="cubmu.mdtv">
+<programme start="20260823153000 +0000" stop="20260823163500 +0000" channel="cubmu.mdtv">
+    <title lang="id">Jatanras</title>
+  </programme>
+<programme start="20260823163500 +0000" stop="20260823172500 +0000" channel="cubmu.mdtv">
     <title lang="id">Customs Protection</title>
   </programme>
-<programme start="20260823171000 +0000" stop="20260823175500 +0000" channel="cubmu.mdtv">
+<programme start="20260823172500 +0000" stop="20260823175500 +0000" channel="cubmu.mdtv">
     <title lang="id">86</title>
   </programme>
 <programme start="20260823175500 +0000" stop="20260823190000 +0000" channel="cubmu.mdtv">
@@ -20798,11 +20816,17 @@
 <programme start="20260817182500 +0000" stop="20260817183000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">See, Learn, Explore--A Deep Travelogue in Tohoku</title>
   </programme>
-<programme start="20260817183000 +0000" stop="20260817191200 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260817183000 +0000" stop="20260817184500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
   </programme>
-<programme start="20260817191200 +0000" stop="20260817200000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260817184500 +0000" stop="20260817191200 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Yamatabi!: 100 Beautiful Mountains of Japan &apos;Yakushima&apos;</title>
+  </programme>
+<programme start="20260817191200 +0000" stop="20260817194500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
+  </programme>
+<programme start="20260817194500 +0000" stop="20260817200000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Fishing Crazy</title>
   </programme>
 <programme start="20260817200000 +0000" stop="20260817201000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">TV Exercise</title>
@@ -20825,14 +20849,35 @@
 <programme start="20260817220000 +0000" stop="20260817230000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News: Good Morning, Japan</title>
   </programme>
-<programme start="20260817230000 +0000" stop="20260818005400 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+<programme start="20260817230000 +0000" stop="20260817231500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 102</title>
+  </programme>
+<programme start="20260817231500 +0000" stop="20260817235000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">asaichi</title>
+  </programme>
+<programme start="20260817235000 +0000" stop="20260817235500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260817235500 +0000" stop="20260818005000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Classical Music Club</title>
+  </programme>
+<programme start="20260818005000 +0000" stop="20260818005400 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260818005400 +0000" stop="20260818005500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
   </programme>
-<programme start="20260818005500 +0000" stop="20260818021700 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260818005500 +0000" stop="20260818010000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Exercise for Everyone</title>
+  </programme>
+<programme start="20260818010000 +0000" stop="20260818010500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260818010500 +0000" stop="20260818020500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Yamatabi!: 100 Beautiful Mountains of Japan &apos;Yakushima&apos;</title>
+  </programme>
+<programme start="20260818020500 +0000" stop="20260818021700 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Magnificent Sight!--Mountain Lodges in Europe</title>
   </programme>
 <programme start="20260818021700 +0000" stop="20260818022000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
@@ -20841,7 +20886,7 @@
     <title lang="id">Documentary on Popular Writers and Their Cats</title>
   </programme>
 <programme start="20260818024500 +0000" stop="20260818025000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+    <title lang="id">RAMEN JAPAN 5min.</title>
   </programme>
 <programme start="20260818025000 +0000" stop="20260818025500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Songs for Everyone</title>
@@ -20859,13 +20904,25 @@
     <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260818033000 +0000" stop="20260818034500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore</title>
+    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore Ep. 12</title>
   </programme>
 <programme start="20260818034500 +0000" stop="20260818040000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 102</title>
   </programme>
-<programme start="20260818040000 +0000" stop="20260818055000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260818040000 +0000" stop="20260818040500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News</title>
+  </programme>
+<programme start="20260818040500 +0000" stop="20260818050000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Classical Music Club</title>
+  </programme>
+<programme start="20260818050000 +0000" stop="20260818050500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260818050500 +0000" stop="20260818053500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">GPS Lines Know Everything</title>
+  </programme>
+<programme start="20260818053500 +0000" stop="20260818055000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">100 Beautiful Mountains of Japan Mini</title>
   </programme>
 <programme start="20260818055000 +0000" stop="20260818055500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -20873,20 +20930,32 @@
 <programme start="20260818055500 +0000" stop="20260818060000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Music Album</title>
   </programme>
-<programme start="20260818060000 +0000" stop="20260818061000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260818060000 +0000" stop="20260818060500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260818060500 +0000" stop="20260818061000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Cruising from the Sky Mini</title>
   </programme>
 <programme start="20260818061000 +0000" stop="20260818062500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Health for Today</title>
   </programme>
-<programme start="20260818062500 +0000" stop="20260818064000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+<programme start="20260818062500 +0000" stop="20260818063000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Fun with Okinawa Dialects</title>
+  </programme>
+<programme start="20260818063000 +0000" stop="20260818064000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Darwin&apos;s Amazing Animals.</title>
   </programme>
 <programme start="20260818064000 +0000" stop="20260818065000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Points at Issue</title>
   </programme>
-<programme start="20260818065000 +0000" stop="20260818074500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260818065000 +0000" stop="20260818072000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">What the Villains Have to Say</title>
+  </programme>
+<programme start="20260818072000 +0000" stop="20260818073500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">GEO JAPAN</title>
+  </programme>
+<programme start="20260818073500 +0000" stop="20260818074500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260818074500 +0000" stop="20260818080000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Nosy&apos;s Inspiring Atelier</title>
@@ -20922,7 +20991,7 @@
     <title lang="id">NHK News 7</title>
   </programme>
 <programme start="20260818103000 +0000" stop="20260818114300 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">所さん！事件ですよ夏休みSP</title>
+    <title lang="id">Tokoro-san&apos;s Pursuit of Truth Special Edition</title>
   </programme>
 <programme start="20260818114300 +0000" stop="20260818114500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -20933,23 +21002,29 @@
 <programme start="20260818120000 +0000" stop="20260818130000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News Watch 9</title>
   </programme>
-<programme start="20260818130000 +0000" stop="20260818143000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Special Drama &apos;Happiness Comes from Eating, Sleeping and Waiting&apos;</title>
+<programme start="20260818130000 +0000" stop="20260818141200 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Special Drama &apos;Happiness Comes from Eating, Sleeping and Waiting&apos; Early Spring Edition</title>
   </programme>
-<programme start="20260818143000 +0000" stop="20260818144000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">News Commentary</title>
-  </programme>
-<programme start="20260818144000 +0000" stop="20260818144500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">News &amp; Weather</title>
-  </programme>
-<programme start="20260818144500 +0000" stop="20260818151500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">International News Report 2026</title>
-  </programme>
-<programme start="20260818151500 +0000" stop="20260818152900 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260818141200 +0000" stop="20260818141500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
   </programme>
-<programme start="20260818152900 +0000" stop="20260818161500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Weather</title>
+<programme start="20260818141500 +0000" stop="20260818144500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">The Winning Meals of Great Historical Figures &apos;Ino Tadataka&apos;</title>
+  </programme>
+<programme start="20260818144500 +0000" stop="20260818145500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">News Commentary</title>
+  </programme>
+<programme start="20260818145500 +0000" stop="20260818150000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">News &amp; Weather</title>
+  </programme>
+<programme start="20260818150000 +0000" stop="20260818153000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">International News Report 2026</title>
+  </programme>
+<programme start="20260818153000 +0000" stop="20260818154500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Fishing Crazy</title>
+  </programme>
+<programme start="20260818154500 +0000" stop="20260818161500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Kanda Hakuzans Ghost Stories: Enhancing the Climax &apos;Oiwa&apos;</title>
   </programme>
 <programme start="20260818161500 +0000" stop="20260818164000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Today&apos;s Cooking</title>
@@ -20958,7 +21033,7 @@
     <title lang="id">Tanka Poetry</title>
   </programme>
 <programme start="20260818170500 +0000" stop="20260818171000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+    <title lang="id">Super Rare! Railroad Treasure Films</title>
   </programme>
 <programme start="20260818171000 +0000" stop="20260818173000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">German in a Happy Mood</title>
@@ -20976,13 +21051,16 @@
     <title lang="id">With Mother</title>
   </programme>
 <programme start="20260818182500 +0000" stop="20260818183000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">100 Beautiful Mountains of Japan Mini</title>
+  </programme>
+<programme start="20260818183000 +0000" stop="20260818184500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 102</title>
+  </programme>
+<programme start="20260818184500 +0000" stop="20260818195700 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Tokoro-san&apos;s Pursuit of Truth Special Edition</title>
+  </programme>
+<programme start="20260818195700 +0000" stop="20260818200000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
-  </programme>
-<programme start="20260818183000 +0000" stop="20260818191200 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
-  </programme>
-<programme start="20260818191200 +0000" stop="20260818200000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Weather</title>
   </programme>
 <programme start="20260818200000 +0000" stop="20260818201000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">TV Exercise</title>
@@ -21003,10 +21081,13 @@
     <title lang="id">News: Good Morning, Japan</title>
   </programme>
 <programme start="20260818230000 +0000" stop="20260818231500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 103</title>
   </programme>
-<programme start="20260818231500 +0000" stop="20260819005400 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Asaichi</title>
+<programme start="20260818231500 +0000" stop="20260819000500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">asaichi</title>
+  </programme>
+<programme start="20260819000500 +0000" stop="20260819005400 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">TBA</title>
   </programme>
 <programme start="20260819005400 +0000" stop="20260819005500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21014,14 +21095,17 @@
 <programme start="20260819005500 +0000" stop="20260819010000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Exercise for Everyone</title>
   </programme>
-<programme start="20260819010000 +0000" stop="20260819021700 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260819010000 +0000" stop="20260819010500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
+  </programme>
+<programme start="20260819010500 +0000" stop="20260819021700 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Special Drama &apos;Happiness Comes from Eating, Sleeping and Waiting&apos; Early Spring Edition</title>
   </programme>
 <programme start="20260819021700 +0000" stop="20260819022000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260819022000 +0000" stop="20260819025000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">The Winning Meals of Great Historical Figures</title>
+    <title lang="id">The Winning Meals of Great Historical Figures &apos;Ino Tadataka&apos;</title>
   </programme>
 <programme start="20260819025000 +0000" stop="20260819025500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Songs for Everyone</title>
@@ -21039,10 +21123,10 @@
     <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260819033000 +0000" stop="20260819034500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore</title>
+    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore Ep. 13</title>
   </programme>
 <programme start="20260819034500 +0000" stop="20260819040000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 103</title>
   </programme>
 <programme start="20260819040000 +0000" stop="20260819040500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News</title>
@@ -21062,11 +21146,29 @@
 <programme start="20260819061000 +0000" stop="20260819062500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Health for Today</title>
   </programme>
-<programme start="20260819062500 +0000" stop="20260819064000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260819062500 +0000" stop="20260819063000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
   </programme>
-<programme start="20260819064000 +0000" stop="20260819082000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Points at Issue</title>
+<programme start="20260819063000 +0000" stop="20260819064000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Darwin&apos;s Amazing Animals.</title>
+  </programme>
+<programme start="20260819064000 +0000" stop="20260819064500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260819064500 +0000" stop="20260819065000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Fun with Okinawa Dialects</title>
+  </programme>
+<programme start="20260819065000 +0000" stop="20260819080300 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Special Drama &apos;Tezuka Osamu&apos;s War&apos;</title>
+  </programme>
+<programme start="20260819080300 +0000" stop="20260819080500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260819080500 +0000" stop="20260819081000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">See, Learn, Explore--A Deep Travelogue in Tohoku</title>
+  </programme>
+<programme start="20260819081000 +0000" stop="20260819082000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Train Driver&apos;s Cab View Mini</title>
   </programme>
 <programme start="20260819082000 +0000" stop="20260819083500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Peek-a-boo</title>
@@ -21089,8 +21191,11 @@
 <programme start="20260819095500 +0000" stop="20260819100000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
   </programme>
-<programme start="20260819100000 +0000" stop="20260819114300 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260819100000 +0000" stop="20260819103000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">NHK News 7</title>
+  </programme>
+<programme start="20260819103000 +0000" stop="20260819114300 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Hidden Doors! Exploring the Unknown World Special Edition &apos;Key to Longevity, Spain&apos;</title>
   </programme>
 <programme start="20260819114300 +0000" stop="20260819114500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21098,11 +21203,17 @@
 <programme start="20260819114500 +0000" stop="20260819120000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">NHK News 845</title>
   </programme>
-<programme start="20260819120000 +0000" stop="20260819134500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260819120000 +0000" stop="20260819130000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News Watch 9</title>
   </programme>
-<programme start="20260819134500 +0000" stop="20260819140000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260819130000 +0000" stop="20260819134500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Budo Mind: KAMIWAZA</title>
+  </programme>
+<programme start="20260819134500 +0000" stop="20260819135000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260819135000 +0000" stop="20260819140000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Darwin&apos;s Amazing Animals.</title>
   </programme>
 <programme start="20260819140000 +0000" stop="20260819143000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Sleepless Night Talk with the Singer AI</title>
@@ -21116,11 +21227,17 @@
 <programme start="20260819144500 +0000" stop="20260819151500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">International News Report 2026</title>
   </programme>
-<programme start="20260819151500 +0000" stop="20260819152900 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260819151500 +0000" stop="20260819151900 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
   </programme>
-<programme start="20260819152900 +0000" stop="20260819161500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260819151900 +0000" stop="20260819152900 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">The Great Nature.</title>
+  </programme>
+<programme start="20260819152900 +0000" stop="20260819153000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
+  </programme>
+<programme start="20260819153000 +0000" stop="20260819161500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">World Song Travel &apos;Malaysia&apos;</title>
   </programme>
 <programme start="20260819161500 +0000" stop="20260819164000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Today&apos;s Cooking</title>
@@ -21129,7 +21246,7 @@
     <title lang="id">Haiku Poetry</title>
   </programme>
 <programme start="20260819170500 +0000" stop="20260819171000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+    <title lang="id">This World is Filled with Wants 5min.</title>
   </programme>
 <programme start="20260819171000 +0000" stop="20260819173000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Spanish in a Happy Mood</title>
@@ -21147,19 +21264,25 @@
     <title lang="id">With Mother</title>
   </programme>
 <programme start="20260819182500 +0000" stop="20260819183000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Japan Genesis: Pilgrimage to the Land of the Gods 5min.</title>
+  </programme>
+<programme start="20260819183000 +0000" stop="20260819184500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 103</title>
+  </programme>
+<programme start="20260819184500 +0000" stop="20260819195700 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Hidden Doors! Exploring the Unknown World Special Edition &apos;Key to Longevity, Spain&apos;</title>
+  </programme>
+<programme start="20260819195700 +0000" stop="20260819200000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
-  </programme>
-<programme start="20260819183000 +0000" stop="20260819191200 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
-  </programme>
-<programme start="20260819191200 +0000" stop="20260819200000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Weather</title>
   </programme>
 <programme start="20260819200000 +0000" stop="20260819201000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">TV Exercise</title>
   </programme>
-<programme start="20260819201000 +0000" stop="20260819205500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260819201000 +0000" stop="20260819202500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Health for Today</title>
+  </programme>
+<programme start="20260819202500 +0000" stop="20260819205500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">GPS Lines Know Everything</title>
   </programme>
 <programme start="20260819205500 +0000" stop="20260819210000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21171,25 +21294,10 @@
     <title lang="id">News: Good Morning, Japan</title>
   </programme>
 <programme start="20260819230000 +0000" stop="20260819231500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 104</title>
   </programme>
-<programme start="20260819231500 +0000" stop="20260820005400 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Asaichi</title>
-  </programme>
-<programme start="20260820005400 +0000" stop="20260820005500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Weather</title>
-  </programme>
-<programme start="20260820005500 +0000" stop="20260820021700 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Exercise for Everyone</title>
-  </programme>
-<programme start="20260820021700 +0000" stop="20260820022000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
-  </programme>
-<programme start="20260820022000 +0000" stop="20260820025000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Sleepless Night Talk with the Singer AI</title>
-  </programme>
-<programme start="20260820025000 +0000" stop="20260820025500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Songs for Everyone</title>
+<programme start="20260819231500 +0000" stop="20260820025500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">The 108th High School Baseball Invitational Tournament: Semi-Finals</title>
   </programme>
 <programme start="20260820025500 +0000" stop="20260820030000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21204,10 +21312,10 @@
     <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260820033000 +0000" stop="20260820034500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore</title>
+    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore Ep. 14</title>
   </programme>
 <programme start="20260820034500 +0000" stop="20260820040000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 104</title>
   </programme>
 <programme start="20260820040000 +0000" stop="20260820040500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News</title>
@@ -21219,7 +21327,7 @@
     <title lang="id">World Weather</title>
   </programme>
 <programme start="20260820055500 +0000" stop="20260820060000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Music Album</title>
+    <title lang="id">We Love Fluffy Animals Mini</title>
   </programme>
 <programme start="20260820060000 +0000" stop="20260820061000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
@@ -21228,10 +21336,19 @@
     <title lang="id">Health for Today</title>
   </programme>
 <programme start="20260820062500 +0000" stop="20260820064000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+    <title lang="id">Magnificent Sight!--Mountain Lodges in Europe</title>
   </programme>
-<programme start="20260820064000 +0000" stop="20260820071500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260820064000 +0000" stop="20260820065000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Points at Issue</title>
+  </programme>
+<programme start="20260820065000 +0000" stop="20260820070500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">GEO JAPAN</title>
+  </programme>
+<programme start="20260820070500 +0000" stop="20260820071000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Trip to the Origin of Japan</title>
+  </programme>
+<programme start="20260820071000 +0000" stop="20260820071500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">JAPAN DELISH</title>
   </programme>
 <programme start="20260820071500 +0000" stop="20260820074500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">SCIENCE ZERO</title>
@@ -21263,8 +21380,14 @@
 <programme start="20260820095500 +0000" stop="20260820100000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
   </programme>
-<programme start="20260820100000 +0000" stop="20260820114300 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260820100000 +0000" stop="20260820103000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">NHK News 7</title>
+  </programme>
+<programme start="20260820103000 +0000" stop="20260820111500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">The &apos;Instruction Manual&apos; Show &apos;Age-Related Anemia&apos;</title>
+  </programme>
+<programme start="20260820111500 +0000" stop="20260820114300 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Tohoku Local Information</title>
   </programme>
 <programme start="20260820114300 +0000" stop="20260820114500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21272,11 +21395,17 @@
 <programme start="20260820114500 +0000" stop="20260820120000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">NHK News 845</title>
   </programme>
-<programme start="20260820120000 +0000" stop="20260820134500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260820120000 +0000" stop="20260820130000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News Watch 9</title>
   </programme>
-<programme start="20260820134500 +0000" stop="20260820143000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+<programme start="20260820130000 +0000" stop="20260820134500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">All Thats Left to Do Is Sleep: A Stroll in the Park</title>
+  </programme>
+<programme start="20260820134500 +0000" stop="20260820140000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">RAMEN JAPAN 15min.</title>
+  </programme>
+<programme start="20260820140000 +0000" stop="20260820143000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">A Hundred-Year Journey &apos;Tochigi&apos; Part 1</title>
   </programme>
 <programme start="20260820143000 +0000" stop="20260820144000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News Commentary</title>
@@ -21326,8 +21455,14 @@
 <programme start="20260820182500 +0000" stop="20260820183000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Hello! NHK WORLD-JAPAN</title>
   </programme>
-<programme start="20260820183000 +0000" stop="20260820195800 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+<programme start="20260820183000 +0000" stop="20260820184500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 104</title>
+  </programme>
+<programme start="20260820184500 +0000" stop="20260820193000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">The &apos;Instruction Manual&apos; Show &apos;Age-Related Anemia&apos;</title>
+  </programme>
+<programme start="20260820193000 +0000" stop="20260820195800 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Tohoku Local Information</title>
   </programme>
 <programme start="20260820195800 +0000" stop="20260820200000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21351,10 +21486,13 @@
     <title lang="id">News: Good Morning, Japan</title>
   </programme>
 <programme start="20260820230000 +0000" stop="20260820231500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 105</title>
   </programme>
-<programme start="20260820231500 +0000" stop="20260821005400 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Asaichi</title>
+<programme start="20260820231500 +0000" stop="20260821000500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">asaichi</title>
+  </programme>
+<programme start="20260821000500 +0000" stop="20260821005400 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">TBA</title>
   </programme>
 <programme start="20260821005400 +0000" stop="20260821005500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21362,11 +21500,14 @@
 <programme start="20260821005500 +0000" stop="20260821010000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Exercise for Everyone</title>
   </programme>
-<programme start="20260821010000 +0000" stop="20260821015500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260821010000 +0000" stop="20260821010500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
   </programme>
+<programme start="20260821010500 +0000" stop="20260821015500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">TBA</title>
+  </programme>
 <programme start="20260821015500 +0000" stop="20260821024500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">NHK Special</title>
+    <title lang="id">NHK Special &apos;White Flag: Mizuki Shigeru and Ioto Island&apos;</title>
   </programme>
 <programme start="20260821024500 +0000" stop="20260821025000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">no art, no life</title>
@@ -21384,13 +21525,13 @@
     <title lang="id">Hello! NHK WORLD-JAPAN</title>
   </programme>
 <programme start="20260821032500 +0000" stop="20260821033000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+    <title lang="id">RAMEN JAPAN 5min.</title>
   </programme>
 <programme start="20260821033000 +0000" stop="20260821034500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore</title>
+    <title lang="id">Drama Serial &apos;Hiyokko&apos; Encore Ep. 15</title>
   </programme>
 <programme start="20260821034500 +0000" stop="20260821040000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 105</title>
   </programme>
 <programme start="20260821040000 +0000" stop="20260821040500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News</title>
@@ -21402,7 +21543,7 @@
     <title lang="id">World Weather</title>
   </programme>
 <programme start="20260821055500 +0000" stop="20260821060000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Music Album</title>
+    <title lang="id">The Great Nature 5min.</title>
   </programme>
 <programme start="20260821060000 +0000" stop="20260821061000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
@@ -21410,11 +21551,26 @@
 <programme start="20260821061000 +0000" stop="20260821062500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Health for Today</title>
   </programme>
-<programme start="20260821062500 +0000" stop="20260821064000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+<programme start="20260821062500 +0000" stop="20260821063500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Giant Trees in Japan Mini</title>
   </programme>
-<programme start="20260821064000 +0000" stop="20260821080000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260821063500 +0000" stop="20260821064000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Camera-eyed Japan</title>
+  </programme>
+<programme start="20260821064000 +0000" stop="20260821065000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mimicries--Natural Science for Kids</title>
+  </programme>
+<programme start="20260821065000 +0000" stop="20260821072000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">A Hundred-Year Journey &apos;Tochigi&apos; Part 1</title>
+  </programme>
+<programme start="20260821072000 +0000" stop="20260821074700 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Special Program</title>
+  </programme>
+<programme start="20260821074700 +0000" stop="20260821075700 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Natural Grandeur of the East Mini</title>
+  </programme>
+<programme start="20260821075700 +0000" stop="20260821080000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260821080000 +0000" stop="20260821081000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">PythagoraSwitch</title>
@@ -21443,8 +21599,11 @@
 <programme start="20260821095500 +0000" stop="20260821100000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
   </programme>
-<programme start="20260821100000 +0000" stop="20260821114300 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260821100000 +0000" stop="20260821103000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">NHK News 7</title>
+  </programme>
+<programme start="20260821103000 +0000" stop="20260821114300 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Trivia Quizzes--You&apos;ll Get Scolded by Chiko-chan! Special Edition</title>
   </programme>
 <programme start="20260821114300 +0000" stop="20260821114500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21452,11 +21611,11 @@
 <programme start="20260821114500 +0000" stop="20260821120000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">NHK News 845</title>
   </programme>
-<programme start="20260821120000 +0000" stop="20260821133000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260821120000 +0000" stop="20260821130000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News Watch 9</title>
   </programme>
-<programme start="20260821133000 +0000" stop="20260821143000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Somewhere Street</title>
+<programme start="20260821130000 +0000" stop="20260821143000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Samurai Drama &apos;Zenigata Heiji&apos;</title>
   </programme>
 <programme start="20260821143000 +0000" stop="20260821144000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News Commentary</title>
@@ -21500,8 +21659,11 @@
 <programme start="20260821182500 +0000" stop="20260821183000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Fun with Okinawa Dialects</title>
   </programme>
-<programme start="20260821183000 +0000" stop="20260821193500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+<programme start="20260821183000 +0000" stop="20260821184500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Ep. 105</title>
+  </programme>
+<programme start="20260821184500 +0000" stop="20260821193500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">NHK Special &apos;Girls at War: The Class Diaries That Live On</title>
   </programme>
 <programme start="20260821193500 +0000" stop="20260821195800 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Delicious Japan!</title>
@@ -21515,8 +21677,11 @@
 <programme start="20260821201000 +0000" stop="20260821202500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Natural Grandeur of the East</title>
   </programme>
-<programme start="20260821202500 +0000" stop="20260821205500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">NHK Regional Showcases</title>
+<programme start="20260821202500 +0000" stop="20260821205200 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">NHK Regional Showcases: Kansai Now</title>
+  </programme>
+<programme start="20260821205200 +0000" stop="20260821205500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260821205500 +0000" stop="20260821210000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21530,17 +21695,23 @@
 <programme start="20260821225900 +0000" stop="20260821230000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
   </programme>
-<programme start="20260821230000 +0000" stop="20260822002800 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+<programme start="20260821230000 +0000" stop="20260821231500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Week 21</title>
   </programme>
-<programme start="20260822002800 +0000" stop="20260822020600 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260821231500 +0000" stop="20260822000000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">TBA</title>
+  </programme>
+<programme start="20260822000000 +0000" stop="20260822002800 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Darwin&apos;s Amazing Animals &apos;Sea Lion VS. Tuna&apos;</title>
+  </programme>
+<programme start="20260822002800 +0000" stop="20260822003000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
   </programme>
-<programme start="20260822020600 +0000" stop="20260822025000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Delicious Japan!</title>
+<programme start="20260822003000 +0000" stop="20260822005000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">TBA</title>
   </programme>
-<programme start="20260822025000 +0000" stop="20260822025600 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Songs for Everyone</title>
+<programme start="20260822005000 +0000" stop="20260822025600 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">The 108th High School Baseball Invitational Tournament: Final Championship Game</title>
   </programme>
 <programme start="20260822025600 +0000" stop="20260822030000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21555,22 +21726,31 @@
     <title lang="id">Fun with Okinawa Dialects</title>
   </programme>
 <programme start="20260822034500 +0000" stop="20260822040000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Week 21</title>
   </programme>
 <programme start="20260822040000 +0000" stop="20260822040500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
   </programme>
 <programme start="20260822040500 +0000" stop="20260822045000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Historical Drama &apos;BROTHERS IN ARMS&apos;</title>
+    <title lang="id">Historical Drama &apos;BROTHERS IN ARMS&apos; Ep. 31</title>
   </programme>
-<programme start="20260822045000 +0000" stop="20260822070000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">PREMIUM SELECTIONS</title>
+<programme start="20260822045000 +0000" stop="20260822055000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Above the Seven Summits: Aerial Photographer Yamamoto Naohiro</title>
   </programme>
-<programme start="20260822070000 +0000" stop="20260822080000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">PREMIUM SELECTIONS</title>
+<programme start="20260822055000 +0000" stop="20260822070200 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Special Drama &apos;Happiness Comes from Eating, Sleeping and Waiting&apos; Early Spring Edition</title>
+  </programme>
+<programme start="20260822070200 +0000" stop="20260822070500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
+  </programme>
+<programme start="20260822070500 +0000" stop="20260822073500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">A Hundred-Year Journey &apos;Tochigi&apos; &apos;Tochigi&apos; Part 2</title>
+  </programme>
+<programme start="20260822073500 +0000" stop="20260822080000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Kyoto&apos;s Finest Goods Travelogue</title>
   </programme>
 <programme start="20260822080000 +0000" stop="20260822083000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Peek-a-boo Wan Wan Wonderland</title>
+    <title lang="id">Peek-a-boo  Wan Wan Wonderland</title>
   </programme>
 <programme start="20260822083000 +0000" stop="20260822083500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Songs for Everyone</title>
@@ -21603,7 +21783,7 @@
     <title lang="id">Strolling with Tamori</title>
   </programme>
 <programme start="20260822110700 +0000" stop="20260822115300 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Project X: The Challengers-New Beginnings</title>
+    <title lang="id">Project X: The Challengers-New Beginnings &apos;Kansai International Airport&apos;</title>
   </programme>
 <programme start="20260822115300 +0000" stop="20260822115500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21614,17 +21794,26 @@
 <programme start="20260822120000 +0000" stop="20260822130000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Saturday Watch 9</title>
   </programme>
-<programme start="20260822130000 +0000" stop="20260822134900 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Saturday Drama</title>
+<programme start="20260822130000 +0000" stop="20260822134500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Saturday Drama &apos;In Lilac Bloom, The Path to a Veterinarian 2&apos; Ep. 1（New）</title>
+  </programme>
+<programme start="20260822134500 +0000" stop="20260822134900 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260822134900 +0000" stop="20260822135500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
   </programme>
-<programme start="20260822135500 +0000" stop="20260822143000 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260822135500 +0000" stop="20260822140000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
   </programme>
-<programme start="20260822143000 +0000" stop="20260822163000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">PREMIUM SELECTIONS</title>
+<programme start="20260822140000 +0000" stop="20260822143000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Comedy Battle! PIN-TWO-THREE</title>
+  </programme>
+<programme start="20260822143000 +0000" stop="20260822160000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Karl and Tina: Embracing Village Life in Japan &apos;2026&apos;</title>
+  </programme>
+<programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">TBA</title>
   </programme>
 <programme start="20260822163000 +0000" stop="20260822170000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Japanese Entertainment Encyclopedia</title>
@@ -21645,10 +21834,13 @@
     <title lang="id">no art, no life</title>
   </programme>
 <programme start="20260822183000 +0000" stop="20260822184500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos;</title>
+    <title lang="id">Drama Serial &apos;The Scent of the Wind&apos; Week 21</title>
   </programme>
-<programme start="20260822184500 +0000" stop="20260822195500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">NHK Special</title>
+<programme start="20260822184500 +0000" stop="20260822193500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">NHK Special &apos;White Flag: Mizuki Shigeru and Ioto Island&apos;</title>
+  </programme>
+<programme start="20260822193500 +0000" stop="20260822195500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Documentary: 20 Minutes</title>
   </programme>
 <programme start="20260822195500 +0000" stop="20260822200000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21657,7 +21849,7 @@
     <title lang="id">Blue &amp; Yellow</title>
   </programme>
 <programme start="20260822201000 +0000" stop="20260822205600 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Project X: The Challengers-New Beginnings</title>
+    <title lang="id">Project X: The Challengers-New Beginnings &apos;Kansai International Airport&apos;</title>
   </programme>
 <programme start="20260822205600 +0000" stop="20260822210000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">World Weather</title>
@@ -21693,7 +21885,7 @@
     <title lang="id">Design Ah! neo</title>
   </programme>
 <programme start="20260823000000 +0000" stop="20260823010000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Sunday Debate</title>
+    <title lang="id">TBA</title>
   </programme>
 <programme start="20260823010000 +0000" stop="20260823010500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
@@ -21708,10 +21900,10 @@
     <title lang="id">SCIENCE ZERO</title>
   </programme>
 <programme start="20260823020000 +0000" stop="20260823024500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Premium Drama &apos;A Town of Blooming Forget-Me-Not&apos;</title>
+    <title lang="id">Premium Drama &apos;A Town of Blooming Forget-Me-Not&apos; Ep. 7</title>
   </programme>
 <programme start="20260823024500 +0000" stop="20260823025000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
+    <title lang="id">This World is Filled with Wants 5min.</title>
   </programme>
 <programme start="20260823025000 +0000" stop="20260823025600 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Ukiyoe EDO-LIFE</title>
@@ -21723,7 +21915,7 @@
     <title lang="id">News</title>
   </programme>
 <programme start="20260823031500 +0000" stop="20260823040000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">NHK Amateur Singing Contest</title>
+    <title lang="id">NHK Amateur Singing Contest &apos;Iwanai Town, Hokkaido&apos;</title>
   </programme>
 <programme start="20260823040000 +0000" stop="20260823040500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
@@ -21734,8 +21926,17 @@
 <programme start="20260823053500 +0000" stop="20260823060000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Gretel&apos;s Magical Oven</title>
   </programme>
-<programme start="20260823060000 +0000" stop="20260823083000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">PREMIUM SELECTIONS</title>
+<programme start="20260823060000 +0000" stop="20260823073000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Karl and Tina: Embracing Village Life in Japan &apos;2026&apos;</title>
+  </programme>
+<programme start="20260823073000 +0000" stop="20260823080000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">With Mother: Requested Songs Special</title>
+  </programme>
+<programme start="20260823080000 +0000" stop="20260823082700 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">NHK Regional Showcases: Kansai Now</title>
+  </programme>
+<programme start="20260823082700 +0000" stop="20260823083000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260823083000 +0000" stop="20260823090000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">With Father</title>
@@ -21756,49 +21957,34 @@
     <title lang="id">NHK News 7</title>
   </programme>
 <programme start="20260823103000 +0000" stop="20260823105800 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Darwin&apos;s Amazing Animals</title>
+    <title lang="id">Darwin&apos;s Amazing Animals &apos;Sea Urchin&apos;</title>
   </programme>
 <programme start="20260823105800 +0000" stop="20260823110000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Mini Program</title>
   </programme>
 <programme start="20260823110000 +0000" stop="20260823114500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Historical Drama &apos;BROTHERS IN ARMS&apos;</title>
+    <title lang="id">Historical Drama &apos;BROTHERS IN ARMS&apos; Ep. 32</title>
   </programme>
 <programme start="20260823114500 +0000" stop="20260823120000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
   </programme>
-<programme start="20260823120000 +0000" stop="20260823124900 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260823120000 +0000" stop="20260823130000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">NHK Special</title>
   </programme>
-<programme start="20260823124900 +0000" stop="20260823125000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Weather</title>
+<programme start="20260823130000 +0000" stop="20260823134500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Premium Drama &apos;A Town of Blooming Forget-Me-Not&apos; Ep. 8</title>
   </programme>
-<programme start="20260823125000 +0000" stop="20260823133500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Premium Drama &apos;A Town of Blooming Forget-Me-Not&apos;</title>
+<programme start="20260823134500 +0000" stop="20260823135000 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Giant Trees in Japan Mini</title>
   </programme>
-<programme start="20260823133500 +0000" stop="20260823134000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Mini Program</title>
-  </programme>
-<programme start="20260823134000 +0000" stop="20260823144300 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260823135000 +0000" stop="20260823135500 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">News &amp; Weather</title>
   </programme>
-<programme start="20260823144300 +0000" stop="20260823144500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Weather</title>
+<programme start="20260823135500 +0000" stop="20260823145500 +0000" channel="cubmu.nhkworldpremium">
+    <title lang="id">Somewhere Street &apos;Chicago, the U.S.&apos;</title>
   </programme>
-<programme start="20260823144500 +0000" stop="20260823153500 +0000" channel="cubmu.nhkworldpremium">
+<programme start="20260823145500 +0000" stop="20260823180000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">Sunday Sports News</title>
-  </programme>
-<programme start="20260823153500 +0000" stop="20260823162000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">NHK Amateur Singing Contest</title>
-  </programme>
-<programme start="20260823162000 +0000" stop="20260823162500 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">World Weather</title>
-  </programme>
-<programme start="20260823162500 +0000" stop="20260823163000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">Songs for Everyone</title>
-  </programme>
-<programme start="20260823163000 +0000" stop="20260823180000 +0000" channel="cubmu.nhkworldpremium">
-    <title lang="id">PREMIUM SELECTIONS</title>
   </programme>
 <programme start="20260823180000 +0000" stop="20260823183000 +0000" channel="cubmu.nhkworldpremium">
     <title lang="id">What the Villains Have to Say</title>
@@ -22065,7 +22251,7 @@
     <title lang="id">Ki Anom Dwijo Kangko</title>
   </programme>
 <programme start="20260818170000 +0000" stop="20260818210000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Cahyo Kuntadi</title>
+    <title lang="id">Ki Anom Dwijo Kangko</title>
   </programme>
 <programme start="20260818210000 +0000" stop="20260818230000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
@@ -22074,64 +22260,67 @@
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260819000000 +0000" stop="20260819010000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyu Bareng</title>
+    <title lang="id">Guyon Gayeng</title>
   </programme>
 <programme start="20260819010000 +0000" stop="20260819013000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
+    <title lang="id">Mlaku-Mlaku</title>
   </programme>
 <programme start="20260819013000 +0000" stop="20260819020000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Goro</title>
-  </programme>
-<programme start="20260819020000 +0000" stop="20260819023000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Jawadwipa</title>
   </programme>
-<programme start="20260819023000 +0000" stop="20260819030000 +0000" channel="cubmu.channeljowo">
+<programme start="20260819020000 +0000" stop="20260819023000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tarian</title>
   </programme>
-<programme start="20260819030000 +0000" stop="20260819040000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
+<programme start="20260819023000 +0000" stop="20260819030000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Wiwitane</title>
   </programme>
-<programme start="20260819040000 +0000" stop="20260819043000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Film Pendek: Mandor Cilik Feat Mursyit Gisum</title>
+<programme start="20260819030000 +0000" stop="20260819033000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Dalang Anak</title>
+  </programme>
+<programme start="20260819033000 +0000" stop="20260819043000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260819043000 +0000" stop="20260819050000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260819050000 +0000" stop="20260819053000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260819053000 +0000" stop="20260819060000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260819060000 +0000" stop="20260819080000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
   </programme>
-<programme start="20260819080000 +0000" stop="20260819090000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyon Gayeng</title>
+<programme start="20260819080000 +0000" stop="20260819083000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Pusaka Jawa</title>
+  </programme>
+<programme start="20260819083000 +0000" stop="20260819090000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260819090000 +0000" stop="20260819100000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260819100000 +0000" stop="20260819103000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Babat Tanah Jowo</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260819103000 +0000" stop="20260819110000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260819110000 +0000" stop="20260819113000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Gumebyar Budoyo</title>
   </programme>
 <programme start="20260819113000 +0000" stop="20260819120000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260819120000 +0000" stop="20260819130000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ketoprak</title>
+    <title lang="id">Wayang Orang</title>
   </programme>
 <programme start="20260819130000 +0000" stop="20260819133000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260819133000 +0000" stop="20260819140000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260819140000 +0000" stop="20260819150000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
@@ -22140,25 +22329,10 @@
     <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260819160000 +0000" stop="20260819170000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Cahyo Kuntadi</title>
+    <title lang="id">Ki Anom Dwijo Kangko</title>
   </programme>
-<programme start="20260819170000 +0000" stop="20260819173000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
-  </programme>
-<programme start="20260819173000 +0000" stop="20260819180000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
-  </programme>
-<programme start="20260819180000 +0000" stop="20260819190000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
-  </programme>
-<programme start="20260819190000 +0000" stop="20260819193000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
-  </programme>
-<programme start="20260819193000 +0000" stop="20260819200000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
-  </programme>
-<programme start="20260819200000 +0000" stop="20260819210000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Punakawan</title>
+<programme start="20260819170000 +0000" stop="20260819210000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ki Anom Dwijo Kangko</title>
   </programme>
 <programme start="20260819210000 +0000" stop="20260819230000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
@@ -22167,55 +22341,58 @@
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260820000000 +0000" stop="20260820010000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyu Bareng</title>
+    <title lang="id">Guyon Gayeng</title>
   </programme>
 <programme start="20260820010000 +0000" stop="20260820013000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
+    <title lang="id">Mlaku-Mlaku</title>
   </programme>
 <programme start="20260820013000 +0000" stop="20260820020000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Goro</title>
-  </programme>
-<programme start="20260820020000 +0000" stop="20260820023000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Jawadwipa</title>
   </programme>
-<programme start="20260820023000 +0000" stop="20260820030000 +0000" channel="cubmu.channeljowo">
+<programme start="20260820020000 +0000" stop="20260820023000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tarian</title>
   </programme>
-<programme start="20260820030000 +0000" stop="20260820040000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
+<programme start="20260820023000 +0000" stop="20260820030000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Wiwitane</title>
   </programme>
-<programme start="20260820040000 +0000" stop="20260820043000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Film Pendek: Cita Cita Eps 2</title>
+<programme start="20260820030000 +0000" stop="20260820033000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Dalang Anak</title>
+  </programme>
+<programme start="20260820033000 +0000" stop="20260820043000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260820043000 +0000" stop="20260820050000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260820050000 +0000" stop="20260820053000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260820053000 +0000" stop="20260820060000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260820060000 +0000" stop="20260820080000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
   </programme>
-<programme start="20260820080000 +0000" stop="20260820090000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyon Gayeng</title>
+<programme start="20260820080000 +0000" stop="20260820083000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Pusaka Jawa</title>
+  </programme>
+<programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260820090000 +0000" stop="20260820100000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260820100000 +0000" stop="20260820103000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Babat Tanah Jowo</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260820103000 +0000" stop="20260820110000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260820110000 +0000" stop="20260820113000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Gumebyar Budoyo</title>
   </programme>
 <programme start="20260820113000 +0000" stop="20260820120000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260820120000 +0000" stop="20260820130000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
@@ -22224,7 +22401,7 @@
     <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260820133000 +0000" stop="20260820140000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260820140000 +0000" stop="20260820150000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
@@ -22233,25 +22410,10 @@
     <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260820160000 +0000" stop="20260820170000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Cahyo Kuntadi</title>
+    <title lang="id">Ki Radyo Harsono</title>
   </programme>
-<programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
-  </programme>
-<programme start="20260820173000 +0000" stop="20260820180000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
-  </programme>
-<programme start="20260820180000 +0000" stop="20260820190000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
-  </programme>
-<programme start="20260820190000 +0000" stop="20260820193000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
-  </programme>
-<programme start="20260820193000 +0000" stop="20260820200000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
-  </programme>
-<programme start="20260820200000 +0000" stop="20260820210000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Punakawan</title>
+<programme start="20260820170000 +0000" stop="20260820210000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ki Radyo Harsono</title>
   </programme>
 <programme start="20260820210000 +0000" stop="20260820230000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
@@ -22260,55 +22422,58 @@
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260821000000 +0000" stop="20260821010000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyu Bareng</title>
+    <title lang="id">Guyon Gayeng</title>
   </programme>
 <programme start="20260821010000 +0000" stop="20260821013000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
+    <title lang="id">Mlaku-Mlaku</title>
   </programme>
 <programme start="20260821013000 +0000" stop="20260821020000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Goro</title>
-  </programme>
-<programme start="20260821020000 +0000" stop="20260821023000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Jawadwipa</title>
   </programme>
-<programme start="20260821023000 +0000" stop="20260821030000 +0000" channel="cubmu.channeljowo">
+<programme start="20260821020000 +0000" stop="20260821023000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tarian</title>
   </programme>
-<programme start="20260821030000 +0000" stop="20260821040000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
+<programme start="20260821023000 +0000" stop="20260821030000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Wiwitane</title>
   </programme>
-<programme start="20260821040000 +0000" stop="20260821043000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Film Pendek: Goro Goro Cita Cita Eps 12</title>
+<programme start="20260821030000 +0000" stop="20260821033000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Dalang Anak</title>
+  </programme>
+<programme start="20260821033000 +0000" stop="20260821043000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260821043000 +0000" stop="20260821050000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260821050000 +0000" stop="20260821053000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260821053000 +0000" stop="20260821060000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260821060000 +0000" stop="20260821080000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
   </programme>
-<programme start="20260821080000 +0000" stop="20260821090000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyon Gayeng</title>
+<programme start="20260821080000 +0000" stop="20260821083000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Pusaka Jawa</title>
+  </programme>
+<programme start="20260821083000 +0000" stop="20260821090000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260821090000 +0000" stop="20260821100000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260821100000 +0000" stop="20260821103000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Babat Tanah Jowo</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260821103000 +0000" stop="20260821110000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260821110000 +0000" stop="20260821113000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Gumebyar Budoyo</title>
   </programme>
 <programme start="20260821113000 +0000" stop="20260821120000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260821120000 +0000" stop="20260821130000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
@@ -22317,7 +22482,7 @@
     <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260821133000 +0000" stop="20260821140000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260821140000 +0000" stop="20260821150000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
@@ -22326,22 +22491,10 @@
     <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260821160000 +0000" stop="20260821170000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Cahyo Kuntadi</title>
+    <title lang="id">Ki Bayu Aji, Ki H Yanto, Ki Srikuncoro</title>
   </programme>
-<programme start="20260821170000 +0000" stop="20260821173000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
-  </programme>
-<programme start="20260821173000 +0000" stop="20260821180000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
-  </programme>
-<programme start="20260821180000 +0000" stop="20260821190000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
-  </programme>
-<programme start="20260821190000 +0000" stop="20260821193000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
-  </programme>
-<programme start="20260821193000 +0000" stop="20260821200000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+<programme start="20260821170000 +0000" stop="20260821200000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ki Bayu Aji, Ki H Yanto, Ki Srikuncoro</title>
   </programme>
 <programme start="20260821200000 +0000" stop="20260821210000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Punakawan</title>
@@ -22353,64 +22506,67 @@
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260822000000 +0000" stop="20260822010000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyu Bareng</title>
+    <title lang="id">Guyon Gayeng</title>
   </programme>
 <programme start="20260822010000 +0000" stop="20260822013000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
+    <title lang="id">Mlaku-Mlaku</title>
   </programme>
 <programme start="20260822013000 +0000" stop="20260822020000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Goro</title>
-  </programme>
-<programme start="20260822020000 +0000" stop="20260822023000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Jawadwipa</title>
   </programme>
-<programme start="20260822023000 +0000" stop="20260822030000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Film Pendek: Kelingan Jaman Mbiyen</title>
-  </programme>
-<programme start="20260822030000 +0000" stop="20260822040000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
-  </programme>
-<programme start="20260822040000 +0000" stop="20260822043000 +0000" channel="cubmu.channeljowo">
+<programme start="20260822020000 +0000" stop="20260822023000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tarian</title>
   </programme>
+<programme start="20260822023000 +0000" stop="20260822030000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Wiwitane</title>
+  </programme>
+<programme start="20260822030000 +0000" stop="20260822033000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Dalang Anak</title>
+  </programme>
+<programme start="20260822033000 +0000" stop="20260822043000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Punakawan</title>
+  </programme>
 <programme start="20260822043000 +0000" stop="20260822050000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260822050000 +0000" stop="20260822053000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260822053000 +0000" stop="20260822060000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260822060000 +0000" stop="20260822080000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
   </programme>
-<programme start="20260822080000 +0000" stop="20260822090000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyon Gayeng</title>
+<programme start="20260822080000 +0000" stop="20260822083000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Pusaka Jawa</title>
+  </programme>
+<programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260822090000 +0000" stop="20260822100000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260822100000 +0000" stop="20260822103000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Babat Tanah Jowo</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260822103000 +0000" stop="20260822110000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260822110000 +0000" stop="20260822113000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Gumebyar Budoyo</title>
   </programme>
 <programme start="20260822113000 +0000" stop="20260822120000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260822120000 +0000" stop="20260822130000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wayang Orang</title>
+    <title lang="id">Ketoprak</title>
   </programme>
 <programme start="20260822130000 +0000" stop="20260822133000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260822133000 +0000" stop="20260822140000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260822140000 +0000" stop="20260822150000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
@@ -22419,10 +22575,13 @@
     <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260822160000 +0000" stop="20260822170000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Anon Dwijokangko</title>
+    <title lang="id">Ki Gunarto Gunotalijendro</title>
   </programme>
-<programme start="20260822170000 +0000" stop="20260822210000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Anon Dwijokangko</title>
+<programme start="20260822170000 +0000" stop="20260822200000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ki Gunarto Gunotalijendro</title>
+  </programme>
+<programme start="20260822200000 +0000" stop="20260822210000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260822210000 +0000" stop="20260822230000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
@@ -22431,64 +22590,67 @@
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260823000000 +0000" stop="20260823010000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyu Bareng</title>
+    <title lang="id">Guyon Gayeng</title>
   </programme>
 <programme start="20260823010000 +0000" stop="20260823013000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
+    <title lang="id">Mlaku-Mlaku</title>
   </programme>
 <programme start="20260823013000 +0000" stop="20260823020000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Goro</title>
-  </programme>
-<programme start="20260823020000 +0000" stop="20260823023000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Jawadwipa</title>
   </programme>
-<programme start="20260823023000 +0000" stop="20260823030000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Film Pendek: Joyo Kendel</title>
-  </programme>
-<programme start="20260823030000 +0000" stop="20260823040000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
-  </programme>
-<programme start="20260823040000 +0000" stop="20260823043000 +0000" channel="cubmu.channeljowo">
+<programme start="20260823020000 +0000" stop="20260823023000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tarian</title>
   </programme>
+<programme start="20260823023000 +0000" stop="20260823030000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Wiwitane</title>
+  </programme>
+<programme start="20260823030000 +0000" stop="20260823033000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Dalang Anak</title>
+  </programme>
+<programme start="20260823033000 +0000" stop="20260823043000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Punakawan</title>
+  </programme>
 <programme start="20260823043000 +0000" stop="20260823050000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260823050000 +0000" stop="20260823053000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260823053000 +0000" stop="20260823060000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260823060000 +0000" stop="20260823080000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
   </programme>
-<programme start="20260823080000 +0000" stop="20260823090000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyon Gayeng</title>
+<programme start="20260823080000 +0000" stop="20260823083000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Pusaka Jawa</title>
+  </programme>
+<programme start="20260823083000 +0000" stop="20260823090000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260823090000 +0000" stop="20260823100000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260823100000 +0000" stop="20260823103000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Babat Tanah Jowo</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260823103000 +0000" stop="20260823110000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260823110000 +0000" stop="20260823113000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Gumebyar Budoyo</title>
   </programme>
 <programme start="20260823113000 +0000" stop="20260823120000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260823120000 +0000" stop="20260823130000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wayang Orang</title>
+    <title lang="id">Ketoprak</title>
   </programme>
 <programme start="20260823130000 +0000" stop="20260823133000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260823133000 +0000" stop="20260823140000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260823140000 +0000" stop="20260823150000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
@@ -22497,10 +22659,10 @@
     <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260823160000 +0000" stop="20260823170000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Purbo Asmoro</title>
+    <title lang="id">Ki Cahyo Kuntadi</title>
   </programme>
 <programme start="20260823170000 +0000" stop="20260823210000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Purbo Asmoro</title>
+    <title lang="id">Ki Cahyo Kuntadi</title>
   </programme>
 <programme start="20260823210000 +0000" stop="20260823230000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
@@ -22509,64 +22671,67 @@
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260824000000 +0000" stop="20260824010000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyu Bareng</title>
+    <title lang="id">Guyon Gayeng</title>
   </programme>
 <programme start="20260824010000 +0000" stop="20260824013000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jowo Pedia</title>
+    <title lang="id">Mlaku-Mlaku</title>
   </programme>
 <programme start="20260824013000 +0000" stop="20260824020000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Goro</title>
-  </programme>
-<programme start="20260824020000 +0000" stop="20260824023000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Jawadwipa</title>
   </programme>
-<programme start="20260824023000 +0000" stop="20260824030000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Film Pendek: Melu Parade Sound Horeg</title>
-  </programme>
-<programme start="20260824030000 +0000" stop="20260824040000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Tembang Jowo</title>
-  </programme>
-<programme start="20260824040000 +0000" stop="20260824043000 +0000" channel="cubmu.channeljowo">
+<programme start="20260824020000 +0000" stop="20260824023000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tarian</title>
   </programme>
+<programme start="20260824023000 +0000" stop="20260824030000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Wiwitane</title>
+  </programme>
+<programme start="20260824030000 +0000" stop="20260824033000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Dalang Anak</title>
+  </programme>
+<programme start="20260824033000 +0000" stop="20260824043000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Punakawan</title>
+  </programme>
 <programme start="20260824043000 +0000" stop="20260824050000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ragam Desa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260824050000 +0000" stop="20260824053000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260824053000 +0000" stop="20260824060000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Wiwitane</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260824060000 +0000" stop="20260824080000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Wayang Orang</title>
   </programme>
-<programme start="20260824080000 +0000" stop="20260824090000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Guyon Gayeng</title>
+<programme start="20260824080000 +0000" stop="20260824083000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Pusaka Jawa</title>
+  </programme>
+<programme start="20260824083000 +0000" stop="20260824090000 +0000" channel="cubmu.channeljowo">
+    <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260824090000 +0000" stop="20260824100000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
   </programme>
 <programme start="20260824100000 +0000" stop="20260824103000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Babat Tanah Jowo</title>
+    <title lang="id">Nusantara</title>
   </programme>
 <programme start="20260824103000 +0000" stop="20260824110000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Jawadwipa</title>
+    <title lang="id">Jowo Pedia</title>
   </programme>
 <programme start="20260824110000 +0000" stop="20260824113000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Gumebyar Budoyo</title>
   </programme>
 <programme start="20260824113000 +0000" stop="20260824120000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Nusantara</title>
+    <title lang="id">Jawadwipa</title>
   </programme>
 <programme start="20260824120000 +0000" stop="20260824130000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ketoprak</title>
+    <title lang="id">Wayang Orang</title>
   </programme>
 <programme start="20260824130000 +0000" stop="20260824133000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Ragam Desa</title>
   </programme>
 <programme start="20260824133000 +0000" stop="20260824140000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Pusaka Jawa</title>
+    <title lang="id">Babat Tanah Jowo</title>
   </programme>
 <programme start="20260824140000 +0000" stop="20260824150000 +0000" channel="cubmu.channeljowo">
     <title lang="id">Tembang Jowo</title>
@@ -22575,7 +22740,7 @@
     <title lang="id">Punakawan</title>
   </programme>
 <programme start="20260824160000 +0000" stop="20260824170000 +0000" channel="cubmu.channeljowo">
-    <title lang="id">Ki Bayu Aji</title>
+    <title lang="id">Ki Cahyo Kuntadi</title>
   </programme>
 <programme start="20260817170000 +0000" stop="20260817180000 +0000" channel="cubmu.nsert">
     <title lang="id">Insert Today</title>
@@ -42855,16 +43020,16 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260817173000 +0000" stop="20260817180000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Documentary</title>
+    <title lang="id">Going Underground</title>
   </programme>
 <programme start="20260817180000 +0000" stop="20260817183000 +0000" channel="cubmu.russiatoday">
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260817183000 +0000" stop="20260817190000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260817190000 +0000" stop="20260817193000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Headline News</title>
   </programme>
 <programme start="20260817193000 +0000" stop="20260817200000 +0000" channel="cubmu.russiatoday">
     <title lang="id">Cross Talk</title>
@@ -42885,7 +43050,7 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260817223000 +0000" stop="20260817230000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect Short</title>
+    <title lang="id">Going Underground</title>
   </programme>
 <programme start="20260817230000 +0000" stop="20260817233000 +0000" channel="cubmu.russiatoday">
     <title lang="id">Miami America Now Live</title>
@@ -42909,7 +43074,7 @@
     <title lang="id">Miami America Now Live</title>
   </programme>
 <programme start="20260818023000 +0000" stop="20260818030000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect Short</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260818030000 +0000" stop="20260818033000 +0000" channel="cubmu.russiatoday">
     <title lang="id">Miami America Now</title>
@@ -42933,10 +43098,10 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260818063000 +0000" stop="20260818070000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260818070000 +0000" stop="20260818073000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Headline News</title>
   </programme>
 <programme start="20260818073000 +0000" stop="20260818080000 +0000" channel="cubmu.russiatoday">
     <title lang="id">Documentary</title>
@@ -42981,10 +43146,10 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260818143000 +0000" stop="20260818150000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect Live</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260818150000 +0000" stop="20260818153000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect Live</title>
+    <title lang="id">Headline News</title>
   </programme>
 <programme start="20260818153000 +0000" stop="20260818160000 +0000" channel="cubmu.russiatoday">
     <title lang="id">In Conversation with Salman Khurshid</title>
@@ -43005,10 +43170,10 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260818183000 +0000" stop="20260818190000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260818190000 +0000" stop="20260818193000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Headline News</title>
   </programme>
 <programme start="20260818193000 +0000" stop="20260818200000 +0000" channel="cubmu.russiatoday">
     <title lang="id">In Conversation with Salman Khurshid</title>
@@ -43029,7 +43194,7 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260818223000 +0000" stop="20260818230000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect Short</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260818230000 +0000" stop="20260818233000 +0000" channel="cubmu.russiatoday">
     <title lang="id">Miami America Now Live</title>
@@ -43053,16 +43218,16 @@
     <title lang="id">Miami America Now Live</title>
   </programme>
 <programme start="20260819023000 +0000" stop="20260819030000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect Short</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260819030000 +0000" stop="20260819033000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Miami America Now Live</title>
+    <title lang="id">Miami America Now</title>
   </programme>
 <programme start="20260819033000 +0000" stop="20260819040000 +0000" channel="cubmu.russiatoday">
     <title lang="id">In Conversation with Salman Khurshid</title>
   </programme>
 <programme start="20260819040000 +0000" stop="20260819043000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Miami America Now Live</title>
+    <title lang="id">Miami America Now</title>
   </programme>
 <programme start="20260819043000 +0000" stop="20260819050000 +0000" channel="cubmu.russiatoday">
     <title lang="id">Documentary</title>
@@ -43077,10 +43242,10 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260819063000 +0000" stop="20260819070000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260819070000 +0000" stop="20260819073000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Headline News</title>
   </programme>
 <programme start="20260819073000 +0000" stop="20260819080000 +0000" channel="cubmu.russiatoday">
     <title lang="id">In Conversation with Salman Khurshid</title>
@@ -43125,10 +43290,10 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260819143000 +0000" stop="20260819150000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect Live</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260819150000 +0000" stop="20260819153000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect Live</title>
+    <title lang="id">Headline News</title>
   </programme>
 <programme start="20260819153000 +0000" stop="20260819160000 +0000" channel="cubmu.russiatoday">
     <title lang="id">Cross Talk</title>
@@ -43149,10 +43314,10 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260819183000 +0000" stop="20260819190000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260819190000 +0000" stop="20260819193000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Headline News</title>
   </programme>
 <programme start="20260819193000 +0000" stop="20260819200000 +0000" channel="cubmu.russiatoday">
     <title lang="id">Cross Talk</title>
@@ -43173,7 +43338,7 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260819223000 +0000" stop="20260819230000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect Short</title>
+    <title lang="id">Cross Talk</title>
   </programme>
 <programme start="20260819230000 +0000" stop="20260819233000 +0000" channel="cubmu.russiatoday">
     <title lang="id">Miami America Now Live</title>
@@ -43197,7 +43362,7 @@
     <title lang="id">Miami America Now Live</title>
   </programme>
 <programme start="20260820023000 +0000" stop="20260820030000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect Short</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260820030000 +0000" stop="20260820033000 +0000" channel="cubmu.russiatoday">
     <title lang="id">Miami America Now</title>
@@ -43221,10 +43386,10 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260820063000 +0000" stop="20260820070000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260820070000 +0000" stop="20260820073000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Headline News</title>
   </programme>
 <programme start="20260820073000 +0000" stop="20260820080000 +0000" channel="cubmu.russiatoday">
     <title lang="id">Documentary</title>
@@ -43269,10 +43434,10 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260820143000 +0000" stop="20260820150000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect Live</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260820150000 +0000" stop="20260820153000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect Live</title>
+    <title lang="id">Headline News</title>
   </programme>
 <programme start="20260820153000 +0000" stop="20260820160000 +0000" channel="cubmu.russiatoday">
     <title lang="id">India, Russia and the World with Runjhun Sharma</title>
@@ -43293,10 +43458,10 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260820183000 +0000" stop="20260820190000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260820190000 +0000" stop="20260820193000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Headline News</title>
   </programme>
 <programme start="20260820193000 +0000" stop="20260820200000 +0000" channel="cubmu.russiatoday">
     <title lang="id">India, Russia and the World with Runjhun Sharma</title>
@@ -43317,7 +43482,7 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260820223000 +0000" stop="20260820230000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect Short</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260820230000 +0000" stop="20260820233000 +0000" channel="cubmu.russiatoday">
     <title lang="id">Miami America Now Live</title>
@@ -43341,7 +43506,7 @@
     <title lang="id">Miami America Now Live</title>
   </programme>
 <programme start="20260821023000 +0000" stop="20260821030000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect Short</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260821030000 +0000" stop="20260821033000 +0000" channel="cubmu.russiatoday">
     <title lang="id">Miami America Now</title>
@@ -43365,10 +43530,10 @@
     <title lang="id">Headline News</title>
   </programme>
 <programme start="20260821063000 +0000" stop="20260821070000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Documentary</title>
   </programme>
 <programme start="20260821070000 +0000" stop="20260821073000 +0000" channel="cubmu.russiatoday">
-    <title lang="id">Sanchez Effect</title>
+    <title lang="id">Headline News</title>
   </programme>
 <programme start="20260821073000 +0000" stop="20260821080000 +0000" channel="cubmu.russiatoday">
     <title lang="id">India, Russia and the World with Runjhun Sharma</title>
