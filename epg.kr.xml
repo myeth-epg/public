@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260818225013 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
+<tv date="20260819071347 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="KR-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -6437,11 +6437,11 @@
     <category>연예/오락 / 인포테인먼트</category>
   </programme>
 <programme start="20260819040000 +0000" stop="20260819053000 +0000" channel="skylife.sbs.biz">
-    <title>마켓&amp;머니</title>
+    <title>[미 국채 금리 발작, 시장 타격]마켓&amp;머니</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260819053000 +0000" stop="20260819063000 +0000" channel="skylife.sbs.biz">
-    <title>경제현장 오늘</title>
+    <title>[미국 국채금리 &apos;쇼크&apos;]경제현장 오늘</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260819063000 +0000" stop="20260819065000 +0000" channel="skylife.sbs.biz">
@@ -6449,7 +6449,7 @@
     <category>뉴스 / 경제(산업/부동산)</category>
   </programme>
 <programme start="20260819065000 +0000" stop="20260819080000 +0000" channel="skylife.sbs.biz">
-    <title>오늘 경제 안녕하십니까?</title>
+    <title>[미 국채수익률 쇼크 &apos;반도체&apos; 직격]오늘 경제 안녕하십니까?</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260819080000 +0000" stop="20260819090000 +0000" channel="skylife.sbs.biz">
@@ -6471,7 +6471,7 @@
     <category>시사/다큐 / 일반</category>
   </programme>
 <programme start="20260819103000 +0000" stop="20260819113000 +0000" channel="skylife.sbs.biz">
-    <title>오늘 경제 안녕하십니까?</title>
+    <title>[미 국채수익률 쇼크 &apos;반도체&apos; 직격]오늘 경제 안녕하십니까?</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260819113000 +0000" stop="20260819123000 +0000" channel="skylife.sbs.biz">
@@ -8234,7 +8234,7 @@
     <category>홈쇼핑 / 식품</category>
   </programme>
 <programme start="20260819063000 +0000" stop="20260819073000 +0000" channel="skylife.cj.온스타일">
-    <title>라이나생명 심플건강보험</title>
+    <title>[보험]라이나생명 심플건강보험</title>
     <category>홈쇼핑 / 금융/보험/상조</category>
   </programme>
 <programme start="20260819073000 +0000" stop="20260819093000 +0000" channel="skylife.cj.온스타일">
@@ -10372,7 +10372,7 @@
     <category>뉴스 / 뉴스</category>
   </programme>
 <programme start="20260819153000 +0000" stop="20260819163000 +0000" channel="skylife.sbs.biz">
-    <title>오늘 경제 안녕하십니까?</title>
+    <title>[미 국채수익률 쇼크 &apos;반도체&apos; 직격]오늘 경제 안녕하십니까?</title>
     <category>교양/정보 / 경제(산업)</category>
   </programme>
 <programme start="20260819163000 +0000" stop="20260819173000 +0000" channel="skylife.sbs.biz">
@@ -19822,7 +19822,11 @@
     <title>AI 드라마 - 부활수업</title>
     <category>시사/다큐 / 일반</category>
   </programme>
-<programme start="20260823025500 +0000" stop="20260823033500 +0000" channel="skylife.ebs">
+<programme start="20260823025500 +0000" stop="20260823031500 +0000" channel="skylife.ebs">
+    <title>기획강연 청년에게</title>
+    <category>교양/정보 / 일반</category>
+  </programme>
+<programme start="20260823031500 +0000" stop="20260823033500 +0000" channel="skylife.ebs">
     <title>기획강연 청년에게</title>
     <category>교양/정보 / 일반</category>
   </programme>
@@ -25419,13 +25423,14 @@
     <title>최강기업</title>
     <category>교양/정보 / 일반</category>
   </programme>
-<programme start="20260823175000 +0000" stop="20260823181500 +0000" channel="skylife.ytn">
+<programme start="20260823175000 +0000" stop="20260823182000 +0000" channel="skylife.ytn">
     <title>YTN 24</title>
     <desc>뉴스 채널 YTN의 기본축을 이루는 뉴스 프로그램.  정확성과 속보성을 최대한 살려 최신 정보를 필요로하는 시청자들의 욕구를 만족시켜 준다.  특히 뉴스 휠 방식을 도입함으로써 그 날의 주요 뉴스와 함께 방송시간 직전까지 기자들이 송고한 최신 소식을 매시간 뉴스 편집에 반영함으로써 가장 생생한 소식을 시청자들에게 전달한다.  또 진행 중인 사건, 사고의 변화되는 상황을 그때 그때 전달해 뉴스에 대한 시청자들의 궁금증을 해소하고 전반적인 변화에 대한 시청자들의 이해를 돕는다.</desc>
     <category>뉴스 / 뉴스</category>
   </programme>
-<programme start="20260823181500 +0000" stop="20260823185000 +0000" channel="skylife.ytn">
-    <title>특집-더 프롬프트</title>
+<programme start="20260823182000 +0000" stop="20260823185000 +0000" channel="skylife.ytn">
+    <title>글로벌코리안</title>
+    <desc>해외 동포들의 삶과 현안들을 현지통신원을 통해 알아본다.</desc>
     <category>교양/정보 / 일반</category>
   </programme>
 <programme start="20260823185000 +0000" stop="20260823195000 +0000" channel="skylife.ytn">
@@ -25444,43 +25449,37 @@
     <title>뉴스START</title>
     <category>뉴스 / 일반</category>
   </programme>
-<programme start="20260823225000 +0000" stop="20260824005000 +0000" channel="skylife.ytn">
-    <title>YTN 뉴스 와이드</title>
-    <desc>방송 시점까지 들어온 소식을 총정리해 시청자들의 전반적인 이해를 돕는 뉴스프로그램</desc>
-    <category>뉴스 / 뉴스</category>
-  </programme>
-<programme start="20260824005000 +0000" stop="20260824025000 +0000" channel="skylife.ytn">
-    <title>YTN 뉴스 와이드</title>
-    <desc>방송 시점까지 들어온 소식을 총정리해 시청자들의 전반적인 이해를 돕는 뉴스프로그램</desc>
-    <category>뉴스 / 뉴스</category>
-  </programme>
-<programme start="20260824025000 +0000" stop="20260824045000 +0000" channel="skylife.ytn">
-    <title>YTN 뉴스 와이드</title>
-    <desc>방송 시점까지 들어온 소식을 총정리해 시청자들의 전반적인 이해를 돕는 뉴스프로그램</desc>
-    <category>뉴스 / 뉴스</category>
-  </programme>
-<programme start="20260824045000 +0000" stop="20260824054000 +0000" channel="skylife.ytn">
-    <title>YTN 24</title>
-    <desc>뉴스 채널 YTN의 기본축을 이루는 뉴스 프로그램.  정확성과 속보성을 최대한 살려 최신 정보를 필요로하는 시청자들의 욕구를 만족시켜 준다.  특히 뉴스 휠 방식을 도입함으로써 그 날의 주요 뉴스와 함께 방송시간 직전까지 기자들이 송고한 최신 소식을 매시간 뉴스 편집에 반영함으로써 가장 생생한 소식을 시청자들에게 전달한다.  또 진행 중인 사건, 사고의 변화되는 상황을 그때 그때 전달해 뉴스에 대한 시청자들의 궁금증을 해소하고 전반적인 변화에 대한 시청자들의 이해를 돕는다.</desc>
-    <category>뉴스 / 뉴스</category>
-  </programme>
-<programme start="20260824054000 +0000" stop="20260824065000 +0000" channel="skylife.ytn">
-    <title>뉴스특보</title>
+<programme start="20260823225000 +0000" stop="20260824004000 +0000" channel="skylife.ytn">
+    <title>뉴스UP</title>
     <category>뉴스 / 일반</category>
   </programme>
-<programme start="20260824065000 +0000" stop="20260824105000 +0000" channel="skylife.ytn">
-    <title>뉴스특보</title>
+<programme start="20260824004000 +0000" stop="20260824024000 +0000" channel="skylife.ytn">
+    <title>뉴스퀘어 10AM</title>
     <category>뉴스 / 일반</category>
   </programme>
-<programme start="20260824105000 +0000" stop="20260824125000 +0000" channel="skylife.ytn">
-    <title>YTN 뉴스 와이드</title>
-    <desc>방송 시점까지 들어온 소식을 총정리해 시청자들의 전반적인 이해를 돕는 뉴스프로그램</desc>
-    <category>뉴스 / 뉴스</category>
+<programme start="20260824024000 +0000" stop="20260824045000 +0000" channel="skylife.ytn">
+    <title>뉴스NOW</title>
+    <category>뉴스 / 일반</category>
   </programme>
-<programme start="20260824125000 +0000" stop="20260824145000 +0000" channel="skylife.ytn">
-    <title>YTN 뉴스 와이드</title>
-    <desc>방송 시점까지 들어온 소식을 총정리해 시청자들의 전반적인 이해를 돕는 뉴스프로그램</desc>
-    <category>뉴스 / 뉴스</category>
+<programme start="20260824045000 +0000" stop="20260824065000 +0000" channel="skylife.ytn">
+    <title>뉴스퀘어 2PM</title>
+    <category>뉴스 / 일반</category>
+  </programme>
+<programme start="20260824065000 +0000" stop="20260824085000 +0000" channel="skylife.ytn">
+    <title>뉴스ON</title>
+    <category>뉴스 / 일반</category>
+  </programme>
+<programme start="20260824085000 +0000" stop="20260824105000 +0000" channel="skylife.ytn">
+    <title>뉴스PLUS</title>
+    <category>뉴스 / 일반</category>
+  </programme>
+<programme start="20260824105000 +0000" stop="20260824124000 +0000" channel="skylife.ytn">
+    <title>뉴스퀘어 8PM</title>
+    <category>뉴스 / 일반</category>
+  </programme>
+<programme start="20260824124000 +0000" stop="20260824145000 +0000" channel="skylife.ytn">
+    <title>뉴스NIGHT</title>
+    <category>뉴스 / 일반</category>
   </programme>
 <programme start="20260824145000 +0000" stop="20260824155000 +0000" channel="skylife.ytn">
     <title>YTN 24</title>
@@ -26674,55 +26673,55 @@
     <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260823210000 +0000" stop="20260823211500 +0000" channel="skylife.애니맥스">
-    <title>로보카 폴리 5</title>
-    <category>만화 / 모험(adventure)</category>
+    <title>엄마 까투리6</title>
+    <category>만화 / 명랑</category>
   </programme>
 <programme start="20260823211500 +0000" stop="20260823213000 +0000" channel="skylife.애니맥스">
-    <title>로보카 폴리 5</title>
-    <category>만화 / 모험(adventure)</category>
+    <title>엄마 까투리6</title>
+    <category>만화 / 명랑</category>
   </programme>
 <programme start="20260823213000 +0000" stop="20260823220000 +0000" channel="skylife.애니맥스">
-    <title>레고 드림즈2</title>
+    <title>레고 드림즈3</title>
     <category>만화 / 액션/무협</category>
   </programme>
 <programme start="20260823220000 +0000" stop="20260823223000 +0000" channel="skylife.애니맥스">
-    <title>흔한남매의 흔한실사판</title>
+    <title>푸먹</title>
     <category>만화 / 명랑</category>
   </programme>
 <programme start="20260823223000 +0000" stop="20260823230000 +0000" channel="skylife.애니맥스">
-    <title>흔한남매의 흔한실사판</title>
+    <title>푸먹</title>
     <category>만화 / 명랑</category>
   </programme>
 <programme start="20260823230000 +0000" stop="20260823233000 +0000" channel="skylife.애니맥스">
-    <title>흔한남매의 흔한실사판</title>
+    <title>흔한남매의 흔한게임</title>
     <category>만화 / 명랑</category>
   </programme>
 <programme start="20260823233000 +0000" stop="20260824000000 +0000" channel="skylife.애니맥스">
-    <title>흔한남매의 흔한실사판</title>
+    <title>흔한남매의 흔한게임</title>
     <category>만화 / 명랑</category>
   </programme>
 <programme start="20260824000000 +0000" stop="20260824003000 +0000" channel="skylife.애니맥스">
-    <title>흔한남매의 흔한실사판</title>
+    <title>총몇명3</title>
     <category>만화 / 명랑</category>
   </programme>
 <programme start="20260824003000 +0000" stop="20260824010000 +0000" channel="skylife.애니맥스">
-    <title>흔한남매의 흔한실사판</title>
+    <title>총몇명3</title>
     <category>만화 / 명랑</category>
   </programme>
 <programme start="20260824010000 +0000" stop="20260824013000 +0000" channel="skylife.애니맥스">
-    <title>흔한남매의 흔한실사판</title>
+    <title>총몇명3</title>
     <category>만화 / 명랑</category>
   </programme>
 <programme start="20260824013000 +0000" stop="20260824020000 +0000" channel="skylife.애니맥스">
-    <title>흔한남매의 흔한실사판</title>
+    <title>총몇명3</title>
     <category>만화 / 명랑</category>
   </programme>
 <programme start="20260824020000 +0000" stop="20260824023000 +0000" channel="skylife.애니맥스">
-    <title>흔한남매의 흔한실사판</title>
+    <title>총몇명3</title>
     <category>만화 / 명랑</category>
   </programme>
 <programme start="20260824023000 +0000" stop="20260824030000 +0000" channel="skylife.애니맥스">
-    <title>흔한남매의 흔한실사판</title>
+    <title>총몇명3</title>
     <category>만화 / 명랑</category>
   </programme>
 <programme start="20260824030000 +0000" stop="20260824033000 +0000" channel="skylife.애니맥스">
@@ -26734,28 +26733,28 @@
     <category>만화 / 코믹</category>
   </programme>
 <programme start="20260824040000 +0000" stop="20260824043000 +0000" channel="skylife.애니맥스">
-    <title>백앤아: 고고프렌즈 - 아기 고고프렌즈와 숨바꼭질</title>
-    <category>연예/오락 / 일반</category>
+    <title>뚜식이10</title>
+    <category>만화 / 코믹</category>
   </programme>
 <programme start="20260824043000 +0000" stop="20260824050000 +0000" channel="skylife.애니맥스">
-    <title>백앤아: 고고프렌즈 - 아기 고고프렌즈와 숨바꼭질</title>
+    <title>백앤아: 고고프렌즈5</title>
     <category>연예/오락 / 일반</category>
   </programme>
 <programme start="20260824050000 +0000" stop="20260824053000 +0000" channel="skylife.애니맥스">
-    <title>백앤아: 고고프렌즈 - 아기 고고프렌즈와 숨바꼭질</title>
+    <title>백앤아: 고고프렌즈5</title>
     <category>연예/오락 / 일반</category>
   </programme>
 <programme start="20260824053000 +0000" stop="20260824060000 +0000" channel="skylife.애니맥스">
-    <title>백앤아: 고고프렌즈 - 아기 고고프렌즈와 숨바꼭질</title>
+    <title>백앤아: 고고프렌즈5</title>
     <category>연예/오락 / 일반</category>
   </programme>
 <programme start="20260824060000 +0000" stop="20260824063000 +0000" channel="skylife.애니맥스">
-    <title>백앤아: 고고프렌즈 - 아기 고고프렌즈와 숨바꼭질</title>
-    <category>연예/오락 / 일반</category>
+    <title>명탐정 코난 스페셜: 열혈 탐정 하인성</title>
+    <category>만화 / 탐정</category>
   </programme>
 <programme start="20260824063000 +0000" stop="20260824070000 +0000" channel="skylife.애니맥스">
-    <title>백앤아: 고고프렌즈 - 아기 고고프렌즈와 숨바꼭질</title>
-    <category>연예/오락 / 일반</category>
+    <title>명탐정 코난 스페셜: 열혈 탐정 하인성</title>
+    <category>만화 / 탐정</category>
   </programme>
 <programme start="20260824070000 +0000" stop="20260824073000 +0000" channel="skylife.애니맥스">
     <title>비밀의 아이프리</title>
@@ -26771,33 +26770,53 @@
     <desc>신비한 메탈브레스의 주인이 된 준! 블루캅과 함께 메탈카드봇들을 봉인하라!</desc>
     <category>만화 / 액션/무협</category>
   </programme>
-<programme start="20260824080000 +0000" stop="20260824094500 +0000" channel="skylife.애니맥스">
-    <title>라바 아일랜드 무비</title>
-    <category>영화 / 애니메이션</category>
+<programme start="20260824080000 +0000" stop="20260824083000 +0000" channel="skylife.애니맥스">
+    <title>뚜식이6</title>
+    <category>만화 / 코믹</category>
   </programme>
-<programme start="20260824094500 +0000" stop="20260824103000 +0000" channel="skylife.애니맥스">
-    <title>라바 펜던트</title>
+<programme start="20260824083000 +0000" stop="20260824090000 +0000" channel="skylife.애니맥스">
+    <title>뚜식이6</title>
+    <category>만화 / 코믹</category>
+  </programme>
+<programme start="20260824090000 +0000" stop="20260824093000 +0000" channel="skylife.애니맥스">
+    <title>푸먹</title>
     <category>만화 / 명랑</category>
   </programme>
-<programme start="20260824103000 +0000" stop="20260824110000 +0000" channel="skylife.애니맥스">
-    <title>뚜식이10</title>
-    <category>만화 / 코믹</category>
+<programme start="20260824093000 +0000" stop="20260824100000 +0000" channel="skylife.애니맥스">
+    <title>푸먹</title>
+    <category>만화 / 명랑</category>
+  </programme>
+<programme start="20260824100000 +0000" stop="20260824101500 +0000" channel="skylife.애니맥스">
+    <title>슈크림 토끼 슈야</title>
+    <category>만화 / 취미</category>
+  </programme>
+<programme start="20260824101500 +0000" stop="20260824103000 +0000" channel="skylife.애니맥스">
+    <title>슈크림 토끼 슈야</title>
+    <category>만화 / 취미</category>
+  </programme>
+<programme start="20260824103000 +0000" stop="20260824104500 +0000" channel="skylife.애니맥스">
+    <title>슈크림 토끼 슈야</title>
+    <category>만화 / 취미</category>
+  </programme>
+<programme start="20260824104500 +0000" stop="20260824110000 +0000" channel="skylife.애니맥스">
+    <title>슈크림 토끼 슈야</title>
+    <category>만화 / 취미</category>
   </programme>
 <programme start="20260824110000 +0000" stop="20260824113000 +0000" channel="skylife.애니맥스">
-    <title>뚜식이10</title>
-    <category>만화 / 코믹</category>
+    <title>백앤아: 고고프렌즈5</title>
+    <category>연예/오락 / 일반</category>
   </programme>
 <programme start="20260824113000 +0000" stop="20260824120000 +0000" channel="skylife.애니맥스">
-    <title>뚜식이10</title>
-    <category>만화 / 코믹</category>
+    <title>백앤아: 고고프렌즈5</title>
+    <category>연예/오락 / 일반</category>
   </programme>
 <programme start="20260824120000 +0000" stop="20260824123000 +0000" channel="skylife.애니맥스">
-    <title>뚜식이10</title>
-    <category>만화 / 코믹</category>
+    <title>명탐정 코난11</title>
+    <category>만화 / 탐정</category>
   </programme>
 <programme start="20260824123000 +0000" stop="20260824130000 +0000" channel="skylife.애니맥스">
-    <title>뚜식이10</title>
-    <category>만화 / 코믹</category>
+    <title>명탐정 코난11</title>
+    <category>만화 / 탐정</category>
   </programme>
 <programme start="20260824130000 +0000" stop="20260824133000 +0000" channel="skylife.애니맥스">
     <title>귀멸의 칼날(한국어 더빙)</title>
@@ -26808,11 +26827,11 @@
     <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260824140000 +0000" stop="20260824143000 +0000" channel="skylife.애니맥스">
-    <title>귀멸의 칼날(한국어 더빙)</title>
+    <title>귀멸의 칼날: 무한열차 편(더빙)</title>
     <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260824143000 +0000" stop="20260824150000 +0000" channel="skylife.애니맥스">
-    <title>귀멸의 칼날(한국어 더빙)</title>
+    <title>귀멸의 칼날: 무한열차 편(더빙)</title>
     <category>만화 / 모험(adventure)</category>
   </programme>
 <programme start="20260824150000 +0000" stop="20260824153000 +0000" channel="skylife.애니맥스">
