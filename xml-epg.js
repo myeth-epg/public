@@ -130,7 +130,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const regions = [
     { name: 'Main a', url: 'index.html' },
     { name: 'Main b', url: 'index-b.html' },
-    { name: 'Main 2', url: 'index-2.html' },
+    { name: 'Main t', url: 'index-t.html' },
     { name: 'Main 2t', url: 'index-2t.html' },
     { name: 'Hong Kong', url: 'index-hk.html' },
     { name: 'Taiwan', url: 'index-tw.html' },
