@@ -26,7 +26,7 @@
   </style>
 </head>
 <body>
-  <button id="enter-favourite-button" style="position: fixed; top: 10px; left: 10px; z-index: 1003; padding: 10px 15px; background-color: #61dafb; color: #000; border: none; border-radius: 5px; font-size: 1em; cursor: pointer; box-shadow: 0 2px 6px rgba(0,0,0,.3);" onclick="xmlepg.toggleEpgView()">Enter Favourite</button>
+  <button id="enter-favourite-button" style="display: none;" onclick="xmlepg.toggleEpgView()">Enter Favourite</button>
 
   <div id="playlist">
     <button id="epg-button" onclick="openEPG()">EPG</button>
@@ -51,7 +51,7 @@
   <script src="libs/M3U8Interpreter.js"></script>
   <script src="libs/pako.min.js"></script>
   <script src="libs/jszip.min.js"></script>
-  <script src="xml-epg.js"></script>
+  <script src="xml-epg.js?v=6"></script>
 
   <script>
     var xmlepg = new XMLEPG();
