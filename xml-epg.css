@@ -33,3 +33,14 @@
 }
 
 #overlay { display: none; flex-direction: column; align-items: center; overflow-y: auto; z-index: 2; flex: 1; }
+
+@media screen and (max-width: 768px) {
+  .channelBox { width: 120px !important; }
+  .pinned-channel-box { width: 120px !important; padding: 5px 0 !important; }
+  .channelBoxName { font-size: 12px; white-space: normal; line-height: 1.2; word-break: break-word; text-align: center; display: block; margin-top: 5px; }
+  .channelBoxImage { width: 35px !important; height: 35px !important; margin: 0 auto !important; float: none !important; display: block; }
+  #group-filter { width: 110px !important; font-size: 11px !important; padding: 2px !important; height: 30px !important; }
+  .start-time { font-size: 11px; }
+  .program-title { font-size: 12px; }
+  .timelineDay, .timelineTime { font-size: 12px; }
+}
