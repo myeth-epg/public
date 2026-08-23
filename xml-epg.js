@@ -144,15 +144,6 @@ document.addEventListener('DOMContentLoaded', () => {
     { name: 'Main b', url: 'index-b.html' },
     { name: 'Main t', url: 'index-t.html' },
     { name: 'Main 2t', url: 'index-2t.html' },
-    { name: 'Hong Kong', url: 'index-hk.html' },
-    { name: 'Taiwan', url: 'index-tw.html' },
-    { name: 'Malaysia', url: 'index-my.html' },
-    { name: 'Singapore', url: 'index-sg.html' },
-    { name: 'China', url: 'index-cn.html' },
-    { name: 'South Korea', url: 'index-kr.html' },
-    { name: 'United Kingdom', url: 'index-uk.html' },
-    { name: 'New Zealand', url: 'index-nz.html' },
-    { name: 'Indonesia', url: 'index-id.html' },
     { name: 'Adult', url: 'index-x.html' }
   ];
 
