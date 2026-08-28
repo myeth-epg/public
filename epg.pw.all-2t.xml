@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260828095845 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="X-EPG-Merger">
+<tv date="20260828104042 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="X-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -18,6 +18,8 @@
 <channel id="homeplus.彩虹E台"><display-name>008 彩虹E台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053547948191_56.jpg" /></channel>
 <channel id="homeplus.K頻道"><display-name>009 K頻道</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053615708854_77.jpg" /></channel>
 <channel id="pw.x.JStar極限台電影頻道"><display-name>010 JStar極限台電影頻道</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053800983433_29.jpg" /></channel>
+
+<!-- X-BACK-UP  
 
 <channel id="pw.x.松視1台"><display-name>001 松視1台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053630098132_48.jpg" /></channel>
 <channel id="pw.x.松視2台.tbc"><display-name>002 松視2台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053644411378_48.jpg" /></channel>
@@ -54,7 +56,7 @@
 <channel id="彩虹E台.tw"><display-name>008 彩虹E台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053547948191_56.jpg" /></channel>
 <channel id="K頻道.tw"><display-name>009 K頻道</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053615708854_77.jpg" /></channel>
 <channel id="0"><display-name>010 JStar極限台電影頻道</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053800983433_29.jpg" /></channel>
-
+-->
 
 
 
@@ -8194,22 +8196,6 @@
     <title lang="zh">S級痴女上司的嚴格新人訓練</title>
     <desc lang="zh">演員: 水澄聖良</desc>
   </programme>
-<programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="SONSEETV1">
-    <title lang="zh">按摩院打工被卡油</title>
-    <desc lang="zh">演員: 大島優香</desc>
-  </programme>
-<programme start="20260826180000 +0000" stop="20260826200000 +0000" channel="SONSEETV1">
-    <title lang="zh">豪雨那天嫂子濕透了</title>
-    <desc lang="zh">演員: 上羽絢</desc>
-  </programme>
-<programme start="20260826200000 +0000" stop="20260826220000 +0000" channel="SONSEETV1">
-    <title lang="zh">我的性愛專屬女僕</title>
-    <desc lang="zh">演員: 七瀨愛麗絲</desc>
-  </programme>
-<programme start="20260826220000 +0000" stop="20260827000000 +0000" channel="SONSEETV1">
-    <title lang="zh">H奶排球選手撥筋被舔鮑</title>
-    <desc lang="zh">演員: 雨宮響</desc>
-  </programme>
 <programme start="20260826161000 +0000" stop="20260826174000 +0000" channel="SONSEETV3">
     <title lang="zh">M女模特兒</title>
     <desc lang="zh">演員: 梅宮杏</desc>
@@ -8229,6 +8215,22 @@
 <programme start="20260826221000 +0000" stop="20260827001000 +0000" channel="SONSEETV3">
     <title lang="zh">業界第一美乳讓你上</title>
     <desc lang="zh">演員: 美波愛梨</desc>
+  </programme>
+<programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="SONSEETV1">
+    <title lang="zh">按摩院打工被卡油</title>
+    <desc lang="zh">演員: 大島優香</desc>
+  </programme>
+<programme start="20260826180000 +0000" stop="20260826200000 +0000" channel="SONSEETV1">
+    <title lang="zh">豪雨那天嫂子濕透了</title>
+    <desc lang="zh">演員: 上羽絢</desc>
+  </programme>
+<programme start="20260826200000 +0000" stop="20260826220000 +0000" channel="SONSEETV1">
+    <title lang="zh">我的性愛專屬女僕</title>
+    <desc lang="zh">演員: 七瀨愛麗絲</desc>
+  </programme>
+<programme start="20260826220000 +0000" stop="20260827000000 +0000" channel="SONSEETV1">
+    <title lang="zh">H奶排球選手撥筋被舔鮑</title>
+    <desc lang="zh">演員: 雨宮響</desc>
   </programme>
 <programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="SONSEETV2">
     <title lang="zh">前所未見超巨乳</title>
