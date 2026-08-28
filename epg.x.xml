@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20260827230258 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="X-EPG-Merger">
+<tv date="20260828104042 +0000" source-info-url="https://myeth-epg.github.io/public/epg.pw.all.xml" generator-info-name="X-EPG-Merger">
 
 <!-- Channels & Slotted Programmes -->
 
@@ -13,13 +13,52 @@
 <channel id="PANDORATV1"><display-name>潘朵啦高畫質玩美台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053731026459_49.jpg" /></channel>
 <channel id="PANDORATV2"><display-name>004 潘朵啦高畫質粉紅台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053745518038_48.jpg" /></channel>
 <channel id="STAR-Happy"><display-name>007 HAPPY</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053918887012_97.jpg" /></channel>
-<channel id="pw.x.Happy"><display-name>007 HAPPY</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053918887012_97.jpg" /></channel>
-
 <channel id="homeplus.香蕉台"><display-name>005 香蕉台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053831077001_42.jpg" /></channel>
 <channel id="homeplus.驚豔成人電影台"><display-name>006 驚豔台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053815516450_58.jpg" /></channel>
 <channel id="homeplus.彩虹E台"><display-name>008 彩虹E台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053547948191_56.jpg" /></channel>
 <channel id="homeplus.K頻道"><display-name>009 K頻道</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053615708854_77.jpg" /></channel>
 <channel id="pw.x.JStar極限台電影頻道"><display-name>010 JStar極限台電影頻道</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053800983433_29.jpg" /></channel>
+
+<!-- X-BACK-UP  
+
+<channel id="pw.x.松視1台"><display-name>001 松視1台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053630098132_48.jpg" /></channel>
+<channel id="pw.x.松視2台.tbc"><display-name>002 松視2台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053644411378_48.jpg" /></channel>
+<channel id="pw.x.松視3台"><display-name>003 松視3台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053700256859_64.jpg" /></channel>
+<channel id="pw.x.潘朵啦玩美台"><display-name>潘朵啦高畫質玩美台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053731026459_49.jpg" /></channel>
+<channel id="pw.x.潘朵啦粉紅台"><display-name>004 潘朵啦高畫質粉紅台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053745518038_48.jpg" /></channel>
+<channel id="pw.x.Happy"><display-name>007 HAPPY</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053918887012_97.jpg" /></channel>
+<channel id="pw.x.香蕉台"><display-name>005 香蕉台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053831077001_42.jpg" /></channel>
+<channel id="pw.x.驚豔台"><display-name>006 驚豔台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053815516450_58.jpg" /></channel>
+<channel id="pw.x.彩虹E台"><display-name>008 彩虹E台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053547948191_56.jpg" /></channel>
+<channel id="pw.x.K頻道"><display-name>009 K頻道</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053615708854_77.jpg" /></channel>
+<channel id="pw.x.JStar極限台電影頻道"><display-name>010 JStar極限台電影頻道</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053800983433_29.jpg" /></channel>
+
+<channel id="topmso.松視1台"><display-name>001 松視1台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053630098132_48.jpg" /></channel>
+<channel id="topmso.松視2台"><display-name>002 松視2台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053644411378_48.jpg" /></channel>
+<channel id="topmso.松視3台"><display-name>003 松視3台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053700256859_64.jpg" /></channel>
+<channel id="topmso.411"><display-name>潘朵啦高畫質玩美台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053731026459_49.jpg" /></channel>
+<channel id="topmso.412"><display-name>004 潘朵啦高畫質粉紅台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053745518038_48.jpg" /></channel>
+<channel id="topmso.402"><display-name>007 HAPPY</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053918887012_97.jpg" /></channel>
+<channel id="0"><display-name>005 香蕉台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053831077001_42.jpg" /></channel>
+<channel id="0"><display-name>006 驚豔台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053815516450_58.jpg" /></channel>
+<channel id="0"><display-name>008 彩虹E台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053547948191_56.jpg" /></channel>
+<channel id="0"><display-name>009 K頻道</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053615708854_77.jpg" /></channel>
+<channel id="0"><display-name>010 JStar極限台電影頻道</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053800983433_29.jpg" /></channel>
+
+<channel id="松視1台.tw"><display-name>001 松視1台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053630098132_48.jpg" /></channel>
+<channel id="松視2台.tw"><display-name>002 松視2台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053644411378_48.jpg" /></channel>
+<channel id="松視3台.tw"><display-name>003 松視3台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053700256859_64.jpg" /></channel>
+<channel id="Pandora潘朵啦高畫質玩美台.tw"><display-name>潘朵啦高畫質玩美台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053731026459_49.jpg" /></channel>
+<channel id="Pandora潘朵啦高畫質粉紅台.tw"><display-name>004 潘朵啦高畫質粉紅台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053745518038_48.jpg" /></channel>
+<channel id="HAPPY頻道.tw"><display-name>007 HAPPY</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053918887012_97.jpg" /></channel>
+<channel id="香蕉台.tw"><display-name>005 香蕉台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053831077001_42.jpg" /></channel>
+<channel id="驚豔成人電影台.tw"><display-name>006 驚豔台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053815516450_58.jpg" /></channel>
+<channel id="彩虹E台.tw"><display-name>008 彩虹E台</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053547948191_56.jpg" /></channel>
+<channel id="K頻道.tw"><display-name>009 K頻道</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053615708854_77.jpg" /></channel>
+<channel id="0"><display-name>010 JStar極限台電影頻道</display-name><icon src="https://epg.pw/media/images/epg/2025/09/17/20250917053800983433_29.jpg" /></channel>
+-->
+
+
 
 
 <channel id="pw.x.LEO TV"><display-name>031 LEO TV</display-name><icon src="" /></channel>
@@ -7853,74 +7892,6 @@
     <title lang="zh">與交友軟體認識的人妻做愛</title>
     <desc lang="zh">演員: 葉山小百合</desc>
   </programme>
-<programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="SONSEETV2">
-    <title lang="zh">前所未見超巨乳</title>
-    <desc lang="zh">演員: Laura Orsolya,Jordan Pryce,Amber Jayne,Victoria Ju.........</desc>
-  </programme>
-<programme start="20260826180000 +0000" stop="20260826200000 +0000" channel="SONSEETV2">
-    <title lang="zh">黝黑粗肉棒大幹二女</title>
-    <desc lang="zh">演員: Nikky Thorne, Veronica Leal, Africa Danger</desc>
-  </programme>
-<programme start="20260826200000 +0000" stop="20260826220000 +0000" channel="SONSEETV2">
-    <title lang="zh">火辣淋漓的小穴</title>
-    <desc lang="zh">演員: Alice Reign, Baby Bambi, Darcy Dark, Eva Red, Kenn.........</desc>
-  </programme>
-<programme start="20260826220000 +0000" stop="20260827000000 +0000" channel="SONSEETV2">
-    <title lang="zh">富二代的糜爛性生活</title>
-    <desc lang="zh">演員: Apolonia Lapiedra, Cla Gaultier, Cassie Del Isla,.........</desc>
-  </programme>
-<programme start="20260826161000 +0000" stop="20260826174000 +0000" channel="SONSEETV3">
-    <title lang="zh">M女模特兒</title>
-    <desc lang="zh">演員: 梅宮杏</desc>
-  </programme>
-<programme start="20260826174000 +0000" stop="20260826181000 +0000" channel="SONSEETV3">
-    <title lang="zh">敏感女僕任我操</title>
-    <desc lang="zh">演員: 李家葳</desc>
-  </programme>
-<programme start="20260826181000 +0000" stop="20260826201000 +0000" channel="SONSEETV3">
-    <title lang="zh">敏感高潮辣妹女孩</title>
-    <desc lang="zh">演員: 愛良</desc>
-  </programme>
-<programme start="20260826201000 +0000" stop="20260826221000 +0000" channel="SONSEETV3">
-    <title lang="zh">極上淫蕩狐狸精</title>
-    <desc lang="zh">演員: 韓嫣</desc>
-  </programme>
-<programme start="20260826221000 +0000" stop="20260827001000 +0000" channel="SONSEETV3">
-    <title lang="zh">業界第一美乳讓你上</title>
-    <desc lang="zh">演員: 美波愛梨</desc>
-  </programme>
-<programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="SONSEETV1">
-    <title lang="zh">按摩院打工被卡油</title>
-    <desc lang="zh">演員: 大島優香</desc>
-  </programme>
-<programme start="20260826180000 +0000" stop="20260826200000 +0000" channel="SONSEETV1">
-    <title lang="zh">豪雨那天嫂子濕透了</title>
-    <desc lang="zh">演員: 上羽絢</desc>
-  </programme>
-<programme start="20260826200000 +0000" stop="20260826220000 +0000" channel="SONSEETV1">
-    <title lang="zh">我的性愛專屬女僕</title>
-    <desc lang="zh">演員: 七瀨愛麗絲</desc>
-  </programme>
-<programme start="20260826220000 +0000" stop="20260827000000 +0000" channel="SONSEETV1">
-    <title lang="zh">H奶排球選手撥筋被舔鮑</title>
-    <desc lang="zh">演員: 雨宮響</desc>
-  </programme>
-<programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="PANDORATV1">
-    <title lang="zh">性愛諮詢師的密謀</title>
-    <desc lang="zh">演員: 橘內日向</desc>
-  </programme>
-<programme start="20260826180000 +0000" stop="20260826200000 +0000" channel="PANDORATV1">
-    <title lang="zh">叔叔教美眉什麼是舒服</title>
-    <desc lang="zh">演員: 白石桃</desc>
-  </programme>
-<programme start="20260826200000 +0000" stop="20260826220000 +0000" channel="PANDORATV1">
-    <title lang="zh">繼女們對父親的肉棒感到興趣</title>
-    <desc lang="zh">演員: 素人</desc>
-  </programme>
-<programme start="20260826220000 +0000" stop="20260827000000 +0000" channel="PANDORATV1">
-    <title lang="zh">大嫂說不行卻越來越主動</title>
-    <desc lang="zh">演員: 白石桃</desc>
-  </programme>
 <programme start="20260924160000 +0000" stop="20260924180000 +0000" channel="SONSEETV2">
     <title lang="zh">小隻馬硬是要吃大猛屌</title>
     <desc lang="zh">演員: Adam Black,Anna Rey,Johnny Pag,Kristof,Lizi Vogue,......</desc>
@@ -8129,38 +8100,6 @@
     <title lang="zh">鄉下出差誘惑地方年輕人</title>
     <desc lang="zh">演員: 友田真希</desc>
   </programme>
-<programme start="20260826161000 +0000" stop="20260826181000 +0000" channel="PANDORATV2">
-    <title lang="zh">陽光沙灘配做愛</title>
-    <desc lang="zh">演員: 笹宮恵玲奈</desc>
-  </programme>
-<programme start="20260826181000 +0000" stop="20260826201000 +0000" channel="PANDORATV2">
-    <title lang="zh">人妻還是愛上他人棒</title>
-    <desc lang="zh">演員: 相本美樹</desc>
-  </programme>
-<programme start="20260826201000 +0000" stop="20260826221000 +0000" channel="PANDORATV2">
-    <title lang="zh">欲求不滿淫亂美痴女</title>
-    <desc lang="zh">演員: HITOMI</desc>
-  </programme>
-<programme start="20260826221000 +0000" stop="20260827001000 +0000" channel="PANDORATV2">
-    <title lang="zh">無毛的清晰第一次</title>
-    <desc lang="zh">演員: 眞白愛梨</desc>
-  </programme>
-<programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="STAR-Happy">
-    <title lang="zh">獨自闖入男湯的恥度大冒險</title>
-    <desc lang="zh">演員: 倉本堇</desc>
-  </programme>
-<programme start="20260826180000 +0000" stop="20260826200000 +0000" channel="STAR-Happy">
-    <title lang="zh">癡上繼子的大肉棒</title>
-    <desc lang="zh">演員: 妃光莉</desc>
-  </programme>
-<programme start="20260826200000 +0000" stop="20260826220000 +0000" channel="STAR-Happy">
-    <title lang="zh">老公買春，巨乳大嫂找小叔買醉</title>
-    <desc lang="zh">演員: 橘瑪麗</desc>
-  </programme>
-<programme start="20260826220000 +0000" stop="20260827000000 +0000" channel="STAR-Happy">
-    <title lang="zh">社長夫人的教育之旅</title>
-    <desc lang="zh">演員: 多田有花</desc>
-  </programme>
 <programme start="20260924161000 +0000" stop="20260924181000 +0000" channel="PANDORATV2">
     <title lang="zh">服務滿分紅牌小姐</title>
     <desc lang="zh">演員: 柴田皐月</desc>
@@ -8257,10 +8196,878 @@
     <title lang="zh">S級痴女上司的嚴格新人訓練</title>
     <desc lang="zh">演員: 水澄聖良</desc>
   </programme>
+<programme start="20260826161000 +0000" stop="20260826174000 +0000" channel="SONSEETV3">
+    <title lang="zh">M女模特兒</title>
+    <desc lang="zh">演員: 梅宮杏</desc>
+  </programme>
+<programme start="20260826174000 +0000" stop="20260826181000 +0000" channel="SONSEETV3">
+    <title lang="zh">敏感女僕任我操</title>
+    <desc lang="zh">演員: 李家葳</desc>
+  </programme>
+<programme start="20260826181000 +0000" stop="20260826201000 +0000" channel="SONSEETV3">
+    <title lang="zh">敏感高潮辣妹女孩</title>
+    <desc lang="zh">演員: 愛良</desc>
+  </programme>
+<programme start="20260826201000 +0000" stop="20260826221000 +0000" channel="SONSEETV3">
+    <title lang="zh">極上淫蕩狐狸精</title>
+    <desc lang="zh">演員: 韓嫣</desc>
+  </programme>
+<programme start="20260826221000 +0000" stop="20260827001000 +0000" channel="SONSEETV3">
+    <title lang="zh">業界第一美乳讓你上</title>
+    <desc lang="zh">演員: 美波愛梨</desc>
+  </programme>
+<programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="SONSEETV1">
+    <title lang="zh">按摩院打工被卡油</title>
+    <desc lang="zh">演員: 大島優香</desc>
+  </programme>
+<programme start="20260826180000 +0000" stop="20260826200000 +0000" channel="SONSEETV1">
+    <title lang="zh">豪雨那天嫂子濕透了</title>
+    <desc lang="zh">演員: 上羽絢</desc>
+  </programme>
+<programme start="20260826200000 +0000" stop="20260826220000 +0000" channel="SONSEETV1">
+    <title lang="zh">我的性愛專屬女僕</title>
+    <desc lang="zh">演員: 七瀨愛麗絲</desc>
+  </programme>
+<programme start="20260826220000 +0000" stop="20260827000000 +0000" channel="SONSEETV1">
+    <title lang="zh">H奶排球選手撥筋被舔鮑</title>
+    <desc lang="zh">演員: 雨宮響</desc>
+  </programme>
+<programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="SONSEETV2">
+    <title lang="zh">前所未見超巨乳</title>
+    <desc lang="zh">演員: Laura Orsolya,Jordan Pryce,Amber Jayne,Victoria Ju.........</desc>
+  </programme>
+<programme start="20260826180000 +0000" stop="20260826200000 +0000" channel="SONSEETV2">
+    <title lang="zh">黝黑粗肉棒大幹二女</title>
+    <desc lang="zh">演員: Nikky Thorne, Veronica Leal, Africa Danger</desc>
+  </programme>
+<programme start="20260826200000 +0000" stop="20260826220000 +0000" channel="SONSEETV2">
+    <title lang="zh">火辣淋漓的小穴</title>
+    <desc lang="zh">演員: Alice Reign, Baby Bambi, Darcy Dark, Eva Red, Kenn.........</desc>
+  </programme>
+<programme start="20260826220000 +0000" stop="20260827000000 +0000" channel="SONSEETV2">
+    <title lang="zh">富二代的糜爛性生活</title>
+    <desc lang="zh">演員: Apolonia Lapiedra, Cla Gaultier, Cassie Del Isla,.........</desc>
+  </programme>
+<programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="PANDORATV1">
+    <title lang="zh">性愛諮詢師的密謀</title>
+    <desc lang="zh">演員: 橘內日向</desc>
+  </programme>
+<programme start="20260826180000 +0000" stop="20260826200000 +0000" channel="PANDORATV1">
+    <title lang="zh">叔叔教美眉什麼是舒服</title>
+    <desc lang="zh">演員: 白石桃</desc>
+  </programme>
+<programme start="20260826200000 +0000" stop="20260826220000 +0000" channel="PANDORATV1">
+    <title lang="zh">繼女們對父親的肉棒感到興趣</title>
+    <desc lang="zh">演員: 素人</desc>
+  </programme>
+<programme start="20260826220000 +0000" stop="20260827000000 +0000" channel="PANDORATV1">
+    <title lang="zh">大嫂說不行卻越來越主動</title>
+    <desc lang="zh">演員: 白石桃</desc>
+  </programme>
+<programme start="20260826160000 +0000" stop="20260826180000 +0000" channel="STAR-Happy">
+    <title lang="zh">獨自闖入男湯的恥度大冒險</title>
+    <desc lang="zh">演員: 倉本堇</desc>
+  </programme>
+<programme start="20260826180000 +0000" stop="20260826200000 +0000" channel="STAR-Happy">
+    <title lang="zh">癡上繼子的大肉棒</title>
+    <desc lang="zh">演員: 妃光莉</desc>
+  </programme>
+<programme start="20260826200000 +0000" stop="20260826220000 +0000" channel="STAR-Happy">
+    <title lang="zh">老公買春，巨乳大嫂找小叔買醉</title>
+    <desc lang="zh">演員: 橘瑪麗</desc>
+  </programme>
+<programme start="20260826220000 +0000" stop="20260827000000 +0000" channel="STAR-Happy">
+    <title lang="zh">社長夫人的教育之旅</title>
+    <desc lang="zh">演員: 多田有花</desc>
+  </programme>
+<programme start="20260826161000 +0000" stop="20260826181000 +0000" channel="PANDORATV2">
+    <title lang="zh">陽光沙灘配做愛</title>
+    <desc lang="zh">演員: 笹宮恵玲奈</desc>
+  </programme>
+<programme start="20260826181000 +0000" stop="20260826201000 +0000" channel="PANDORATV2">
+    <title lang="zh">人妻還是愛上他人棒</title>
+    <desc lang="zh">演員: 相本美樹</desc>
+  </programme>
+<programme start="20260826201000 +0000" stop="20260826221000 +0000" channel="PANDORATV2">
+    <title lang="zh">欲求不滿淫亂美痴女</title>
+    <desc lang="zh">演員: HITOMI</desc>
+  </programme>
+<programme start="20260826221000 +0000" stop="20260827001000 +0000" channel="PANDORATV2">
+    <title lang="zh">無毛的清晰第一次</title>
+    <desc lang="zh">演員: 眞白愛梨</desc>
+  </programme>
 
 <!-- Programme1 -->
 
 
+<programme start="20260827000000 +0800" stop="20260827020000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">按摩院打工被卡油</title>
+    <desc lang="zh">大島優香.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260827020000 +0800" stop="20260827040000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">豪雨那天嫂子濕透了</title>
+    <desc lang="zh">上羽絢.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260827040000 +0800" stop="20260827060000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">我的性愛專屬女僕</title>
+    <desc lang="zh">七瀨愛麗絲.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260827060000 +0800" stop="20260827080000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">H奶排球選手撥筋被舔鮑</title>
+    <desc lang="zh">雨宮響.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260827080000 +0800" stop="20260827100000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">處男小鮮肉意外的粗勇猛</title>
+    <desc lang="zh">一乃葵.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260827100000 +0800" stop="20260827120000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">阿姨每天都想要粗硬屌</title>
+    <desc lang="zh">葉山小百合.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260827120000 +0800" stop="20260827140000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">巨乳阿姨專吃大肉棒</title>
+    <desc lang="zh">素人.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260827140000 +0800" stop="20260827160000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">死會女性友人每天來借宿</title>
+    <desc lang="zh">五日市芽依.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260827160000 +0800" stop="20260827180000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">美人社長的性接待</title>
+    <desc lang="zh">二階堂麗.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260827180000 +0800" stop="20260827200000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">朋友的馬子眾人睡</title>
+    <desc lang="zh">西宮夢.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260827200000 +0800" stop="20260827220000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">被夜襲的人妻</title>
+    <desc lang="zh">八乃翼.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260827220000 +0800" stop="20260828000000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">被女同事灌酒吃豆腐</title>
+    <desc lang="zh">七瀨愛麗絲.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260829000000 +0800" stop="20260829020000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">義式吃到飽餐廳任你插</title>
+    <desc lang="zh">素人.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260829020000 +0800" stop="20260829040000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">拜託朋友的老婆充當女友</title>
+    <desc lang="zh">梓光莉.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260829040000 +0800" stop="20260829060000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">射精管理治療中心</title>
+    <desc lang="zh">素人.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260829060000 +0800" stop="20260829080000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">背著孕妻偷吃熟女</title>
+    <desc lang="zh">推川悠里.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260829080000 +0800" stop="20260829100000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">按摩院打工被卡油</title>
+    <desc lang="zh">大島優香.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260829100000 +0800" stop="20260829120000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">豪雨那天嫂子濕透了</title>
+    <desc lang="zh">上羽絢.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260829120000 +0800" stop="20260829140000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">被夜襲的人妻</title>
+    <desc lang="zh">八乃翼.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260829140000 +0800" stop="20260829160000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">被女同事灌酒吃豆腐</title>
+    <desc lang="zh">七瀨愛麗絲.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260829160000 +0800" stop="20260829180000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">處男小鮮肉意外的粗勇猛</title>
+    <desc lang="zh">一乃葵.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260829180000 +0800" stop="20260829200000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">阿姨每天都想要粗硬屌</title>
+    <desc lang="zh">葉山小百合.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260829200000 +0800" stop="20260829220000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">和處男下屬出差的那晚</title>
+    <desc lang="zh">海老?碧.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260829220000 +0800" stop="20260830000000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">社長秘書的使用說明攻略</title>
+    <desc lang="zh">橘梅亞莉.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260830000000 +0800" stop="20260830020000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">想懷孕的美人妻</title>
+    <desc lang="zh">五日市芽依.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260830020000 +0800" stop="20260830040000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">性慾猛獸搞翻肉食媽友們</title>
+    <desc lang="zh">素人.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260830040000 +0800" stop="20260830060000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">巨乳阿姨專吃大肉棒</title>
+    <desc lang="zh">素人.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260830060000 +0800" stop="20260830080000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">死會女性友人每天來借宿</title>
+    <desc lang="zh">五日市芽依.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260830080000 +0800" stop="20260830100000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">當按摩實習課只有一根屌</title>
+    <desc lang="zh">素人.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260830100000 +0800" stop="20260830120000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">不能讓老公知道他被綠了</title>
+    <desc lang="zh">清巳玲乃.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260830120000 +0800" stop="20260830140000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">隔壁大姊用屁股擼我的屌</title>
+    <desc lang="zh">胡桃櫻.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260830140000 +0800" stop="20260830160000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">兒子的女人乳房總是溢出來</title>
+    <desc lang="zh">武田怜香.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260830160000 +0800" stop="20260830180000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">溫泉浴場裡不可告人的秘密</title>
+    <desc lang="zh">市來真尋.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260830180000 +0800" stop="20260830200000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">黑絲OL固定假屌大挑戰</title>
+    <desc lang="zh">素人.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260830200000 +0800" stop="20260830220000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">婚前戀上按摩師的屌</title>
+    <desc lang="zh">百永紗里奈.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260830220000 +0800" stop="20260831000000 +0800" channel="pw.x.松視1台">
+    <title lang="zh">酒醉女上司脫衣要我X</title>
+    <desc lang="zh">白峰美羽.網羅日本最強片商，提供熱門AV女優主演的最新最熱門的薄碼劇情片欲拒還迎的人妻老公上司是個猛男隔壁單身女老是傳出靡靡之音女友的姊姊教我怎麼呵護妹妹新來的佣人手巧嘴更巧去做個指壓消除疲勞卻連腿都軟了喜歡劇情片嗎？松視1台讓您腦洞大開，幻想無限</desc>
+  </programme>
+<programme start="20260827001000 +0800" stop="20260827014000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">M女模特兒</title>
+    <desc lang="zh">梅宮杏.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827014000 +0800" stop="20260827021000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">敏感女僕任我操</title>
+    <desc lang="zh">李家葳.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827021000 +0800" stop="20260827041000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">敏感高潮辣妹女孩</title>
+    <desc lang="zh">愛良.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827041000 +0800" stop="20260827061000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">極上淫蕩狐狸精</title>
+    <desc lang="zh">韓嫣.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827061000 +0800" stop="20260827081000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">業界第一美乳讓你上</title>
+    <desc lang="zh">美波愛梨.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827081000 +0800" stop="20260827091000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">偷吃老闆騷情婦</title>
+    <desc lang="zh">黎兒.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827091000 +0800" stop="20260827101000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">正妹濕身我送傘送肉棒</title>
+    <desc lang="zh">黃雅曼.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827101000 +0800" stop="20260827121000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">淫視醜聞不性的婚姻</title>
+    <desc lang="zh">仙兒嬡.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827121000 +0800" stop="20260827141000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">可愛女高潮到不要不要的</title>
+    <desc lang="zh">素人.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827141000 +0800" stop="20260827151000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">傲氣千金M指導</title>
+    <desc lang="zh">小夜夜.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827151000 +0800" stop="20260827161000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">男同事在我面前硬插女上司</title>
+    <desc lang="zh">黃依娜.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827161000 +0800" stop="20260827181000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">重砲催淫痴鮑連環砲</title>
+    <desc lang="zh">剎那.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827181000 +0800" stop="20260827201000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">可以馬上幹的專用女僕</title>
+    <desc lang="zh">藤澤繪美里.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827201000 +0800" stop="20260827221000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">粗屌撐開的嫩穴超感激破處</title>
+    <desc lang="zh">堇美香.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827221000 +0800" stop="20260828001000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">內射豔麗和服大小姐</title>
+    <desc lang="zh">大橋未久.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828001000 +0800" stop="20260828021000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">雜誌美模無休息絕頂3P</title>
+    <desc lang="zh">橘泉.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828021000 +0800" stop="20260828041000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">激可愛混血女郎的特別服務</title>
+    <desc lang="zh">亞美.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828041000 +0800" stop="20260828061000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">酒店紅牌女公關</title>
+    <desc lang="zh">一條愛美.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828061000 +0800" stop="20260828081000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">美乳慾女榨精不手軟</title>
+    <desc lang="zh">三花玲奈.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828081000 +0800" stop="20260828084000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">羽球學姊與教練的私密訓練</title>
+    <desc lang="zh">沈湘妮.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828084000 +0800" stop="20260828091000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">性服務乘務員下班後來一發</title>
+    <desc lang="zh">Yuri.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828091000 +0800" stop="20260828101000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">迷戀清純女鄰居慰藉懷孕萌妹</title>
+    <desc lang="zh">溫芮欣.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828101000 +0800" stop="20260828104000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">空姐下機陌生約炮</title>
+    <desc lang="zh">葉宸欣.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828104000 +0800" stop="20260828111000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">廢墟探險遇色鬼被X到中出懷孕</title>
+    <desc lang="zh">壞壞.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828111000 +0800" stop="20260828114000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">母親節用大肉棒填滿乾媽</title>
+    <desc lang="zh">葉宸欣.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828114000 +0800" stop="20260828121000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">19歲少女AV初登場</title>
+    <desc lang="zh">陳以萱.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828121000 +0800" stop="20260828141000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">模特兒尤物</title>
+    <desc lang="zh">葉山美波.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828141000 +0800" stop="20260828161000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">醉後男友戴綠帽</title>
+    <desc lang="zh">徐靜雅.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828161000 +0800" stop="20260828181000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">爆彈肉體</title>
+    <desc lang="zh">友利七葉.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828181000 +0800" stop="20260828201000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">性感內衣的誘惑</title>
+    <desc lang="zh">露那.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828201000 +0800" stop="20260828221000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">人妻慾求不滿老公找人代操</title>
+    <desc lang="zh">黃依娜.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260828221000 +0800" stop="20260829001000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">粗屌降臨美女腿軟挺不住</title>
+    <desc lang="zh">春日由衣.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829001000 +0800" stop="20260829021000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">藏不住性慾的悶騷女生</title>
+    <desc lang="zh">素人.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829021000 +0800" stop="20260829041000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">美乳小姐AV出道</title>
+    <desc lang="zh">美星琉花.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829041000 +0800" stop="20260829061000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">重口味3P粗屌衝撞美肌鮑</title>
+    <desc lang="zh">山下優.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829061000 +0800" stop="20260829081000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">美女校花性慾真勇猛</title>
+    <desc lang="zh">神尾舞.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829081000 +0800" stop="20260829094000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">M女模特兒</title>
+    <desc lang="zh">梅宮杏.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829094000 +0800" stop="20260829101000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">敏感女僕任我操</title>
+    <desc lang="zh">李家葳.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829101000 +0800" stop="20260829121000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">敏感高潮辣妹女孩</title>
+    <desc lang="zh">愛良.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829121000 +0800" stop="20260829141000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">粗屌撐開的嫩穴超感激破處</title>
+    <desc lang="zh">堇美香.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829141000 +0800" stop="20260829161000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">內射豔麗和服大小姐</title>
+    <desc lang="zh">大橋未久.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829161000 +0800" stop="20260829171000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">偷吃老闆騷情婦</title>
+    <desc lang="zh">黎兒.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829171000 +0800" stop="20260829181000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">正妹濕身我送傘送肉棒</title>
+    <desc lang="zh">黃雅曼.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829181000 +0800" stop="20260829201000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">淫視醜聞不性的婚姻</title>
+    <desc lang="zh">仙兒嬡.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829201000 +0800" stop="20260829211000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">絕倫巨乳螢光x潤滑x霓虹燈</title>
+    <desc lang="zh">黎兒.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829211000 +0800" stop="20260829221000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">巨乳女社工到府服務</title>
+    <desc lang="zh">孟若羽.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260829221000 +0800" stop="20260830001000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">幫客戶修網路修到淫水直流</title>
+    <desc lang="zh">輝月杏梨.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830001000 +0800" stop="20260830021000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">傳說中的第19洞</title>
+    <desc lang="zh">水野花梨.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830021000 +0800" stop="20260830031000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">巨乳夾夾爽中出</title>
+    <desc lang="zh">佐倉寧寧.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830031000 +0800" stop="20260830041000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">公開大空美緒的淫亂約會</title>
+    <desc lang="zh">大空美緒.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830041000 +0800" stop="20260830061000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">可愛女高潮到不要不要的</title>
+    <desc lang="zh">素人.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830061000 +0800" stop="20260830071000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">傲氣千金M指導</title>
+    <desc lang="zh">小夜夜.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830071000 +0800" stop="20260830081000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">男同事在我面前硬插女上司</title>
+    <desc lang="zh">黃依娜.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830081000 +0800" stop="20260830101000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">雜誌美模無休息絕頂3P</title>
+    <desc lang="zh">橘泉.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830101000 +0800" stop="20260830121000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">激可愛混血女郎的特別服務</title>
+    <desc lang="zh">亞美.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830121000 +0800" stop="20260830141000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">人妻慾求不滿老公找人代操</title>
+    <desc lang="zh">黃依娜.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830141000 +0800" stop="20260830161000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">粗屌降臨美女腿軟挺不住</title>
+    <desc lang="zh">春日由衣.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830161000 +0800" stop="20260830164000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">羽球學姊與教練的私密訓練</title>
+    <desc lang="zh">沈湘妮.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830164000 +0800" stop="20260830171000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">性服務乘務員下班後來一發</title>
+    <desc lang="zh">Yuri.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830171000 +0800" stop="20260830181000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">迷戀清純女鄰居慰藉懷孕萌妹</title>
+    <desc lang="zh">溫芮欣.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830181000 +0800" stop="20260830184000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">空姐下機陌生約炮</title>
+    <desc lang="zh">葉宸欣.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830184000 +0800" stop="20260830191000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">廢墟探險遇色鬼被X到中出懷孕</title>
+    <desc lang="zh">壞壞.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830191000 +0800" stop="20260830194000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">母親節用大肉棒填滿乾媽</title>
+    <desc lang="zh">葉宸欣.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830194000 +0800" stop="20260830201000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">19歲少女AV初登場</title>
+    <desc lang="zh">陳以萱.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830201000 +0800" stop="20260830221000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">鬼畜名模梅開二穴</title>
+    <desc lang="zh">?志穗.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260830221000 +0800" stop="20260831000000 +0800" channel="pw.x.松視3台">
+    <title lang="zh">我的繼妹好像有點色</title>
+    <desc lang="zh">佳苗?華.你還在搜尋無修正？松視3台就是要給你全時段無碼HD高畫質成人影片讓你電視一開，隨手可得華人強片清純小妞小麥色辣妹肉食系女大生爆乳痴女淫亂人妻泡泡浴女郎應有盡有，全身上下讓你看得一清二楚，讓你高喊無碼萬萬歲！</desc>
+  </programme>
+<programme start="20260827010000 +0800" stop="20260827030000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">店長精選!淫蕩人妻合輯(無碼)</title>
+    <desc lang="zh">店長這次嚴選了八名超色人妻，他們都是因為婚姻性生活不協調，都沒有好好的爽到，偷情對他們來說又刺激，又能吃到很粗的肉棒，對店長來說，最喜歡看這樣的人妻偷情爽翻天的畫面了!</desc>
+  </programme>
+<programme start="20260827030000 +0800" stop="20260827050000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">超強模特兒般的性感肉體(無碼)</title>
+    <desc lang="zh">跟模特兒不相上下的超強肉體，讓你體驗御姐的魅力！</desc>
+  </programme>
+<programme start="20260827050000 +0800" stop="20260827070000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">全員集合!超淫肉體派對開跑(無碼)</title>
+    <desc lang="zh">本集蒐集了許多外表清純，內心淫蕩到不行的女生，我決定好好的伸進她們的體內，徹底洗淨那些淫蕩的想法，甚至把我的靈魂精華射進去都沒關係!</desc>
+  </programme>
+<programme start="20260827070000 +0800" stop="20260827090000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">連續內射不停的激情性愛(無碼)</title>
+    <desc lang="zh">本作品是新系列的續作，這次特別請到七?茱莉亞來玩連續中出性愛為全地球獻上最棒的作品！</desc>
+  </programme>
+<programme start="20260827090000 +0800" stop="20260827110000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">性感模特猛穴全開大合輯(無碼)</title>
+    <desc lang="zh">模特兒的身材都是最頂的！這次我們決定集合5位超高人氣身材曼妙的超級模特兒，來為各位觀眾們服務，看著她們一個個無法自拔地高潮絕頂！真的是太爽啦！這些濕潤多汁的舒爽肉縫，正等著老闆您的大駕光臨！</desc>
+  </programme>
+<programme start="20260827110000 +0800" stop="20260827130000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">混血兒-小澤瑪莉亞(無碼)</title>
+    <desc lang="zh">小澤瑪莉亞所演出的超人氣！擁有加拿大籍的父親與日本籍的母親，小澤瑪莉亞是一個混血美女在片中小澤展現千萬風情！</desc>
+  </programme>
+<programme start="20260827130000 +0800" stop="20260827150000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">模特兒小舞的生姦中出(無碼)</title>
+    <desc lang="zh">衝擊感官的模特兒美少女 - 白?舞在無碼的舞台出道了！獻上她有生以來頭一遭的生姦中出體驗 , 出血大放送誠意十足的無碼出道作品！苗條美白的敏感身軀扭曲柔軟富有彈性的青春美鮑不自覺的痙攣止不住嬌喘地陷入性交的快感陷阱！冰山美人緊皺眉間的絕頂淫亂表情春潮爆發的本格性愛下無數次的高潮升天！讓小舞讓您舒爽一下吧！如同她的宣言一樣排山倒海而來的頂級性愛演出不斷！專訪與性感帶測試初次的中出性愛注視著攝影機的濃情口交搞到空穴來風蜜谷回音的猛爆3P中出性愛粉紅色含苞待放的嫩鮑火辣熱燙地高潮絕頂！可愛溫柔的小舞展露美鮑的無碼作品第一次的中出體驗冰山美人淫騷地帶領著您一窺性愛天國的秘密！</desc>
+  </programme>
+<programme start="20260827150000 +0800" stop="20260827170000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">背著男友偷吃大黑佬(無碼)</title>
+    <desc lang="zh">Jillian的老闆剛果先生是位成功的商人，她擔任助理雖然只有短短不到4個月，但是工作輕鬆薪水又高，唯一讓她煩惱的是老闆一直找機會勾引她，某天Jillian的男友臨時取消約會，她非常生氣，老闆看到了就請她喝杯酒消消氣，幾杯黃湯下肚，老闆又藉機勾引她，她一直以自己已有男友拒絕，但老闆就是不放棄，在一陣愛撫之後她的慾望被撩了起來，她決定跟她來一砲，過程中老闆也教她嘗試肛交，讓她體會到前所未有的快感！Tiffany一直想跟男友分手，但是在他送珠寶+水療渡假+瘋狂購物的攻勢下，她就是說不出口，最近的一次是男友帶Zoe到希臘渡假一星期，過程中大黑屌酒保一直跟Zoe調情，但她苦無機會因為男友始終不讓Zoe離開他的視線，隨著假期來到最後一天，兩人關係更顯緊張，這一天男友躺在涼椅上睡著了，大黑屌發現機會來了，就帶Zoe到海邊隱密處，二人盡情發洩彼此的慾望幹翻天！Zoe願意作任何事只要能離開現在的男友，重新</desc>
+  </programme>
+<programme start="20260827170000 +0800" stop="20260827190000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">極上淫蕩輕熟女(無碼)</title>
+    <desc lang="zh">傳說中的熟女系列作品復活了！爛熟癡女無限絕頂，慾望衝擊的猥褻物語！超人氣熟女偶像 - 北條麻妃終於在SKY HIGH的人氣作品好色妻降臨推出本部作品！168cm，D罩杯！俗話說嘗過熟女的滋味才算開始了解人生！就由經驗豐富的大姐姐用她那猥褻的騷穴帶您領略超爆精中出的絕妙滋味...3P中出爆精！火辣騷浪口交深喉！悲壯中出性愛！感受不到年齡的美麗加上超乎年齡的高超性技與性慾，色情性感充滿性魅力的北條麻美...狂野瘋狂絕頂昇天的最高傑作！俗話又說年輕辣妹是工作，不付出就沒有收穫美麗熟女是樂透，不用付出就能躺著過活！熟女的絕妙滋味只有親身嘗過才知道！絕對不同錯過的淫騷癡女大作！</desc>
+  </programme>
+<programme start="20260827190000 +0800" stop="20260827210000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">熱汗交織3P特輯-敏感肉體篇(無碼)</title>
+    <desc lang="zh">為您特製的超值划算組合，就是要和美女們修幹！跟敏感的肉體打砲起來就是爽，這次就要開啟車輪戰，連續攻她個措手不及，讓她全身冒汗高潮尖叫到無法停下來！</desc>
+  </programme>
+<programme start="20260827210000 +0800" stop="20260827230000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">淫亂變裝性幻想俱樂部(無碼)</title>
+    <desc lang="zh">SKY ANGEL超人氣系列！這次邀請到明眸大眼的 - 長谷川美裸表演孫悟空的72變！第一幕...護士巡診口交採精，穿著粉紅色護士服的美裸性感又可愛！稱職地診療患者的陰莖再用最得意的口腔採精術採收精液！第2幕...女僕與主人的濃情蜜意，為失眠的主人獻上最療愈的蜜穴奉仕主動地愛撫濃烈的中出性愛汗滴禾下土淫穴也濕漉漉！第3幕...旗袍玩具高潮秀，為了客人美裸的穴汁出血大放送！還有JK制服...向心儀的學長告白，突如其來的一吻開始了教室裡的騷淫野戰！粗大的陽具激烈的抽插，伴隨著絕叫的大噴發！最後的高潮是萬聖節香甜奇葩奶油大餐！性慾食慾都獲得滿足的精彩結局！</desc>
+  </programme>
+<programme start="20260827230000 +0800" stop="20260828010000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">敏感肉體鈴木里美大合輯(無碼)</title>
+    <desc lang="zh">一級棒的日本美女&quot;鈴木里美&quot;，挾帶著性感巨乳，擁有著極為敏感的體質，最喜歡她那種插入肉體因為興奮而顫抖的扭動，更不用說射到她裡面會是怎麼樣的反應了，絕對是高潮到身體弓起來啊!!</desc>
+  </programme>
+<programme start="20260828010000 +0800" stop="20260828030000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">特選女優淫蕩交尾實錄篇(無碼)</title>
+    <desc lang="zh">精選8名女優，拍攝AV時的真槍時彈，到底會有多淫蕩多噴汁的交尾，看倌若想知道，必然要深入研究的觀察看看</desc>
+  </programme>
+<programme start="20260828030000 +0800" stop="20260828050000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">愛上公然猥褻的美人(無碼)</title>
+    <desc lang="zh">聽我說！聽我說！超火無碼初解禁！南蘭拋開包袱認真指數MAX的超真實中出爆精作品！雪白通透的肌膚襯托下 ， 圓滾滾的大眼睛格外地顯眼大和撫子日系美人的公然猥褻騷浪演出！在約會途中路過的書店裡擺著色情書刊的小角落邊被男友的好棒棒肉棒棒捅到愛液飛散地無力癱軟！狹窄的通道上雪白的屁股一覽無遺猛烈地遭受著肉棒棒的猛烈攻擊！強忍著止不住的嬌喘桃息一波波的快感列車來襲帶來的緊鎖眉頭的高潮絕頂！無碼解禁也解放了南蘭深不見底的性慾本能回歸原始的超真實中出淫姦！羞羞臉的公然猥褻！緊張的臨場感受保證讓您心跳加速興奮感倍增！敬請期待！</desc>
+  </programme>
+<programme start="20260828050000 +0800" stop="20260828070000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">暗黑志玲的私下性生活(無碼)</title>
+    <desc lang="zh">性感女神人氣爆棚的美巨乳美女 - 波多野結衣帶給您私生活感十足的主觀視角作品 , 無時無刻都有她被注視的錯覺 , 讓您興奮感爆表的火辣作品！濕漉漉的滑嫩美鮑緊緊吸附著您青筋暴露的火燙金箍棒每一次的蠕動都伴隨著蜜穴的緊縮包覆的真實感受！相互凝視的濃情口交自慰及性愛自拍無邊無際的興奮漩渦令人深陷無法自拔的超滿足2小時大作 ! 大朋友成年的小朋友 , 老朋友 ,女朋友 ,好朋友 ,壞朋友老少咸宜男女通殺 ， 絕對不會讓人後悔的一部作品 , 推薦給您 !</desc>
+  </programme>
+<programme start="20260828070000 +0800" stop="20260828080000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">美女慘遭酒吧老闆下藥內射(無碼)</title>
+    <desc lang="zh">愛原美穗常在常去的酒吧向老闆抱怨：那些囂張的漂亮女人總換男友，不是因為對方有錢才分手，不是因為對方不夠帥才厭倦，而是因為性技太差導致不合拍雖然老闆總是親切地傾聽每段牢騷實則他竟是藏著獸性本相的惡棍灌下摻安眠藥的調酒後，將她囚禁於某間地下室雙手遭捆縛自由被剝奪的愛原美穗，任憑惡棍老闆肆意蹂躪隨後戴著面具的男子們加入老闆行列，更將大量精液傾瀉在她身上而這些男子的真實身分竟是</desc>
+  </programme>
+<programme start="20260828080000 +0800" stop="20260828090000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">如何用肉棒逗弄寵物(無碼)</title>
+    <desc lang="zh">最喜歡玩多人運動了！這次的主角是蘿莉二人組，愛見沙希相內詩織，看兩個美少女被多位男生服務調教，真的是太爽了，這絕對是超級獨家的影片，僅此一部！</desc>
+  </programme>
+<programme start="20260828090000 +0800" stop="20260828110000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">騷淫爆乳的OL(無碼)</title>
+    <desc lang="zh">美爆乳 - 菅野美衣奈自從無碼出道作品後 , 推出的最新作品！擁有奴役世間男性的騷淫肉體！加上火辣的大型爆乳！讓肉棒消失在雙峰之間的淫亂幻術女妖！軟綿綿的乳房中間夾著硬邦邦的肉棒引人遐思！？風騷肉體淫穴的纏綿中出性愛！美衣奈醬於本作中化身爆乳OL , 淫慾爆乳的社內大暴走！從粉紅色襯衫溢出的極上雙峰 , 在肉棒的狂沖猛刺下搖晃地佔滿了整個畫面！盡情期待！</desc>
+  </programme>
+<programme start="20260828110000 +0800" stop="20260828130000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">渴望肉棒的人妻偷情合輯(無碼)</title>
+    <desc lang="zh">漂亮身材絕頂的人妻，因為得不到老公的疼愛，只能和寂寞做伴，卻忘不了的男性體溫，她們渴望被爆筋肉棒填滿內心的寂寞，當有了瘋狂做愛的機會她們會變得多色呢？</desc>
+  </programme>
+<programme start="20260828130000 +0800" stop="20260828150000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">黑棒瑜珈課(無碼)</title>
+    <desc lang="zh">只喜歡肛交的歐美正妹，普通的肉棒已經無法滿足那快感，決定出外尋找那粗黑噴汁的肉棒，來一場驚天動地的肛交性愛</desc>
+  </programme>
+<programme start="20260828150000 +0800" stop="20260828170000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">優質美人妻出軌偷吃特選輯(無碼)</title>
+    <desc lang="zh">人妻就是有種魅力！這次小編幫您蒐集五位優質人妻，她們常常表現出老公沒滿足她，內心很寂寞的樣子，還好我們都是善良的人，總是想幫助她們一把，讓我們用爆筋大肉棒，來填滿她們內心的寂寞吧！</desc>
+  </programme>
+<programme start="20260828170000 +0800" stop="20260828172000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">路上逆搭訕玩三人行(無碼)</title>
+    <desc lang="zh">被兩男輪上完的yumi，仍欲求不滿，換上戰袍準備再次淫接19巨屌及入珠屌的 前 後 滿 塞 ...</desc>
+  </programme>
+<programme start="20260828172000 +0800" stop="20260828174000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">男友兄弟比較猛(無碼)</title>
+    <desc lang="zh">有一天和男朋友在家，邀請了一位兒時的玩伴來到家中作客，但男朋友玩遊戲醉倒，兒時玩伴阿仁對我蠻有好感的，就開始了 激情的實戰一路在男友醉倒面前做愛，一直到房間做愛... 最後 因為聲音太大..被男朋友</desc>
+  </programme>
+<programme start="20260828174000 +0800" stop="20260828180000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">倒垃圾巧遇鄰居 給肉棒當見面禮(無碼)</title>
+    <desc lang="zh">在倒垃圾的時候，與色鄰居相遇，被全身上下打量隔天色鄰居敲門送禮，請色鄰居喝咖啡卻被看到桌上忘記收拾的跳蛋</desc>
+  </programme>
+<programme start="20260828180000 +0800" stop="20260828183000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">性感護士誘惑病患男友(無碼)</title>
+    <desc lang="zh">先生，不好意思，查房喲！護士小姐推開門走了進來，哇?！這邊的護士也太辣了吧！因為女友生病而來陪同的家屬小傑，此刻正仔仔細細的盯著護士小姐欸她好像沒有穿內褲耶！眼看女友睡得正熟，小傑的動作也越發大膽了起來??最後竟然還給她無套中出射在小穴裡面</desc>
+  </programme>
+<programme start="20260828183000 +0800" stop="20260828190000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">街頭搭訕 三人成濕(無碼)</title>
+    <desc lang="zh">性慾高漲的優咪，街頭隨機搭訕兩男開房，被入珠屌淫蕩抽插的同時，嘴裡含著19公分的大屌，前後滿塞....</desc>
+  </programme>
+<programme start="20260828190000 +0800" stop="20260828210000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">熱汗交織3P特輯-敏感肉體篇(無碼)</title>
+    <desc lang="zh">為您特製的超值划算組合，就是要和美女們修幹！跟敏感的肉體打砲起來就是爽，這次就要開啟車輪戰，連續攻她個措手不及，讓她全身冒汗高潮尖叫到無法停下來！</desc>
+  </programme>
+<programme start="20260828210000 +0800" stop="20260828221000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">到歐洲打野砲去吧(無碼)</title>
+    <desc lang="zh">日本AV界的大聯盟等級選手國際派痴女茉莉香，竟遠赴歐洲調教男人並進行野外生插中出不愧是活躍於美國色情界的高手，她擁有毫無贅肉的精實身材與正宗的性愛技巧正活躍於世界舞台朝AV界頂點邁進的茉莉香，您千萬不能錯過！</desc>
+  </programme>
+<programme start="20260828221000 +0800" stop="20260828223500 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">美女模特外拍被壓倒狂插(無碼)</title>
+    <desc lang="zh">為了增加更好看的作品，在平台上找了粉絲拍攝，結果竟然是知名外拍攝影師，兩套精心挑選的服裝戰袍等著呈現更好的作品，拍攝過程中，專業的攝影師汗流浹背不小心把汗滴落在我的大腿上，情急之下用手揮去，卻發出淫蕩的呻吟聲</desc>
+  </programme>
+<programme start="20260828223500 +0800" stop="20260828230000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">老師我想吃你的蛋白質(無碼)</title>
+    <desc lang="zh">男助教到Iris家課後輔導，欣賞助教很久的她，趁機會勾引助教，假裝不會題目搔首弄姿，答對撒嬌要求獎勵，答錯拜託助教懲罰他，最後脫下助教褲子舔起他的大肉棒，深入身體幫助學習</desc>
+  </programme>
+<programme start="20260828230000 +0800" stop="20260829010000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">巨乳痴女總集編-1(無碼)</title>
+    <desc lang="zh">這些好色的女優簡直是要幹不要命，為了得到高潮不計一切手段，但看到女優被幹的時候大奶在那邊晃就是爽，所以我們就找來最棒的無碼巨乳女優，這次一起收錄了無碼片裡面知名的巨乳女優們，包含綾瀨蘭小澤愛莉絲青山沙希片桐惠理香大場唯尾上若葉宮本七音荻野舞，這次不看，以後就會後悔唷！</desc>
+  </programme>
+<programme start="20260829010000 +0800" stop="20260829030000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">爆插超爽肉穴豪華特輯(無碼)</title>
+    <desc lang="zh">香噴緊緻的美肉穴，可以說是讓男人為之瘋狂，都想爭先恐後的爆插進去，享受那厲害的榨精名器，還在等什麼呢?快來欣賞無碼的究極名器</desc>
+  </programme>
+<programme start="20260829030000 +0800" stop="20260829040000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">OL注意！春天的痴漢激增！(無碼)</title>
+    <desc lang="zh">春季的痴漢激增！請注意自身在巴士或電車上穿著暴露又打盹的行為！小泉乃亞小姐竟以無視所有防範措施的裝扮（曲線分明薄透白襯衫配迷你裙）登上巴士！或許是春日暖陽的緣故，她一坐下便沉沉睡去！襯衫胸口鈕扣間若隱若現的乳溝，竟刺激了虎視眈眈的痴漢！一名痴漢移座至她身旁，開始撫摸她豐腴的大腿！更若無其事地伸手觸碰胸部！此舉竟激發其他色鱉的慾望！原來整輛巴士上的男性乘客竟全是痴漢！她就此淪為這群變態痴漢從天上掉下來的禮物！</desc>
+  </programme>
+<programme start="20260829040000 +0800" stop="20260829050000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">來找妹妹竟被中出到壞掉(無碼)</title>
+    <desc lang="zh">女機器人瀨戶陽葵被壞人強幹中出後直接當機，在地上動不了，男主角一邊修理她的機體，一邊盯著她被幹壞的穴口和滿身愛液的樣子，手忍不住伸進去摸舔甚至硬上她無法反抗沒有拒絕，這台壞掉的女機器人，讓他玩得比誰都盡興</desc>
+  </programme>
+<programme start="20260829050000 +0800" stop="20260829070000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">學生妹淫亂秘密大公開(無碼)</title>
+    <desc lang="zh">現在的學生乖都只是表面，裡面在想什麼的我們最清楚，到了青春期開了竅就是想找人修幹，私底下騷的跟什麼一樣，直接幫你找出身材最好奶最彈長相最可愛聲音最甜美的騷妹們，來，不用緊張，脫下褲子直接奉上他們渴望已久的巨屌吧！</desc>
+  </programme>
+<programme start="20260829070000 +0800" stop="20260829090000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">潮吹噴射界的皇后(無碼)</title>
+    <desc lang="zh">擁有史上最強噴射力的潮吹美少女 - 石川鈴華的最新作品馬上就推出了藍光版本！透過如臨現場的高畫質影像欣賞鈴華醬的色情演出尤其是讓人在銀幕前忍不住張開嘴巴的潮吹場景 , 特別推薦給老司機的您！</desc>
+  </programme>
+<programme start="20260829090000 +0800" stop="20260829101000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">到歐洲打野砲去吧(無碼)</title>
+    <desc lang="zh">日本AV界的大聯盟等級選手國際派痴女茉莉香，竟遠赴歐洲調教男人並進行野外生插中出不愧是活躍於美國色情界的高手，她擁有毫無贅肉的精實身材與正宗的性愛技巧正活躍於世界舞台朝AV界頂點邁進的茉莉香，您千萬不能錯過！</desc>
+  </programme>
+<programme start="20260829101000 +0800" stop="20260829103500 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">美女模特外拍被壓倒狂插(無碼)</title>
+    <desc lang="zh">為了增加更好看的作品，在平台上找了粉絲拍攝，結果竟然是知名外拍攝影師，兩套精心挑選的服裝戰袍等著呈現更好的作品，拍攝過程中，專業的攝影師汗流浹背不小心把汗滴落在我的大腿上，情急之下用手揮去，卻發出淫蕩的呻吟聲</desc>
+  </programme>
+<programme start="20260829103500 +0800" stop="20260829110000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">老師我想吃你的蛋白質(無碼)</title>
+    <desc lang="zh">男助教到Iris家課後輔導，欣賞助教很久的她，趁機會勾引助教，假裝不會題目搔首弄姿，答對撒嬌要求獎勵，答錯拜託助教懲罰他，最後脫下助教褲子舔起他的大肉棒，深入身體幫助學習</desc>
+  </programme>
+<programme start="20260829110000 +0800" stop="20260829130000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">巨乳痴女總集編-1(無碼)</title>
+    <desc lang="zh">這些好色的女優簡直是要幹不要命，為了得到高潮不計一切手段，但看到女優被幹的時候大奶在那邊晃就是爽，所以我們就找來最棒的無碼巨乳女優，這次一起收錄了無碼片裡面知名的巨乳女優們，包含綾瀨蘭小澤愛莉絲青山沙希片桐惠理香大場唯尾上若葉宮本七音荻野舞，這次不看，以後就會後悔唷！</desc>
+  </programme>
+<programme start="20260829130000 +0800" stop="20260829150000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">爆插超爽肉穴豪華特輯(無碼)</title>
+    <desc lang="zh">香噴緊緻的美肉穴，可以說是讓男人為之瘋狂，都想爭先恐後的爆插進去，享受那厲害的榨精名器，還在等什麼呢?快來欣賞無碼的究極名器</desc>
+  </programme>
+<programme start="20260829150000 +0800" stop="20260829170000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">濃密中出居家服務(無碼)</title>
+    <desc lang="zh">為各位獻上一部如夢似幻魂牽夢縈的無碼大作！濃密中出居家服務！超級可愛的AV女優無預警地拜訪粉絲自宅 , 獻上最真誠且充滿感謝的奉仕服務！擔任此一重責大任的就是無碼初解禁的 - 木之內露露小朋友！大家拍拍手！明亮的大眼睛令人留下深刻的印象 , 無預警的自宅訪問在充滿魷魚臭味的房間內 , 進行著玩具凌辱濃厚口交加上中出生姦鮑的全套服務 , 是獻給粉絲的最佳禮物！服務精神滿分的露露醬下體 , 以超乎想像的絕妙角度 , 毫不藏私的在鏡頭前展現！夢醒之前露露醬就任由大哥您隨意擺佈！門鈴響了嗎...開門前記得穿上褲子 , 可能是露露也有可能只是大哥您叫的披薩外送！</desc>
+  </programme>
+<programme start="20260829170000 +0800" stop="20260829190000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">學生妹淫亂秘密大公開(無碼)</title>
+    <desc lang="zh">現在的學生乖都只是表面，裡面在想什麼的我們最清楚，到了青春期開了竅就是想找人修幹，私底下騷的跟什麼一樣，直接幫你找出身材最好奶最彈長相最可愛聲音最甜美的騷妹們，來，不用緊張，脫下褲子直接奉上他們渴望已久的巨屌吧！</desc>
+  </programme>
+<programme start="20260829190000 +0800" stop="20260829210000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">性玩具REI的完美演出(無碼)</title>
+    <desc lang="zh">極品美乳與漂亮曲線淫蕩辣妹成為性玩具，接受兩穴中出性愛的衝擊</desc>
+  </programme>
+<programme start="20260829210000 +0800" stop="20260829230000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">全員集合!超淫肉體派對開跑(無碼)</title>
+    <desc lang="zh">本集蒐集了許多外表清純，內心淫蕩到不行的女生，我決定好好的伸進她們的體內，徹底洗淨那些淫蕩的想法，甚至把我的靈魂精華射進去都沒關係!</desc>
+  </programme>
+<programme start="20260829230000 +0800" stop="20260830010000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">精選!性感人妻外遇合集(無碼)</title>
+    <desc lang="zh">美豔人妻，老公都不疼愛她了，只能獨守空閨，渴望著爆筋肉棒填滿她內心的寂寞，當有外遇的機會她們會變得多色呢?</desc>
+  </programme>
+<programme start="20260830010000 +0800" stop="20260830030000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">女優初下海無碼精選(無碼)</title>
+    <desc lang="zh">最喜歡跟清純美少女們做愛了！會拍片的女生很少會拍無碼片的更少，無碼片裡漂亮的更是少到不行！這次不計成本精挑細選這些美少女們給大家一起觀賞她們淫模蕩漾，一起用你那熱熱的肉棒征服大家吧！</desc>
+  </programme>
+<programme start="20260830030000 +0800" stop="20260830040000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">在深夜客運被陌生人上了(無碼)</title>
+    <desc lang="zh">深夜長途客運的座席上，身旁的陌生乘客盯著牧野繪里趁著車內乘客熟睡，他利用無法換位的限制對她展開凌辱少女因恐懼而失聲，只能在引擎震動掩蓋下顫抖承受，任由陌生人在狹窄空間內對其騷擾，將她徹底淪為這場深夜旅途中絕對無法逃脫的玩具</desc>
+  </programme>
+<programme start="20260830040000 +0800" stop="20260830050000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">時間停止器誤入法庭 後編(無碼)</title>
+    <desc lang="zh">正義終將勝利？抑或情色將凌駕正義之上？見習律師上原志織竟用魔法停時錶掩蓋真相，為被告謀取利益！而在後篇中，更將法官檢察官被害人乃至旁聽席上的所有女性捲入瘋狂漩渦！法庭上陽具勃起赤裸暴露，淫液淋漓的陰戶大開，任憑慾望肆虐這場審判究竟將走向何方？勝利屬於誰？請親眼見證真相！</desc>
+  </programme>
+<programme start="20260830050000 +0800" stop="20260830070000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">綑綁美乳少女來口爆(無碼)</title>
+    <desc lang="zh">大家心目中的女神 - 春?和津實更為硬核更為情色的她透過藍光的清晰影像回來了！有著令男人聞之喪膽的F罩杯加上23吋的淫亂蠻腰及充滿性魅力的絕美豐臀TNT炸藥級的火辣風騷軀體！善用這樣的肉體演出的卑猥淫亂性愛場面！原本清純的笑顏因過度的快感而逐漸扭曲變形...濕滑的美鮑滲出了濁渾的男性生殖液精彩場景滿載！濕漉漉的蜜壺近距離解析！親眼目睹高潮不斷的誘人癡態！</desc>
+  </programme>
+<programme start="20260830070000 +0800" stop="20260830090000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">全員集合!中出超完美胸器(無碼)</title>
+    <desc lang="zh">如您所見就是美乳特輯！這次我們就是要拜請各界菁英女優來巨乳聚人心，挾歐派以併天下！精選巨乳美乳白乳嫩乳，坐著會晃站著會跳，不只如此還附上精湛口技超強騎乘術，再給你背後上到爆，最重要的是還可以無套中出！超值特優的完美胸器就是要給你射滿滿，趕快來看看吧！</desc>
+  </programme>
+<programme start="20260830090000 +0800" stop="20260830110000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">背著男友偷吃大黑佬(無碼)</title>
+    <desc lang="zh">Jillian的老闆剛果先生是位成功的商人，她擔任助理雖然只有短短不到4個月，但是工作輕鬆薪水又高，唯一讓她煩惱的是老闆一直找機會勾引她，某天Jillian的男友臨時取消約會，她非常生氣，老闆看到了就請她喝杯酒消消氣，幾杯黃湯下肚，老闆又藉機勾引她，她一直以自己已有男友拒絕，但老闆就是不放棄，在一陣愛撫之後她的慾望被撩了起來，她決定跟她來一砲，過程中老闆也教她嘗試肛交，讓她體會到前所未有的快感！Tiffany一直想跟男友分手，但是在他送珠寶+水療渡假+瘋狂購物的攻勢下，她就是說不出口，最近的一次是男友帶Zoe到希臘渡假一星期，過程中大黑屌酒保一直跟Zoe調情，但她苦無機會因為男友始終不讓Zoe離開他的視線，隨著假期來到最後一天，兩人關係更顯緊張，這一天男友躺在涼椅上睡著了，大黑屌發現機會來了，就帶Zoe到海邊隱密處，二人盡情發洩彼此的慾望幹翻天！Zoe願意作任何事只要能離開現在的男友，重新</desc>
+  </programme>
+<programme start="20260830110000 +0800" stop="20260830130000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">精選!性感人妻外遇合集(無碼)</title>
+    <desc lang="zh">美豔人妻，老公都不疼愛她了，只能獨守空閨，渴望著爆筋肉棒填滿她內心的寂寞，當有外遇的機會她們會變得多色呢?</desc>
+  </programme>
+<programme start="20260830130000 +0800" stop="20260830150000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">女優初下海無碼精選(無碼)</title>
+    <desc lang="zh">最喜歡跟清純美少女們做愛了！會拍片的女生很少會拍無碼片的更少，無碼片裡漂亮的更是少到不行！這次不計成本精挑細選這些美少女們給大家一起觀賞她們淫模蕩漾，一起用你那熱熱的肉棒征服大家吧！</desc>
+  </programme>
+<programme start="20260830150000 +0800" stop="20260830160000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">在深夜客運被陌生人上了(無碼)</title>
+    <desc lang="zh">深夜長途客運的座席上，身旁的陌生乘客盯著牧野繪里趁著車內乘客熟睡，他利用無法換位的限制對她展開凌辱少女因恐懼而失聲，只能在引擎震動掩蓋下顫抖承受，任由陌生人在狹窄空間內對其騷擾，將她徹底淪為這場深夜旅途中絕對無法逃脫的玩具</desc>
+  </programme>
+<programme start="20260830160000 +0800" stop="20260830170000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">時間停止器誤入法庭 後編(無碼)</title>
+    <desc lang="zh">正義終將勝利？抑或情色將凌駕正義之上？見習律師上原志織竟用魔法停時錶掩蓋真相，為被告謀取利益！而在後篇中，更將法官檢察官被害人乃至旁聽席上的所有女性捲入瘋狂漩渦！法庭上陽具勃起赤裸暴露，淫液淋漓的陰戶大開，任憑慾望肆虐這場審判究竟將走向何方？勝利屬於誰？請親眼見證真相！</desc>
+  </programme>
+<programme start="20260830170000 +0800" stop="20260830190000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">超淫美少女(無碼)</title>
+    <desc lang="zh">小麥色健康美肌，纖細的蠻腰與碩大的乳房超級美女-長月拉姆的無碼藍光作品！身高153cmD罩杯專長寫著做愛的超淫美少女最強AV女優的首部無碼大量中出作品！特技敢寫上做愛的女優果然不容小覷！看一次就終身難以忘懷的淫亂女體與風騷性技！不同以往的形象，這次的她是夏季特別仕樣，一身閃耀著光芒的小麥色肌膚！帶給您奶茶般的甜蜜與波霸級的享受！影片的第一秒開始到結束淫亂指數全開的極速狂飆！身經百戰的妖嬈淫體，誘惑的舉手投足，一顰一笑都能懾人靈魂讓人失去理智！從手淫開始濃烈口交中出性愛...長月拉姆的魅力完全濃縮其中的火辣作品！全技能滿檔的超強女子，將帶給您今年最幸福的時光！</desc>
+  </programme>
+<programme start="20260830190000 +0800" stop="20260830210000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">全員集合!中出超完美胸器(無碼)</title>
+    <desc lang="zh">如您所見就是美乳特輯！這次我們就是要拜請各界菁英女優來巨乳聚人心，挾歐派以併天下！精選巨乳美乳白乳嫩乳，坐著會晃站著會跳，不只如此還附上精湛口技超強騎乘術，再給你背後上到爆，最重要的是還可以無套中出！超值特優的完美胸器就是要給你射滿滿，趕快來看看吧！</desc>
+  </programme>
+<programme start="20260830210000 +0800" stop="20260830230000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">雪國天使(無碼)</title>
+    <desc lang="zh">身高152公分三圍B80 W56 H82的B罩杯出生在盛產美女的秋田縣通透雪白的肌膚加上美麗的五官不愧是正統派的秋田美人莉亞於片中魅惑的絕頂演出等場景一定讓您下體洩洪不止！連續口交射精邊玩扭扭樂邊接受電動陽具的猛烈炮擊雙人自拍中出性愛還有使用潤滑液的中出3P演出！！</desc>
+  </programme>
+<programme start="20260830230000 +0800" stop="20260831000000 +0800" channel="pw.x.香蕉台">
+    <title lang="zh">隔壁人妻偷看別人做都濕了(無碼)</title>
+    <desc lang="zh">一位性好奇但無聊的家庭主婦發現，丈夫未使用的無人機可能是監視某些鄰居色情活動的好工具，並且發現住在街上兩棟房子裡的女人正與郵遞員作弊，另一名男子正在與鄰居的繼女有染後，馬路對面的教授正與他的一位女學生進行一些私人補習這一切都很好玩，尤其是當她與丈夫的一個朋友分享自己的發現時，對自己的性愛情有獨鍾</desc>
+  </programme>
+<programme start="20260827000000 +0800" stop="20260827021000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">射了還持續活塞會怎樣</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260827021000 +0800" stop="20260827044000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">戲弄女孩敏感小穴</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260827044000 +0800" stop="20260827070000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">預訂等1年的男士美容</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260827070000 +0800" stop="20260827090000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">佐山愛到你家襲擊</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260827090000 +0800" stop="20260827121000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">新人NO.1最強美乳出道</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260827121000 +0800" stop="20260827143000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">半夢半醒的女女戀</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260827143000 +0800" stop="20260827164000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">沙月芽衣復活出道</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260827164000 +0800" stop="20260827184000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">最強色情新人女主角</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260827184000 +0800" stop="20260827214000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">河北彩伽連續性愛技</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260827214000 +0800" stop="20260828000000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">忌妒朋友就騎他老婆</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260829000000 +0800" stop="20260829020000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">痴女新員工逆轉射</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260829020000 +0800" stop="20260829045000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">百年一次爆紅新人出道</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260829045000 +0800" stop="20260829070000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">性慾滿滿的人妻</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260829070000 +0800" stop="20260829095000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">粉紅乳暈H罩杯女大生</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260829095000 +0800" stop="20260829123000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">社交媒體展示美人妻</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260829123000 +0800" stop="20260829144000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">聖水護理</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260829144000 +0800" stop="20260829165000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">AV史上最大Q罩杯新人</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260829165000 +0800" stop="20260829190000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">下屬副業是泡泡浴小姐</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260829190000 +0800" stop="20260829212000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">禁慾後拜託再撞深一點</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260829212000 +0800" stop="20260830000000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">兩天一夜款待合宿</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260830000000 +0800" stop="20260830021000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">沙月芽衣復活出道</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260830021000 +0800" stop="20260830041000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">1泊2日奢華神乳外送服務</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260830041000 +0800" stop="20260830065000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">大學社團喝酒爛醉</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260830065000 +0800" stop="20260830091000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">沒性經驗的未婚妻搖很大</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260830091000 +0800" stop="20260830112000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">電視雜誌藝能人出道</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260830112000 +0800" stop="20260830141000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">雙人兔女郎服務</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260830141000 +0800" stop="20260830164000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">露營人妻帳篷做愛</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260830164000 +0800" stop="20260830195000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">大叔與G罩杯美人</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260830195000 +0800" stop="20260830215000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">來場20發的美人性交</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
+<programme start="20260830215000 +0800" stop="20260831000000 +0800" channel="pw.x.彩虹E台">
+    <title lang="zh">高潮中多次中出</title>
+    <desc lang="zh">彩虹E台，24小時放送日本當紅AV偶像，小澤瑪莉亞蒼井空愛田由亞美廣數百位女星天天陪您</desc>
+  </programme>
 <programme start="20260827010000 +0100" stop="20260827024000 +0100" channel="pw.x.JStar極限台電影頻道">
     <title lang="zh">米蘭達</title>
     <desc lang="zh">[極限 JstarHD]米蘭達是威尼斯一家酒吧的老闆，丈夫在二戰中戰死而她周旋在不同的男性之間，卻無法找到真愛，直到來自美國的洛曼到來</desc>
@@ -11288,6 +12095,150 @@
 
 <!-- Programme4 -->
 
+<programme start="20260826160000 +0000" stop="20260826220000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260826220000 +0000" stop="20260827040000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260827040000 +0000" stop="20260827100000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260827100000 +0000" stop="20260827110000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260827160000 +0000" stop="20260827220000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260827220000 +0000" stop="20260828040000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260828040000 +0000" stop="20260828100000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260828100000 +0000" stop="20260828110000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260828160000 +0000" stop="20260828220000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260828220000 +0000" stop="20260829040000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260829040000 +0000" stop="20260829100000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260829100000 +0000" stop="20260829110000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260829160000 +0000" stop="20260829220000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260829220000 +0000" stop="20260830040000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260830040000 +0000" stop="20260830100000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260830100000 +0000" stop="20260830110000 +0000" channel="topmso.402">
+    <title lang="zh">HAPPY頻道</title>
+  </programme>
+<programme start="20260826160000 +0000" stop="20260826220000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260826220000 +0000" stop="20260827040000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260827040000 +0000" stop="20260827100000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260827100000 +0000" stop="20260827110000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260827160000 +0000" stop="20260827220000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260827220000 +0000" stop="20260828040000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260828040000 +0000" stop="20260828100000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260828100000 +0000" stop="20260828110000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260828160000 +0000" stop="20260828220000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260828220000 +0000" stop="20260829040000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260829040000 +0000" stop="20260829100000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260829100000 +0000" stop="20260829110000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260829160000 +0000" stop="20260829220000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260829220000 +0000" stop="20260830040000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260830040000 +0000" stop="20260830100000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260830100000 +0000" stop="20260830110000 +0000" channel="topmso.411">
+    <title lang="zh">潘朵啦高畫質玩美台</title>
+  </programme>
+<programme start="20260826160000 +0000" stop="20260826220000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260826220000 +0000" stop="20260827040000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260827040000 +0000" stop="20260827100000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260827100000 +0000" stop="20260827110000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260827160000 +0000" stop="20260827220000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260827220000 +0000" stop="20260828040000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260828040000 +0000" stop="20260828100000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260828100000 +0000" stop="20260828110000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260828160000 +0000" stop="20260828220000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260828220000 +0000" stop="20260829040000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260829040000 +0000" stop="20260829100000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260829100000 +0000" stop="20260829110000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260829160000 +0000" stop="20260829220000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260829220000 +0000" stop="20260830040000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260830040000 +0000" stop="20260830100000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
+<programme start="20260830100000 +0000" stop="20260830110000 +0000" channel="topmso.412">
+    <title lang="zh">潘朵啦高畫質粉紅台</title>
+  </programme>
 
 <!-- Programme5 -->
 
@@ -12647,4 +13598,4 @@
 
 
 
-</tv><!-- Last processed: Fri Aug 28 07:03:02 AM CST 2026 -->
+</tv>
